@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4d752f24-052a-5e15-814d-c9da83603754",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-MIN"
+    ],
+    "name": "M3-PER-MIN",
+    "label": [
+        {
+            "text": "Cubic Metre per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "power of the SI base unit metre with the exponent 3 divided by the unit minute",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/min",
+    "conversion_factor_from_si": 0.01666667,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "fce0a134-0479-5388-b25a-021a38e46f6e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM3-PER-MIN"
+            ],
+            "osw_id": "Item:OSW4d752f24052a5e15814dc9da83603754#OSWfce0a13404795388b25a021a38e46f6e",
+            "conversion_factor_from_si": 1.666667e-08,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm³/min"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0ea24f9e-b6e7-5dd9-92b8-b433e195fe3b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciM3-PER-MIN"
+            ],
+            "osw_id": "Item:OSW4d752f24052a5e15814dc9da83603754#OSW0ea24f9eb6e75dd992b8b433e195fe3b",
+            "conversion_factor_from_si": 1.666667e-05,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dm³/min"
+        }
+    ]
+}

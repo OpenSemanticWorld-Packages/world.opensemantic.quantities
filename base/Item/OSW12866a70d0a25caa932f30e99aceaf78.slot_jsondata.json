@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "12866a70-d0a2-5caa-932f-30e99aceaf78",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/H-PER-M"
+    ],
+    "name": "H-PER-M",
+    "label": [
+        {
+            "text": "Henry per Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The henry per meter (symbolized $H/m$) is the unit of magnetic permeability in the International System of Units ( SI ). Reduced to base units in SI, $1\\,H/m$ is the equivalent of one kilogram meter per square second per square ampere.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "H/m",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4c3c9d58-90b9-500c-91bb-519b11dbdd34",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroH-PER-M"
+            ],
+            "osw_id": "Item:OSW12866a70d0a25caa932f30e99aceaf78#OSW4c3c9d5890b9500c91bb519b11dbdd34",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µH/m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4c9c95ef-060e-5f40-a916-9574264d38b1",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoH-PER-M"
+            ],
+            "osw_id": "Item:OSW12866a70d0a25caa932f30e99aceaf78#OSW4c9c95ef060e5f40a9169574264d38b1",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nH/m"
+        }
+    ]
+}

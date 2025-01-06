@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "a79b0820-1daa-51a6-aea1-79fcbd04b811",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-M-PER-SEC"
+    ],
+    "name": "PA-M-PER-SEC",
+    "label": [
+        {
+            "text": "Pascal metres per second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa·m/s",
+    "conversion_factor_from_si": 1.0
+}

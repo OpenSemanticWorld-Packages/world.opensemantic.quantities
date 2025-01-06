@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "d08c7fc5-683b-51d0-b0dc-18dcce19e15e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricPotential"
+    ],
+    "name": "ElectricPotential",
+    "label": [
+        {
+            "text": "Electric potential",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrisches Potenzial",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Electric Potential is a scalar valued quantity associated with an electric field. The electric potential $\\phi(x)$ at a point, $x$, is formally defined as the line integral of the electric field taken along a path from x to the point at infinity. If the electric field is static, that is time independent, then the choice of the path is arbitrary; however if the electric field is time dependent, taking the integral a different paths will produce different results.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d"
+    ]
+}

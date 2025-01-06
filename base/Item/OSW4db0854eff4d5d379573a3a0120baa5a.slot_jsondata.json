@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "4db0854e-ff4d-5d37-9573-a3a0120baa5a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Permittivity"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Permittivity",
+        "https://si-digital-framework.org/SI/quantities/PRMI"
+    ],
+    "name": "Permittivity",
+    "label": [
+        {
+            "text": "Permittivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Permittivity\" is a physical quantity that describes how an electric field affects, and is affected by a dielectric medium, and is determined by the ability of a material to polarize in response to the field, and thereby reduce the total electric field inside the material.  Permittivity is often a scalar valued quantity, however in the general case it is tensor-valued.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWe279fe2c49705948a6f2fff270d50be1"
+    ]
+}

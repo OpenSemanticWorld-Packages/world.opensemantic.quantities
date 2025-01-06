@@ -1,0 +1,96 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d10e5841-c68e-5aad-94b4-81b58ef9dfb9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2",
+        "http://dbpedia.org/resource/Square_metre"
+    ],
+    "name": "M2",
+    "label": [
+        {
+            "text": "square metre",
+            "lang": "en"
+        },
+        {
+            "text": "Quadratmeter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The S I unit of area is the square metre.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "90aaf1cb-6a9f-518a-8e7e-d0b7fc2fc325",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciM2"
+            ],
+            "osw_id": "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSW90aaf1cb6a9f518a8e7ed0b7fc2fc325",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dm²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "d45e991f-8e66-58dc-b6c8-91c9c0ea094f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroM2"
+            ],
+            "osw_id": "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSWd45e991f8e6658dcb6c891c9c0ea094f",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μm²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8ef862be-df33-5232-a9d3-87b1ee29cd1d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoM2"
+            ],
+            "osw_id": "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSW8ef862bedf335232a9d387b1ee29cd1d",
+            "conversion_factor_from_si": 1e-18,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nm²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "eca22bf4-2708-5303-8ef3-395bd6dd797b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM2"
+            ],
+            "osw_id": "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSWeca22bf4270853038ef3395bd6dd797b",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e36916dd-7a34-557b-8a52-c38d6dd7b832",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM2"
+            ],
+            "osw_id": "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9#OSWe36916dd7a34557b8a52c38d6dd7b832",
+            "conversion_factor_from_si": 0.0001,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm²"
+        }
+    ]
+}

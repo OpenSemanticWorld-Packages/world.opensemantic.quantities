@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "cd502afb-47b5-5a6a-b34b-88b3bcdc7bd3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseLengthTemperature"
+    ],
+    "name": "InverseLengthTemperature",
+    "label": [
+        {
+            "text": "Inverse Length Temperature",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf56de776e1935d7da1fc50db7cd12490"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "da64e303-38dd-5c3f-add2-32b7708f3b1f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CurrentLinkage"
+    ],
+    "name": "CurrentLinkage",
+    "label": [
+        {
+            "text": "Current Linkage",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Current Linkage\" is the net electric current through a surface delimited by a closed loop.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec"
+    ]
+}

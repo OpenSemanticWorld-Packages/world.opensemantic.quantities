@@ -1,0 +1,292 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b74ce812-542f-578f-b6df-2ecf9080fb32",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C",
+        "http://dbpedia.org/resource/Coulomb",
+        "https://si-digital-framework.org/SI/units/coulomb"
+    ],
+    "name": "C",
+    "label": [
+        {
+            "text": "coulomb",
+            "lang": "en"
+        },
+        {
+            "text": "Coulomb",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of electric charge. One coulomb is the amount of charge accumulated in one second by a current of one ampere. Electricity is actually a flow of charged particles, such as electrons, protons, or ions. The charge on one of these particles is a whole-number multiple of the charge e on a single electron, and one coulomb represents a charge of approximately 6.241 506 x 1018 e. The coulomb is named for a French physicist, Charles-Augustin de Coulomb (1736-1806), who was the first to measure accurately the forces exerted between electric charges.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "43bcc13f-e0d7-5ff7-aa49-4e24507f4d3b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/ZettaC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW43bcc13fe0d75ff7aa494e24507f4d3b",
+            "conversion_factor_from_si": 1e+21,
+            "prefix": "Item:OSW15a58e45166256828641ebf46f034d4c",
+            "main_symbol": "ZC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "616dce3d-fe00-55bd-88ea-35a440e65a2e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW616dce3dfe0055bd88ea35a440e65a2e",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "fede83a7-3c32-5b43-ab83-ccb35d723742",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/YottaC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWfede83a73c325b43ab83ccb35d723742",
+            "conversion_factor_from_si": 1e+24,
+            "prefix": "Item:OSWd03cdff87efa5392b2a53097e36f4ae4",
+            "main_symbol": "YC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "736c3235-69ea-5b37-a7ca-958e00a76396",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/ZeptoC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW736c323569ea5b37a7ca958e00a76396",
+            "conversion_factor_from_si": 1e-21,
+            "prefix": "Item:OSW1ec25b8880285b038e10bf20520072f0",
+            "main_symbol": "zC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1010057c-769a-56eb-975e-76734b40a1a3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/AttoC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW1010057c769a56eb975e76734b40a1a3",
+            "conversion_factor_from_si": 1e-18,
+            "prefix": "Item:OSWa569fd62d673576f8150159be578c72d",
+            "main_symbol": "aC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "90fb959a-831b-5b29-bc86-fdabb41679fb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PetaC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW90fb959a831b5b29bc86fdabb41679fb",
+            "conversion_factor_from_si": 1000000000000000.0,
+            "prefix": "Item:OSW8f99dd9018ab5f848ada364a751a65db",
+            "main_symbol": "PC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c9bf34ef-c99e-5a6d-a522-bedea2769891",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FemtoC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWc9bf34efc99e5a6da522bedea2769891",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
+            "main_symbol": "fC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f9b7fd9f-6d9a-5b1e-bbb7-ac2adda29b10",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWf9b7fd9f6d9a5b1ebbb7ac2adda29b10",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "43d70832-18b8-58a7-84ef-5d19c42606ea",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW43d7083218b858a784ef5d19c42606ea",
+            "conversion_factor_from_si": 0.1,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "39159f1f-4ebe-5495-8155-4b919caa87c9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW39159f1f4ebe549581554b919caa87c9",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5f73734e-a6a9-5b52-b980-0cf85ca23f55",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/HectoC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW5f73734ea6a95b52b9800cf85ca23f55",
+            "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
+            "main_symbol": "hC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "aad8fcf0-5ad6-5344-9218-daabfbf35641",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWaad8fcf05ad653449218daabfbf35641",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ed659a23-620d-591c-a13a-9fb09d45f602",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/ExaC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWed659a23620d591ca13a9fb09d45f602",
+            "conversion_factor_from_si": 1e+18,
+            "prefix": "Item:OSW6536aa1754db57d7a75f42389720cb23",
+            "main_symbol": "EC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c0aeba82-44d6-54cf-9cd8-5d525355f3c6",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/YoctoC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWc0aeba8244d654cf9cd85d525355f3c6",
+            "conversion_factor_from_si": 1e-24,
+            "prefix": "Item:OSWc8823e0b49b9580b96a5cd136482522b",
+            "main_symbol": "yC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4c8584e3-2f38-5392-9352-6c1db8fe6628",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW4c8584e32f38539293526c1db8fe6628",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "868f3e7a-e798-5d7b-9b31-e1c28651024f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/TeraC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW868f3e7ae7985d7b9b31e1c28651024f",
+            "conversion_factor_from_si": 1000000000000.0,
+            "prefix": "Item:OSW8c95fb553826551fb7c0294a7c0ada41",
+            "main_symbol": "TC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "cfbed671-b989-54a3-8165-1182a70a1b7c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSWcfbed671b98954a381651182a70a1b7c",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0dc82895-087a-5599-9831-834657f5271c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DecaC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW0dc82895087a55999831834657f5271c",
+            "conversion_factor_from_si": 10.0,
+            "prefix": "Item:OSW2b7aeb54b7395e99b3d5c20b77de4b15",
+            "main_symbol": "daC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "130e4feb-4890-5369-a2b4-f8549cf498cc",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW130e4feb48905369a2b4f8549cf498cc",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mC"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6af96f8a-9172-5e68-a767-d9b96a70be03",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloC"
+            ],
+            "osw_id": "Item:OSWb74ce812542f578fb6df2ecf9080fb32#OSW6af96f8a91725e68a767d9b96a70be03",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kC"
+        }
+    ]
+}

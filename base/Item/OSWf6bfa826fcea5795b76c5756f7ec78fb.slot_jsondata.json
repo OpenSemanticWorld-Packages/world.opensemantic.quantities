@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f6bfa826-fcea-5795-b76c-5756f7ec78fb",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-SEC"
+    ],
+    "name": "GM-PER-SEC",
+    "label": [
+        {
+            "text": "Gram per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001fold of the SI base unit kilogram divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/s",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "bdc0ed13-9524-5ea6-ab4e-216073c79697",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-SEC"
+            ],
+            "osw_id": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWbdc0ed1395245ea6ab4e216073c79697",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/s"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "fe7b5227-d127-57e7-8905-5c9fd32d15e4",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-SEC"
+            ],
+            "osw_id": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/s"
+        }
+    ]
+}

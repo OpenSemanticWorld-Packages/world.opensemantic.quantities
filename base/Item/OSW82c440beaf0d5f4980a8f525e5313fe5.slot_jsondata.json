@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "82c440be-af0d-5f49-80a8-f525e5313fe5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-SEC-PER-MOL"
+    ],
+    "name": "J-SEC-PER-MOL",
+    "label": [
+        {
+            "text": "Joule Second per Mole",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Joule Second per Mole}$ is a unit for 'Molar Angular Momentum' expressed as $J s mol^{-1}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J·s/mol",
+    "conversion_factor_from_si": 1.0
+}

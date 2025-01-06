@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "308ac27b-e52b-5fbe-85d6-47c7429f32f1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG",
+        "https://si-digital-framework.org/SI/units/degree"
+    ],
+    "name": "DEG",
+    "label": [
+        {
+            "text": "Degree",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A degree (in full, a degree of arc, arc degree, or arcdegree), usually denoted by $^\\circ$ (the degree symbol), is a measurement of plane angle, representing 1/360 of a full rotation; one degree is equivalent to  $2\\pi /360 rad$, $0.017453 rad$. It is not an SI unit, as the SI unit for angles is radian, but is an accepted SI unit.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°",
+    "conversion_factor_from_si": 0.0174532925
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "cb30576f-7a52-5b6c-88fe-17b80a79ff5b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroMOL-PER-GM"
+    ],
+    "name": "MicroMOL-PER-GM",
+    "label": [
+        {
+            "text": "Micromoles per gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the SI base unit mol divided by the 0.001-fold of the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "µmol/g",
+    "conversion_factor_from_si": 0.001
+}

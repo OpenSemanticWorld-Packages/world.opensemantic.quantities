@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "81ac320c-fad4-5356-a75d-9a1affe371ba",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpectralAngularCrossSection"
+    ],
+    "name": "SpectralAngularCrossSection",
+    "label": [
+        {
+            "text": "Spectral Angular Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Spectral Angular Cross-section\" is the cross-section for ejecting or scattering a particle into an elementary cone with energy $E$ in an energy interval, divided by the solid angle $d\\Omega$ of that cone and the range $dE$ of that interval.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW67a27e9bd9685e61a525f06b3e25b81f"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "subclass_of": [
+        "Category:Item"
+    ],
+    "type": [
+        "Category:Category"
+    ],
+    "uuid": "00fbd6fe-ecb5-4089-97ca-18d4e681a131",
+    "label": [
+        {
+            "text": "Quantity Kind",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Physical, technical or economical quantities",
+            "lang": "en"
+        }
+    ],
+    "name": "QuantityKind"
+}

@@ -1,0 +1,166 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f101d25e-9448-56e3-bd4b-4c9863db7de2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M",
+        "http://dbpedia.org/resource/Metre",
+        "https://si-digital-framework.org/SI/units/metre"
+    ],
+    "name": "M",
+    "label": [
+        {
+            "text": "metre",
+            "lang": "en"
+        },
+        {
+            "text": "Meter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The metric and SI base unit of distance.   The meter is equal to approximately 1.093 613 3 yards, 3.280 840 feet, or 39.370 079 inches.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f488c309-0a5c-542a-a45d-d20b7d37a8ec",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DecaM"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf488c3090a5c542aa45dd20b7d37a8ec",
+            "conversion_factor_from_si": 10.0,
+            "prefix": "Item:OSW2b7aeb54b7395e99b3d5c20b77de4b15",
+            "main_symbol": "dam"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "53a491fd-ba4d-5242-8769-e4bd5c447906",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/HectoM"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW53a491fdba4d52428769e4bd5c447906",
+            "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
+            "main_symbol": "hm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "419e951a-0df4-5ae8-a8a2-7806200814b7",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoM"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW419e951a0df45ae8a8a27806200814b7",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "60a0f8bd-2895-5fd6-ae61-177af381696c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoM"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW60a0f8bd28955fd6ae61177af381696c",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "53d6030c-99a1-52d2-8ce5-6e57b5376f95",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FemtoM"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW53d6030c99a152d28ce56e57b5376f95",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
+            "main_symbol": "fm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b1de8f91-f127-5572-b37c-2edfe40d5de6",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloM",
+                "http://dbpedia.org/resource/Kilometre"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb1de8f91f1275572b37c2edfe40d5de6",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "km"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "322dec46-9be7-5aed-b008-b3ebff29db86",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM",
+                "http://dbpedia.org/resource/Millimetre"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b2830572-baec-5cca-970d-de12bf0f5a2a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroM",
+                "http://dbpedia.org/resource/Micrometer"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb2830572baec5cca970dde12bf0f5a2a",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e55fa052-6c5d-58c8-a166-d59ab5455fd9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM",
+                "http://dbpedia.org/resource/Centimetre"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f89b36f2-9182-5b78-b2e3-76b41104ed80",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciM"
+            ],
+            "osw_id": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf89b36f291825b78b2e376b41104ed80",
+            "conversion_factor_from_si": 0.1,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dm"
+        }
+    ]
+}

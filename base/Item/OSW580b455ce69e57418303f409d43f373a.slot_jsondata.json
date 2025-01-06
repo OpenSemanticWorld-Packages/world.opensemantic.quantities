@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "580b455c-e69e-5741-8303-f409d43f373a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-M2-SEC"
+    ],
+    "name": "PER-M2-SEC",
+    "label": [
+        {
+            "text": "Reciprocal Square Metre Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit of the particle current density",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(m²·s)",
+    "conversion_factor_from_si": 1.0
+}

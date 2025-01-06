@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "46271467-9d47-5b15-8c53-0d359d42de44",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-T2"
+    ],
+    "name": "J-PER-T2",
+    "label": [
+        {
+            "text": "Joule per Square Tesla",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A measure of the diamagnetic energy, for a Bohr-radius spread around a magnetic axis, per square Tesla.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/T²",
+    "conversion_factor_from_si": 1.0
+}

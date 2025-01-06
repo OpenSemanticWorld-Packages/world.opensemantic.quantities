@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "c9ebf4eb-2f8f-5c48-b96d-c774acf03139",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VolumeFlowRate"
+    ],
+    "name": "VolumeFlowRate",
+    "label": [
+        {
+            "text": "Volume Flow Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Volumetric Flow Rate, (also known as volume flow rate, rate of fluid flow or volume velocity) is the volume of fluid which passes through a given surface per unit time.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW5a4996a6ea905a00b9746369e1c9fa36",
+        "Item:OSWaab93f085a0756d9af6febf8bf1a94a8",
+        "Item:OSWaba98c22f14e54cca3e7ebb9bdd6fde9",
+        "Item:OSW442374981fea5680a88881b08618fa91",
+        "Item:OSW689f8c6a489355daaad85c99ffcc2a52",
+        "Item:OSW1842de093ef55166a61d4f313e1d14ff",
+        "Item:OSW4d752f24052a5e15814dc9da83603754",
+        "Item:OSW4ed5503a56ab514ab3d925287da52a95",
+        "Item:OSW10b5356498ad5270ae3580174fbd225a"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b85ce165-15e4-5cd0-883f-2e4cdb50c4f2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TONNE-PER-HA-YR"
+    ],
+    "name": "TONNE-PER-HA-YR",
+    "label": [
+        {
+            "text": "tonne per hectare year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A measure of density equivalent to 1000kg per hectare per year or one Megagram per hectare per year, typically used to express a volume of biomass or crop yield.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t/(ha·a)",
+    "conversion_factor_from_si": 3.17e-09
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f63c15f0-3855-534f-abdc-39bb5403d1ff",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V-SEC-PER-M"
+    ],
+    "name": "V-SEC-PER-M",
+    "label": [
+        {
+            "text": "Volt Second per Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the SI derived unit volt and the SI base unit second divided by the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V·s/m",
+    "conversion_factor_from_si": 1.0
+}

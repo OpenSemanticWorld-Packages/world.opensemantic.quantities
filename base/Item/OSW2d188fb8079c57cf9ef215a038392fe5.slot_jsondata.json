@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "2d188fb8-079c-57cf-9ef2-15a038392fe5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassEnergyTransferCoefficient"
+    ],
+    "name": "MassEnergyTransferCoefficient",
+    "label": [
+        {
+            "text": "Mass Energy Transfer Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mass Energy Transfer Coefficient\" is that fraction of the mass attenuation coefficient which contributes to the production of kinetic energy in charged particles.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd7015166d39d5cae866a40eac3d51896"
+    ]
+}

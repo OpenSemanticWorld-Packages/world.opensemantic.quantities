@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c4c970d2-dd14-5fbc-883d-fca4b380edff",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/LM-SEC"
+    ],
+    "name": "LM-SEC",
+    "label": [
+        {
+            "text": "lumen second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In photometry, the lumen second is the SI derived unit of luminous energy. It is based on the lumen, the SI unit of luminous flux, and the second, the SI base unit of time.  The lumen second is sometimes called the talbot (symbol T).  An older name for the lumen second was the lumberg.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "lm·s",
+    "conversion_factor_from_si": 1.0
+}

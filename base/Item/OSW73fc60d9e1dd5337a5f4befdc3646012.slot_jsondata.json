@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "73fc60d9-e1dd-5337-a5f4-befdc3646012",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KAT",
+        "http://dbpedia.org/resource/Katal",
+        "https://si-digital-framework.org/SI/units/katal"
+    ],
+    "name": "KAT",
+    "label": [
+        {
+            "text": "katal",
+            "lang": "en"
+        },
+        {
+            "text": "Katal",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of catalytic activity used especially in the chemistry of enzymes. A catalyst is a substance that starts or speeds a chemical reaction. Enzymes are proteins that act as catalysts within the bodies of living plants and animals. A catalyst has an activity of one katal if it enables a reaction to proceed at the rate of one mole per second. ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kat",
+    "conversion_factor_from_si": 1.0
+}

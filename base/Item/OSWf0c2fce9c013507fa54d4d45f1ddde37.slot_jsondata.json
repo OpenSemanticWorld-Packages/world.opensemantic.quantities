@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "f0c2fce9-c013-507f-a54d-4d45f1ddde37",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Time_Squared"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Time_Squared"
+    ],
+    "name": "TimeSquared",
+    "label": [
+        {
+            "text": "Time Squared",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW00ec6531e2fb5ba8aee8cf8852860aed"
+    ]
+}

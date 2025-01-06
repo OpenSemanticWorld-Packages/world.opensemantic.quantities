@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "e2f5705b-1322-5f4b-a330-97a611087944",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarRefractivity"
+    ],
+    "name": "MolarRefractivity",
+    "label": [
+        {
+            "text": "Molar Refractivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A quantity kind that is a measure of the total polarizability of a mole of substance that depends on the temperature, the index of refraction and the pressure.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626",
+        "Item:OSW7c8ab09f16b45f3f97f9a94ec65e99c8"
+    ]
+}

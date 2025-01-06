@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "4a5d124e-14e4-5b8c-95be-bb544ce245b6",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-KiloGM"
+    ],
+    "name": "M-KiloGM",
+    "label": [
+        {
+            "text": "Metre Kilogram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of SI base units metre and kilogram given as dimensional product dim Q = L**$a} M**$b} T**$g} I**$d} $TH**$e} N**$z} J**$i}",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m·kg",
+    "conversion_factor_from_si": 1.0
+}

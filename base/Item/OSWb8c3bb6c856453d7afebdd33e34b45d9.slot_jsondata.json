@@ -1,0 +1,56 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b8c3bb6c-8564-53d7-afeb-dd33e34b45d9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V-A"
+    ],
+    "name": "V-A",
+    "label": [
+        {
+            "text": "volt ampere",
+            "lang": "en"
+        },
+        {
+            "text": "Voltampere",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the SI derived unit volt and the SI base unit ampere",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V·A",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "eb9947ee-8843-5595-b561-6391be7a8a60",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaV-A"
+            ],
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSWeb9947ee88435595b5616391be7a8a60",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MV·A"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "dd70086e-1454-51cc-8dd5-2ebc29684d6d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloV-A"
+            ],
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSWdd70086e145451cc8dd52ebc29684d6d",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kV·A"
+        }
+    ]
+}

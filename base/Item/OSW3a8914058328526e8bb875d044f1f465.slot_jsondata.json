@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "3a891405-8328-526e-8bb8-75d044f1f465",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CoefficientOfHeatTransfer"
+    ],
+    "name": "CoefficientOfHeatTransfer",
+    "label": [
+        {
+            "text": "Coefficient of heat transfer",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Coefficient of Heat Transfer\", in thermodynamics and in mechanical and chemical engineering, is used in calculating the heat transfer, typically by convection or phase transition between a fluid and a solid. The heat transfer coefficient is the proportionality coefficient between the heat flux, that is heat flow per unit area, q/A, and the thermodynamic driving force for the flow of heat (that is, the temperature difference, (Delta T).  Areic heat flow rate divided by thermodynamic temperature difference. In building technology, the \"Coefficient of Heat Transfer\", is often called \"thermal transmittance}\" with the symbol \"U\". It has SI units in watts per squared meter kelvin.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWdc31cad7e9225defbc08f6f79bf5c4ea"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "078721f3-8fa8-5e39-ad69-22059a25b826",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MIN_Angle"
+    ],
+    "name": "MIN_Angle",
+    "label": [
+        {
+            "text": "Minute Angle",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "'",
+    "conversion_factor_from_si": 0.000290888209
+}

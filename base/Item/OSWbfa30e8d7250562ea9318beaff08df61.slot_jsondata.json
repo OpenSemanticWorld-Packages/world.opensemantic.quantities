@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "bfa30e8d-7250-562e-a931-8beaff08df61",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DynamicViscosity"
+    ],
+    "close_ontology_match": [
+        "https://si-digital-framework.org/SI/quantities/DYVI"
+    ],
+    "name": "DynamicViscosity",
+    "label": [
+        {
+            "text": "Dynamic viscosity",
+            "lang": "en"
+        },
+        {
+            "text": "Dynamische Viskosität",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "A measure of the molecular frictional resistance of a fluid as calculated using Newton's law.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1"
+    ]
+}

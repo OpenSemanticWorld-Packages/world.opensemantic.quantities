@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f6d6f2af-6129-5484-ab10-221fe5922f97",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-SEC2"
+    ],
+    "name": "M2-PER-SEC2",
+    "label": [
+        {
+            "text": "Square metres per square second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/s²",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f19ea831-be10-53a9-b70d-6403acc15022",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloM2-PER-SEC2"
+            ],
+            "osw_id": "Item:OSWf6d6f2af61295484ab10221fe5922f97#OSWf19ea831be1053a9b70d6403acc15022",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "km²/s²"
+        }
+    ]
+}

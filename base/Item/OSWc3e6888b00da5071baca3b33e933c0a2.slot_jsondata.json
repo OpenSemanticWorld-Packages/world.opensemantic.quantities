@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c3e6888b-00da-5071-baca-3b33e933c0a2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-PER-K"
+    ],
+    "name": "DEG_C-PER-K",
+    "label": [
+        {
+            "text": "Degree Celsius per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit with the name Degree Celsius divided by the SI base unit kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C/K",
+    "conversion_factor_from_si": 1.0
+}

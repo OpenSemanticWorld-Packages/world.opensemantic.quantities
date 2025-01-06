@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "c805c669-9174-575b-93b7-a8c4d200943a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalMassStoppingPower"
+    ],
+    "name": "TotalMassStoppingPower",
+    "label": [
+        {
+            "text": "Total Mass Stopping Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "If a substance is compared in gaseous and solid form, then the linear stopping powers of the two states are very different just because of the different density. One therefore often divides S(E) by the density of the material to obtain the \"Mass Stopping Power\". The mass stopping power then depends only very little on the density of the material.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWe0fa484f50015a438e4338bb521a34ae"
+    ]
+}

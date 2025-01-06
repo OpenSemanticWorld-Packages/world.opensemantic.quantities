@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "8c95fb55-3826-551f-b7c0-294a7c0ada41",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/tera"
+    ],
+    "name": "tera",
+    "label": [
+        {
+            "text": "tera (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "T",
+    "factor": 1000000000000.0
+}

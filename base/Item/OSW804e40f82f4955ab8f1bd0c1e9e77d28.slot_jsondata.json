@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "804e40f8-2f49-55ab-8f1b-d0c1e9e77d28",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-M3-SEC"
+    ],
+    "name": "PER-M3-SEC",
+    "label": [
+        {
+            "text": "Reciprocal Cubic Metre Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit of the slowing-down density as reciprocal of the power of the SI base unit metre with exponent 3 divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(m³·s)",
+    "conversion_factor_from_si": 1.0
+}

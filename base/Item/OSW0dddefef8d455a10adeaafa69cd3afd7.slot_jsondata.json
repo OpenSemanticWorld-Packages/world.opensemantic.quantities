@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "0dddefef-8d45-5a10-adea-afa69cd3afd7",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-J2"
+    ],
+    "name": "PER-J2",
+    "label": [
+        {
+            "text": "Reciprocal Square Joule",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Square Joule is a denominator unit with dimensions $/eV^2$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/J²",
+    "conversion_factor_from_si": 1.0
+}

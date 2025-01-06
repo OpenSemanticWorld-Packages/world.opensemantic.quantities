@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "60bdefc5-b50c-5020-95c7-e1f8f8a7d03e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-PER-M2-PA-SEC"
+    ],
+    "name": "KiloGM-PER-M2-PA-SEC",
+    "label": [
+        {
+            "text": "Kilograms per square metre Pascal second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit for the ability of a material to allow the transition of the steam",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/(m²·Pa·s)",
+    "conversion_factor_from_si": 1.0
+}

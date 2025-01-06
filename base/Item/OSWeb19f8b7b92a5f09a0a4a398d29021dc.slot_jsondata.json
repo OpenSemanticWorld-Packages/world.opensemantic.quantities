@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "eb19f8b7-b92a-5f09-a0a4-a398d29021dc",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-K-PER-W"
+    ],
+    "name": "M2-K-PER-W",
+    "label": [
+        {
+            "text": "Square Metre Kelvin per Watt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Square Meter Kelvin per Watt}$ is a unit for 'Thermal Insulance' expressed as $(K^{2})m/W$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²·K/W",
+    "conversion_factor_from_si": 1.0
+}

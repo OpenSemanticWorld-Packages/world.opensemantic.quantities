@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "0505357d-e255-592e-b766-bdfce883acb3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-M",
+        "http://dbpedia.org/resource/Steradian"
+    ],
+    "name": "J-PER-M",
+    "label": [
+        {
+            "text": "Joule per Metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/m",
+    "conversion_factor_from_si": 1.0
+}

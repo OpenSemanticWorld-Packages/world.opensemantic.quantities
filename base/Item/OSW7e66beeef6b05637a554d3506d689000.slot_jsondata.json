@@ -1,0 +1,43 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7e66beee-f6b0-5637-a554-d3506d689000",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-MOL"
+    ],
+    "name": "J-PER-MOL",
+    "label": [
+        {
+            "text": "joule per mole",
+            "lang": "en"
+        },
+        {
+            "text": "Joule je Mol",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The joule per mole (symbol: $J\\cdot mol^{-1}$) is an SI derived unit of energy per amount of material. Energy is measured in joules, and the amount of material is measured in moles. Physical quantities measured in $J\\cdot mol^{-1}$) usually describe quantities of energy transferred during phase transformations or chemical reactions. Division by the number of moles facilitates comparison between processes involving different quantities of material and between similar processes involving different types of materials. The meaning of such a quantity is always context-dependent and, particularly for chemical reactions, is dependent on the (possibly arbitrary) definition of a 'mole' for a particular process.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/mol",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "23b10a54-3269-55ad-b186-2933713551f9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloJ-PER-MOL"
+            ],
+            "osw_id": "Item:OSW7e66beeef6b05637a554d3506d689000#OSW23b10a54326955adb1862933713551f9",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kJ/mol"
+        }
+    ]
+}

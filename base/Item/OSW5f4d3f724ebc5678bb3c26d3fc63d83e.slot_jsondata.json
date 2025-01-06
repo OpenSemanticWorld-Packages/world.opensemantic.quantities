@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "5f4d3f72-4ebc-5678-bb3c-26d3fc63d83e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificHeatVolume"
+    ],
+    "name": "SpecificHeatVolume",
+    "label": [
+        {
+            "text": "Specific Heat Volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat per constant volume.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc06da5be651b56d993bef3fc05d91bd6"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "2b034f26-48bb-5e9d-ba9a-8f5135484c29",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundPressureLevel"
+    ],
+    "name": "SoundPressureLevel",
+    "label": [
+        {
+            "text": "Sound pressure level",
+            "lang": "en"
+        },
+        {
+            "text": "Schalldruckpegel",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound pressure level ($SPL$) or sound level is a logarithmic measure of the effective sound pressure of a sound relative to a reference value. It is measured in decibels (dB) above a standard reference level.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW20ac6724f1a05ee884222d546955e78f"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "07af327f-8142-5127-8d99-18f706dfdcd6",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaPerLength"
+    ],
+    "name": "AreaPerLength",
+    "label": [
+        {
+            "text": "Area per length",
+            "lang": "en"
+        },
+        {
+            "text": "Fläche pro Längeneinheit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Measure used to indicate the surface area of structural steel per unit length of the steel part.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf63766f7c83852d7a1d8e12deeee90c7"
+    ]
+}

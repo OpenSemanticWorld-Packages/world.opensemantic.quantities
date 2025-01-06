@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "1a0a52ba-2fe9-5798-9fe3-e1a2d0bbdcc4",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-PER-RAD"
+    ],
+    "name": "N-PER-RAD",
+    "label": [
+        {
+            "text": "Newton per radian",
+            "lang": "en"
+        },
+        {
+            "text": "Newton pro Radian",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "A one-newton force applied for one angle/torsional torque",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N/rad",
+    "conversion_factor_from_si": 1.0
+}

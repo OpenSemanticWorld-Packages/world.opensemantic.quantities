@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "ca531d47-ecae-5596-b94e-aaf1bcc04e9a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Capacitance"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Capacitance",
+        "https://si-digital-framework.org/SI/quantities/ELCA"
+    ],
+    "name": "Capacitance",
+    "label": [
+        {
+            "text": "Capacitance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Capacitance\" is the ability of a body to hold an electrical charge; it is quantified as the amount of electric charge stored for a given electric potential. Capacitance is a scalar-valued quantity.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWa1b4f9da4183543a8161e3fe99751be2"
+    ]
+}

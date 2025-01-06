@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "9576e9a2-b337-5f43-a9e6-bd962f3098cc",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricPotentialDifference"
+    ],
+    "close_ontology_match": [
+        "https://si-digital-framework.org/SI/quantities/ELPD"
+    ],
+    "name": "ElectricPotentialDifference",
+    "label": [
+        {
+            "text": "Electric potential difference",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Spannung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Potential Difference\" is a scalar valued quantity associated with an electric field.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d"
+    ]
+}

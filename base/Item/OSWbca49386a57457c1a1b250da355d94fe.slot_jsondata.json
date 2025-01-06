@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "bca49386-a574-57c1-a1b2-50da355d94fe",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/centi"
+    ],
+    "name": "centi",
+    "label": [
+        {
+            "text": "centi (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "c",
+    "factor": 0.01
+}

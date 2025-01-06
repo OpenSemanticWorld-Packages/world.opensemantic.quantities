@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7549b83a-203e-59e3-bcc8-c6e7854bd87d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaTemperature"
+    ],
+    "name": "AreaTemperature",
+    "label": [
+        {
+            "text": "Area Temperature",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWe74a789a7a8c5e499c23e49bd2a6b220"
+    ]
+}

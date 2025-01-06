@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "ce05bcf9-ee7d-5ba5-aef4-8ae97a22540d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PPTH"
+    ],
+    "name": "PPTH",
+    "label": [
+        {
+            "text": "Parts per thousand",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Dimensionless unit for concentration. Recommended practice is to use specific units such as $ug/l$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "‰",
+    "conversion_factor_from_si": 0.001
+}

@@ -1,0 +1,104 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "28e75b08-9e14-5904-998a-54f1c4125bf3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-M"
+    ],
+    "name": "PER-M",
+    "label": [
+        {
+            "text": "Reciprocal Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Meter Unit is a denominator unit with dimensions $/m$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/m",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "124eebfb-89dc-54bc-9cc2-23fd49c40480",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PER-KiloM"
+            ],
+            "osw_id": "Item:OSW28e75b089e145904998a54f1c4125bf3#OSW124eebfb89dc54bc9cc223fd49c40480",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "/km"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e77bc3c1-bd7a-566e-adb5-5f3b68d351f2",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PER-MilliM"
+            ],
+            "osw_id": "Item:OSW28e75b089e145904998a54f1c4125bf3#OSWe77bc3c1bd7a566eadb55f3b68d351f2",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "/mm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0dcebe41-4770-56ab-a0e7-06c148970688",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PER-CentiM"
+            ],
+            "osw_id": "Item:OSW28e75b089e145904998a54f1c4125bf3#OSW0dcebe41477056aba0e706c148970688",
+            "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "/cm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "d0475e49-e071-5ec4-88fb-a3fe0fdd9b02",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PER-PicoM"
+            ],
+            "osw_id": "Item:OSW28e75b089e145904998a54f1c4125bf3#OSWd0475e49e0715ec488fba3fe0fdd9b02",
+            "conversion_factor_from_si": 1000000000000.0,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "/pm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "dc9edf92-77ed-57cd-b7a6-f218551afa8d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PER-NanoM"
+            ],
+            "osw_id": "Item:OSW28e75b089e145904998a54f1c4125bf3#OSWdc9edf9277ed57cdb7a6f218551afa8d",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "/nm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "45c24d8b-6848-5acc-bdd6-84f05231c74c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PER-MicroM"
+            ],
+            "osw_id": "Item:OSW28e75b089e145904998a54f1c4125bf3#OSW45c24d8b68485accbdd684f05231c74c",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "/µm"
+        }
+    ]
+}

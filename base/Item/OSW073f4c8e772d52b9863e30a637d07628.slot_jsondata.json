@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "073f4c8e-772d-52b9-863e-30a637d07628",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-L-PER-SEC"
+    ],
+    "name": "PA-L-PER-SEC",
+    "label": [
+        {
+            "text": "Pascal Litre per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product out of the SI derived unit pascal and the unit litre divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa·L/s",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "912abcf5-57a1-53a9-9a86-b44a1a84e40c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/HectoPA-L-PER-SEC"
+            ],
+            "osw_id": "Item:OSW073f4c8e772d52b9863e30a637d07628#OSW912abcf557a153a99a86b44a1a84e40c",
+            "conversion_factor_from_si": 0.1,
+            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
+            "main_symbol": "hPa·L/s"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a7521ddb-593e-5787-b175-fbb020f39ac2",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaPA-L-PER-SEC"
+            ],
+            "osw_id": "Item:OSW073f4c8e772d52b9863e30a637d07628#OSWa7521ddb593e5787b175fbb020f39ac2",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MPa·L/s"
+        }
+    ]
+}

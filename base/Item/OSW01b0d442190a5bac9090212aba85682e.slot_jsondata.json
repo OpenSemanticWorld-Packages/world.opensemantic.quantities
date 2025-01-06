@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "01b0d442-190a-5bac-9090-212aba85682e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ExchangeIntegral"
+    ],
+    "name": "ExchangeIntegral",
+    "label": [
+        {
+            "text": "Exchange Integral",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Exchange Integral\" is the constituent of the interaction energy between the spins of adjacent electrons in matter arising from the overlap of electron state functions.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074"
+    ]
+}

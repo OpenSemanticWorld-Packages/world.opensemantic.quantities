@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c90e3078-54c4-53be-9583-00304ca8185e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DAY",
+        "http://dbpedia.org/resource/Day",
+        "https://si-digital-framework.org/SI/units/day"
+    ],
+    "name": "DAY",
+    "label": [
+        {
+            "text": "Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mean solar day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "d",
+    "conversion_factor_from_si": 86400.0
+}

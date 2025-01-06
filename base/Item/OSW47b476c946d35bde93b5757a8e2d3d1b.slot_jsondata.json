@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "47b476c9-46d3-5bde-93b5-757a8e2d3d1b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM-SEC-DEG_C"
+    ],
+    "name": "CentiM-SEC-DEG_C",
+    "label": [
+        {
+            "text": "Centimetre Second Degree Celsius",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Centimeter Second Degree Celsius}$ is a C.G.S System unit for 'Length Temperature Time' expressed as $cm-s-degC$.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm·s·°C",
+    "conversion_factor_from_si": 0.01
+}

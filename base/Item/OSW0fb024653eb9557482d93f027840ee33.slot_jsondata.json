@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "0fb02465-3eb9-5574-82d9-3f027840ee33",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-GM"
+    ],
+    "name": "J-PER-GM",
+    "label": [
+        {
+            "text": "Joule per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit joule divided by the 0.001-fold of the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/g",
+    "conversion_factor_from_si": 1000.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "27784b13-f8b7-5b47-875a-87f13de1cde9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliJ-PER-GM"
+            ],
+            "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33#OSW27784b13f8b75b47875a87f13de1cde9",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mJ/g"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4acc791f-0c59-5c50-8efa-5222cb675287",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloJ-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33#OSW4acc791f0c595c508efa5222cb675287",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kJ/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ffdf8410-a8c6-5687-a122-eaf44719162d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/J-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSW0fb024653eb9557482d93f027840ee33#OSWffdf8410a8c65687a122eaf44719162d",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "J/kg"
+        }
+    ]
+}

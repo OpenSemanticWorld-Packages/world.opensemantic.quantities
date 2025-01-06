@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "09596198-c0d7-5735-8dba-075062495dd1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-DAY"
+    ],
+    "name": "GM-PER-DAY",
+    "label": [
+        {
+            "text": "Gram per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the unit day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/day",
+    "conversion_factor_from_si": 1.157407e-08,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5b7b7315-2833-524e-a13c-5a7fd74fe998",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-DAY"
+            ],
+            "osw_id": "Item:OSW09596198c0d757358dba075062495dd1#OSW5b7b73152833524ea13c5a7fd74fe998",
+            "conversion_factor_from_si": 1.157407e-11,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/day"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "fe7f05b0-88c5-5add-b7a9-7e911f007616",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-DAY"
+            ],
+            "osw_id": "Item:OSW09596198c0d757358dba075062495dd1#OSWfe7f05b088c55addb7a97e911f007616",
+            "conversion_factor_from_si": 1.157407e-05,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/day"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b952071c-62fb-51ed-91ce-e87301a5266a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoGM-PER-DAY"
+            ],
+            "osw_id": "Item:OSW09596198c0d757358dba075062495dd1#OSWb952071c62fb51ed91cee87301a5266a",
+            "conversion_factor_from_si": 1.15740740740741e-17,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "ng/day"
+        }
+    ]
+}

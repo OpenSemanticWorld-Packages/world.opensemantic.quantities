@@ -1,0 +1,84 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "06027f43-7dd3-5744-9795-ec4d0e001467",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BQ",
+        "http://dbpedia.org/resource/Becquerel",
+        "https://si-digital-framework.org/SI/units/becquerel"
+    ],
+    "name": "BQ",
+    "label": [
+        {
+            "text": "becquerel",
+            "lang": "en"
+        },
+        {
+            "text": "Becquerel",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The $\\textit{Becquerel}$ is the SI derived unit of activity, usually meaning radioactivity.\n  Radioactivity is caused when atoms disintegrate, ejecting energetic particles. \n  One becquerel is the radiation caused by one disintegration per second; \n  this is equivalent to about $27.0270 \\text{picocuries (pCi)}$. \n  The unit is named for a French physicist, Antoine-Henri Becquerel (1852-1908), \n  the discoverer of radioactivity. \n  Note: both the becquerel and the hertz are basically defined as one event per second, \n  yet they measure different things. \n  The hertz is used to measure the rates of events that happen periodically in a fixed and definite cycle. \n  The becquerel is used to measure the rates of events that happen sporadically and unpredictably, \n  not in a definite cycle.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Bq",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7acd6161-1e90-5707-89a0-c17bd89a0332",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloBQ"
+            ],
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW7acd61611e90570789a0c17bd89a0332",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kBq"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b3a8a39c-0050-5c75-a399-3bb11241fdb9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaBQ"
+            ],
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSWb3a8a39c00505c75a3993bb11241fdb9",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MBq"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a7085a17-a359-5929-beed-2cd9978fe734",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaBQ"
+            ],
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSWa7085a17a3595929beed2cd9978fe734",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GBq"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ef0f2e23-f071-5f4b-a318-816bc556b062",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroBQ"
+            ],
+            "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSWef0f2e23f0715f4ba318816bc556b062",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μBq"
+        }
+    ]
+}

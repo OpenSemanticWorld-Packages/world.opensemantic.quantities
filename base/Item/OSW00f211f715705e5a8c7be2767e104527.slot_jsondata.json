@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "00f211f7-1570-5e5a-8c7b-e2767e104527",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-HA"
+    ],
+    "name": "M2-PER-HA",
+    "label": [
+        {
+            "text": "square metres per hectare",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Square metres per hectare.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/ha",
+    "conversion_factor_from_si": 0.0001
+}

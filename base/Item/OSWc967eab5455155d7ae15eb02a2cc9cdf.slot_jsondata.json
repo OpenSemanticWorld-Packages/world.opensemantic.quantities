@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "c967eab5-4551-55d7-ae15-eb02a2cc9cdf",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CombinedNonEvaporativeHeatTransferCoefficient"
+    ],
+    "name": "CombinedNonEvaporativeHeatTransferCoefficient",
+    "label": [
+        {
+            "text": "Combined Non Evaporative Heat Transfer Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Combined Non Evaporative Heat Transfer Coefficient\" is the",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWdc31cad7e9225defbc08f6f79bf5c4ea"
+    ]
+}

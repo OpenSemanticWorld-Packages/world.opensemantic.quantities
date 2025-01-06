@@ -1,0 +1,70 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "46249e4c-237d-5461-98d9-8bff0b9d5e93",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/S",
+        "https://si-digital-framework.org/SI/units/siemens"
+    ],
+    "name": "S",
+    "label": [
+        {
+            "text": "siemens",
+            "lang": "en"
+        },
+        {
+            "text": "Siemens",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Siemens}$ is the SI unit of electric conductance, susceptance, and admittance. \nThe most important property of a conductor is the amount of current it will carry when a voltage is applied. \nCurrent flow is opposed by resistance in all circuits, and by also by reactance and impedance in alternating current circuits. \nConductance, susceptance, and admittance are the inverses of resistance, reactance, and impedance, respectively. \nTo measure these properties, the siemens is the reciprocal of the ohm. In other words, the conductance, susceptance, or admittance, in siemens, is simply 1 divided by the resistance, reactance or impedance, respectively, in ohms. \nThe unit is named for the German electrical engineer Werner von Siemens (1816-1892).\n$$\\  \\text{Siemens}\\equiv\\frac{\\text{A}}{\\text{V}}\\equiv\\frac{\\text{amp}}{\\text{volt}}\\equiv\\frac{\\text{F}}{\\text {s}}\\equiv\\frac{\\text{farad}}{\\text{second}}$$\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "S",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "fd5a12b2-02d2-534c-9cb0-844fb6c4f15e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroS"
+            ],
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWfd5a12b202d2534c9cb0844fb6c4f15e",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μS"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8253047f-c483-5d79-b0f3-1baf3b96182d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliS"
+            ],
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW8253047fc4835d79b0f31baf3b96182d",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mS"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "35746906-e9d0-51c3-9bde-ebdf5736c2ba",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloS"
+            ],
+            "osw_id": "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW35746906e9d051c39bdeebdf5736c2ba",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kS"
+        }
+    ]
+}

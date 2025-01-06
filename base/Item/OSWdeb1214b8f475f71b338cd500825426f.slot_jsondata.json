@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "deb1214b-8f47-5f71-b338-cd500825426f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-MIN"
+    ],
+    "name": "PER-MIN",
+    "label": [
+        {
+            "text": "Reciprocal Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A reciprocal unit of time for $\\textit{reciprocal minute}$ or $\\textit{inverse minute}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/min",
+    "conversion_factor_from_si": 0.016666666666666666
+}

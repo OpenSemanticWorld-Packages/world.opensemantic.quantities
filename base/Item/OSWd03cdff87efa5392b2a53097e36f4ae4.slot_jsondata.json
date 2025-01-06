@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "d03cdff8-7efa-5392-b2a5-3097e36f4ae4",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/yotta"
+    ],
+    "name": "yotta",
+    "label": [
+        {
+            "text": "yotta (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Y",
+    "factor": 1e+24
+}

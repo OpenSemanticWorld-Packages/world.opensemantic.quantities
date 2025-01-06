@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e5c19940-90f5-56e1-be38-b7c77c73b35b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG2"
+    ],
+    "name": "DEG2",
+    "label": [
+        {
+            "text": "Square degree",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A square degree is a non-SI unit measure of solid angle. It is denoted in various ways, including deg, sq. deg. and $\\circ^2$. Just as degrees are used to measure parts of a circle, square degrees are used to measure parts of a sphere. Analogous to one degree being equal to $\\pi /180 radians$, a square degree is equal to ($\\pi /180)$ or about 1/3283 steradian. The number of square degrees in a whole sphere is or approximately 41 253 deg. This is the total area of the 88 constellations in the list of constellations by area. For example, observed from the surface of the Earth, the Moon has a diameter of approximately $0.5^\\circ$, so it covers a solid angle of approximately 0.196 deg, which is $4.8 \\times 10$ of the total sky sphere.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°²",
+    "conversion_factor_from_si": 0.00030461742
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "47655982-de7d-5958-a051-f4f3aa75b62a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-WB"
+    ],
+    "name": "PER-WB",
+    "label": [
+        {
+            "text": "Reciprocal Weber",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "complement of the SI derived unit weber as unit of the Josephson constant, which value is equal to the 384,597,891-fold of the reference value gigahertz divided by volt",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/Wb",
+    "conversion_factor_from_si": 1.0
+}

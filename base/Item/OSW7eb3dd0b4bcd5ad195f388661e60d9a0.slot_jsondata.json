@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7eb3dd0b-4bcd-5ad1-95f3-88661e60d9a0",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyPerTemperature"
+    ],
+    "name": "EnergyPerTemperature",
+    "label": [
+        {
+            "text": "Energy per temperature",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW501738b1f645568c9c4fb6da844439c7"
+    ]
+}

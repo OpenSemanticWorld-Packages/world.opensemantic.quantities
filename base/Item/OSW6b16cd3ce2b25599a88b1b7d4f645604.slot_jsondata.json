@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "6b16cd3c-e2b2-5599-a88b-1b7d4f645604",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/EV-PER-T"
+    ],
+    "name": "EV-PER-T",
+    "label": [
+        {
+            "text": "Electron Volt per Tesla",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The unit $\\textit{Electron Volt per Tesla}$ is a unit for $\\textit{Magnetic Dipole Moment}$ expressed as $eV T^{-1}$.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "eV/T",
+    "conversion_factor_from_si": 1.602176634e-19
+}

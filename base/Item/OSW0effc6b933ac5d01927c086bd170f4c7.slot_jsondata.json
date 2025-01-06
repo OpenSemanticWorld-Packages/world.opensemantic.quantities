@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "0effc6b9-33ac-5d01-927c-086bd170f4c7",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HZ-PER-V"
+    ],
+    "name": "HZ-PER-V",
+    "label": [
+        {
+            "text": "Hertz per Volt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In the Hertz per Volt standard the frequency of the note is directly related to the voltage. A pitch of a note goes up one octave when its frequency doubles, meaning that the voltage will have to double for every octave rise. Depending on the footage (octave) selected, nominally one volt gives 1000Hz, two volts 2000Hz and so on. In terms of notes, bottom C would be 0.25 volts, the next C up would be 0.5 volts, then 1V, 2V, 4V, 8V for the following octaves. This system was used mainly by Yamaha and Korg.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Hz/V",
+    "conversion_factor_from_si": 1.0
+}

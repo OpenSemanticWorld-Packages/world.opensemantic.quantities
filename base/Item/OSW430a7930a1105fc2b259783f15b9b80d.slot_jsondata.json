@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "430a7930-a110-5fc2-b259-783f15b9b80d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AttenuationCoefficient"
+    ],
+    "name": "AttenuationCoefficient",
+    "label": [
+        {
+            "text": "Attenuation Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The attenuation coefficient is a quantity that characterizes how easily a material or medium can be penetrated by a beam of light, sound, particles, or other energy or matter. A large attenuation coefficient means that the beam is quickly \"attenuated\" (weakened) as it passes through the medium, and a small attenuation coefficient means that the medium is relatively transparent to the beam. The Attenuation Coefficient is also called linear attenuation coefficient, narrow beam attenuation coefficient, or absorption coefficient.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW28e75b089e145904998a54f1c4125bf3"
+    ]
+}

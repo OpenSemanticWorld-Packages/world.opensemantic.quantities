@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "af6c62c0-856f-5ac2-88ac-862f5344f227",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-SEC-SR"
+    ],
+    "name": "PER-SEC-SR",
+    "label": [
+        {
+            "text": "Reciprocal Second Steradian",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Second Steradian Unit is a denominator unit with dimensions $/sec-sr$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/s·sr",
+    "conversion_factor_from_si": 1.0
+}

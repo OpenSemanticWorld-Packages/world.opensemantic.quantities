@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e2b466af-b5dc-5846-b221-55cd2201b7df",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GON",
+        "http://dbpedia.org/resource/Gon"
+    ],
+    "name": "GON",
+    "label": [
+        {
+            "text": "Gon",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Gon\" is a C.G.S System unit for  'Plane Angle' expressed as $gon$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "gon",
+    "conversion_factor_from_si": 0.015707963267949
+}

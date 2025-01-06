@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "5006c43a-c65f-5114-a5ec-3c43c4904caa",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MO",
+        "http://dbpedia.org/resource/Month"
+    ],
+    "name": "MO",
+    "label": [
+        {
+            "text": "Month",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of time corresponding approximately to one cycle of the moon's phases, or about 30 days or 4 weeks. Also known as the 'Synodic Month' and calculated as 29.53059 days.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mo",
+    "conversion_factor_from_si": 2551442.976
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "ed94e896-8e88-55bb-9130-785f981b0549",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/REV-PER-MIN"
+    ],
+    "name": "REV-PER-MIN",
+    "label": [
+        {
+            "text": "Revolution per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Revolution per Minute\" is a unit for  'Angular Velocity' expressed as $rev/min$.  One revolution per minute is equivalent to 1/60 hertz.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "rev/min",
+    "conversion_factor_from_si": 0.01666666666
+}

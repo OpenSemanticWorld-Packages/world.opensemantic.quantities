@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "689f8c6a-4893-55da-aad8-5c99ffcc2a52",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-DAY"
+    ],
+    "name": "M3-PER-DAY",
+    "label": [
+        {
+            "text": "Cubic Metre per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "power of the SI base unit metre with the exponent 3 divided by the unit day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/day",
+    "conversion_factor_from_si": 1.157407e-05,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b7fd7c05-c535-5fcc-aec6-05b426f8e1c7",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM3-PER-DAY"
+            ],
+            "osw_id": "Item:OSW689f8c6a489355daaad85c99ffcc2a52#OSWb7fd7c05c5355fccaec605b426f8e1c7",
+            "conversion_factor_from_si": 1.157407e-11,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm³/day"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9673f207-c74e-56bc-a799-04fb07023ce3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciM3-PER-DAY"
+            ],
+            "osw_id": "Item:OSW689f8c6a489355daaad85c99ffcc2a52#OSW9673f207c74e56bca79904fb07023ce3",
+            "conversion_factor_from_si": 1.157407407e-08,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dm³/day"
+        }
+    ]
+}

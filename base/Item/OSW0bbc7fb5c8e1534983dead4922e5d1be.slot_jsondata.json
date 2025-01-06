@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "0bbc7fb5-c8e1-5349-83de-ad4922e5d1be",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AngularCrossSection"
+    ],
+    "name": "AngularCrossSection",
+    "label": [
+        {
+            "text": "Angular Cross-section",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Angular Cross-section\" is the cross-section for ejecting or scattering a particle into an elementary cone, divided by the solid angle $d\\Omega$ of that cone.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWe9c4745c4d3a5c17a288b08a7f870ffc"
+    ]
+}

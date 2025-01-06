@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "dedbe50d-76c7-5dc2-a87b-1000faa99b10",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-T-M"
+    ],
+    "name": "PER-T-M",
+    "label": [
+        {
+            "text": "Reciprocal Tesla Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  A $\\textit{Per Tesla Meter Unit}$ is a denominator unit with dimensions $/m .\\cdot T$.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(T·m)",
+    "conversion_factor_from_si": 1.0
+}

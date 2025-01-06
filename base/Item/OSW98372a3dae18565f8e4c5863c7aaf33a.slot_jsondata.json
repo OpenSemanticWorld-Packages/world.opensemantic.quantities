@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "98372a3d-ae18-565f-8e4c-5863c7aaf33a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-SEC"
+    ],
+    "name": "PER-SEC",
+    "label": [
+        {
+            "text": "Reciprocal Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A reciprical unit of time for $\\textit{reciprocal second}$ or $\\textit{inverse second}$. The $\\textit{Per Second}$ is a unit of rate.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/s",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4e1dedc5-c7a6-585c-868f-f31ff7432d99",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PER-MilliSEC"
+            ],
+            "osw_id": "Item:OSW98372a3dae18565f8e4c5863c7aaf33a#OSW4e1dedc5c7a6585c868ff31ff7432d99",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "/ms"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "0f2201e2-59ef-5ebc-8430-4e4e0455bec7",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricDipoleMoment_CubicPerEnergy_Squared"
+    ],
+    "name": "CubicElectricDipoleMomentPerSquareEnergy",
+    "label": [
+        {
+            "text": "Cubic Electric Dipole Moment per Square Energy",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWbf685bb28c9b5d15ab98238af18f1f74"
+    ]
+}

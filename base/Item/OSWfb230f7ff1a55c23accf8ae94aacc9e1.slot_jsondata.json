@@ -1,0 +1,43 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "fb230f7f-f1a5-5c23-accf-8ae94aacc9e1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-SEC"
+    ],
+    "name": "PA-SEC",
+    "label": [
+        {
+            "text": "pascal second",
+            "lang": "en"
+        },
+        {
+            "text": "Pascalsekunde",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of dynamic viscosity, equal to 10 poises or 1000 centipoises. ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa·s",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8e1783ac-9f0b-5fe3-b404-dcfbce8940cb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliPA-SEC"
+            ],
+            "osw_id": "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1#OSW8e1783ac9f0b5fe3b404dcfbce8940cb",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mPa·s"
+        }
+    ]
+}

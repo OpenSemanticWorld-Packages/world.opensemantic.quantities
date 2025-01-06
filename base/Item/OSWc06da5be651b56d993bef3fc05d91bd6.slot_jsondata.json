@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "c06da5be-651b-56d9-93be-f3fc05d91bd6",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-KiloGM-K-M3"
+    ],
+    "name": "J-PER-KiloGM-K-M3",
+    "label": [
+        {
+            "text": "Joule per Kilogram Kelvin Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(kg·K·m³)",
+    "conversion_factor_from_si": 1.0
+}

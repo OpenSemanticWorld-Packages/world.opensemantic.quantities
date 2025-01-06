@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "3e32d5c0-5da6-5edd-a555-930f2545430b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/RAD-PER-SEC2"
+    ],
+    "name": "RAD-PER-SEC2",
+    "label": [
+        {
+            "text": "Radian per Square Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Angular acceleration is the rate of change of angular velocity. In SI units, it is measured in radians per Square second ($rad/s^2$), and is usually denoted by the Greek letter $\\alpha$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "rad/s²",
+    "conversion_factor_from_si": 1.0
+}

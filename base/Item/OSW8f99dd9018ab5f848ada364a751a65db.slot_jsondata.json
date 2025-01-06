@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "8f99dd90-18ab-5f84-8ada-364a751a65db",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/peta"
+    ],
+    "name": "peta",
+    "label": [
+        {
+            "text": "peta (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "P",
+    "factor": 1000000000000000.0
+}

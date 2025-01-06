@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "ca971abe-ba15-5a62-af38-0587d8698e7c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificHeatCapacityAtConstantPressure"
+    ],
+    "name": "SpecificHeatCapacityAtConstantPressure",
+    "label": [
+        {
+            "text": "Specific heat capacity at constant pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat at a constant pressure.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW93d8b6e516fd54f09d483dee1278e3a8",
+        "Item:OSWbe6c8545fd585776ad877e91f1c72b16"
+    ]
+}

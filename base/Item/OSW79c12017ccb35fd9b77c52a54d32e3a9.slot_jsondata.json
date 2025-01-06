@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "79c12017-ccb3-5fd9-b77c-52a54d32e3a9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricChargePerAmountOfSubstance"
+    ],
+    "name": "ElectricChargePerAmountOfSubstance",
+    "label": [
+        {
+            "text": "Electric charge per amount of substance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Charge Per Amount Of Substance\" is the charge assocated with a given amount of substance. Un the ISO and SI systems this is $1 mol$.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW5296e8a9268e513a9b92690db31d7f4c"
+    ]
+}

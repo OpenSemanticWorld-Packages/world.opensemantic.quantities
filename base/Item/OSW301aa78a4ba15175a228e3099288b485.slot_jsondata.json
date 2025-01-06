@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "301aa78a-4ba1-5175-a228-e3099288b485",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Basicity"
+    ],
+    "name": "Basicity",
+    "label": [
+        {
+            "text": "Basicity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Chemicals or substances having a pH higher than 7 are said to be basic; higher pH means higher basicity.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW50e9172c55045cb3b1460b1345303ed2"
+    ]
+}

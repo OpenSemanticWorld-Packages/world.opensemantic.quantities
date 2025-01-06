@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "648f4393-5dd9-5f52-a3e7-5b5ba7e08bc9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HR-PER-YR"
+    ],
+    "name": "HR-PER-YR",
+    "label": [
+        {
+            "text": "Hours per Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "hours (of activity) per year",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "h/a"
+}

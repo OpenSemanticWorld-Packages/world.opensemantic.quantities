@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "db56cd91-482e-56e7-8819-b9b53a36e346",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-M-PER-M-RAD"
+    ],
+    "name": "N-M-PER-M-RAD",
+    "label": [
+        {
+            "text": "Newton Metre per Metre Radian",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·m/(m·rad)",
+    "conversion_factor_from_si": 1.0
+}

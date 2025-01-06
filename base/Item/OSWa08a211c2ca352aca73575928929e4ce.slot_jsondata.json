@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "a08a211c-2ca3-52ac-a735-75928929e4ce",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificModulus"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Specific_modulus"
+    ],
+    "name": "SpecificModulus",
+    "label": [
+        {
+            "text": "Specific Modulus",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "<p><b>Specific modulus</b> is a <a href=\"/wiki/Materials_property\" class=\"mw-redirect\" title=\"Materials property\">materials property</a> consisting of the <a href=\"/wiki/Elastic_modulus\" title=\"Elastic modulus\">elastic modulus</a> per mass <a href=\"/wiki/Density\" title=\"Density\">density</a> of a material. It is also known as the <b>stiffness to weight ratio</b> or <b>specific stiffness</b>. High specific modulus materials find wide application in <a href=\"/wiki/Aerospace\" title=\"Aerospace\">aerospace</a> applications where minimum structural <a href=\"/wiki/Weight\" title=\"Weight\">weight</a> is required. The <a href=\"/wiki/Dimensional_analysis\" title=\"Dimensional analysis\">dimensional analysis</a> yields units of distance squared per time squared.</p>",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf6d6f2af61295484ab10221fe5922f97"
+    ]
+}

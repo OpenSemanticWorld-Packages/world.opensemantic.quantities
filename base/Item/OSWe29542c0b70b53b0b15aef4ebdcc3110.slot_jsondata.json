@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "e29542c0-b70b-53b0-b15a-ef4ebdcc3110",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCurrentPerEnergy"
+    ],
+    "name": "ElectricCurrentPerEnergy",
+    "label": [
+        {
+            "text": "Electric Current per Energy",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW35db123ef0b25089bab3d9eaa2b5cb67"
+    ]
+}

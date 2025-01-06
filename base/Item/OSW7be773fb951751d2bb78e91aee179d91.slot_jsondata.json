@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7be773fb-9517-51d2-bb78-e91aee179d91",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-PER-HR"
+    ],
+    "name": "K-PER-HR",
+    "label": [
+        {
+            "text": "Kelvin per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Kelvin per Hour}$ is a unit for 'Temperature Per Time' expressed as $K / h$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K/h",
+    "conversion_factor_from_si": 0.0002777777777777778
+}

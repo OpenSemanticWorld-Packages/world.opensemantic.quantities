@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "1f0b0a68-f68a-540d-b14c-5b7fdd68d083",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticFlux"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Magnetic_flux"
+    ],
+    "name": "MagneticFlux",
+    "label": [
+        {
+            "text": "Magnetic flux",
+            "lang": "en"
+        },
+        {
+            "text": "Magnetischer Flux",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetic Flux\" is the product of the average magnetic field times the perpendicular area that it penetrates.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+        "Item:OSWd51afbc627605b1b8555182c2249721e"
+    ]
+}

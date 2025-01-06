@@ -1,0 +1,78 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d9745ca0-ed9a-521b-8b14-bc571ced2daf",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-M2-DAY"
+    ],
+    "name": "MOL-PER-M2-DAY",
+    "label": [
+        {
+            "text": "Moles per Square Metre Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "quantity of matter per unit area per unit of time.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(m²·day)",
+    "conversion_factor_from_si": 1.15740740740741e-05,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8987e0c6-3588-54aa-b10f-859bcd42cf0a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliMOL-PER-M2-DAY"
+            ],
+            "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSW8987e0c6358854aab10f859bcd42cf0a",
+            "conversion_factor_from_si": 1.15740740740741e-08,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mmol/(m²·day)"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "12da2912-44d6-5409-ab71-7a87e468e73f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoMOL-PER-M2-DAY"
+            ],
+            "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSW12da291244d65409ab717a87e468e73f",
+            "conversion_factor_from_si": 1.15740740740741e-17,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pmol/(m²·day)"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f14e9fda-3f4f-5625-a2e0-860d74a3a733",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroMOL-PER-M2-DAY"
+            ],
+            "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSWf14e9fda3f4f5625a2e0860d74a3a733",
+            "conversion_factor_from_si": 1.15740740740741e-11,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µmol/(m²·day)"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "126cb6f4-3b1a-5939-ac31-54bf7b1b5e97",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoMOL-PER-M2-DAY"
+            ],
+            "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSW126cb6f43b1a5939ac3154bf7b1b5e97",
+            "conversion_factor_from_si": 1.15740740740741e-14,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nmol/(m²·day)"
+        }
+    ]
+}

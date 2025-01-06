@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "29f337d6-308f-578d-8a80-e6dc4659f776",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InversePressure"
+    ],
+    "name": "InversePressure",
+    "label": [
+        {
+            "text": "Inverse Pressure",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "0429f89d-17e6-572f-ac66-30caa443c336",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M"
+    ],
+    "name": "GM-PER-M",
+    "label": [
+        {
+            "text": "Gram per Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/m",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "d82843dc-68c8-505a-9434-9a0d7ce152e6",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GM-PER-KiloM"
+            ],
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSWd82843dc68c8505a94349a0d7ce152e6",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "g/km"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "78d4dd32-fca8-531c-ad72-72b3f6961f8e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GM-PER-MilliM"
+            ],
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSW78d4dd32fca8531cad7272b3f6961f8e",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "g/mm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "98356a7e-8083-515b-8b8c-bd389998555e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-M"
+            ],
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSW98356a7e8083515b8b8cbd389998555e",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1e1793e6-b724-54f1-a81b-08eabc8272b7",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-M"
+            ],
+            "osw_id": "Item:OSW0429f89d17e6572fac6630caa443c336#OSW1e1793e6b72454f1a81b08eabc8272b7",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/m"
+        }
+    ]
+}

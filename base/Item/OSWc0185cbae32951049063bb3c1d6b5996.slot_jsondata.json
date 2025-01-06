@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c0185cba-e329-5104-9063-bb3c1d6b5996",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V-A-HR"
+    ],
+    "name": "V-A-HR",
+    "label": [
+        {
+            "text": "Volt Ampere Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the unit for apparent by ampere and the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V·A·h",
+    "conversion_factor_from_si": 3600.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6d5ce4cc-ab1e-5b92-828e-322448b1c8bc",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaV-A-HR"
+            ],
+            "osw_id": "Item:OSWc0185cbae32951049063bb3c1d6b5996#OSW6d5ce4ccab1e5b92828e322448b1c8bc",
+            "conversion_factor_from_si": 3600000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MV·A·h"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "970f5e8f-1203-58c7-aa37-deb9775ec7a0",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloV-A-HR"
+            ],
+            "osw_id": "Item:OSWc0185cbae32951049063bb3c1d6b5996#OSW970f5e8f120358c7aa37deb9775ec7a0",
+            "conversion_factor_from_si": 3600000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kV·A·h"
+        }
+    ]
+}

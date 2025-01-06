@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "63503515-8218-58d6-a2c9-d64b94e54ace",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HZ-M"
+    ],
+    "name": "HZ-M",
+    "label": [
+        {
+            "text": "Hertz Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the SI derived unit hertz and the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Hz·m",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0a03c178-7bd7-5930-855f-22d98c7bd4cb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaHZ-M"
+            ],
+            "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSW0a03c1787bd75930855f22d98c7bd4cb",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GHz·m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1a4d9f24-164c-50ba-8143-9e8a85b8f6b8",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaHZ-M"
+            ],
+            "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSW1a4d9f24164c50ba81439e8a85b8f6b8",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MHz·m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ae889a06-480a-5a0b-a336-966fb1f19724",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloHZ-M"
+            ],
+            "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSWae889a06480a5a0ba336966fb1f19724",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kHz·m"
+        }
+    ]
+}

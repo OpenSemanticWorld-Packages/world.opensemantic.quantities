@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7897b70c-933d-560b-9184-44de17703f23",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-FARAD"
+    ],
+    "name": "M-PER-FARAD",
+    "label": [
+        {
+            "text": "Metre per Farad",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/F",
+    "conversion_factor_from_si": 1.0
+}

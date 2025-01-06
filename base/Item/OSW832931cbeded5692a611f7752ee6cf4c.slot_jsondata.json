@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "832931cb-eded-5692-a611-f7752ee6cf4c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliL-PER-CentiM2-MIN"
+    ],
+    "name": "MilliL-PER-CentiM2-MIN",
+    "label": [
+        {
+            "text": "Millilitre per Square Centimetre Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "quotient of the 0.001-fold of the unit litre and the unit minute divided by the 0.0001-fold of the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mL/(cm²·min)",
+    "conversion_factor_from_si": 0.00016666667
+}

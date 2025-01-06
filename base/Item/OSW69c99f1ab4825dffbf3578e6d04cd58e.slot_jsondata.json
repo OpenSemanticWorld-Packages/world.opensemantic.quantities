@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "69c99f1a-b482-5dff-bf35-78e6d04cd58e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-SEC-PER-M"
+    ],
+    "name": "N-SEC-PER-M",
+    "label": [
+        {
+            "text": "Newton Second per Metre",
+            "lang": "en"
+        },
+        {
+            "text": "Newtonsekunden pro Meter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Newton second measured per metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·s/m",
+    "conversion_factor_from_si": 1.0
+}

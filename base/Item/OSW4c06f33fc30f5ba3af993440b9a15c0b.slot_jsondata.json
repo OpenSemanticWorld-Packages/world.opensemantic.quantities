@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4c06f33f-c30f-5ba3-af99-3440b9a15c0b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PPT"
+    ],
+    "name": "PPT",
+    "label": [
+        {
+            "text": "part per trillion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "trillionth of a quantity, unit of proportion equal to 10⁻¹²",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ppt",
+    "conversion_factor_from_si": 1e-12
+}

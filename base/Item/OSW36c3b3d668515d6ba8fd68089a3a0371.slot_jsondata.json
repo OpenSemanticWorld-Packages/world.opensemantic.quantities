@@ -1,0 +1,91 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "36c3b3d6-6851-5d6b-a8fd-68089a3a0371",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-GM"
+    ],
+    "name": "GM-PER-GM",
+    "label": [
+        {
+            "text": "Gram per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "mass ratio consisting of the 0.001-fold of the SI base unit kilogram divided by the 0.001-fold of the SI base unit kilogram.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/g",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0e151b86-9b43-58e0-9c5b-e62ba332b9e2",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoGM-PER-GM"
+            ],
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW0e151b869b4358e09c5be62ba332b9e2",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pg/g"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "31fbfb51-bd3f-59f8-ad07-21cb4d285ad3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-GM"
+            ],
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW31fbfb51bd3f59f8ad0721cb4d285ad3",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/g"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ddab3ad9-ea73-57eb-bf27-de6e6e20405d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GM-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWddab3ad9ea7357ebbf27de6e6e20405d",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "g/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ae508fcf-b7fb-56c7-8ae5-250e13758161",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWae508fcfb7fb56c78ae5250e13758161",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8b210935-1a6e-5074-92cb-ce6f37661a92",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroGM-PER-GM"
+            ],
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW8b2109351a6e507492cbce6f37661a92",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μg/g"
+        }
+    ]
+}

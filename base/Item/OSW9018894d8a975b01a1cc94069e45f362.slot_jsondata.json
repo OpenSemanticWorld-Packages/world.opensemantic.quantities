@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "9018894d-8a97-5b01-a1cc-94069e45f362",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaAngle"
+    ],
+    "name": "AreaAngle",
+    "label": [
+        {
+            "text": "Area Angle",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW9f81b80e2dfd530c98579b65285d4f20"
+    ]
+}

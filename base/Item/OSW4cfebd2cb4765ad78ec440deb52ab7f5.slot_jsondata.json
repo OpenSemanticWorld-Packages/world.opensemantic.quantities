@@ -1,0 +1,91 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4cfebd2c-b476-5ad7-8ec4-40deb52ab7f5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-M3"
+    ],
+    "name": "M3-PER-M3",
+    "label": [
+        {
+            "text": "Cubic Metre per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "power of the SI base unit metre with the exponent 3 divided by the power of the SI base unit metre with the exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/m³",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5c1e201d-d6c9-5648-9e62-424cd0484cb8",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM3-PER-M3"
+            ],
+            "osw_id": "Item:OSW4cfebd2cb4765ad78ec440deb52ab7f5#OSW5c1e201dd6c956489e62424cd0484cb8",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm³/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "aa0f0fc7-0af9-570a-aaa8-a282f09820d2",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciM3-PER-M3"
+            ],
+            "osw_id": "Item:OSW4cfebd2cb4765ad78ec440deb52ab7f5#OSWaa0f0fc70af9570aaaa8a282f09820d2",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dm³/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "708c1ab1-3569-50f8-a46e-58268324c325",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM3-PER-CentiM3"
+            ],
+            "osw_id": "Item:OSW4cfebd2cb4765ad78ec440deb52ab7f5#OSW708c1ab1356950f8a46e58268324c325",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm³/cm³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7726a7d1-3737-5db4-80e8-086b6f23506e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroM3-PER-M3"
+            ],
+            "osw_id": "Item:OSW4cfebd2cb4765ad78ec440deb52ab7f5#OSW7726a7d137375db480e8086b6f23506e",
+            "conversion_factor_from_si": 1e-18,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µm³/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "58a580a3-6eaa-5f2d-832c-1cae543c80b6",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM3-PER-M3"
+            ],
+            "osw_id": "Item:OSW4cfebd2cb4765ad78ec440deb52ab7f5#OSW58a580a36eaa5f2d832c1cae543c80b6",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm³/m³"
+        }
+    ]
+}

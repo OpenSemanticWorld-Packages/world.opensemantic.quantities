@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "accfb098-99f6-5bfa-93ef-ac2d83a7a2ad",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-WK"
+    ],
+    "name": "PER-WK",
+    "label": [
+        {
+            "text": "Reciprocal Week",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the unit week",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/wk",
+    "conversion_factor_from_si": 1.653439e-06
+}

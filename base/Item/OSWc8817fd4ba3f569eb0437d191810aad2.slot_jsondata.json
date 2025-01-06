@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c8817fd4-ba3f-569e-b043-7d191810aad2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-K"
+    ],
+    "name": "L-PER-K",
+    "label": [
+        {
+            "text": "Litre per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit litre divided by the SI base unit kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/K",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "46363710-6723-51fc-9456-61d8f38d2cbc",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliL-PER-K"
+            ],
+            "osw_id": "Item:OSWc8817fd4ba3f569eb0437d191810aad2#OSW46363710672351fc945661d8f38d2cbc",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mL/K"
+        }
+    ]
+}

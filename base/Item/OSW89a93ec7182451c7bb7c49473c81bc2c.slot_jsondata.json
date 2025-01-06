@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "89a93ec7-1824-51c7-bb7c-49473c81bc2c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-DAY"
+    ],
+    "name": "K-DAY",
+    "label": [
+        {
+            "text": "Kelvin day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K·day",
+    "conversion_factor_from_si": 86400.0
+}

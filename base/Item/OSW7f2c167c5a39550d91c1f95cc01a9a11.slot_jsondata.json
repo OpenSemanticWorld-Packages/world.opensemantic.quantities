@@ -1,0 +1,82 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7f2c167c-5a39-550d-91c1-f95cc01a9a11",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M2"
+    ],
+    "name": "W-PER-M2",
+    "label": [
+        {
+            "text": "watt per square metre",
+            "lang": "en"
+        },
+        {
+            "text": "Watt je Quadratmeter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Watt per Square Meter} is a unit of irradiance defined as the power received per area. This is a unit in the category of Energy flux. It is also known as watts per square meter, watt per square metre, watts per square metre, watt/square meter, watt/square metre. This unit is commonly used in the SI unit system. Watt Per Square Meter ($W/m^2$) has a dimension of $MT^{-3\"$ where $M$ is mass, and $T$ is time. This unit is the standard SI unit in this category.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/m²",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f194c328-c8ef-587c-8237-73008774afc8",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoW-PER-M2"
+            ],
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf194c328c8ef587c823773008774afc8",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pW/m²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f33a1a99-c605-5b17-8a0b-973e57e1aacb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliW-PER-M2"
+            ],
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf33a1a99c6055b178a0b973e57e1aacb",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mW/m²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "bec47ab0-8594-5564-b8bc-080ab7934395",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroW-PER-M2"
+            ],
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWbec47ab085945564b8bc080ab7934395",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µW/m²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a735be7b-016c-510f-98dd-404ee42c6722",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/W-PER-CentiM2"
+            ],
+            "osw_id": "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWa735be7b016c510f98dd404ee42c6722",
+            "conversion_factor_from_si": 10000.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "W/cm²"
+        }
+    ]
+}

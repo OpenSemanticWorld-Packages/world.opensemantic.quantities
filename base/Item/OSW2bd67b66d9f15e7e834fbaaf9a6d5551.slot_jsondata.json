@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "2bd67b66-d9f1-5e7e-834f-baaf9a6d5551",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM3-PER-GM"
+    ],
+    "name": "CentiM3-PER-GM",
+    "label": [
+        {
+            "text": "Cubic Centimetres per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Cubic Centimeter per Gram is a unit in the category of Specific Volume.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm³/g",
+    "conversion_factor_from_si": 0.001
+}

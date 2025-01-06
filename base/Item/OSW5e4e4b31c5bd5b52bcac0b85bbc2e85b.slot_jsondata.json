@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "5e4e4b31-c5bd-5b52-bcac-0b85bbc2e85b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ParticleFluence"
+    ],
+    "name": "ParticleFluence",
+    "label": [
+        {
+            "text": "Particle Fluence",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Particle Fluence\" is the total number of particles that intersect a unit area in a specific time interval of interest, and has units of /m2 (number of particles per meter squared).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW3adb44b7a27d5ed0b9691b095779cb1f"
+    ]
+}

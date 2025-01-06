@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "f9abc3f8-6f55-52c8-abfc-1274e4b73113",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassDensity"
+    ],
+    "name": "MassDensity",
+    "label": [
+        {
+            "text": "Mass density",
+            "lang": "en"
+        },
+        {
+            "text": "Massendichte",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The mass density or density of a material is its mass per unit volume.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW754b1a3564725113ac583f91ae2ea959",
+        "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3",
+        "Item:OSW613aca3c29d4537ba519026f4b0a9c15",
+        "Item:OSW907b448e923e5e1b87634be7b75171e3",
+        "Item:OSW2613ae16a3785d778c65246ece37f0b8"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c3381dee-2eac-5b17-b7a8-cfe282fa0930",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-MIN"
+    ],
+    "name": "M-PER-MIN",
+    "label": [
+        {
+            "text": "Metre per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Meter Per Minute (m/min) is a unit in the category of Velocity. It is also known as meter/minute, meters per minute, metre per minute, metres per minute. Meter Per Minute (m/min) has a dimension of LT-1 where $L$ is length, and $T$ is time. It can be converted to the corresponding standard SI unit m/s by multiplying its value by a factor of 0.016666666666",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/min",
+    "conversion_factor_from_si": 0.0166666667,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "27a4e0b5-0042-50da-9a51-b70aca7a8f57",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroM-PER-MIN"
+            ],
+            "osw_id": "Item:OSWc3381dee2eac5b17b7a8cfe282fa0930#OSW27a4e0b5004250da9a51b70aca7a8f57",
+            "conversion_factor_from_si": 1.66666667e-08,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μm/min"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "95923e28-6a94-571f-9148-3bdfff227a94",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM-PER-MIN"
+            ],
+            "osw_id": "Item:OSWc3381dee2eac5b17b7a8cfe282fa0930#OSW95923e286a94571f91483bdfff227a94",
+            "conversion_factor_from_si": 1.666667e-05,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm/min"
+        }
+    ]
+}

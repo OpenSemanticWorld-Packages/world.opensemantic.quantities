@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "b65a8cca-88fa-53ae-b0c1-c57e9ea70fc6",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RadiantIntensity"
+    ],
+    "close_ontology_match": [
+        "https://si-digital-framework.org/SI/quantities/RAIN"
+    ],
+    "name": "RadiantIntensity",
+    "label": [
+        {
+            "text": "Radiant Intensity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radiant Intensity is a measure of the intensity of electromagnetic radiation. It is defined as power per unit solid angle.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWeb74cc6d085859178ff708d39709ea29"
+    ]
+}

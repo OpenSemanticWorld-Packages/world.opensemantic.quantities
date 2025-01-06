@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "daab904a-55e6-554e-8d59-447f7d3c944b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-HZ2"
+    ],
+    "name": "M2-HZ2",
+    "label": [
+        {
+            "text": "Square Metres square Hertz",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²·Hz²",
+    "conversion_factor_from_si": 1.0
+}

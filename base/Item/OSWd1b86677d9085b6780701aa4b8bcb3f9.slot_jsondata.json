@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d1b86677-d908-5b67-8070-1aa4b8bcb3f9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-M-SR"
+    ],
+    "name": "PER-M-SR",
+    "label": [
+        {
+            "text": "Reciprocal metre per steradian",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(m·sr)",
+    "conversion_factor_from_si": 1.0
+}

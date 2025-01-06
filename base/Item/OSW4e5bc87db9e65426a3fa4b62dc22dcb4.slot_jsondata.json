@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4e5bc87d-b9e6-5426-a3fa-4b62dc22dcb4",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-HA"
+    ],
+    "name": "M3-PER-HA",
+    "label": [
+        {
+            "text": "Cubic Metre per Hectare",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/ha",
+    "conversion_factor_from_si": 0.0001
+}

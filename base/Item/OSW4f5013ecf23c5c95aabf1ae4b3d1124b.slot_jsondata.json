@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "4f5013ec-f23c-5c95-aabf-1ae4b3d1124b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarAngularMomentum"
+    ],
+    "name": "MolarAngularMomentum",
+    "label": [
+        {
+            "text": "Molar Angular Momentum",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW82c440beaf0d5f4980a8f525e5313fe5"
+    ]
+}

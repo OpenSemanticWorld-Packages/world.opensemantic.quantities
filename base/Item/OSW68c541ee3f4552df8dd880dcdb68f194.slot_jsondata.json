@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "68c541ee-3f45-52df-8dd8-80dcdb68f194",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalInsulance"
+    ],
+    "name": "ThermalInsulance",
+    "label": [
+        {
+            "text": "Thermal Insulance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Thermal Insulance}$ is the reduction of heat transfer (the transfer of thermal energy between objects of differing temperature) between objects in thermal contact or in range of radiative influence. In building technology, this quantity is often called $\\textit{Thermal Resistance}$, with the symbol $R$.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWeb19f8b7b92a5f09a0a4a398d29021dc"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "94bba2ee-2f9a-573e-b5fa-99c9331f1626",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-MOL"
+    ],
+    "name": "M3-PER-MOL",
+    "label": [
+        {
+            "text": "cubic metre per mole",
+            "lang": "en"
+        },
+        {
+            "text": "Kubikmeter je Mol",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "<p>The molar volume, symbol $Vm$, is the volume occupied by one mole of a substance (chemical element or chemical compound) at a given temperature and pressure. It is equal to the molar mass (M) divided by the mass density. It has the SI unit cubic metres per mole $m3/mol$, although it is more practical to use the units cubic decimetres per mole $dm3/mol$ for gases and cubic centimetres per mole $cm3/mol$ for liquids and solids</p>.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/mol",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6eaa02f1-d5ad-581f-97e7-e017fab31412",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciM3-PER-MOL"
+            ],
+            "osw_id": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW6eaa02f1d5ad581f97e7e017fab31412",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dm³/mol"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "90c99a00-002b-5483-a1ac-0638fdbe9078",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM3-PER-MOL"
+            ],
+            "osw_id": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW90c99a00002b5483a1ac0638fdbe9078",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm³/mol"
+        }
+    ]
+}

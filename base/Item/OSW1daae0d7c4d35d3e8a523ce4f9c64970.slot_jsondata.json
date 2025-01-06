@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "1daae0d7-c4d3-5d3e-8a52-3ce4f9c64970",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C-M"
+    ],
+    "name": "C-M",
+    "label": [
+        {
+            "text": "coulomb metre",
+            "lang": "en"
+        },
+        {
+            "text": "Coulombmeter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The $\\text{Coulomb Meter (C-m)}$ is a unit in the category of Electric dipole moment. \n  It is also known as atomic unit, u.a., au, ua. \n  This unit is commonly used in the SI unit system. \n  Coulomb Meter (C-m) has a dimension of LTI where $L$ is length, $T$ is time, and $I$ is electric current. \n  This unit is the standard SI unit in this category.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C·m",
+    "conversion_factor_from_si": 1.0
+}

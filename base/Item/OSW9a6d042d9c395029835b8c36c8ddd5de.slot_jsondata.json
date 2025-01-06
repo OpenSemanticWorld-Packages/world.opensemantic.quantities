@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "9a6d042d-9c39-5029-835b-8c36c8ddd5de",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-DEG_C"
+    ],
+    "name": "GM-PER-DEG_C",
+    "label": [
+        {
+            "text": "Gram Degree Celsius",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Gram Degree Celsius}$ is a C.G.S System unit for 'Mass Temperature' expressed as $g \\cdot degC$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/°C",
+    "conversion_factor_from_si": 0.001
+}

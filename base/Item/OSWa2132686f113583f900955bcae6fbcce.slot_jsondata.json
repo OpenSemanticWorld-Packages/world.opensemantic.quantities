@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "a2132686-f113-583f-9009-55bcae6fbcce",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearEnergyTransfer"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Linear_energy_transfer"
+    ],
+    "name": "LinearEnergyTransfer",
+    "label": [
+        {
+            "text": "Linear Energy Transfer",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Linear Energy Transfer\"  (LET) is the linear density of energy lost by a charged ionizing particle travelling through matter.Typically, this measure is used to quantify the effects of ionizing radiation on biological specimens or electronic devices.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0505357de255592eb766bdfce883acb3"
+    ]
+}

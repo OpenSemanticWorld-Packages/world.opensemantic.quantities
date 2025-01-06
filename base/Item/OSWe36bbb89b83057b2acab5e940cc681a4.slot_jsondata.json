@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "e36bbb89-b830-57b2-acab-5e940cc681a4",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EvaporativeHeatTransferCoefficient"
+    ],
+    "name": "CombinedNonEvaporativeHeatTransferCoefficient",
+    "label": [
+        {
+            "text": "Combined Non Evaporative Heat Transfer Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Evaporative Heat Transfer Coefficient\" is the areic heat transfer coefficient multiplied by the water vapor pressure difference between skind and the environment, and by the exchange area.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWa553473ceb6957438779040c3e07c200"
+    ]
+}

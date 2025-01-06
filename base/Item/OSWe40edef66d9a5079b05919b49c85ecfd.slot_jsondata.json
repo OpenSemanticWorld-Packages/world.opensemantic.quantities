@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e40edef6-6d9a-5079-b059-19b49c85ecfd",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-MOL"
+    ],
+    "name": "MOL-PER-MOL",
+    "label": [
+        {
+            "text": "Moles per mole",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unavailable.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/mol",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "3e8c3b40-71a2-534d-a3a3-5239cce2d24c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroMOL-PER-MOL"
+            ],
+            "osw_id": "Item:OSWe40edef66d9a5079b05919b49c85ecfd#OSW3e8c3b4071a2534da3a35239cce2d24c",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µmol/mol"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ef5a71e2-9563-5c2a-b228-ad67c561ed8a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliMOL-PER-MOL"
+            ],
+            "osw_id": "Item:OSWe40edef66d9a5079b05919b49c85ecfd#OSWef5a71e295635c2ab228ad67c561ed8a",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mmol/mol"
+        }
+    ]
+}

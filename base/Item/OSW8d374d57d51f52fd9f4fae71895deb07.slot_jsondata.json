@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "8d374d57-d51f-52fd-9f4f-ae71895deb07",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/SEC-PER-RAD-M3"
+    ],
+    "name": "SEC-PER-RAD-M3",
+    "label": [
+        {
+            "text": "Second per Radian Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "s/(rad·m³)",
+    "conversion_factor_from_si": 1.0
+}

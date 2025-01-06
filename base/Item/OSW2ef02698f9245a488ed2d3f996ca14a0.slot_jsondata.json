@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "2ef02698-f924-5a48-8ed2-d3f996ca14a0",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V2-PER-K2"
+    ],
+    "name": "V2-PER-K2",
+    "label": [
+        {
+            "text": "Square Volt per Square Kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V²/K²",
+    "conversion_factor_from_si": 1.0
+}

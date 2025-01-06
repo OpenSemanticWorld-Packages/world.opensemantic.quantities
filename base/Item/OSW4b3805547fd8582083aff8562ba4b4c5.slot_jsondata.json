@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "4b380554-7fd8-5820-83af-f8562ba4b4c5",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/kilo"
+    ],
+    "name": "kilo",
+    "label": [
+        {
+            "text": "kilo (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "k",
+    "factor": 1000.0
+}

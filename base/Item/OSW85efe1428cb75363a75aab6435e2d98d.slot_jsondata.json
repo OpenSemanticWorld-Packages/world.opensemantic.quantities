@@ -1,0 +1,84 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "85efe142-8cb7-5363-a75a-ab6435e2d98d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V",
+        "http://dbpedia.org/resource/Volt",
+        "https://si-digital-framework.org/SI/units/volt"
+    ],
+    "name": "V",
+    "label": [
+        {
+            "text": "volt",
+            "lang": "en"
+        },
+        {
+            "text": "Volt",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Volt}$ is the SI unit of electric potential. \n  Separating electric charges creates potential energy, which can be measured in energy units such as joules. \n  Electric potential is defined as the amount of potential energy present per unit of charge. \n  Electric potential is measured in volts, with one volt representing a potential of one joule per coulomb of charge. \n  The name of the unit honors the Italian scientist Count Alessandro Volta (1745-1827), the inventor of the first battery.\n  The volt also may be expressed with a variety of other units. \n  For example, a volt is also equal to one watt per ampere ($W/A$) and one joule per ampere per second ($J/A/s$).\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "78798aa1-bdcb-57f0-aea8-d4eb86ff3355",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaV"
+            ],
+            "osw_id": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW78798aa1bdcb57f0aea8d4eb86ff3355",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MV"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4deed980-237a-5360-b48e-0dd1331d4199",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloV"
+            ],
+            "osw_id": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW4deed980237a5360b48e0dd1331d4199",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kV"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c0cb09a9-4aa5-5358-9a59-ea70bfccfc96",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroV"
+            ],
+            "osw_id": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSWc0cb09a94aa553589a59ea70bfccfc96",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µV"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "82d25d00-b148-5cc1-8c20-4f95de4536a9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliV"
+            ],
+            "osw_id": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW82d25d00b1485cc18c204f95de4536a9",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mV"
+        }
+    ]
+}

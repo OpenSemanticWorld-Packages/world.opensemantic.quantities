@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4ed5503a-56ab-514a-b3d9-25287da52a95",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-SEC"
+    ],
+    "name": "M3-PER-SEC",
+    "label": [
+        {
+            "text": "Cubic Metre per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A cubic metre per second ($m^{3}s^{-1}, m^{3}/s$), cumecs or cubic meter per second in American English) is a derived SI unit of flow rate equal to that of a stere or cube with sides of one metre ( u0303 39.37 in) in length exchanged or moving each second. It is popularly used for water flow, especially in rivers and streams, and fractions for HVAC values measuring air flow.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/s",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "acda1333-cb69-5806-9dc8-3172f3a047db",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM3-PER-SEC"
+            ],
+            "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSWacda1333cb6958069dc83172f3a047db",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm³/s"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "58c067fb-208b-5294-8995-99809141c3ff",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciM3-PER-SEC"
+            ],
+            "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSW58c067fb208b5294899599809141c3ff",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dm³/s"
+        }
+    ]
+}

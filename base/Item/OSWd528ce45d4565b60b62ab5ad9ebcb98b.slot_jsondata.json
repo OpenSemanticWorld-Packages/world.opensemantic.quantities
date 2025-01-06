@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d528ce45-d456-5b60-b62a-b5ad9ebcb98b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/RAD-PER-HR"
+    ],
+    "name": "RAD-PER-HR",
+    "label": [
+        {
+            "text": "Radian per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Radian per Hour\" is a unit for  'Angular Velocity' expressed as $rad/h$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "rad/h",
+    "conversion_factor_from_si": 0.0002777777777777778
+}

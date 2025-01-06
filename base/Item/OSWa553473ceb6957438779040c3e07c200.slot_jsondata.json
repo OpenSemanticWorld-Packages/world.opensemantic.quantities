@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "a553473c-eb69-5743-8779-040c3e07c200",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M2-PA"
+    ],
+    "name": "W-PER-M2-PA",
+    "label": [
+        {
+            "text": "Watt per Square Metre Pascal",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Watt Per Square Meter Per Pascal ($W/m^2-pa$) is a unit of Evaporative Heat Transfer.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(m²·Pa)",
+    "conversion_factor_from_si": 1.0
+}

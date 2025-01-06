@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4223c921-2104-5211-96c4-e0355088f6a2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-PER-MIN"
+    ],
+    "name": "DEG_C-PER-MIN",
+    "label": [
+        {
+            "text": "Degree Celsius per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Degree Celsius per Minute}$ is a unit for 'Temperature Per Time' expressed as $degC / m$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C/min",
+    "conversion_factor_from_si": 0.016666666666666666
+}

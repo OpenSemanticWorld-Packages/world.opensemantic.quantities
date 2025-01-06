@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "b6bcfcd3-d9bc-59db-a8ac-8a7ab68fe078",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricFieldStrength"
+    ],
+    "close_ontology_match": [
+        "https://si-digital-framework.org/SI/quantities/ELFS"
+    ],
+    "name": "ElectricFieldStrength",
+    "label": [
+        {
+            "text": "Electric field strength",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Feldstärke",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Electric Field Strength}$ is the magnitude and direction of an electric field, expressed by the value of $E$, also referred to as $\\color{indigo} {\\textit{electric field intensity}}$ or simply the electric field.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb"
+    ]
+}

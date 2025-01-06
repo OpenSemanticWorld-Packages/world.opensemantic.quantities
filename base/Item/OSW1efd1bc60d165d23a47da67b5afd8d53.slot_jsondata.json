@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "1efd1bc6-0d16-5d23-a47d-a67b5afd8d53",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BQ-SEC-PER-M3"
+    ],
+    "name": "BQ-SEC-PER-M3",
+    "label": [
+        {
+            "text": "Becquerels second per cubic metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "TBD",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Bq·s/m³",
+    "conversion_factor_from_si": 1.0
+}

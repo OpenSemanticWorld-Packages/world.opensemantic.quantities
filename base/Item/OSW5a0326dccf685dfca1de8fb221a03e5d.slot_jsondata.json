@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "5a0326dc-cf68-5dfc-a1de-8fb221a03e5d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-PER-SEC"
+    ],
+    "name": "K-PER-SEC",
+    "label": [
+        {
+            "text": "Kelvin per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Kelvin per Second}$ is a unit for 'Temperature Per Time' expressed as $K / s$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K/s",
+    "conversion_factor_from_si": 1.0
+}

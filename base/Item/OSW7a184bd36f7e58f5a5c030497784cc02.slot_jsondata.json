@@ -1,0 +1,79 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7a184bd3-6f7e-58f5-a5c0-30497784cc02",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-HR"
+    ],
+    "name": "W-HR",
+    "label": [
+        {
+            "text": "Watthour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The watt hour is a unit of energy, equal to 3,600 joule.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W·h",
+    "conversion_factor_from_si": 3600.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5704cffb-8be7-5d4b-a16c-e0b5f4be48ab",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloW-HR",
+                "http://dbpedia.org/resource/Kilowatt_hour"
+            ],
+            "osw_id": "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW5704cffb8be75d4ba16ce0b5f4be48ab",
+            "conversion_factor_from_si": 3600000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kW·h"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "18cf8f66-41b2-57d8-9583-4485eb0b2a75",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaW-HR"
+            ],
+            "osw_id": "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW18cf8f6641b257d895834485eb0b2a75",
+            "conversion_factor_from_si": 3600000000000.0,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GW·h"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8af49b32-8ebd-55f0-8d45-cf3fc0de2f79",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaW-HR"
+            ],
+            "osw_id": "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW8af49b328ebd55f08d45cf3fc0de2f79",
+            "conversion_factor_from_si": 3600000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MW·h"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "73af3668-3bb3-5cf1-aa68-e16032c95802",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/TeraW-HR"
+            ],
+            "osw_id": "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW73af36683bb35cf1aa68e16032c95802",
+            "conversion_factor_from_si": 3600000000000000.0,
+            "prefix": "Item:OSW8c95fb553826551fb7c0294a7c0ada41",
+            "main_symbol": "TW·h"
+        }
+    ]
+}

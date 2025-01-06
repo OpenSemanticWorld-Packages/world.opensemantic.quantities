@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "d211fc61-709b-5e48-a4c9-6473c86a8d13",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-M2"
+    ],
+    "name": "KiloGM-M2",
+    "label": [
+        {
+            "text": "kilogram square metre",
+            "lang": "en"
+        },
+        {
+            "text": "Kilogramm mal Quadratmeter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Kilogram Square Meter\" is a unit for  'Moment Of Inertia' expressed as $kg-m^2$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg·m²",
+    "conversion_factor_from_si": 1.0
+}

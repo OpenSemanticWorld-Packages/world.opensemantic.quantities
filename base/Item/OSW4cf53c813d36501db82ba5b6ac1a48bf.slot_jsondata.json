@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4cf53c81-3d36-501d-b82b-a5b6ac1a48bf",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M"
+    ],
+    "name": "W-PER-M",
+    "label": [
+        {
+            "text": "Watts per metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit watt divided by the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/m",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "a07b4db8-8a6c-555d-ae2e-1681b718ada9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K2"
+    ],
+    "name": "K2",
+    "label": [
+        {
+            "text": "Square Kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K²",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "062fff28-97f0-5319-ae35-67119485c72b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-SEC-PER-M2"
+    ],
+    "name": "W-SEC-PER-M2",
+    "label": [
+        {
+            "text": "Watt seconds per square metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W·s/m²",
+    "conversion_factor_from_si": 1.0
+}

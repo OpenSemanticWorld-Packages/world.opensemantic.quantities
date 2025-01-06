@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b2f2150d-25eb-5a94-8de6-ae5033a72afa",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-SEC-M2-SR"
+    ],
+    "name": "PER-SEC-M2-SR",
+    "label": [
+        {
+            "text": "Reciprocal Second Square Metre Steradian",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Second Square Meter Steradian is a denominator unit with dimensions $/sec-m^2-sr$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(s·m²·sr)",
+    "conversion_factor_from_si": 1.0
+}

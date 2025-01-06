@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "51273aee-c078-59f6-b24a-13aaf5072cc4",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectromagneticPermeability"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Permeability"
+    ],
+    "name": "Permeability",
+    "label": [
+        {
+            "text": "Permeability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Permeability}$ is the degree of magnetization of a material that responds linearly to an applied magnetic field. \n  In general permeability is a tensor-valued quantity. \n  The definition given applies to an isotropic medium. \n  For an anisotropic medium permeability is a second order tensor. \n  In electromagnetism, permeability is the measure of the ability of a material to support the formation of a magnetic field within itself. \n  In other words, it is the degree of magnetization that a material obtains in response to an applied magnetic field. \n  Magnetic permeability is typically represented by the Greek letter $\\mu$. \n  The term was coined in September, 1885 by Oliver Heaviside. \n  The reciprocal of magnetic permeability is $\\textit{Magnetic Reluctivity}$.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW12866a70d0a25caa932f30e99aceaf78"
+    ]
+}

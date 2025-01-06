@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "19835c2f-0ed3-5921-a397-98e1da0ef04d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TONNE-PER-MIN"
+    ],
+    "name": "TONNE-PER-MIN",
+    "label": [
+        {
+            "text": "Tonne per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit tonne divided by the unit for time minute",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t/min",
+    "conversion_factor_from_si": 16.666666666666668
+}

@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "d86694cd-89e6-560a-9651-789b50ef3448",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Polarizability"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Polarizability"
+    ],
+    "name": "Polarisability",
+    "label": [
+        {
+            "text": "Polarisability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Maß für die Deformierbarkeit der Elektronenhülle von Molekülen und Atomen",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW9ed3650077ea5a42931687ccd72f11ba",
+        "Item:OSWd5e480234d635c7e8c93bbd6c99e521a"
+    ]
+}

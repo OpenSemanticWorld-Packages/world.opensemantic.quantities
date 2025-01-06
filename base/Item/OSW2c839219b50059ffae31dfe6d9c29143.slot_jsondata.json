@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "2c839219-b500-59ff-ae31-dfe6d9c29143",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseVolume"
+    ],
+    "name": "InverseVolume",
+    "label": [
+        {
+            "text": "Inverse Volume",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW22ea6fd32be65173b6ce52e47446c8ed",
+        "Item:OSW3033afc70c4f524dbabf2a0fb0c6352b"
+    ]
+}

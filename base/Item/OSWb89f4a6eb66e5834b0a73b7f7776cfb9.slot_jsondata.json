@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "b89f4a6e-b66e-5834-b0a7-3b7f7776cfb9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Density"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Density",
+        "https://si-digital-framework.org/SI/quantities/DENS"
+    ],
+    "name": "Density",
+    "label": [
+        {
+            "text": "Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The mass density or density of a material is defined as its mass per unit volume. \n  The symbol most often used for density is $\\rho$. \n   Mathematically, density is defined as mass divided by volume: $\\rho = m/V$,\n    where $\\rho$ is the density, $m$ is the mass, and $V$ is the volume. \n    In some cases, density is also defined as its weight per unit volume, although this quantity is more properly called specific weight.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW754b1a3564725113ac583f91ae2ea959",
+        "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3",
+        "Item:OSW613aca3c29d4537ba519026f4b0a9c15",
+        "Item:OSW907b448e923e5e1b87634be7b75171e3",
+        "Item:OSW2613ae16a3785d778c65246ece37f0b8"
+    ]
+}

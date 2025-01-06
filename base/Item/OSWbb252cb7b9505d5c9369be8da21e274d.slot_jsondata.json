@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "bb252cb7-b950-5d5c-9369-be8da21e274d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BQ-PER-L"
+    ],
+    "name": "BQ-PER-L",
+    "label": [
+        {
+            "text": "Becquerels per litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One radioactive disintegration per second from a one part in 10**3 of the SI unit of volume (cubic metre).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Bq/L",
+    "conversion_factor_from_si": 1000.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5ca6e9dc-c49f-53d6-921d-b368597bdc2a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliBQ-PER-L"
+            ],
+            "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSW5ca6e9dcc49f53d6921db368597bdc2a",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mBq/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0ac5a24d-6907-5e45-80b8-8126796660ea",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoBQ-PER-L"
+            ],
+            "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSW0ac5a24d69075e4580b88126796660ea",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nBq/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ea37c502-2a28-5510-8938-0a9351fb06a6",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroBQ-PER-L"
+            ],
+            "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSWea37c5022a28551089380a9351fb06a6",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μBq/L"
+        }
+    ]
+}

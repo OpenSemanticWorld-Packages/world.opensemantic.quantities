@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4bd500e7-dccd-574c-a2b8-6fdb915507fe",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-MO"
+    ],
+    "name": "PER-MO",
+    "label": [
+        {
+            "text": "Reciprocal Month",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the unit month",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/mo",
+    "conversion_factor_from_si": 3.91935077e-07
+}

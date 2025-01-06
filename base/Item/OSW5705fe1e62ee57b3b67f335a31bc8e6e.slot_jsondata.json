@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "5705fe1e-62ee-57b3-b67f-335a31bc8e6e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-SEC"
+    ],
+    "name": "A-SEC",
+    "label": [
+        {
+            "text": "Ampere Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product out of the SI base unit ampere and the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A·s",
+    "conversion_factor_from_si": 1.0
+}

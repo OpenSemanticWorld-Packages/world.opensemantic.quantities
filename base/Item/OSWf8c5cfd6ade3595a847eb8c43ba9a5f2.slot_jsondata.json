@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "f8c5cfd6-ade3-595a-847e-b8c43ba9a5f2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PressureLossPerLength"
+    ],
+    "name": "PressureLossPerLength",
+    "label": [
+        {
+            "text": "Pressure Loss per Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Pressure Loss per Length\" refers to the power lost in overcoming the friction between two moving surfaces. Also referred to as \"Friction Loss\".",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW876a1c66fd4c5fda86f129d3b65a1b98"
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "2b1e97f1-edd6-50c0-88ab-be8896fe0333",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-PER-M2"
+    ],
+    "name": "A-PER-M2",
+    "label": [
+        {
+            "text": "ampere per square metre",
+            "lang": "en"
+        },
+        {
+            "text": "Ampere je Quadratmeter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Ampere Per Square Meter}$ is a unit in the category of electric current density. \nThis unit is commonly used in the SI unit system.\n",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A/m²",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ec1a540d-0374-5760-af1d-26077e9d762e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/A-PER-CentiM2"
+            ],
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWec1a540d03745760af1d26077e9d762e",
+            "conversion_factor_from_si": 10000.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "A/cm²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "d0a4ce0c-c105-550b-9bcb-c416589a1b85",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaA-PER-M2"
+            ],
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWd0a4ce0cc105550b9bcbc416589a1b85",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MA/m²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8d7d0b57-aaba-5f8a-8f40-e8bacc5cb2f6",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/A-PER-MilliM2"
+            ],
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSW8d7d0b57aaba5f8a8f40e8bacc5cb2f6",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "A/mm²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a80d9ac2-c045-5902-ab95-31512c9b7667",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloA-PER-M2"
+            ],
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWa80d9ac2c0455902ab9531512c9b7667",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kA/m²"
+        }
+    ]
+}

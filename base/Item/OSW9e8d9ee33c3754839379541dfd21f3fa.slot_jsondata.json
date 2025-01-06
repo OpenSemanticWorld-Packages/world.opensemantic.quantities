@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "9e8d9ee3-3c37-5483-9379-541dfd21f3fa",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-M"
+    ],
+    "name": "PA-M",
+    "label": [
+        {
+            "text": "Pascal metres",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa·m",
+    "conversion_factor_from_si": 1.0
+}

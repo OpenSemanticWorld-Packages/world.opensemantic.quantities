@@ -1,0 +1,58 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "6b270053-3059-55a8-9f37-c50637fc7aeb",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/RAD",
+        "http://dbpedia.org/resource/Radian",
+        "https://si-digital-framework.org/SI/units/radian"
+    ],
+    "name": "RAD",
+    "label": [
+        {
+            "text": "radian",
+            "lang": "en"
+        },
+        {
+            "text": "Radiant",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The radian is the standard unit of angular measure, used in many areas of mathematics. It describes the plane angle subtended by a circular arc as the length of the arc divided by the radius of the arc. The unit was formerly a SI supplementary unit, but this category was abolished in 1995 and the radian is now considered a SI derived unit. The SI unit of solid angle measurement is the steradian.  The radian is represented by the symbol \"rad\" or, more rarely, by the superscript c (for \"circular measure\"). For example, an angle of 1.2 radians would be written as \"1.2 rad\" or \"1.2c\" (the second symbol is often mistaken for a degree: \"1.2u00b0\"). As the ratio of two lengths, the radian is a \"pure number\" that needs no unit symbol, and in mathematical writing the symbol \"rad\" is almost always omitted. In the absence of any symbol radians are assumed, and when degrees are meant the symbol u00b0 is used. [Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "rad",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "80a423e7-17c3-546f-8085-fa732b37409e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroRAD"
+            ],
+            "osw_id": "Item:OSW6b270053305955a89f37c50637fc7aeb#OSW80a423e717c3546f8085fa732b37409e",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µrad"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8fb3bf64-b8f7-5149-8553-ead8995be20c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliRAD"
+            ],
+            "osw_id": "Item:OSW6b270053305955a89f37c50637fc7aeb#OSW8fb3bf64b8f751498553ead8995be20c",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mrad"
+        }
+    ]
+}

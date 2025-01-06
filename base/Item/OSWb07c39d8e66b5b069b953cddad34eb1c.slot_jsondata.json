@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b07c39d8-e66b-5b06-9b95-3cddad34eb1c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-HR"
+    ],
+    "name": "PER-HR",
+    "label": [
+        {
+            "text": "Reciprocal Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A reciprocal unit of time for $\\textit{reciprocal hour}$ or \"inverse hour\".",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/h",
+    "conversion_factor_from_si": 0.0002777777777777778
+}

@@ -1,0 +1,159 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "3c9bf4c3-682f-5a52-b6e9-9f7ad7949903",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM",
+        "http://dbpedia.org/resource/Gram"
+    ],
+    "name": "GM",
+    "label": [
+        {
+            "text": "Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of mass in the metric system. The name comes from the Greek gramma, a small weight identified in later Roman and Byzantine times with the Latin scripulum or scruple (the English scruple is equal to about 1.3 grams). The gram was originally defined to be the mass of one cubic centimeter of pure water, but to provide precise standards it was necessary to construct physical objects of specified mass. One gram is now defined to be 1/1000 of the mass of the standard kilogram, a platinum-iridium bar carefully guarded by the International Bureau of Weights and Measures in Paris for more than a century. (The kilogram, rather than the gram, is considered the base unit of mass in the SI.) The gram is a small mass, equal to about 15.432 grains or 0.035 273 966 ounce. ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "74be15fb-3c25-50a8-9b30-c9f978c4a96d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciGM"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW74be15fb3c2550a89b30c9f978c4a96d",
+            "conversion_factor_from_si": 0.0001,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "da255533-fa61-5a42-b08d-db7aaa8236f0",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM",
+                "http://dbpedia.org/resource/Kilogram",
+                "https://si-digital-framework.org/SI/units/kilogram"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c9a377f2-fa5d-5e16-bcf2-404f8a7a3645",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroGM"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc9a377f2fa5d5e16bcf2404f8a7a3645",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "046adde6-9833-5d9d-aded-9fe04946e8fb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaGM"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW046adde698335d9daded9fe04946e8fb",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "Mg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "669f0616-140d-59fc-987c-6e5be8b70715",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiGM"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW669f0616140d59fc987c6e5be8b70715",
+            "conversion_factor_from_si": 1e-05,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9f455556-55d0-54a1-8cfc-956f56720b4a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoGM"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW9f45555655d054a18cfc956f56720b4a",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c82356a0-512e-545f-a594-c0454498cd0a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoGM"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc82356a0512e545fa594c0454498cd0a",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "ng"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "203cd6c3-e616-540c-b3c6-dad0ff389725",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW203cd6c3e616540cb3c6dad0ff389725",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "88dc7f02-bedd-5111-a34e-d02756f37892",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/HectoGM"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW88dc7f02bedd5111a34ed02756f37892",
+            "conversion_factor_from_si": 0.1,
+            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
+            "main_symbol": "hg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9b69b8d2-4e74-5d38-a5bf-ff237c0f075d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DecaGM"
+            ],
+            "osw_id": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW9b69b8d24e745d38a5bfff237c0f075d",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSW2b7aeb54b7395e99b3d5c20b77de4b15",
+            "main_symbol": "dag"
+        }
+    ]
+}

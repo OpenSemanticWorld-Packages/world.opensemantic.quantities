@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "10b53564-98ad-5270-ae35-80174fbd225a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-YR"
+    ],
+    "name": "M3-PER-YR",
+    "label": [
+        {
+            "text": "Cubic Metre per Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "cubic meter divided by the unit year with 365 days",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/a",
+    "conversion_factor_from_si": 3.168808781e-08
+}

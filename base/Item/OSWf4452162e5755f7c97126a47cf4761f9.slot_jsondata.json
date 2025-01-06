@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f4452162-e575-5f7c-9712-6a47cf4761f9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-PER-MIN"
+    ],
+    "name": "PA-PER-MIN",
+    "label": [
+        {
+            "text": "Pascal per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of pressure measured as the number of Pascals in a period of one minute.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa/min",
+    "conversion_factor_from_si": 0.0166666667
+}

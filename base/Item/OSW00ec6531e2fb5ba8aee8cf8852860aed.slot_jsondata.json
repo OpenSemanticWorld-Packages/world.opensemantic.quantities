@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "00ec6531-e2fb-5ba8-aee8-cf8852860aed",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/SEC2"
+    ],
+    "name": "SEC2",
+    "label": [
+        {
+            "text": "Square Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Square Second\" is a unit for  'Square Time' expressed as $s^{2}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "s²",
+    "conversion_factor_from_si": 1.0
+}

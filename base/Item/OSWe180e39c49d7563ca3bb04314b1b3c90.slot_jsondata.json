@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e180e39c-49d7-563c-a3bb-04314b1b3c90",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/T-M"
+    ],
+    "name": "T-M",
+    "label": [
+        {
+            "text": "T-M",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "T·m",
+    "conversion_factor_from_si": 1.0
+}

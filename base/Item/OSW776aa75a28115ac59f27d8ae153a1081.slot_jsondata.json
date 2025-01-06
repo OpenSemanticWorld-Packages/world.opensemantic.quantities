@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "776aa75a-2811-5ac5-9f27-d8ae153a1081",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_F-PER-K"
+    ],
+    "name": "DEG_F-PER-K",
+    "label": [
+        {
+            "text": "Degree Fahrenheit per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "traditional unit degree Fahrenheit for temperature according to the Anglo-American system of units divided by the SI base unit Kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°F/K",
+    "conversion_factor_from_si": 0.5555556
+}

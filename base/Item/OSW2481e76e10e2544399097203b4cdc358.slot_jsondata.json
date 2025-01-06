@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "2481e76e-10e2-5443-9909-7203b4cdc358",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Permeability"
+    ],
+    "close_ontology_match": [
+        "https://si-digital-framework.org/SI/quantities/PRME"
+    ],
+    "name": "Permeability",
+    "label": [
+        {
+            "text": "Permeability",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW12866a70d0a25caa932f30e99aceaf78"
+    ]
+}

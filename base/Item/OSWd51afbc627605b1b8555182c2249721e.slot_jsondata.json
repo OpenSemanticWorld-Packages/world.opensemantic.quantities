@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d51afbc6-2760-5b1b-8555-182c2249721e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-M-PER-A"
+    ],
+    "name": "N-M-PER-A",
+    "label": [
+        {
+            "text": "Newton Metre per Ampere",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the SI derived unit newton and the SI base unit metre divided by the SI base unit ampere",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·m/A",
+    "conversion_factor_from_si": 1.0
+}

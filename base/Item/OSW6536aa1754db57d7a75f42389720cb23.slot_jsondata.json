@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "6536aa17-54db-57d7-a75f-42389720cb23",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/exa"
+    ],
+    "name": "exa",
+    "label": [
+        {
+            "text": "exa (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "E",
+    "factor": 1e+18
+}

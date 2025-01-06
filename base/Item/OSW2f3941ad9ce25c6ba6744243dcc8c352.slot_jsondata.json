@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "2f3941ad-9ce2-5c6b-a674-4243dcc8c352",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-C"
+    ],
+    "name": "M3-PER-C",
+    "label": [
+        {
+            "text": "Cubic Metre per Coulomb",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/C",
+    "conversion_factor_from_si": 1.0
+}

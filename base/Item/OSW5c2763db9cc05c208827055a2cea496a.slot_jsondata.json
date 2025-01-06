@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "5c2763db-9cc0-5c20-8827-055a2cea496a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-SR"
+    ],
+    "name": "PER-SR",
+    "label": [
+        {
+            "text": "Reciprocal steradian",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/sr",
+    "conversion_factor_from_si": 1.0
+}

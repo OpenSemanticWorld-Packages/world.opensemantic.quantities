@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "907b448e-923e-5e1b-8763-4be7b75171e3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TONNE-PER-M3"
+    ],
+    "name": "TONNE-PER-M3",
+    "label": [
+        {
+            "text": "Tonne per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit tonne divided by the power of the SI base unit metre with the exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t/m³",
+    "conversion_factor_from_si": 1000.0
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e0b09824-8f75-57aa-a6a8-92a6ecbd32b8",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C4-M4-PER-J3"
+    ],
+    "name": "C4-M4-PER-J3",
+    "label": [
+        {
+            "text": "Quartic Coulomb Metre per Cubic Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Quartic Coulomb Meter per Cubic Energy\" is a unit for  'Quartic Electric Dipole Moment Per Cubic Energy' expressed as $C^{4} m^{4} J^{-3}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C⁴·m⁴/J³",
+    "conversion_factor_from_si": 1.0
+}

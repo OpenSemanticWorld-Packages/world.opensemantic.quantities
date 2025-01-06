@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "66fe6ce9-7e51-5860-9e11-8ef904c8eff6",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-DAY"
+    ],
+    "name": "PER-DAY",
+    "label": [
+        {
+            "text": "Reciprocal Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the unit day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/day",
+    "conversion_factor_from_si": 1.157407e-05
+}

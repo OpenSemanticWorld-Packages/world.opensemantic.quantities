@@ -1,0 +1,171 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "2edd6f23-4811-5984-99ec-e73cfe4cc661",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L",
+        "http://dbpedia.org/resource/Litre",
+        "https://si-digital-framework.org/SI/units/litre"
+    ],
+    "name": "L",
+    "label": [
+        {
+            "text": "Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $litre$ (American spelling: $\\textit{liter}$; SI symbol $l$ or $L$) is a non-SI metric system unit of volume equal to $1 \\textit{cubic decimetre}$ ($dm^3$), 1,000 cubic centimetres ($cm^3$) or $1/1000 \\textit{cubic metre}$. If the lower case \"L\" is used as the symbol, it is sometimes rendered as a cursive \"l\" to help distinguish it from the capital \"I\", although this usage has no official approval by any international bureau.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1eda2b70-d998-52a7-b49f-72d4c5ddde82",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSW1eda2b70d99852a7b49f72d4c5ddde82",
+            "conversion_factor_from_si": 1e-05,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e2749d29-c1eb-5efc-8a0c-45ff8a3fbc8e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FemtoL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWe2749d29c1eb5efc8a0c45ff8a3fbc8e",
+            "conversion_factor_from_si": 1e-18,
+            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
+            "main_symbol": "fL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9878aa2a-4f30-5061-835a-e867cd54f522",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSW9878aa2a4f305061835ae867cd54f522",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "549fe96f-cdb1-5fcf-94c0-d62ca59aeca8",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DecaL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSW549fe96fcdb15fcf94c0d62ca59aeca8",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSW2b7aeb54b7395e99b3d5c20b77de4b15",
+            "main_symbol": "daL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c6b7a00b-85e2-5b53-a17a-b4971acb4468",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWc6b7a00b85e25b53a17ab4971acb4468",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f2de94cb-890f-5af1-afb7-1e7427e7618b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/HectoL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWf2de94cb890f5af1afb71e7427e7618b",
+            "conversion_factor_from_si": 0.1,
+            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
+            "main_symbol": "hL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6ef1c809-ae91-5fc1-88c7-5ac27a1c1d52",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSW6ef1c809ae915fc188c75ac27a1c1d52",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7f609777-1a92-522c-ae5c-a049c24391c1",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSW7f6097771a92522cae5ca049c24391c1",
+            "conversion_factor_from_si": 0.0001,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7a27ed6e-b8ba-58f8-8e40-2a92a69c05a5",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSW7a27ed6eb8ba58f88e402a92a69c05a5",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ac2041b7-2b41-56a3-beb3-b476c343c496",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWac2041b72b4156a3beb3b476c343c496",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e9fe62c8-f7ee-5340-8ed0-6d996d2b0fc3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaL"
+            ],
+            "osw_id": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWe9fe62c8f7ee53408ed06d996d2b0fc3",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "ML"
+        }
+    ]
+}

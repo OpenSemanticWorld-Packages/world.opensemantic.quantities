@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "cd1c2695-4cdf-5421-b201-b431b289ee94",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-K"
+    ],
+    "name": "W-PER-K",
+    "label": [
+        {
+            "text": "Watt per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Watt Per Kelvin ($W/K$) is a unit in the category of Thermal conductivity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/K",
+    "conversion_factor_from_si": 1.0
+}

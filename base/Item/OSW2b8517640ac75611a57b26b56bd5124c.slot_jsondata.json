@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "2b851764-0ac7-5611-a57b-26b56bd5124c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M-K"
+    ],
+    "name": "W-PER-M-K",
+    "label": [
+        {
+            "text": "Watt per Metre Kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(m·K)",
+    "conversion_factor_from_si": 1.0
+}

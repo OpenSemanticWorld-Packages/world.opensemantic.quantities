@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "d90142d3-87e1-5278-abf2-fa16e444e719",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundExposureLevel"
+    ],
+    "name": "SoundExposureLevel",
+    "label": [
+        {
+            "text": "Sound exposure level",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Exposure Level abbreviated as $SEL$ and $LAE$, is the total noise energy produced from a single noise event, expressed as a logarithmic ratio from a reference level.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW20ac6724f1a05ee884222d546955e78f"
+    ]
+}

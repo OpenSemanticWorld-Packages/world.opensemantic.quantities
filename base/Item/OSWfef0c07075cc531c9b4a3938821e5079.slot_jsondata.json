@@ -1,0 +1,111 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "fef0c070-75cc-531c-9b4a-3938821e5079",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BYTE",
+        "http://dbpedia.org/resource/Byte"
+    ],
+    "name": "BYTE",
+    "label": [
+        {
+            "text": "Byte",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The byte is a unit of digital information in computing and telecommunications that most commonly consists of eight bits.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "B",
+    "conversion_factor_from_si": 5.545177444479562,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "562ff5e0-0d23-5f1b-a9c7-a625806be057",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/ExaBYTE",
+                "http://dbpedia.org/resource/Exabyte"
+            ],
+            "osw_id": "Item:OSWfef0c07075cc531c9b4a3938821e5079#OSW562ff5e00d235f1ba9c7a625806be057",
+            "conversion_factor_from_si": 5.545177444479563e+18,
+            "prefix": "Item:OSW6536aa1754db57d7a75f42389720cb23",
+            "main_symbol": "EB"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0d3db45c-1d36-550e-8139-e6a7766eb121",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/TeraBYTE",
+                "http://dbpedia.org/resource/Terabyte"
+            ],
+            "osw_id": "Item:OSWfef0c07075cc531c9b4a3938821e5079#OSW0d3db45c1d36550e8139e6a7766eb121",
+            "conversion_factor_from_si": 5545177444479.5625,
+            "prefix": "Item:OSW8c95fb553826551fb7c0294a7c0ada41",
+            "main_symbol": "TB"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "03722cae-42d8-52ab-9874-a208e5ec2847",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaBYTE",
+                "http://dbpedia.org/resource/Megabyte"
+            ],
+            "osw_id": "Item:OSWfef0c07075cc531c9b4a3938821e5079#OSW03722cae42d852ab9874a208e5ec2847",
+            "conversion_factor_from_si": 5545177.44447956,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MB"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ae14374e-b377-52fd-b774-f4b2fff5cc17",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PetaBYTE",
+                "http://dbpedia.org/resource/Petabyte"
+            ],
+            "osw_id": "Item:OSWfef0c07075cc531c9b4a3938821e5079#OSWae14374eb37752fdb774f4b2fff5cc17",
+            "conversion_factor_from_si": 5545177444479562.0,
+            "prefix": "Item:OSW8f99dd9018ab5f848ada364a751a65db",
+            "main_symbol": "PB"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f1746e66-7f71-5cd7-a957-a20e1d513695",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaBYTE",
+                "http://dbpedia.org/resource/Gigabyte"
+            ],
+            "osw_id": "Item:OSWfef0c07075cc531c9b4a3938821e5079#OSWf1746e667f715cd7a957a20e1d513695",
+            "conversion_factor_from_si": 5545177444.47956,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GB"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b4021832-fe82-5121-b4e3-0daa1066c358",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloBYTE",
+                "http://dbpedia.org/resource/Byte"
+            ],
+            "osw_id": "Item:OSWfef0c07075cc531c9b4a3938821e5079#OSWb4021832fe825121b4e30daa1066c358",
+            "conversion_factor_from_si": 5545.177444479563,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kB"
+        }
+    ]
+}

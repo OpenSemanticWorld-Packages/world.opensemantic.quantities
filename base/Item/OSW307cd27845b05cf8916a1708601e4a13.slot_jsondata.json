@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "307cd278-45b0-5cf8-916a-1708601e4a13",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-PER-HR"
+    ],
+    "name": "DEG_C-PER-HR",
+    "label": [
+        {
+            "text": "Degree Celsius per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Degree Celsius per Hour}$ is a unit for 'Temperature Per Time' expressed as $degC / h$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C/h",
+    "conversion_factor_from_si": 0.0002777777777777778
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4f047e2d-a1fc-5ea4-97c9-e22eb8e98ce5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CD-PER-M2"
+    ],
+    "name": "CD-PER-M2",
+    "label": [
+        {
+            "text": "candela per square metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The candela per square metre ($cd/m^2$) is the derived SI unit of luminance. The unit is based on the candela, the SI unit of luminous intensity, and the square metre, the SI unit of area. Nit (nt) is a deprecated non-SI name also used for this unit ($1 nit = 1 cd/m^2$). As a measure of light emitted per unit area, this unit is frequently used to specify the brightness of a display device. Most consumer desktop liquid crystal displays have luminances of 200 to 300 $cd/m^2$; the sRGB spec for monitors targets 80 cd/m2. HDTVs range from 450 to about 1000 cd/m2. Typically, calibrated monitors should have a brightness of $120 cd/m^2$. $Nit$ is believed to come from the Latin word nitere, to shine.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cd/m²",
+    "conversion_factor_from_si": 1.0
+}

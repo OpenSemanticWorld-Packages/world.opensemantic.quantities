@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "4bcfe6d9-b9a2-5963-9f7b-e944bd2a1c4f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassConcentration"
+    ],
+    "close_ontology_match": [
+        "https://si-digital-framework.org/SI/quantities/MACO"
+    ],
+    "name": "MassConcentration",
+    "label": [
+        {
+            "text": "Mass Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Mass Concentration\" of substance B  is defined as the mass of a constituent  divided by the volume of the mixture .",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3",
+        "Item:OSW754b1a3564725113ac583f91ae2ea959"
+    ]
+}

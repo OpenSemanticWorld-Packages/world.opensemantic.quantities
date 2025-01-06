@@ -1,0 +1,97 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "0846b0db-cf49-5d5a-ab11-72e4fb3bddec",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A",
+        "http://dbpedia.org/resource/Ampere",
+        "https://si-digital-framework.org/SI/units/ampere"
+    ],
+    "name": "A",
+    "label": [
+        {
+            "text": "ampere",
+            "lang": "en"
+        },
+        {
+            "text": "Ampere",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Ampere}$, often shortened to $\\text{amp}$, \nis the SI unit of electric current and is one of the seven SI base units defined as:\n\n$$\\text{A} \\equiv \\frac{\\textit{C}}{\\textit{s}} \n\\equiv \\frac{\\textit{coulomb}}{\\textit{second}} \n\\equiv \\frac{\\text{joule}}{\\text{weber}}$$\n\nNote that SI supports only the use of symbols and deprecates the use of any abbreviations for units.\n",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "49e59ce4-6e35-5881-9332-7425fa1d89ab",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloA"
+            ],
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW49e59ce46e35588193327425fa1d89ab",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kA"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "614e3543-b8aa-55a5-b4aa-87c9cd179703",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliA"
+            ],
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mA"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c611b97c-5c43-5405-9113-fb8f17a26f2f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaA"
+            ],
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWc611b97c5c4354059113fb8f17a26f2f",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MA"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "771bd899-c704-5f84-b282-cc653efe6d28",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroA"
+            ],
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW771bd899c7045f84b282cc653efe6d28",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μA"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b59bf219-62f7-5857-965d-f77a55549178",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoA"
+            ],
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWb59bf21962f75857965df77a55549178",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pA"
+        }
+    ]
+}

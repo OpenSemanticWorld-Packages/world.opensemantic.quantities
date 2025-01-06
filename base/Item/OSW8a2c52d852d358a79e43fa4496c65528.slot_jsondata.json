@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "8a2c52d8-52d3-58a7-9e43-fa4496c65528",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaEV-FemtoM"
+    ],
+    "name": "MegaEV-FemtoM",
+    "label": [
+        {
+            "text": "Mega Electron Volt Femtometre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Mega Electron Volt Femtometer}$ is a unit for  'Length Energy' expressed as $MeV fm$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "MeV·fm",
+    "conversion_factor_from_si": 1.602176634e-28
+}

@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "b6a5fd00-b910-58d1-9095-14095f84fe6f",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/nano"
+    ],
+    "name": "nano",
+    "label": [
+        {
+            "text": "nano (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "n",
+    "factor": 1e-09
+}

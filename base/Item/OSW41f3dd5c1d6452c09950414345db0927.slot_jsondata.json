@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "41f3dd5c-1d64-52c0-9950-414345db0927",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-M-SEC"
+    ],
+    "name": "PER-M-SEC",
+    "label": [
+        {
+            "text": "Reciprocal metre per second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(m·s)",
+    "conversion_factor_from_si": 1.0
+}

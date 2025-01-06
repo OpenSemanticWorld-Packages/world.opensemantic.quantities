@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "3b1e3671-0511-523d-a370-25a70b6a305d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-SEC2-K"
+    ],
+    "name": "M2-PER-SEC2-K",
+    "label": [
+        {
+            "text": "square metre per square second kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for expressing the specific heat capacity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/(s²·K)",
+    "conversion_factor_from_si": 1.0
+}

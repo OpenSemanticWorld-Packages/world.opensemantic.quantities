@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c6f784a6-9e07-5f0f-accd-43e108a28bc2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M2-M"
+    ],
+    "name": "W-PER-M2-M",
+    "label": [
+        {
+            "text": "Watts per square metre metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(m²·m)",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "56c5e9f9-5d03-5851-bf91-66fe99d6ebda",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/W-PER-M2-NanoM"
+            ],
+            "osw_id": "Item:OSWc6f784a69e075f0faccd43e108a28bc2#OSW56c5e9f95d035851bf9166fe99d6ebda",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "W/(m²·nm)"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "059c739d-ae61-53cc-8ae5-6fd38b7e0933",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RotationalMass"
+    ],
+    "name": "RotationalMass",
+    "label": [
+        {
+            "text": "Rotational Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Rotational Mass\" denotes the inertia of a body with respect to angular acceleration. It is usually measured in kg*m^2.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd211fc61709b5e48a4c96473c86a8d13"
+    ]
+}

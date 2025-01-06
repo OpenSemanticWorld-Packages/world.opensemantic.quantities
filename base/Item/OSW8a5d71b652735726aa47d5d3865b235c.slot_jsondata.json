@@ -1,0 +1,66 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "8a5d71b6-5273-5726-aa47-d5d3865b235c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-PER-M2",
+        "http://dbpedia.org/resource/Pascal"
+    ],
+    "name": "N-PER-M2",
+    "label": [
+        {
+            "text": "Newtons per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of pressure. The pascal is the standard pressure unit in the MKS metric system, equal to one newton per square meter or one \"kilogram per meter per second per second.\" The unit is named for Blaise Pascal (1623-1662), French philosopher and mathematician, who was the first person to use a barometer to measure differences in altitude.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N/m²",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ea4655cc-dd2c-5431-8678-37496520398b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloN-PER-M2"
+            ],
+            "osw_id": "Item:OSW8a5d71b652735726aa47d5d3865b235c#OSWea4655ccdd2c5431867837496520398b",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kN/m²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b2349615-78bc-56ac-a09b-152beb1ddbe5",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/N-PER-MilliM2"
+            ],
+            "osw_id": "Item:OSW8a5d71b652735726aa47d5d3865b235c#OSWb234961578bc56aca09b152beb1ddbe5",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "N/mm²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a7e9cca6-52af-5f5a-9fdc-3c62ca4c8c65",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/N-PER-CentiM2"
+            ],
+            "osw_id": "Item:OSW8a5d71b652735726aa47d5d3865b235c#OSWa7e9cca652af5f5a9fdc3c62ca4c8c65",
+            "conversion_factor_from_si": 10000.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "N/cm²"
+        }
+    ]
+}

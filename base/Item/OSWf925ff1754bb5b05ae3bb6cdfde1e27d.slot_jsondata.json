@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f925ff17-54bb-5b05-ae3b-b6cdfde1e27d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-PER-MIN"
+    ],
+    "name": "K-PER-MIN",
+    "label": [
+        {
+            "text": "Kelvin per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Kelvin per Minute}$ is a unit for 'Temperature Per Time' expressed as $K / m$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K/min",
+    "conversion_factor_from_si": 0.01666667
+}

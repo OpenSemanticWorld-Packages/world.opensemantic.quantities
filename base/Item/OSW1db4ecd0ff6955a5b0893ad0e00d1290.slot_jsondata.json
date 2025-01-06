@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "1db4ecd0-ff69-55a5-b089-3ad0e00d1290",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-M2"
+    ],
+    "name": "M2-PER-M2",
+    "label": [
+        {
+            "text": "square metre per square metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A square metre unit of area per square metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/m²",
+    "conversion_factor_from_si": 1.0
+}

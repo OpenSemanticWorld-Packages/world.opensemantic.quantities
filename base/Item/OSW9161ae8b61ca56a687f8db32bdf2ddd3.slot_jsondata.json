@@ -1,0 +1,117 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "9161ae8b-61ca-56a6-87f8-db32bdf2ddd3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M3"
+    ],
+    "name": "GM-PER-M3",
+    "label": [
+        {
+            "text": "Gram per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the power of the SI base unit metre with the exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/m³",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e3467b46-17cb-5ce4-8ee9-53c2cfe1333a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroGM-PER-M3"
+            ],
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSWe3467b4617cb5ce48ee953c2cfe1333a",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μg/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "cfbbb2b5-5903-53ea-a073-af78bdf6ba7f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoGM-PER-M3"
+            ],
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSWcfbbb2b5590353eaa073af78bdf6ba7f",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "ng/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "08e3de49-3176-593e-bb64-35ee52474b42",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GM-PER-DeciM3"
+            ],
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW08e3de493176593ebb6435ee52474b42",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "g/dm³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7f9186a7-3d00-52d5-96b0-2fc9d51a2847",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GM-PER-CentiM3"
+            ],
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW7f9186a73d0052d596b02fc9d51a2847",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "g/cm³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "52992dd0-def3-5dc9-ae8b-d6b5010d8ee8",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-M3"
+            ],
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW52992dd0def35dc9ae8bd6b5010d8ee8",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5f01e134-9c80-5e98-9c57-a994fd6406fa",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-M3"
+            ],
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW5f01e1349c805e989c57a994fd6406fa",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1e01b844-de6d-54b6-ba55-9b7fd2e692a9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaGM-PER-M3"
+            ],
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW1e01b844de6d54b6ba559b7fd2e692a9",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "Mg/m³"
+        }
+    ]
+}

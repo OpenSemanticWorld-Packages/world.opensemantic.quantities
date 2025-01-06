@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "70d2cca5-a9c7-5bec-807d-755997acbf8c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-SEC2"
+    ],
+    "name": "M3-PER-SEC2",
+    "label": [
+        {
+            "text": "Cubic Metre per Square Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Cubic Meter per Square Second}$ is a C.G.S System unit for  $\\textit{Standard Gravitational Parameter}$ expressed as $m^3/s^2$",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/s²",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "111bef40-f181-5809-9e03-d15fcd4af1fe",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloM3-PER-SEC2"
+            ],
+            "osw_id": "Item:OSW70d2cca5a9c75bec807d755997acbf8c#OSW111bef40f18158099e03d15fcd4af1fe",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "km³/s²"
+        }
+    ]
+}

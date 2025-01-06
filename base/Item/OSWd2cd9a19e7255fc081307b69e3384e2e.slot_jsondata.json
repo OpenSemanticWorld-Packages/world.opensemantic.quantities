@@ -1,0 +1,53 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d2cd9a19-e725-5fc0-8130-7b69e3384e2e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TON_Metric",
+        "http://dbpedia.org/resource/Tonne"
+    ],
+    "name": "TON_Metric",
+    "label": [
+        {
+            "text": "Metric Ton",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1,000-fold of the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t",
+    "conversion_factor_from_si": 1000.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9931691b-6a82-58b7-9d27-9550cb8385ca",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciTON_Metric"
+            ],
+            "osw_id": "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW9931691b6a8258b79d279550cb8385ca",
+            "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dt"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4acf7877-394a-57c5-9b6b-8bea588ceedf",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloTON_Metric"
+            ],
+            "osw_id": "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW4acf7877394a57c59b6b8bea588ceedf",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kt"
+        }
+    ]
+}

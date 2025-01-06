@@ -1,0 +1,108 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d855ce69-3a6d-5d3d-8bdf-5846093ae4fb",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V-PER-M"
+    ],
+    "name": "V-PER-M",
+    "label": [
+        {
+            "text": "volt per metre",
+            "lang": "en"
+        },
+        {
+            "text": "Volt je Meter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The unit $\\{Volt Per Meter (V/m)}$ is a unit in the category of Electric field strength. \n  It is also known as volts per meter, volt/meter, volt/metre, volt per metre, volts per metre. \n  This unit is commonly used in the SI unit system. \n  $\\{Volt Per Meter}$ has a dimension of $MLT^{-3}I^{-1}$ where $M$ is mass, $L$ is length, $T$ is time, and $I$ is electric current. \n  This unit is the standard SI unit in this category.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V/m",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9315a6f2-34fa-5674-97c5-344f4360ac89",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloV-PER-M"
+            ],
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW9315a6f234fa567497c5344f4360ac89",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kV/m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5503cb89-3f63-5d3a-955c-6be99f588596",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/V-PER-MilliM"
+            ],
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW5503cb893f635d3a955c6be99f588596",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "V/mm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ac4536de-9cb2-5c1d-b8f0-eb9f66e3fa25",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaV-PER-M"
+            ],
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWac4536de9cb25c1db8f0eb9f66e3fa25",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MV/m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e9e5b5d1-55c9-5fc9-b3bc-6f1ef6a63fa0",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroV-PER-M"
+            ],
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWe9e5b5d155c95fc9b3bc6f1ef6a63fa0",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µV/m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ed56aa34-d47a-55a5-bb40-bc28cd4b1533",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliV-PER-M"
+            ],
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWed56aa34d47a55a5bb40bc28cd4b1533",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mV/m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "68aa4631-6f8b-5bfc-8310-2870e2c9c5b4",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/V-PER-CentiM"
+            ],
+            "osw_id": "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW68aa46316f8b5bfc83102870e2c9c5b4",
+            "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "V/cm"
+        }
+    ]
+}

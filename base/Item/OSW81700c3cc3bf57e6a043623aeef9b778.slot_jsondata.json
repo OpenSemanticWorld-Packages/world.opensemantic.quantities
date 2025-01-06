@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "81700c3c-c3bf-57e6-a043-623aeef9b778",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LengthEnergy"
+    ],
+    "name": "LengthEnergy",
+    "label": [
+        {
+            "text": "Length Energy",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW8a2c52d852d358a79e43fa4496c65528"
+    ]
+}

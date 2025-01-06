@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "3dca300c-d5b8-5a2b-9c4a-ae83e782d642",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpectralRadiantEnergyDensity"
+    ],
+    "name": "SpectralRadiantEnergyDensity",
+    "label": [
+        {
+            "text": "Spectral Radiant Energy Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Spectral Radiant Energy Density\" is the spectral concentration of radiant energy density (in terms of wavelength), or the spectral radiant energy density (in terms of wave length).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff",
+        "Item:OSW0003c1109b645575b70f007360b49fa2"
+    ]
+}

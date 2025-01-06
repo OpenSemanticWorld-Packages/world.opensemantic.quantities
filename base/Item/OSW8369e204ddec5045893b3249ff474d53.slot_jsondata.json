@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "8369e204-ddec-5045-893b-3249ff474d53",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BQ-PER-M2"
+    ],
+    "name": "BQ-PER-M2",
+    "label": [
+        {
+            "text": "Becquerel per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Bq/m²",
+    "conversion_factor_from_si": 1.0
+}

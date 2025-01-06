@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "97e5f148-d95c-5856-8ebd-ff0b6645e4b0",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-M-PER-SEC"
+    ],
+    "name": "K-M-PER-SEC",
+    "label": [
+        {
+            "text": "Kelvin metres per second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K·m/s",
+    "conversion_factor_from_si": 1.0
+}

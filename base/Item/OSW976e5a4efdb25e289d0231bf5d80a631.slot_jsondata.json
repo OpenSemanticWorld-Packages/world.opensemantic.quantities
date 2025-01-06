@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "976e5a4e-fdb2-5e28-9d02-31bf5d80a631",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PhotonRadiance"
+    ],
+    "name": "PhotonRadiance",
+    "label": [
+        {
+            "text": "Photon Radiance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A measure of flux of photons per surface area per solid angle",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWb2f2150d25eb5a948de6ae5033a72afa"
+    ]
+}

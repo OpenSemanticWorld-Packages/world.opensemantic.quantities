@@ -1,0 +1,122 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "599c5384-bf7a-5de7-b8ce-e8b2e94c39e3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-M",
+        "http://dbpedia.org/resource/Newton_metre"
+    ],
+    "name": "N-M",
+    "label": [
+        {
+            "text": "newton metre",
+            "lang": "en"
+        },
+        {
+            "text": "Newtonmeter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Torque\" is the tendency of a force to cause a rotation, is the product of the force and the distance from the center of rotation to the point where the force is applied. Torque has the same units as work or energy, but it is a different physical concept. To stress the difference, scientists measure torque in newton meters rather than in joules, the SI unit of work. One newton meter is approximately 0.737562 pound foot.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·m",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "cc1060f0-faed-597f-bef0-006b2c6de73d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroN-M"
+            ],
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSWcc1060f0faed597fbef0006b2c6de73d",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μN·m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "62f79072-22b8-55ff-b192-0944af234145",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliN-M"
+            ],
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW62f7907222b855ffb1920944af234145",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mN·m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4a6a4e34-8869-5755-a9b8-1d0947b0f85a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/N-CentiM"
+            ],
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW4a6a4e3488695755a9b81d0947b0f85a",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "N·cm"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ba8c33e3-6b60-5a50-83b4-d9f87e89d04a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloN-M"
+            ],
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSWba8c33e36b605a5083b4d9f87e89d04a",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kN·m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "83f4a238-c587-5e35-87f4-5071e11aaaa3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciN-M"
+            ],
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW83f4a238c5875e3587f45071e11aaaa3",
+            "conversion_factor_from_si": 0.1,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dN·m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b7de5ae5-a2f0-5221-be05-e0bf2aa74cb9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiN-M"
+            ],
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSWb7de5ae5a2f05221be05e0bf2aa74cb9",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cN·m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "48e50fcb-919e-57d9-9158-eb2308baed11",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaN-M"
+            ],
+            "osw_id": "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3#OSW48e50fcb919e57d99158eb2308baed11",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MN·m"
+        }
+    ]
+}

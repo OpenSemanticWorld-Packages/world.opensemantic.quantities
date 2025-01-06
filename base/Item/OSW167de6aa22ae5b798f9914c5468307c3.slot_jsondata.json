@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "167de6aa-22ae-5b79-8f99-14c5468307c3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-PER-DEG_C"
+    ],
+    "name": "A-PER-DEG_C",
+    "label": [
+        {
+            "text": "Ampere per Degree Celsius",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A measure used to express how a current is subject to temperature. Originally used in Wien's Law to describe phenomena related to filaments. One use today is to express how a current generator derates with temperature.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A/°C",
+    "conversion_factor_from_si": 1.0
+}

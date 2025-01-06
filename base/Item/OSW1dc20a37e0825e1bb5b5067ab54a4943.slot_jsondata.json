@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "1dc20a37-e082-5e1b-b5b5-067ab54a4943",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/WB-M"
+    ],
+    "name": "WB-M",
+    "label": [
+        {
+            "text": "Weber Metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Wb·m",
+    "conversion_factor_from_si": 1.0
+}

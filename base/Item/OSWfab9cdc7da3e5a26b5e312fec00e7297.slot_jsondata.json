@@ -1,0 +1,93 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "fab9cdc7-da3e-5a26-b5e3-12fec00e7297",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KAT-PER-L",
+        "http://dbpedia.org/resource/Katal"
+    ],
+    "name": "KAT-PER-L",
+    "label": [
+        {
+            "text": "Katal per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of catalytic activity used especially in the chemistry of enzymes. A catalyst is a substance that starts or speeds a chemical reaction. Enzymes are proteins that act as catalysts within the bodies of living plants and animals. A catalyst has an activity of one katal if it enables a reaction to proceed at the rate of one mole per second. ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kat/L",
+    "conversion_factor_from_si": 1000.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7c158d91-3660-561d-b200-e5011b7a810f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroKAT-PER-L"
+            ],
+            "osw_id": "Item:OSWfab9cdc7da3e5a26b5e312fec00e7297#OSW7c158d913660561db200e5011b7a810f",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µkat/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "30338003-c36a-506b-88ac-1aa82533c6ad",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoKAT-PER-L"
+            ],
+            "osw_id": "Item:OSWfab9cdc7da3e5a26b5e312fec00e7297#OSW30338003c36a506b88ac1aa82533c6ad",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pkat/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "2563bbed-b001-57be-9da5-f07785b473ae",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliKAT-PER-L"
+            ],
+            "osw_id": "Item:OSWfab9cdc7da3e5a26b5e312fec00e7297#OSW2563bbedb00157be9da5f07785b473ae",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mkat/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c641377c-3136-583b-bb07-b35b8de829af",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KAT-PER-MicroL",
+                "http://dbpedia.org/resource/Katal"
+            ],
+            "osw_id": "Item:OSWfab9cdc7da3e5a26b5e312fec00e7297#OSWc641377c3136583bbb07b35b8de829af",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "kat/µL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4e11cd7e-8e4e-5926-858a-05d39b03c454",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoKAT-PER-L"
+            ],
+            "osw_id": "Item:OSWfab9cdc7da3e5a26b5e312fec00e7297#OSW4e11cd7e8e4e5926858a05d39b03c454",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nkat/L"
+        }
+    ]
+}

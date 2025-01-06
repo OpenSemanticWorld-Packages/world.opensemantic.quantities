@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "5b9ccf81-09b4-57ac-a03d-bd2a487500ed",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-PER-T"
+    ],
+    "name": "K-PER-T",
+    "label": [
+        {
+            "text": "Kelvin per Tesla",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Kelvin per Tesla}$ is a unit for 'Temperature Per Magnetic Flux Density' expressed as $K T^{-1}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K/T",
+    "conversion_factor_from_si": 1.0
+}

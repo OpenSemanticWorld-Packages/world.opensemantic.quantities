@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "17dd4730-4e92-5a9b-96e1-f5e0b169d604",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificAcousticImpedance"
+    ],
+    "name": "SpecificAcousticImpedance",
+    "label": [
+        {
+            "text": "Specific Acoustic Impedance",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4ba64f5b6daa583389742dfca1776afe"
+    ]
+}

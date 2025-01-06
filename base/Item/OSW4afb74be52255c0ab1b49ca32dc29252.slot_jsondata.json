@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "4afb74be-5225-5c0a-b1b4-9ca32dc29252",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Conductance"
+    ],
+    "name": "Conductance",
+    "label": [
+        {
+            "text": "Conductance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Conductance}$, for a resistive two-terminal element or two-terminal circuit with terminals A and B, quotient of the electric current i in the element or circuit by the voltage $u_{AB}$ between the terminals: $G = \\frac{1}{R}$, where the electric current is taken as positive if its direction is from A to B and negative in the opposite case. The conductance of an element or circuit is the inverse of its resistance.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "1867660f-9640-528c-809c-8d29b3051296",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SecondOrderReactionRateConstant"
+    ],
+    "name": "ReactionRateConstant",
+    "label": [
+        {
+            "text": "Reaction Rate Constant",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A quantity kind that is a proportionality constant that quantifies the relationship between the molar concentrations of the reactants and the rate of a second order chemical reaction.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW25bef56399fe5f7fa5d119aff09cfb30"
+    ]
+}

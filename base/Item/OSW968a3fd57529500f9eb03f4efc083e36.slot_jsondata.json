@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "968a3fd5-7529-500f-9eb0-3f4efc083e36",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-MOL"
+    ],
+    "name": "GM-PER-MOL",
+    "label": [
+        {
+            "text": "Gram per Mole",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.01-fold of the SI base unit kilogram divided by the SI base unit mol",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/mol",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "31a2c5ae-09d1-578a-8432-67fef44c2cdb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-MOL"
+            ],
+            "osw_id": "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW31a2c5ae09d1578a843267fef44c2cdb",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/mol"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4c27839f-7cd4-587c-a5e6-f44b592e5922",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-KiloMOL"
+            ],
+            "osw_id": "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW4c27839f7cd4587ca5e6f44b592e5922",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/kmol"
+        }
+    ]
+}

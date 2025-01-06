@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "8d68a7ce-907a-573c-a52b-23cc731601a3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearVelocity"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Velocity"
+    ],
+    "name": "LinearVelocity",
+    "label": [
+        {
+            "text": "Linear Velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Linear Velocity, as the name implies deals with speed in a straight line, the units are often $km/hr$ or $m/s$ or $mph$ (miles per hour). Linear Velocity (v) = change in distance/change in time, where $v = \\bigtriangleup d/\\bigtriangleup t$",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW78331234e1a15aeebd8b0caa71201939",
+        "Item:OSW280a27446b785386b4d749f6ad84cc91",
+        "Item:OSWc3381dee2eac5b17b7a8cfe282fa0930",
+        "Item:OSW4d13f6ebfb7c5b1eb5f7744a43de8a67"
+    ]
+}

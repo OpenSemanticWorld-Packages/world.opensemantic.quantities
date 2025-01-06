@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7b8304e9-9356-51c7-a91b-9d5b8f6594e3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-MOL"
+    ],
+    "name": "PER-MOL",
+    "label": [
+        {
+            "text": "Reciprocal Mole",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $\\textit{Per Mole Unit}$ is a denominator unit with dimensions $mol^{-1}$</p>.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/mol",
+    "conversion_factor_from_si": 1.0
+}

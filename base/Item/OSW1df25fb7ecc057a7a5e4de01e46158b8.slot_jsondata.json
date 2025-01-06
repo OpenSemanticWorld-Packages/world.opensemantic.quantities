@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "1df25fb7-ecc0-57a7-a5e4-de01e46158b8",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/LM-PER-W"
+    ],
+    "name": "LM-PER-W",
+    "label": [
+        {
+            "text": "Lumen per Watt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A measurement of luminous efficacy, which is the light output in lumens using one watt of electricity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "lm/W",
+    "conversion_factor_from_si": 1.0
+}

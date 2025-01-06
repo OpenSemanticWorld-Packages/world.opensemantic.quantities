@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "733704ea-b732-5274-b2f1-6fc8e7297c6d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/EV-PER-M"
+    ],
+    "name": "EV-PER-M",
+    "label": [
+        {
+            "text": "Electronvolt per Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit electronvolt divided by the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "eV/m",
+    "conversion_factor_from_si": 1.602176634e-19
+}

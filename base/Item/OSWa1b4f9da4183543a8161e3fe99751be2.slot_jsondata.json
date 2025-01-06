@@ -1,0 +1,99 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "a1b4f9da-4183-543a-8161-e3fe99751be2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FARAD",
+        "http://dbpedia.org/resource/Farad",
+        "https://si-digital-framework.org/SI/units/farad"
+    ],
+    "name": "FARAD",
+    "label": [
+        {
+            "text": "farad",
+            "lang": "en"
+        },
+        {
+            "text": "Farad",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of electric capacitance. Very early in the study of electricity scientists discovered that a pair of conductors separated by an insulator can store a much larger charge than an isolated conductor can store. The better the insulator, the larger the charge that the conductors can hold. This property of a circuit is called capacitance, and it is measured in farads. One farad is defined as the ability to store one coulomb of charge per volt of potential difference between the two conductors. This is a natural definition, but the unit it defines is very large. In practical circuits, capacitance is often measured in microfarads, nanofarads, or sometimes even in picofarads (10-12 farad, or trillionths of a farad). The unit is named for the British physicist Michael Faraday (1791-1867), who was known for his work in electricity and electrochemistry.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "F",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "3690c26e-937c-55f1-aeb3-dcba3c5d79f4",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroFARAD"
+            ],
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW3690c26e937c55f1aeb3dcba3c5d79f4",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μF"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "328bea7c-3686-59c0-ab27-29ace2604ebc",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/AttoFARAD"
+            ],
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW328bea7c368659c0ab2729ace2604ebc",
+            "conversion_factor_from_si": 1e-18,
+            "prefix": "Item:OSWa569fd62d673576f8150159be578c72d",
+            "main_symbol": "aF"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "2c99e79b-872e-50d7-a3cd-b3b0614bbb1d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoFARAD",
+                "http://dbpedia.org/resource/Farad"
+            ],
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW2c99e79b872e50d7a3cdb3b0614bbb1d",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nF"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "233c7ca1-25dc-5092-bdc6-9b05723ba75b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliFARAD"
+            ],
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW233c7ca125dc5092bdc69b05723ba75b",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mF"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ea22beb7-c143-50cf-b4a8-029430e0a9e3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoFARAD",
+                "http://dbpedia.org/resource/Farad"
+            ],
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSWea22beb7c14350cfb4a8029430e0a9e3",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pF"
+        }
+    ]
+}

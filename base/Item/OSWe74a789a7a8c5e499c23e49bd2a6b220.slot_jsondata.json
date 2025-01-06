@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e74a789a-7a8c-5e49-9c23-e49bd2a6b220",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-K"
+    ],
+    "name": "M2-K",
+    "label": [
+        {
+            "text": "Square Metre Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Square Meter Kelvin}$ is a unit for 'Area Temperature' expressed as $m^{2}-K$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²·K",
+    "conversion_factor_from_si": 1.0
+}

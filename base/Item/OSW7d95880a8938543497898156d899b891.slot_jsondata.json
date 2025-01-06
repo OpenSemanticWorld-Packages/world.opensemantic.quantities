@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7d95880a-8938-5434-9789-8156d899b891",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Conductivity"
+    ],
+    "name": "Conductivity",
+    "label": [
+        {
+            "text": "Conductivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Conductivity\" is a scalar or tensor quantity the product of which by the electric field strength in a medium is equal to the electric current density. For an isotropic medium the conductivity is a scalar quantity; for an anisotropic medium it is a tensor quantity.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d"
+    ]
+}

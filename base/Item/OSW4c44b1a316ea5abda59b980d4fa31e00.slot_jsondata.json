@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "4c44b1a3-16ea-5abd-a59b-980d4fa31e00",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PressureCoefficient"
+    ],
+    "name": "PressureCoefficient",
+    "label": [
+        {
+            "text": "Pressure Coefficient",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWac77b78c88875d4b829975141f651b94"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7f98af11-c420-58ae-b941-076309b78dea",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-SEC-PER-RAD"
+    ],
+    "name": "N-SEC-PER-RAD",
+    "label": [
+        {
+            "text": "Newton seconds per radian",
+            "lang": "en"
+        },
+        {
+            "text": "Newtonsekunden pro Radian",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Newton seconds measured per radian",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·s/rad",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,32 @@
+{
+    "@context": [
+        "/wiki/Category:OSWd2520fa016844e01af0097a85bb25b25?action=raw&slot=jsonschema"
+    ],
+    "allOf": [
+        {
+            "$ref": "/wiki/Category:OSWd2520fa016844e01af0097a85bb25b25?action=raw&slot=jsonschema"
+        }
+    ],
+    "type": "object",
+    "uuid": "268cc84d-3dff-4a7b-a5fd-489d53254cb0",
+    "title": "ComposedQuantityUnitWithUnitPrefix",
+    "title*": {
+        "en": "Composed Quantity Unit with Unit Prefix",
+        "de": "Zusammengesetzte Mengeneinheit mit Einheitenpräfix"
+    },
+    "description": "A composite unit of a quantity, whereby the first named sub-unit can contain further prefixes as sub-objects and can reference standard SI prefixes. This composite unit is characterized by the fact that it contains static prefixes in the subsequent sub-units.",
+    "description*": {
+        "en": "A composite unit of a quantity, whereby the first named sub-unit can contain further prefixes as sub-objects and can reference standard SI prefixes. This composite unit is characterized by the fact that it contains static prefixes in the subsequent sub-units.",
+        "de": "Eine zusammengesetze Einheit einer Quantity, wobei die zuerst genannte Teil-Einheit weitere Prefixe als Subobjekte beinhalten und dabei Standard-SI-Prefixe referenzieren kann. Diese zusammengesetzte Unit zeichnet sich dadurch aus, dass sie statische Prefixe in den darauf folgenden Teil-Einheiten enthält. "
+    },
+    "required": [
+        "type"
+    ],
+    "properties": {
+        "type": {
+            "default": [
+                "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+            ]
+        }
+    }
+}

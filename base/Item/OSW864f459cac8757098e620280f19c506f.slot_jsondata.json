@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "864f459c-ac87-5709-8e62-0280f19c506f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-EV2"
+    ],
+    "name": "PER-EV2",
+    "label": [
+        {
+            "text": "Reciprocal Square Electron Volt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Square Electron Volt is a denominator unit with dimensions $/eV^2$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/eV²",
+    "conversion_factor_from_si": 3.89564405e+37,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "025e0d3a-3db9-5067-ac8c-0539e8fd8682",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PER-GigaEV2"
+            ],
+            "osw_id": "Item:OSW864f459cac8757098e620280f19c506f#OSW025e0d3a3db95067ac8c0539e8fd8682",
+            "conversion_factor_from_si": 3.89564405e+19,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "/GeV²"
+        }
+    ]
+}

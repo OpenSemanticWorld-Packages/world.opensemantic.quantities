@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "a3246309-5825-512e-b308-feef8a23afd8",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoGM-PER-M2-PA-SEC"
+    ],
+    "name": "NanoGM-PER-M2-PA-SEC",
+    "label": [
+        {
+            "text": "Nanogram per Square Metre Pascal Second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/(m²·s·Pa)",
+    "conversion_factor_from_si": 1e-12
+}

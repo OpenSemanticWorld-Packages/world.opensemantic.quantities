@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "25bef563-99fe-5f7f-a5d1-19aff09cfb30",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-MOL-SEC"
+    ],
+    "name": "M3-PER-MOL-SEC",
+    "label": [
+        {
+            "text": "Cubic Metre per Mole Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit that is the SI base unit metre with the exponent 3 divided by the SI base unit mol multiplied by the SI base unit second.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/(mol·s)",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e3739db7-a148-562e-b2f2-9ef963e3c001",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM3-PER-MOL-SEC"
+            ],
+            "osw_id": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30#OSWe3739db7a148562eb2f29ef963e3c001",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm³/(mol·s)"
+        }
+    ]
+}

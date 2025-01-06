@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "5d0cca2f-4ce0-59ab-b280-6e91ede1d53d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyPerAreaElectricCharge"
+    ],
+    "name": "EnergyPerAreaElectricCharge",
+    "label": [
+        {
+            "text": "Energy Per Area Electric Charge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Energy Per Area Electric Charge\" is the amount of electric energy associated with a unit of area.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW50e05e2d20e858f281ef0d396691ec1e"
+    ]
+}

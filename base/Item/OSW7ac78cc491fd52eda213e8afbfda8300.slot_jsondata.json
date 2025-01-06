@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7ac78cc4-91fd-52ed-a213-e8afbfda8300",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseLength"
+    ],
+    "name": "InverseLength",
+    "label": [
+        {
+            "text": "Inverse Length",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Reciprocal length or inverse length is a measurement used in several branches of science and mathematics. As the reciprocal of length, common units used for this measurement include the reciprocal metre or inverse metre ($m^{-1}$), the reciprocal centimetre or inverse centimetre ($cm^{-1}$), and, in optics, the dioptre.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW28e75b089e145904998a54f1c4125bf3"
+    ]
+}

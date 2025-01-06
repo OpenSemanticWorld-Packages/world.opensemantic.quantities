@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "36316ec9-6974-546b-9cd3-a5068a5f0cb4",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/RAD-PER-M"
+    ],
+    "name": "RAD-PER-M",
+    "label": [
+        {
+            "text": "radian per metre",
+            "lang": "en"
+        },
+        {
+            "text": "Radiant je Meter",
+            "lang": "de"
+        }
+    ],
+    "main_symbol": "rad/m",
+    "conversion_factor_from_si": 1.0
+}

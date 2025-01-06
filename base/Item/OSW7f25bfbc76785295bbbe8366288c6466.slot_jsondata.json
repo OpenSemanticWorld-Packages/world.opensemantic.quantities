@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7f25bfbc-7678-5295-bbbe-8366288c6466",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-M2"
+    ],
+    "name": "MOL-PER-M2",
+    "label": [
+        {
+            "text": "Moles per square metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI unit of quantity of matter per SI unit area.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/m²",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "03d5494b-fe83-598c-baee-9c6ae30b3b0c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliMOL-PER-M2"
+            ],
+            "osw_id": "Item:OSW7f25bfbc76785295bbbe8366288c6466#OSW03d5494bfe83598cbaee9c6ae30b3b0c",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mmol/m²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "389ad365-990b-5b5a-ac4e-ebdad967c1b9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroMOL-PER-M2"
+            ],
+            "osw_id": "Item:OSW7f25bfbc76785295bbbe8366288c6466#OSW389ad365990b5b5aac4eebdad967c1b9",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µmol/m²"
+        }
+    ]
+}

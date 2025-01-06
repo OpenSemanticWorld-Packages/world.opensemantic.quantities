@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "467e2e80-ae48-546c-b313-55254d2f4fd7",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-MIN"
+    ],
+    "name": "MOL-PER-MIN",
+    "label": [
+        {
+            "text": "Mole per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit mole divided by the unit for time minute",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/min",
+    "conversion_factor_from_si": 0.016666667,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1e936211-6408-5cd5-8893-663c44d43e70",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloMOL-PER-MIN"
+            ],
+            "osw_id": "Item:OSW467e2e80ae48546cb31355254d2f4fd7#OSW1e93621164085cd58893663c44d43e70",
+            "conversion_factor_from_si": 16.666666666666668,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kmol/min"
+        }
+    ]
+}

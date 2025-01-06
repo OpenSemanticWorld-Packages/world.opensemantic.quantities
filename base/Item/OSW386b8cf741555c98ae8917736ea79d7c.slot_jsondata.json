@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "386b8cf7-4155-5c98-ae89-17736ea79d7c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/YR_TROPICAL"
+    ],
+    "name": "YR_TROPICAL",
+    "label": [
+        {
+            "text": "Tropical Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "<p>A tropical year (also known as a solar year), for general purposes, is the length of time that the Sun takes to return to the same position in the cycle of seasons, as seen from Earth; for example, the time from vernal equinox to vernal equinox, or from summer solstice to summer solstice. Because of the precession of the equinoxes, the seasonal cycle does not remain exactly synchronised with the position of the Earth in its orbit around the Sun. As a consequence, the tropical year is about 20 minutes shorter than the time it takes Earth to complete one full orbit around the Sun as measured with respect to the fixed stars. Since antiquity, astronomers have progressively refined the definition of the tropical year, and currently define it as the time required for the mean Sun's tropical longitude (longitudinal position along the ecliptic relative to its position at the vernal equinox) to increase by 360 degrees (that is, to complete one full seasonal circuit).</p>",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "a{tropical}",
+    "conversion_factor_from_si": 31556925.216
+}

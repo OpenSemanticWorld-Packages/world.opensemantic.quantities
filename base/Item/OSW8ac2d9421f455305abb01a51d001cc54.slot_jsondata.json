@@ -1,0 +1,78 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "8ac2d942-1f45-5305-abb0-1a51d001cc54",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-M3"
+    ],
+    "name": "MOL-PER-M3",
+    "label": [
+        {
+            "text": "Mole per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI derived unit for amount-of-substance concentration is the mole/cubic meter.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/m³",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8bb63381-b7c3-55e3-984b-e7dca4baf030",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoMOL-PER-M3"
+            ],
+            "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSW8bb63381b7c355e3984be7dca4baf030",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pmol/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "2c20bbad-8109-59ff-a4d1-ea210b290227",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MOL-PER-DeciM3"
+            ],
+            "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSW2c20bbad810959ffa4d1ea210b290227",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "mol/dm³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "dc37f32c-45c7-5ead-9b0a-c9a0547030eb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliMOL-PER-M3"
+            ],
+            "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSWdc37f32c45c75ead9b0ac9a0547030eb",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mmol/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e718f1e8-ec19-5206-9a95-6ab1096f08cb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloMOL-PER-M3"
+            ],
+            "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSWe718f1e8ec1952069a956ab1096f08cb",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kmol/m³"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "bc562f05-62d9-55df-9503-17bc2cbbace4",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassPerElectricCharge"
+    ],
+    "name": "MassPerElectricCharge",
+    "label": [
+        {
+            "text": "Mass per Electric Charge",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The mass-to-charge ratio ratio ($m/Q$) is a physical quantity that is widely used in the electrodynamics of charged particles, for example, in electron optics and ion optics. The importance of the mass-to-charge ratio, according to classical electrodynamics, is that two particles with the same mass-to-charge ratio move in the same path in a vacuum when subjected to the same electric and magnetic fields. Its SI units are $kg/C$, but it can also be measured in Thomson ($Th$).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW5935489883d15f2fb2ef853f57c66f49"
+    ]
+}

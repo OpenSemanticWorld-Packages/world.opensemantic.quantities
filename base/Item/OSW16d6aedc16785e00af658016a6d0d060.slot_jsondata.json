@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "16d6aedc-1678-5e00-af65-8016a6d0d060",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassTemperature"
+    ],
+    "name": "MassTemperature",
+    "label": [
+        {
+            "text": "Mass Temperature",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWfd24f9425d815d66beab746eecaf5926"
+    ]
+}

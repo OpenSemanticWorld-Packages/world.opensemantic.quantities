@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "62e04cd0-df5c-5ad4-b76d-5632fa7b47a0",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/giga"
+    ],
+    "name": "giga",
+    "label": [
+        {
+            "text": "giga (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "G",
+    "factor": 1000000000.0
+}

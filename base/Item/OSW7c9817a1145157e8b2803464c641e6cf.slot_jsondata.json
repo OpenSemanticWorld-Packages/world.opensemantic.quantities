@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "7c9817a1-1451-57e8-b280-3464c641e6cf",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C-PER-KiloGM-SEC"
+    ],
+    "name": "C-PER-KiloGM-SEC",
+    "label": [
+        {
+            "text": "Coulomb per Kilogram Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of exposure rate",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C/(kg·s)",
+    "conversion_factor_from_si": 1.0
+}

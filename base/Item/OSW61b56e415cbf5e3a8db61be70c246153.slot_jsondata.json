@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "61b56e41-5cbf-5e3a-8db6-1be70c246153",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliBQ-PER-GM"
+    ],
+    "name": "MilliBQ-PER-GM",
+    "label": [
+        {
+            "text": "Millibecquerels per gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One radioactive disintegration per thousand seconds per 1000th SI unit of sample mass.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mBq/g",
+    "conversion_factor_from_si": 1.0
+}

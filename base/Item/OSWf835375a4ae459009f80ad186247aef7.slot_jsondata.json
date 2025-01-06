@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "f835375a-4ae4-5900-9f80-ad186247aef7",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Acceleration"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Acceleration",
+        "https://si-digital-framework.org/SI/quantities/ACCE"
+    ],
+    "name": "Acceleration",
+    "label": [
+        {
+            "text": "Acceleration",
+            "lang": "en"
+        },
+        {
+            "text": "Beschleunigung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Acceleration}$ is the (instantaneous) rate of change of velocity. \n  Acceleration may be either linear acceleration, or angular acceleration. \n  It is a vector quantity with dimension $length/time^{2}$ for linear acceleration,\n   or in the case of angular acceleration, with dimension $angle/time^{2}$. \n  $$$$\n  In SI units, linear acceleration is measured in $meters/second^{2}$ ($m \\cdot s^{-2}$),\n   and angular acceleration is measured in $radians/second^{2}$. \n  $$$$\n  In physics, any increase or decrease in speed is referred to as acceleration and similarly,\n   motion in a circle at constant speed is also an acceleration, since the direction component of the velocity is changing.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWb91fd68d93375855a57c795180c429a3"
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "754b1a35-6472-5113-ac58-3f91ae2ea959",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-L"
+    ],
+    "name": "GM-PER-L",
+    "label": [
+        {
+            "text": "Gram per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the unit litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/L",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1a48aea5-dca4-5c34-bbde-02b0df02f6f8",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GM-PER-DeciL"
+            ],
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW1a48aea5dca45c34bbde02b0df02f6f8",
+            "conversion_factor_from_si": 10.0,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "g/dL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "e905ceb2-3b3b-5504-89be-d5baa6c9b466",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GM-PER-MilliL"
+            ],
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWe905ceb23b3b550489bed5baa6c9b466",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "g/mL"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "457d0485-a44c-57cd-a788-a583bf9ab4ff",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroGM-PER-L"
+            ],
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW457d0485a44c57cda788a583bf9ab4ff",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μg/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ca4043a3-85f2-5aa3-a981-22f2aefd0d2e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-L"
+            ],
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWca4043a385f25aa3a98122f2aefd0d2e",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "40c93326-9ec4-5fc1-aeef-04aefce2b374",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-L"
+            ],
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW40c933269ec45fc1aeef04aefce2b374",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "449dc749-4f3f-5c0b-bd9a-ff1d1fd2f591",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FemtoGM-PER-L"
+            ],
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW449dc7494f3f5c0bbd9aff1d1fd2f591",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
+            "main_symbol": "fg/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "42fdef27-c8ae-5c8f-bf18-76c400f27101",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoGM-PER-L"
+            ],
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW42fdef27c8ae5c8fbf1876c400f27101",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "ng/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "84ec459d-4d13-5bf2-8a61-0cd00061d18c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoGM-PER-L"
+            ],
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW84ec459d4d135bf28a610cd00061d18c",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pg/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "99bbcff9-47e1-508b-ad38-d748ad6ff8e2",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-MilliL"
+            ],
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW99bbcff947e1508bad38d748ad6ff8e2",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/mL"
+        }
+    ]
+}

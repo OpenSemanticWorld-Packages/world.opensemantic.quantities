@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "f1aac3a8-17fa-565a-ac3c-440e01331e4e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RichardsonConstant"
+    ],
+    "name": "RichardsonConstant",
+    "label": [
+        {
+            "text": "Richardson Constant",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Richardson Constant\" is a constant used in developing thermionic emission current density for a metal.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW958d74176efb543f819fe576e03621fa"
+    ]
+}

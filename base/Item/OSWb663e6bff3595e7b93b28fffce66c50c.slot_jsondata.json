@@ -1,0 +1,124 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b663e6bf-f359-5e7b-93b2-8fffce66c50c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA",
+        "http://dbpedia.org/resource/Pascal",
+        "https://si-digital-framework.org/SI/units/pascal"
+    ],
+    "name": "PA",
+    "label": [
+        {
+            "text": "pascal",
+            "lang": "en"
+        },
+        {
+            "text": "Pascal",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of pressure. The pascal is the standard pressure unit in the MKS metric system, equal to one newton per square meter or one \"kilogram per meter per second per second.\" The unit is named for Blaise Pascal (1623-1662), French philosopher and mathematician, who was the first person to use a barometer to measure differences in altitude.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5def4be3-09ce-50ee-933c-99cf4b74e310",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroPA"
+            ],
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW5def4be309ce50ee933c99cf4b74e310",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μPa"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0ec5bf81-32b2-5e58-b703-2766bd9b3225",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaPA"
+            ],
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MPa"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "38b0e125-39b0-5ce2-8cd1-26c8eea29f95",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliPA"
+            ],
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW38b0e12539b05ce28cd126c8eea29f95",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mPa"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "482939f1-2359-5314-beca-39ad32d65a15",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/HectoPA"
+            ],
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
+            "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
+            "main_symbol": "hPa"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "264ebdc2-1f54-5685-93a9-1bbd832b6fbf",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloPA",
+                "http://dbpedia.org/resource/Pascal_%28unit%29"
+            ],
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW264ebdc21f54568593a91bbd832b6fbf",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kPa"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "49bb4743-a573-5e18-9777-f3c6bd422a52",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaPA"
+            ],
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW49bb4743a5735e189777f3c6bd422a52",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GPa"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8d40059d-9e39-51bb-9737-8fe3f119ba21",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DecaPA"
+            ],
+            "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW8d40059d9e3951bb97378fe3f119ba21",
+            "conversion_factor_from_si": 10.0,
+            "prefix": "Item:OSW2b7aeb54b7395e99b3d5c20b77de4b15",
+            "main_symbol": "daPa"
+        }
+    ]
+}

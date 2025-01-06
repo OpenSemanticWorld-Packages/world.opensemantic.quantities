@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "1e33151f-9c56-5cfa-af13-d0ea13bd8667",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-HR-PER-M3"
+    ],
+    "name": "W-HR-PER-M3",
+    "label": [
+        {
+            "text": "Watthour per Cubic metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The watt hour per cubic meter is a unit of energy density, equal to 3,600 joule per cubic meter.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W·h/m³",
+    "conversion_factor_from_si": 3600.0
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "321f737a-4c78-5e4e-8d9c-b025341d049c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PPQ"
+    ],
+    "name": "PPQ",
+    "label": [
+        {
+            "text": "part per quadrillion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit of proportion equal to 10⁻¹⁶",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ppq",
+    "conversion_factor_from_si": 1e-16
+}

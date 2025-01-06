@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "b6ff023f-5883-5c7f-9032-e56e9741dcd1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/WarpingConstant"
+    ],
+    "name": "WarpingConstant",
+    "label": [
+        {
+            "text": "Warping Constant",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Warping Constant\" is a measure for the warping constant or warping resistance of a cross section under torsional loading. It is usually measured in m⁶.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc5904c8a783d5e8da5f6a24745774a6b"
+    ]
+}

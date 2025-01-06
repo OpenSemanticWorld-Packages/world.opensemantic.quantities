@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "40f56bbf-0892-5e8d-a710-8016ee541d76",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-PER-YR"
+    ],
+    "name": "DEG_C-PER-YR",
+    "label": [
+        {
+            "text": "Degrees Celsius per year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of temperature expressed on the Celsius scale over a period of an average calendar year (365.25 days).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C/a",
+    "conversion_factor_from_si": 3.16880878140289e-08
+}

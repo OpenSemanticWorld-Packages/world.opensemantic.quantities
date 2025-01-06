@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "5d2e5950-05cc-569a-b40c-8563754ba3db",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PERCENT",
+        "http://dbpedia.org/resource/Percentage"
+    ],
+    "name": "PERCENT",
+    "label": [
+        {
+            "text": "Percent",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Percent\" is a unit for  'Dimensionless Ratio' expressed as $\\%$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "%",
+    "conversion_factor_from_si": 0.01
+}

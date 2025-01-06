@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f030abd4-441d-52a7-a8c5-f84950985ea4",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-PA",
+        "http://dbpedia.org/resource/Pascal"
+    ],
+    "name": "PER-PA",
+    "label": [
+        {
+            "text": "Reciprocal Pascal",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the SI derived unit pascal",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa⁻¹",
+    "conversion_factor_from_si": 1.0
+}

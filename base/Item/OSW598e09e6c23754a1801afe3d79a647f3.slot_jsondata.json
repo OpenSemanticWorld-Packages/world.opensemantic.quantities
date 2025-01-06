@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "598e09e6-c237-54a1-801a-fe3d79a647f3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstance"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Amount_of_substance",
+        "https://si-digital-framework.org/SI/quantities/AMSU"
+    ],
+    "name": "AmountOfSubstance",
+    "label": [
+        {
+            "text": "Amount of substance",
+            "lang": "en"
+        },
+        {
+            "text": "Stoffmenge",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Amount of Substance}$ is a standards-defined quantity that measures the size of an ensemble of elementary entities,\n   such as atoms, molecules, electrons, and other particles. \n  It is sometimes referred to as chemical amount.\n\n  The International System of Units (SI) defines the amount of substance to be proportional to the number of elementary entities present. \n  The SI unit for amount of substance is mole. \n  It has the unit symbol $mol$.\n\n  The mole is defined as the amount of substance that contains an equal number of elementary entities as there are atoms in 0.012kg of the isotope carbon-12. \n  This number is called Avogadro's number and has the value $6.02214179(30) \\times 10^{23}$. \n  \n  The only other unit of amount of substance in current use is the $pound-mole$ with the symbol $lb-mol$,\n   which is sometimes used in chemical engineering in the United States. \n  One $pound-mole$ is exactly $453.59237 mol$.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4d9412cede875e399cffb35415646316"
+    ]
+}

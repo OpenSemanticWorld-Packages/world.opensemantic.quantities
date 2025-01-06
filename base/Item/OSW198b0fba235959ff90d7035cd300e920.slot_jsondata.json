@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "198b0fba-2359-59ff-90d7-035cd300e920",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/SR",
+        "http://dbpedia.org/resource/Steradian",
+        "https://si-digital-framework.org/SI/units/steradian"
+    ],
+    "name": "SR",
+    "label": [
+        {
+            "text": "steradian",
+            "lang": "en"
+        },
+        {
+            "text": "Steradiant",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The steradian (symbol: sr) is the SI unit of solid angle. It is used to describe two-dimensional angular spans in three-dimensional space, analogous to the way in which the radian describes angles in a plane. The radian and steradian are special names for the number one that may be used to convey information about the quantity concerned. In practice the symbols rad and sr are used where appropriate, but the symbol for the derived unit one is generally omitted in specifying the values of dimensionless quantities.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "sr",
+    "conversion_factor_from_si": 1.0
+}

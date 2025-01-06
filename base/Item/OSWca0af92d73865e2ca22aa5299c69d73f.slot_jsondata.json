@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "ca0af92d-7386-5e2c-a22a-a5299c69d73f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LengthMass"
+    ],
+    "name": "LengthMass",
+    "label": [
+        {
+            "text": "Length Mass",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW5baa1fbaa17b50d5ab35eb004c5388df",
+        "Item:OSW4a5d124e14e45b8c95bebb544ce245b6"
+    ]
+}

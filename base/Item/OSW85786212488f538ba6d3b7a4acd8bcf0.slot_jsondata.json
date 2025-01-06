@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "85786212-488f-538b-a6d3-b7a4acd8bcf0",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticVectorPotential"
+    ],
+    "name": "MagneticVectorPotential",
+    "label": [
+        {
+            "text": "Magnetic vector potential",
+            "lang": "en"
+        },
+        {
+            "text": "Magnetisches Potenzial",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Magnetic Vector Potential\" is the vector potential of the magnetic flux density. The magnetic vector potential is not unique since any irrotational vector field quantity can be added to a given magnetic vector potential without changing its rotation. Under static conditions the magnetic vector potential is often chosen so that its divergence is zero.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf63c15f03855534fabdc39bb5403d1ff",
+        "Item:OSWc7298c96b3c359e0b48811238a535a07"
+    ]
+}

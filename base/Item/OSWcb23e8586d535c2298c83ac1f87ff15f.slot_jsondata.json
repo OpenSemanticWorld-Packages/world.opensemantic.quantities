@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "cb23e858-6d53-5c22-98c8-3ac1f87ff15f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousEnergy"
+    ],
+    "name": "LuminousEnergy",
+    "label": [
+        {
+            "text": "Luminous Energy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Energy is the perceived energy of light. This is sometimes also called the quantity of light.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc4c970d2dd145fbc883dfca4b380edff"
+    ]
+}

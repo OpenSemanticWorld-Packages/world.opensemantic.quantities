@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f04f81ce-6d6a-53b9-8630-967e75958e53",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CD",
+        "http://dbpedia.org/resource/Candela",
+        "https://si-digital-framework.org/SI/units/candela"
+    ],
+    "name": "CD",
+    "label": [
+        {
+            "text": "candela",
+            "lang": "en"
+        },
+        {
+            "text": "Candela",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Candela}$ is a unit for  'Luminous Intensity' expressed as $cd$.  The candela is the SI base unit of luminous intensity; that is, power emitted by a light source in a particular direction, weighted by the luminosity function (a standardized model of the sensitivity of the human eye to different wavelengths, also known as the luminous efficiency function). A common candle emits light with a luminous intensity of roughly one candela.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cd",
+    "conversion_factor_from_si": 1.0
+}

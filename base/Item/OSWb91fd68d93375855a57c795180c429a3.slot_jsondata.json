@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b91fd68d-9337-5855-a57c-795180c429a3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-SEC2"
+    ],
+    "name": "M-PER-SEC2",
+    "label": [
+        {
+            "text": "Metre per Square Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $\\textit{meter per Square second}$ is the unit of acceleration in the International System of Units (SI). As a derived unit it is composed from the SI base units of length, the metre, and the standard unit of time, the second. Its symbol is written in several forms as $m/s^2$, or $m s^{-2}$. As acceleration, the unit is interpreted physically as change in velocity or speed per time interval, that is, $\\textit{metre per second per second}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/s²",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "014676a1-d72e-5f16-a59a-8d966253ab6f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM-PER-SEC2"
+            ],
+            "osw_id": "Item:OSWb91fd68d93375855a57c795180c429a3#OSW014676a1d72e5f16a59a8d966253ab6f",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm/s²"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "48b2f73f-c64c-5fb8-be97-21afca6648c6",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyPerArea"
+    ],
+    "name": "EnergyPerArea",
+    "label": [
+        {
+            "text": "Energy per Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energy per unit area is a measure of the energy either impinging upon or generated from a given unit of area. This can be a measure of the \"toughness\" of a material, being the amount of energy that needs to be applied per unit area of a crack to cause it to fracture. This is a constant for a given material..",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81",
+        "Item:OSW0d4e5e11d53f5018a0b965373b55510d",
+        "Item:OSWe8b1aef90f3658a188f5aaf54cd01384",
+        "Item:OSW062fff2897f05319ae3567119485c72b"
+    ]
+}

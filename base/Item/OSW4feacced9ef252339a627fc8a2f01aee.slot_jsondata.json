@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "4feacced-9ef2-5233-9a62-7fc8a2f01aee",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MomentOfInertia"
+    ],
+    "name": "MomentOfInertia",
+    "label": [
+        {
+            "text": "Moment of inertia",
+            "lang": "en"
+        },
+        {
+            "text": "Massenträgheitsmoment",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The rotational inertia or resistance to change in direction or speed of rotation about a defined axis.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd211fc61709b5e48a4c96473c86a8d13"
+    ]
+}

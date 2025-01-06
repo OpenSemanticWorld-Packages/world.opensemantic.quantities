@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "62c24da2-a31b-51d5-a574-127a27ba2184",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliM3-PER-GM"
+    ],
+    "name": "MilliM3-PER-GM",
+    "label": [
+        {
+            "text": "Cubic Millimetre per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Cubic Millimeter Per Gram (mm3/g) is a unit in the category of Specific Volume. It is also known as cubic millimeters per gram, cubic millimetre per gram, cubic millimetres per gram, cubic millimeter/gram, cubic millimetre/gram.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mm³/g",
+    "conversion_factor_from_si": 1e-06
+}

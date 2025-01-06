@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "958d7417-6efb-543f-819f-e576e03621fa",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-PER-M2-K2"
+    ],
+    "name": "A-PER-M2-K2",
+    "label": [
+        {
+            "text": "Ampere per Square Metre Square Kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A/(m²·K²)",
+    "conversion_factor_from_si": 1.0
+}

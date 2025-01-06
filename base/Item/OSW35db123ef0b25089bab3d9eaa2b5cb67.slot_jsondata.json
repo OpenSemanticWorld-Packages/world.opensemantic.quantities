@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "35db123e-f0b2-5089-bab3-d9eaa2b5cb67",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-PER-J"
+    ],
+    "name": "A-PER-J",
+    "label": [
+        {
+            "text": "Ampere per Joule",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Ampere per Joule}$ is the inverse measure of $joule-per-ampere$ or $weber$. \n  The measure for the reciprical of magnetic flux.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A/J",
+    "conversion_factor_from_si": 1.0
+}

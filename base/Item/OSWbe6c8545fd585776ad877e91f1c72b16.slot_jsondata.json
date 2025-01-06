@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "be6c8545-fd58-5776-ad87-7e91f1c72b16",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-GM-K"
+    ],
+    "name": "J-PER-GM-K",
+    "label": [
+        {
+            "text": "Joule per Gram Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for expressing the specific heat capacity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(g·K)",
+    "conversion_factor_from_si": 1000.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "2dab15bb-b20c-59a6-81c5-ffecfdcb9e59",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/J-PER-KiloGM-K"
+            ],
+            "osw_id": "Item:OSWbe6c8545fd585776ad877e91f1c72b16#OSW2dab15bbb20c59a681c5ffecfdcb9e59",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "J/(kg·K)"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "75171ce1-75aa-5004-b4f5-50375d9b33f6",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloJ-PER-KiloGM-K"
+            ],
+            "osw_id": "Item:OSWbe6c8545fd585776ad877e91f1c72b16#OSW75171ce175aa5004b4f550375d9b33f6",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kJ/(kg·K)"
+        }
+    ]
+}

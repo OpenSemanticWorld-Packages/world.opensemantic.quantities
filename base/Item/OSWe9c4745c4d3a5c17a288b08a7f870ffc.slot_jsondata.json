@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e9c4745c-4d3a-5c17-a288-b08a7f870ffc",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-SR",
+        "http://dbpedia.org/resource/Steradian"
+    ],
+    "name": "M2-PER-SR",
+    "label": [
+        {
+            "text": "Square Metre per Steradian",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/sr",
+    "conversion_factor_from_si": 1.0
+}

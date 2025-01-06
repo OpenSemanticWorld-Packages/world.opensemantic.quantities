@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "acf92a3a-0e8d-5980-b482-7fe8a60bea1a",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/quecto"
+    ],
+    "name": "quecto",
+    "label": [
+        {
+            "text": "quecto (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "q",
+    "factor": 1e-30
+}

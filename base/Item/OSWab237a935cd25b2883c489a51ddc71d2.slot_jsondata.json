@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "ab237a93-5cd2-5b28-83c4-89a51ddc71d2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-SEC"
+    ],
+    "name": "N-SEC",
+    "label": [
+        {
+            "text": "newton second",
+            "lang": "en"
+        },
+        {
+            "text": "Newtonsekunde",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the SI derived unit newton and the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·s",
+    "conversion_factor_from_si": 1.0
+}

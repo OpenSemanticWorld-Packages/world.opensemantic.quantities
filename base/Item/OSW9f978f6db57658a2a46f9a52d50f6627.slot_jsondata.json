@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "9f978f6d-b576-58a2-a46f-9a52d50f6627",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TorquePerAngle"
+    ],
+    "name": "TorquePerAngle",
+    "label": [
+        {
+            "text": "Torque per Angle",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWcf35571886b95c2c889f076d7dab41dd"
+    ]
+}

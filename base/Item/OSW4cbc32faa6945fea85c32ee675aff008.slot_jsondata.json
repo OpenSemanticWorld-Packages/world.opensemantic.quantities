@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4cbc32fa-a694-5fea-85c3-2ee675aff008",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GRAY-PER-SEC"
+    ],
+    "name": "GRAY-PER-SEC",
+    "label": [
+        {
+            "text": "Gray per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Gray per Second\" is a unit for  'Absorbed Dose Rate' expressed as $Gy/s$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Gy/s",
+    "conversion_factor_from_si": 1.0
+}

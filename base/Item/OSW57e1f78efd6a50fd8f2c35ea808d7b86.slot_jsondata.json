@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "57e1f78e-fd6a-50fd-8f2c-35ea808d7b86",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-M2-PER-J-SEC"
+    ],
+    "name": "A-M2-PER-J-SEC",
+    "label": [
+        {
+            "text": "Ampere Square Metre per Joule Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of gyromagnetic ratio.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A·m²/(J·s)",
+    "conversion_factor_from_si": 1.0
+}

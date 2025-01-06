@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "a2b4ab78-b997-5e08-91d0-d14dfbb12314",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-PER-PA-SEC-M"
+    ],
+    "name": "KiloGM-PER-PA-SEC-M",
+    "label": [
+        {
+            "text": "kilogram per pascal second metre",
+            "lang": "en"
+        },
+        {
+            "text": "Kilogramm je Pascal Sekunde Meter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Common unit for the Water vapour diffusion coefficient",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/(Pa·s·m)",
+    "conversion_factor_from_si": 1.0
+}

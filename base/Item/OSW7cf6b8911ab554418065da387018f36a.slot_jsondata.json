@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7cf6b891-1ab5-5441-8065-da387018f36a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCurrentPhasor"
+    ],
+    "name": "ElectricCurrentPhasor",
+    "label": [
+        {
+            "text": "Electric Current Phasor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Current Phasor\" is a representation of current as a sinusoidal integral quantity using a complex quantity whose argument is equal to the initial phase and whose modulus is equal to the root-mean-square value. A phasor is a constant complex number, usually expressed in exponential form, representing the complex amplitude (magnitude and phase) of a sinusoidal function of time. Phasors are used by electrical engineers to simplify computations involving sinusoids, where they can often reduce a differential equation problem to an algebraic one.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec"
+    ]
+}

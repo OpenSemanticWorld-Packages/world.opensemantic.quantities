@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "164f2a6f-077a-564c-9143-20ff303d09e8",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-M2-PER-A"
+    ],
+    "name": "N-M2-PER-A",
+    "label": [
+        {
+            "text": "Newton Metre Squared per Ampere",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the SI derived unit newton and the power of SI base unit metre with exponent 2 divided by the SI base unit ampere",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·m²/A",
+    "conversion_factor_from_si": 1.0
+}

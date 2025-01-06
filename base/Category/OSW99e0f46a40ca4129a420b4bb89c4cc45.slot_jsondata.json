@@ -1,0 +1,30 @@
+{
+    "subclass_of": [
+        "Category:OSWd02741381aaa4709ae0753a0edc341ce"
+    ],
+    "type": [
+        "Category:Category"
+    ],
+    "uuid": "99e0f46a-40ca-4129-a420-b4bb89c4cc45",
+    "label": [
+        {
+            "text": "Unit prefix",
+            "lang": "en"
+        },
+        {
+            "text": "Einheitenpräfix",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Prefix for unit symbols, e.g. kilo (k), milli (m). See https://si-digital-framework.org/SI/prefixes?lang=en",
+            "lang": "en"
+        },
+        {
+            "text": "Vorsilben für Einheiten-Symbole, z.B. kilo (k), milli (m). Siehe https://si-digital-framework.org/SI/prefixes?lang=en",
+            "lang": "de"
+        }
+    ],
+    "name": "UnitPrefix"
+}

@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "30b77c81-2cef-538c-8f62-eaf7c6950a59",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseMagneticFlux"
+    ],
+    "name": "InverseMagneticFlux",
+    "label": [
+        {
+            "text": "Inverse Magnetic Flux",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW47655982de7d5958a051f4f3aa75b62a",
+        "Item:OSW0effc6b933ac5d01927c086bd170f4c7"
+    ]
+}

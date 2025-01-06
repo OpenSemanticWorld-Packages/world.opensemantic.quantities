@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "44237498-1fea-5680-a888-81b08618fa91",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-SEC"
+    ],
+    "name": "L-PER-SEC",
+    "label": [
+        {
+            "text": "Litre per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit litre divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/s",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "eccc7ff4-b7f0-5e88-a8db-c293ddaebe33",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliL-PER-SEC"
+            ],
+            "osw_id": "Item:OSW442374981fea5680a88881b08618fa91#OSWeccc7ff4b7f05e88a8dbc293ddaebe33",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mL/s"
+        }
+    ]
+}

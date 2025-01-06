@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "f959d2fa-ea4a-53e7-a77e-4923e2b6050a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassAbsorptionCoefficient"
+    ],
+    "name": "MassAbsorptionCoefficient",
+    "label": [
+        {
+            "text": "Mass Absorption Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The mass absorption coefficient is the linear absorption coefficient divided by the density of the absorber.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd7015166d39d5cae866a40eac3d51896"
+    ]
+}

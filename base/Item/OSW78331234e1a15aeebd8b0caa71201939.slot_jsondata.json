@@ -1,0 +1,82 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "78331234-e1a1-5aee-bd8b-0caa71201939",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-SEC"
+    ],
+    "name": "M-PER-SEC",
+    "label": [
+        {
+            "text": "metre per second",
+            "lang": "en"
+        },
+        {
+            "text": "Meter je Sekunde",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Metre per second is an SI derived unit of both speed (scalar) and velocity (vector quantity which specifies both magnitude and a specific direction), defined by distance in metres divided by time in seconds.\nThe official SI symbolic abbreviation is mu00b7s-1, or equivalently either m/s.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/s",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "d094e4cf-d62c-5224-8aad-5ef87c19fb7d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM-PER-SEC"
+            ],
+            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWd094e4cfd62c52248aad5ef87c19fb7d",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm/s"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4937ac85-021f-506c-b7ba-3958f2216bd1",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM-PER-SEC"
+            ],
+            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW4937ac85021f506cb7ba3958f2216bd1",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm/s"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "fc9fca27-ba5b-543c-8780-521b4af39189",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroM-PER-SEC"
+            ],
+            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSWfc9fca27ba5b543c8780521b4af39189",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μm/s"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9f12ce12-bc72-5cd5-9791-265e2e480fd2",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloM-PER-SEC"
+            ],
+            "osw_id": "Item:OSW78331234e1a15aeebd8b0caa71201939#OSW9f12ce12bc725cd59791265e2e480fd2",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "km/s"
+        }
+    ]
+}

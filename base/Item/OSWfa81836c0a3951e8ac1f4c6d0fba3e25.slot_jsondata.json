@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "fa81836c-0a39-51e8-ac1f-4c6d0fba3e25",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/hecto"
+    ],
+    "name": "hecto",
+    "label": [
+        {
+            "text": "hecto (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "h",
+    "factor": 100.0
+}

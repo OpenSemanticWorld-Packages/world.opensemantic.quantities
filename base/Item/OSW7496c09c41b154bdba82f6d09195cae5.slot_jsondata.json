@@ -1,0 +1,85 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7496c09c-41b1-54bd-ba82-f6d09195cae5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HZ",
+        "http://dbpedia.org/resource/Hertz",
+        "https://si-digital-framework.org/SI/units/hertz"
+    ],
+    "name": "HZ",
+    "label": [
+        {
+            "text": "hertz",
+            "lang": "en"
+        },
+        {
+            "text": "Hertz",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  $\\textit{Hertz}$ (symbol $Hz$) is the SI unit of frequency defined as the number of cycles per second of a periodic phenomenon. \n  One of its most common uses is the description of the sine wave, particularly those used in radio and audio applications, such as the frequency of musical tones. \n  The word $\\bf{hertz}$ is named for Heinrich Rudolf Hertz, who was the first to conclusively prove the existence of electromagnetic waves.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Hz",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5860049c-dfae-5d64-abcd-7bb8ace55540",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/TeraHZ"
+            ],
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW5860049cdfae5d64abcd7bb8ace55540",
+            "conversion_factor_from_si": 1000000000000.0,
+            "prefix": "Item:OSW8c95fb553826551fb7c0294a7c0ada41",
+            "main_symbol": "THz"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "fbbfa62a-c809-5c5b-b37e-a9f22ab121dd",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloHZ"
+            ],
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWfbbfa62ac8095c5bb37ea9f22ab121dd",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kHz"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "37c66b2e-3500-50d8-9110-7e427a1c0210",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaHZ",
+                "http://dbpedia.org/resource/Hertz"
+            ],
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW37c66b2e350050d891107e427a1c0210",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GHz"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b5d0dd4f-6628-5e15-af59-77a1b77d5daa",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaHZ"
+            ],
+            "osw_id": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MHz"
+        }
+    ]
+}

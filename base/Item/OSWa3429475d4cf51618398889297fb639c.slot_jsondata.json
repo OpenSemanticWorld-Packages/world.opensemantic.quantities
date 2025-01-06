@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "a3429475-d4cf-5161-8398-889297fb639c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SecondAxialMomentOfArea"
+    ],
+    "name": "SecondAxialMomentOfArea",
+    "label": [
+        {
+            "text": "Second Axial Moment of Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The moment of inertia, also called mass moment of inertia, rotational inertia, polar moment of inertia of mass, or the angular mass is a property of a distribution of mass in space that measures its resistance to rotational acceleration about an axis.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWe4f01fe00389574e905718a14481ed36"
+    ]
+}

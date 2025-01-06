@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "93d8b6e5-16fd-54f0-9d48-3dee1278e3a8",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-GM-DEG_C"
+    ],
+    "name": "J-PER-GM-DEG_C",
+    "label": [
+        {
+            "text": "joule per gram degree celsius",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for expressing the specific heat capacity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(g·°C)",
+    "conversion_factor_from_si": 1000.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a0cd208c-cfa7-5938-8597-f5f9ff5c69fc",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/J-PER-KiloGM-DEG_C"
+            ],
+            "osw_id": "Item:OSW93d8b6e516fd54f09d483dee1278e3a8#OSWa0cd208ccfa759388597f5f9ff5c69fc",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "J/(kg·°C)"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "ed701952-8a13-5715-a252-63d19a2d5bef",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/mega"
+    ],
+    "name": "mega",
+    "label": [
+        {
+            "text": "mega (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "M",
+    "factor": 1000000.0
+}

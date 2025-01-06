@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f4a78378-82ed-5a0b-9b12-8b2d067fc97b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-MOL"
+    ],
+    "name": "M2-PER-MOL",
+    "label": [
+        {
+            "text": "Square Metre per Mole",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Square Meter Per Mole (m2/mol) is a unit in the category of Specific Area. It is also known as square meters per mole, square metre per per, square metres per per, square meter/per, square metre/per. This unit is commonly used in the SI unit system. Square Meter Per Mole (m2/mol) has a dimension of M-1L2 where $M$ is mass, and $L$ is length. This unit is the standard SI unit in this category.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/mol",
+    "conversion_factor_from_si": 1.0
+}

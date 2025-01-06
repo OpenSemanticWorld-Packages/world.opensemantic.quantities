@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "2e906b32-78d0-5a35-aec5-82cba0191b65",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-WK"
+    ],
+    "name": "DEG_C-WK",
+    "label": [
+        {
+            "text": "Degree Celsius week",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "temperature multiplied by unit of time.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C·wk",
+    "conversion_factor_from_si": 604800.0
+}

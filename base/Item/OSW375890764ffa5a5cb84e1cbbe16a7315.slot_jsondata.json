@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "37589076-4ffa-5a5c-b84e-1cbbe16a7315",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C-PER-M"
+    ],
+    "name": "C-PER-M",
+    "label": [
+        {
+            "text": "Coulomb per Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Coulomb per Meter\" is a unit for  'Electric Charge Line Density' expressed as $C/m$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C/m",
+    "conversion_factor_from_si": 1.0
+}

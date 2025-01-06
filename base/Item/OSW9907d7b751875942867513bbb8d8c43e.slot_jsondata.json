@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "9907d7b7-5187-5942-8675-13bbb8d8c43e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-PA-PER-SEC"
+    ],
+    "name": "K-PA-PER-SEC",
+    "label": [
+        {
+            "text": "Kelvin Pascals per second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K·Pa/s",
+    "conversion_factor_from_si": 1.0
+}

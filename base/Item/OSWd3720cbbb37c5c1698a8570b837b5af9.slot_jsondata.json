@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d3720cbb-b37c-5c16-98a8-570b837b5af9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BQ-PER-M3"
+    ],
+    "name": "BQ-PER-M3",
+    "label": [
+        {
+            "text": "Becquerel per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI derived unit of unit in the category of Radioactivity concentration.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Bq/m³",
+    "conversion_factor_from_si": 1.0
+}

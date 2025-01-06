@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "a7c0cd5d-93a9-5d52-92a1-f08fe92b55e6",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarAttenuationCoefficient"
+    ],
+    "name": "MolarAttenuationCoefficient",
+    "label": [
+        {
+            "text": "Molar Attenuation Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Molar Attenuation Coefficient\" is a measurement of how strongly a chemical species or substance absorbs or scatters light at a given wavelength, per amount of substance.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf4a7837882ed5a0b9b128b2d067fc97b"
+    ]
+}

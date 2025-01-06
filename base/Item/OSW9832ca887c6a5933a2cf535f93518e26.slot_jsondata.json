@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "9832ca88-7c6a-5933-a2cf-535f93518e26",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AngularMomentumPerAngle"
+    ],
+    "name": "AngularMomentumPerAngle",
+    "label": [
+        {
+            "text": "Angular Momentum per Angle",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW404a6456c6e85787a64ba84779ef3d70"
+    ]
+}

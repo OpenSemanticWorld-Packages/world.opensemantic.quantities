@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e679b966-3f57-5f40-9d1b-5285f46183eb",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-MIN"
+    ],
+    "name": "GM-PER-MIN",
+    "label": [
+        {
+            "text": "Gram per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the unit minute",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/min",
+    "conversion_factor_from_si": 1.666667e-05,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f560acf3-9498-593c-bf74-47bfb7f2de24",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-MIN"
+            ],
+            "osw_id": "Item:OSWe679b9663f575f409d1b5285f46183eb#OSWf560acf39498593cbf7447bfb7f2de24",
+            "conversion_factor_from_si": 1.666667e-08,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/min"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f21d4894-42ee-5963-9675-8812a0446f87",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-MIN"
+            ],
+            "osw_id": "Item:OSWe679b9663f575f409d1b5285f46183eb#OSWf21d489442ee596396758812a0446f87",
+            "conversion_factor_from_si": 0.01666667,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/min"
+        }
+    ]
+}

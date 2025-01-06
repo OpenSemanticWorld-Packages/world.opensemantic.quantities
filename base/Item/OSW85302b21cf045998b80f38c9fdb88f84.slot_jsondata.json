@@ -1,0 +1,139 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "85302b21-cf04-5998-b80f-38c9fdb88f84",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/SEC",
+        "http://dbpedia.org/resource/Second",
+        "https://si-digital-framework.org/SI/units/second"
+    ],
+    "name": "SEC",
+    "label": [
+        {
+            "text": "second",
+            "lang": "en"
+        },
+        {
+            "text": "Sekunde",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $Second$ (symbol: $s$) is the base unit of time in the International System of Units (SI) and is also a unit of time in other systems of measurement. Between the years1000 (when al-Biruni used seconds) and 1960 the second was defined as $1/86400$ of a mean solar day (that definition still applies in some astronomical and legal contexts). Between 1960 and 1967, it was defined in terms of the period of the Earth's orbit around the Sun in 1900, but it is now defined more precisely in atomic terms.\nUnder the International System of Units (via the International Committee for Weights and Measures, or CIPM), since 1967 the second has been defined as the duration of ${9192631770}$ periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium 133 atom.In 1997 CIPM added that the periods would be defined for a caesium atom at rest, and approaching the theoretical temperature of absolute zero, and in 1999, it included corrections from ambient radiation.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "s",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c6f2918c-bdef-5bde-8d00-cf86938c7f8e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoSEC"
+            ],
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWc6f2918cbdef5bde8d00cf86938c7f8e",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "ps"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "78488a0c-8e88-5365-beff-30aae10a4efd",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciSEC"
+            ],
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW78488a0c8e885365beff30aae10a4efd",
+            "conversion_factor_from_si": 0.1,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "ds"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "84d4f530-814e-5251-b06e-73ee0184e32b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliSEC",
+                "http://dbpedia.org/resource/Millisecond"
+            ],
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW84d4f530814e5251b06e73ee0184e32b",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "ms"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "14e2efd7-a4a0-5306-a746-63592edb23e8",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoSEC",
+                "http://dbpedia.org/resource/Nanosecond"
+            ],
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW14e2efd7a4a05306a74663592edb23e8",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "ns"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "2e4fec03-73f4-5f18-9140-3f06e433c5eb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/AttoSEC"
+            ],
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW2e4fec0373f45f1891403f06e433c5eb",
+            "conversion_factor_from_si": 1e-18,
+            "prefix": "Item:OSWa569fd62d673576f8150159be578c72d",
+            "main_symbol": "as"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "bc38445f-00d0-5606-9fef-04f8e25c66f6",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloSEC",
+                "http://dbpedia.org/resource/Millisecond"
+            ],
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWbc38445f00d056069fef04f8e25c66f6",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "ks"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "d1e24421-c83d-5def-b5c2-2e9a5fe490fb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FemtoSEC"
+            ],
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWd1e24421c83d5defb5c22e9a5fe490fb",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
+            "main_symbol": "fs"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "90ff22cf-f2dd-5d8b-a6de-84bf9a70c50c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroSEC"
+            ],
+            "osw_id": "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW90ff22cff2dd5d8ba6de84bf9a70c50c",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µs"
+        }
+    ]
+}

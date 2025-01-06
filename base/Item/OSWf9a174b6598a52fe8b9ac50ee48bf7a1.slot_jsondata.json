@@ -1,0 +1,110 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f9a174b6-598a-52fe-8b9a-c50ee48bf7a1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/OHM",
+        "http://dbpedia.org/resource/Ohm",
+        "https://si-digital-framework.org/SI/units/ohm"
+    ],
+    "name": "OHM",
+    "label": [
+        {
+            "text": "ohm",
+            "lang": "en"
+        },
+        {
+            "text": "Ohm",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The $\\textit{ohm}$ is the SI derived unit of electrical resistance, named after German physicist Georg Simon Ohm. \n  \n  It is defined as:\n  \n  $$\\Omega \\equiv\\ \\frac{\\text{V}}{\\text{A}}\\ \\equiv\\ \\frac{\\text{volt}}{\\text{amp}}\\ \\equiv\\ \\frac{\\text{W}}{\\text {A}^{2}}\\ \\equiv\\ \\frac{\\text{watt}}{\\text{amp}^{2}}\\ \\equiv\\ \\frac{\\text{H}}{\\text {s}}\\ \\equiv\\ \\frac{\\text{henry}}{\\text{second}}$$\n  \n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Ω",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "14b14dd3-c32d-5ee1-99a6-7e3796734a4a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaOHM"
+            ],
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW14b14dd3c32d5ee199a67e3796734a4a",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MΩ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "acd4090b-d833-5717-b6ee-a6b8c1151b29",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroOHM"
+            ],
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWacd4090bd8335717b6eea6b8c1151b29",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μΩ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "66dbbd77-c6ca-5d56-84b2-23fdfcc7b773",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaOHM"
+            ],
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW66dbbd77c6ca5d5684b223fdfcc7b773",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GΩ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5e05beab-f693-5ae2-b559-c1cffc788110",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloOHM"
+            ],
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5e05beabf6935ae2b559c1cffc788110",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kΩ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a8d17cb3-f425-5320-af60-52cbd471d716",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliOHM"
+            ],
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWa8d17cb3f4255320af6052cbd471d716",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mΩ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5196e386-37c7-52e5-8c2b-5be5521e4234",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/TeraOHM"
+            ],
+            "osw_id": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5196e38637c752e58c2b5be5521e4234",
+            "conversion_factor_from_si": 1000000000000.0,
+            "prefix": "Item:OSW8c95fb553826551fb7c0294a7c0ada41",
+            "main_symbol": "TΩ"
+        }
+    ]
+}

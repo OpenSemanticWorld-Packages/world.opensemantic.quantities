@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7177c9a6-d3ba-5b64-ad95-d9a6e1719c9e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstancePerMassPressure"
+    ],
+    "name": "MolarMassVariationDueToPressure",
+    "label": [
+        {
+            "text": "Molar Mass variation due to Pressure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Variation of Molar Mass\" of a gas as a function of pressure.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449"
+    ]
+}

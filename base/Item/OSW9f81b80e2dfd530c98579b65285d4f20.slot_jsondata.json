@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "9f81b80e-2dfd-530c-9857-9b65285d4f20",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-SR"
+    ],
+    "name": "M2-SR",
+    "label": [
+        {
+            "text": "Square Metre Steradian",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Square Meter Steradian\" is a unit for  'Area Angle' expressed as $m^{2}-sr$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²·sr",
+    "conversion_factor_from_si": 1.0
+}

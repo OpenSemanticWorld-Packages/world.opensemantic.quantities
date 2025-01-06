@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "50e05e2d-20e8-58f2-81ef-0d396691ec1e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V-PER-M2"
+    ],
+    "name": "V-PER-M2",
+    "label": [
+        {
+            "text": "Volt per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  $\\textit{Volt per Square Metre}$ is the divergence at a particular point in a vector field is (roughly) how much the vector field 'spreads out' from that point. \n  Operationally, we take the partial derivative of each of the field with respect to each of its space variables and add all the derivatives together to get the divergence. \n  $\\textit{Electric field}$ ($V/m$) differentiated with respect to distance ($m$) yields $V/(m^2)$.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V/m²",
+    "conversion_factor_from_si": 1.0
+}

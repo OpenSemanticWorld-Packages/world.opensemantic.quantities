@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7fe00d52-86c8-57b4-9544-8226cb3bfee2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BulkModulus"
+    ],
+    "name": "BulkModulus",
+    "label": [
+        {
+            "text": "Bulk Modulus",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The bulk modulus of a substance measures the substance's resistance to uniform compression. It is defined as the ratio of the infinitesimal pressure increase to the resulting relative decrease of the volume.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c"
+    ]
+}

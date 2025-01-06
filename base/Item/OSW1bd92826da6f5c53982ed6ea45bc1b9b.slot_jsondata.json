@@ -1,0 +1,41 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "1bd92826-da6f-5c53-982e-d6ea45bc1b9b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Time"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Time",
+        "https://si-digital-framework.org/SI/quantities/TIME"
+    ],
+    "name": "Time",
+    "label": [
+        {
+            "text": "Time",
+            "lang": "en"
+        },
+        {
+            "text": "Zeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Time is a basic component of the measuring system used to sequence events, to compare the durations of events and the intervals between them, and to quantify the motions of objects.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+        "Item:OSWc90e307854c453be958300304ca8185e",
+        "Item:OSW8751fff4e67d5a9b944e323159eb0dad",
+        "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
+        "Item:OSWca47b84354ef5eb1947de297c89694a4",
+        "Item:OSW5006c43ac65f5114a5ec3c43c4904caa",
+        "Item:OSW3a999b8dd84a57cd98b474dcb3642b43",
+        "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7",
+        "Item:OSW386b8cf741555c98ae8917736ea79d7c"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "1decca05-7025-5b2a-82d9-88bd588912e5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricField"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Electric_field"
+    ],
+    "name": "ElectricField",
+    "label": [
+        {
+            "text": "Electric Field",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The space surrounding an electric charge or in the presence of a time-varying magnetic field has a property called an electric field. This electric field exerts a force on other electrically charged objects. In the idealized case, the force exerted between two point charges is inversely proportional to the square of the distance between them. (Coulomb's Law).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "03b25e9a-7cef-5ade-b7f3-d5f82115dfc3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BQ-PER-KiloGM"
+    ],
+    "name": "BQ-PER-KiloGM",
+    "label": [
+        {
+            "text": "Becquerel per Kilogram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Becquerel per Kilogram\" is used to describe radioactivity, which is often expressed in becquerels per unit of volume or weight, to express how much radioactive material is contained in a sample.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Bq/kg",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c896c96c-6de8-5211-81da-ee0118de2c5b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliBQ-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3#OSWc896c96c6de8521181daee0118de2c5b",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mBq/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "23b3668e-d7d3-501d-a40a-aa0a4e9f765e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroBQ-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3#OSW23b3668ed7d3501da40aaa0a4e9f765e",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μBq/kg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b2902ae1-df0b-5616-82bf-c174af5ff039",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M2-DAY"
+    ],
+    "name": "GM-PER-M2-DAY",
+    "label": [
+        {
+            "text": "grams per square metre day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A metric unit of volume over time indicating the amount generated across one square meter over a day.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(m²·day)",
+    "conversion_factor_from_si": 1.1574073e-08,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "93a70588-ce30-5c56-aa1c-3d6417632649",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-M2-DAY"
+            ],
+            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW93a70588ce305c56aa1c3d6417632649",
+            "conversion_factor_from_si": 1.15740740740741e-11,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/(m²·day)"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ae40efaa-2476-50f3-8362-d522eabf49ca",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroGM-PER-M2-DAY"
+            ],
+            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWae40efaa247650f38362d522eabf49ca",
+            "conversion_factor_from_si": 1.15740740740741e-14,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μg/(m²·day)"
+        }
+    ]
+}

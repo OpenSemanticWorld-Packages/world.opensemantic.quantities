@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "46d071e2-e2b4-5635-abd2-ec5b83cac7f7",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/YR"
+    ],
+    "name": "YR",
+    "label": [
+        {
+            "text": "Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A year is any of the various periods equated with one passage of Earth about the Sun, and hence of roughly 365 days. The familiar calendar has a mixture of 365- and 366-day years, reflecting the fact that the time for one complete passage takes about 365¼ days; the precise value for this figure depends on the manner of defining the year.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "a",
+    "conversion_factor_from_si": 31557600.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c43e5d26-f2a9-51f3-97af-ff65351fa135",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaYR"
+            ],
+            "osw_id": "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7#OSWc43e5d26f2a951f397afff65351fa135",
+            "conversion_factor_from_si": 31557600000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "Ma"
+        }
+    ]
+}

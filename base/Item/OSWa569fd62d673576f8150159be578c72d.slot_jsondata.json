@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "a569fd62-d673-576f-8150-159be578c72d",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/atto"
+    ],
+    "name": "atto",
+    "label": [
+        {
+            "text": "atto (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "a",
+    "factor": 1e-18
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "1fd23e16-8f9a-5656-9ef9-93194cce93b3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/HamiltonFunction"
+    ],
+    "name": "HamiltonFunction",
+    "label": [
+        {
+            "text": "Hamilton Function",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Hamilton–Jacobi equation (HJE) is a necessary condition describing extremal geometry in generalizations of problems from the calculus of variations.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074"
+    ]
+}

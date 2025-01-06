@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "ac4a3c54-6259-5b80-8b1e-7bdc1c9f9e1f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseTemperature"
+    ],
+    "name": "InverseTemperature",
+    "label": [
+        {
+            "text": "Inverse Temperature",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW33dfda3d4dea57d192d02eecdbc09b86"
+    ]
+}

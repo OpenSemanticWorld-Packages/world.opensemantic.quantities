@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b0010d0f-4c7a-52e1-8edb-fdc34e4c0653",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/RAD-PER-SEC"
+    ],
+    "name": "RAD-PER-SEC",
+    "label": [
+        {
+            "text": "radian per second",
+            "lang": "en"
+        },
+        {
+            "text": "Radian je Sekunde",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Radian per Second\" is the SI unit of rotational speed (angular velocity), and, also the unit of angular frequency. The radian per second is defined as the change in the orientation of an object, in radians, every second.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "rad/s",
+    "conversion_factor_from_si": 1.0
+}

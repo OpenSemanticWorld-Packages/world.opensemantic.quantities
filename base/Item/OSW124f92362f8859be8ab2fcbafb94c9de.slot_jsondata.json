@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "124f9236-2f88-59be-8ab2-fcbafb94c9de",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M2-M-SR"
+    ],
+    "name": "W-PER-M2-M-SR",
+    "label": [
+        {
+            "text": "Watts per square metre metre steradian",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(m²·m·sr)",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "74b4aede-be05-596d-8270-42f14930136b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/W-PER-M2-NanoM-SR"
+            ],
+            "osw_id": "Item:OSW124f92362f8859be8ab2fcbafb94c9de#OSW74b4aedebe05596d827042f14930136b",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "W/(m²·nm·sr)"
+        }
+    ]
+}

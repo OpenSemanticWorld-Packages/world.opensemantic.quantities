@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7a09e4a7-75a2-5c4d-99a3-77483be824c6",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ParticleFluenceRate"
+    ],
+    "name": "ParticleFluenceRate",
+    "label": [
+        {
+            "text": "Particle Fluence Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Particle Fluence Rate\" can be defined as the total number of particles (typically Gamma Ray Photons ) crossing over a sphere of unit cross section which surrounds a Point Source of Ionising Radiation.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW580b455ce69e57418303f409d43f373a"
+    ]
+}

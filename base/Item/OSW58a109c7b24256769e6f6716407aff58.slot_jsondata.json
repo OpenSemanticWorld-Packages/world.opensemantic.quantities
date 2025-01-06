@@ -1,0 +1,104 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "58a109c7-b242-5676-9e6f-6716407aff58",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-L"
+    ],
+    "name": "MOL-PER-L",
+    "label": [
+        {
+            "text": "Mole per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit mol divided by the unit litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/L",
+    "conversion_factor_from_si": 1000.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5367e00a-4060-5a74-b878-ae9d2962dcee",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroMOL-PER-L"
+            ],
+            "osw_id": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW5367e00a40605a74b878ae9d2962dcee",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µmol/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6c417325-ca15-5276-b312-fd6393406a04",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FemtoMOL-PER-L"
+            ],
+            "osw_id": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW6c417325ca155276b312fd6393406a04",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
+            "main_symbol": "fmol/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "33e8faad-c379-559c-9b0e-8b5466b51b78",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiMOL-PER-L"
+            ],
+            "osw_id": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW33e8faadc379559c9b0e8b5466b51b78",
+            "conversion_factor_from_si": 10.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cmol/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "42ad2b52-1cac-599c-9a5f-08e3edd7d88a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliMOL-PER-L"
+            ],
+            "osw_id": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW42ad2b521cac599c9a5f08e3edd7d88a",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mmol/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "040f32fc-f76d-545a-a5d4-c002e316f98b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoMOL-PER-L"
+            ],
+            "osw_id": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW040f32fcf76d545aa5d4c002e316f98b",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nmol/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "37d2d772-a313-5db5-9534-9578327b5ac8",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoMOL-PER-L"
+            ],
+            "osw_id": "Item:OSW58a109c7b24256769e6f6716407aff58#OSW37d2d772a3135db595349578327b5ac8",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pmol/L"
+        }
+    ]
+}

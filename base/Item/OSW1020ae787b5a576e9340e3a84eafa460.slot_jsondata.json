@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "1020ae78-7b5a-576e-9340-e3a84eafa460",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VolumeThermalExpansion"
+    ],
+    "name": "VolumeThermalExpansion",
+    "label": [
+        {
+            "text": "Volume Thermal Expansion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "When the temperature of a substance changes, the energy that is stored in the intermolecular bonds between atoms changes. When the stored energy increases, so does the length of the molecular bonds. As a result, solids typically expand in response to heating and contract on cooling; this dimensional response to temperature change is expressed by its coefficient of thermal expansion.\n\nDifferent coefficients of thermal expansion can be defined for a substance depending on whether the expansion is measured by:\n\n    * linear thermal expansion\n    * area thermal expansion\n    * volumetric thermal expansion\n\nThese characteristics are closely related. The volumetric thermal expansion coefficient can be defined for both liquids and solids. The linear thermal expansion can only be defined for solids, and is common in engineering applications.\n\nSome substances expand when cooled, such as freezing water, so they have negative thermal expansion coefficients. [Wikipedia]",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc8817fd4ba3f569eb0437d191810aad2",
+        "Item:OSWb9f55dd232415132bdf9e63794052746"
+    ]
+}

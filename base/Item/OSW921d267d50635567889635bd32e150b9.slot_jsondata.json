@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "921d267d-5063-5567-8896-35bd32e150b9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PressureInRelationToVolumeFlowRate"
+    ],
+    "name": "PressureInRelationToVolumeFlowRate",
+    "label": [
+        {
+            "text": "Pressure in relation to volume flow rate",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW975f79935c9f543caaec4538d778a2f5"
+    ]
+}

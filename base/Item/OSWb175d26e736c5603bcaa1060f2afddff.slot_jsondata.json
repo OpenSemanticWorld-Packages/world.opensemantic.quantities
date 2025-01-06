@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b175d26e-736c-5603-bcaa-1060f2afddff",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CD-PER-LM"
+    ],
+    "name": "CD-PER-LM",
+    "label": [
+        {
+            "text": "Candela per Lumen",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cd/lm",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "77b2c8bd-92a0-57b1-ade0-ce1687eb7520",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CD-PER-KiloLM"
+            ],
+            "osw_id": "Item:OSWb175d26e736c5603bcaa1060f2afddff#OSW77b2c8bd92a057b1ade0ce1687eb7520",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "cd/klm"
+        }
+    ]
+}

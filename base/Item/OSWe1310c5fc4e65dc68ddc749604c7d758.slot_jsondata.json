@@ -1,0 +1,43 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e1310c5f-c4e6-5dc6-8ddc-749604c7d758",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-W"
+    ],
+    "name": "M2-PER-W",
+    "label": [
+        {
+            "text": "square metre per watt",
+            "lang": "en"
+        },
+        {
+            "text": "Quadratmeter je Watt",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "A common unit for measuring area per power",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/W",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1e8006cf-8349-52ab-8673-3cd87ed7be1c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/M2-PER-KiloW"
+            ],
+            "osw_id": "Item:OSWe1310c5fc4e65dc68ddc749604c7d758#OSW1e8006cf834952ab86733cd87ed7be1c",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "m²/kW"
+        }
+    ]
+}

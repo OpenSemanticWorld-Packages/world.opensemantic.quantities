@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "133e5d7d-7108-5c18-a281-35cdc672e1fc",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCurrentPerTemperature"
+    ],
+    "name": "ElectricCurrentPerTemperature",
+    "label": [
+        {
+            "text": "Electric Current per Temperature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Current per Temperature\" is used to express how a current is subject to temperature. Originally used in Wien's Law to describe phenomena related to filaments. One use today is to express how a current generator derates with temperature.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW167de6aa22ae5b798f9914c5468307c3"
+    ]
+}

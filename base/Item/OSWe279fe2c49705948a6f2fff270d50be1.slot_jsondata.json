@@ -1,0 +1,82 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e279fe2c-4970-5948-a6f2-fff270d50be1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FARAD-PER-M"
+    ],
+    "name": "FARAD-PER-M",
+    "label": [
+        {
+            "text": "farad per metre",
+            "lang": "en"
+        },
+        {
+            "text": "Farad je Meter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Farad Per Meter ($F/m$) is a unit in the category of Electric permittivity. It is also known as farad/meter. This unit is commonly used in the SI unit system. Farad Per Meter has a dimension of M-1L-3T4I2 where $M$ is mass, $L$ is length, $T$ is time, and $I$ is electric current. This unit is the standard SI unit in this category.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "F/m",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a8178412-3511-55ee-a5ff-7170de8040be",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoFARAD-PER-M"
+            ],
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWa8178412351155eea5ff7170de8040be",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nF/m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "635f4b80-20b6-5573-8a87-7cb7e87831be",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoFARAD-PER-M"
+            ],
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW635f4b8020b655738a877cb7e87831be",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pF/m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c45e1c5e-4909-5d4d-805e-a836290790b7",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroFARAD-PER-M"
+            ],
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWc45e1c5e49095d4d805ea836290790b7",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µF/m"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "47e4ca26-4928-5de5-b1db-d98338fac916",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FARAD-PER-KiloM"
+            ],
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW47e4ca2649285de5b1dbd98338fac916",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "F/km"
+        }
+    ]
+}

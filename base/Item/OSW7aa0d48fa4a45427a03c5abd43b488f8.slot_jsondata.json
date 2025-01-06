@@ -1,0 +1,96 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7aa0d48f-a4a4-5427-a03c-5abd43b488f8",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3",
+        "http://dbpedia.org/resource/Cubic_metre"
+    ],
+    "name": "M3",
+    "label": [
+        {
+            "text": "cubic metre",
+            "lang": "en"
+        },
+        {
+            "text": "Kubikmeter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of volume, equal to 1.0e6 cm3, 1000 liters, 35.3147 ft3, or 1.30795 yd3. A cubic meter holds about 264.17 U.S. liquid gallons or 219.99 British Imperial gallons.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a9d92cf2-bcb9-5b18-87a2-3f99b51d8d36",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM3"
+            ],
+            "osw_id": "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSWa9d92cf2bcb95b1887a23f99b51d8d36",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "cd2df951-f11a-56d2-a067-05a8f16b0662",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM3"
+            ],
+            "osw_id": "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSWcd2df951f11a56d2a06705a8f16b0662",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7126d9f5-4e0b-5658-98cc-f21988c04366",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroM3"
+            ],
+            "osw_id": "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSW7126d9f54e0b565898ccf21988c04366",
+            "conversion_factor_from_si": 1e-18,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µm³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "dda7ee9d-ea45-5958-af14-66a861d5bf7d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DeciM3"
+            ],
+            "osw_id": "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSWdda7ee9dea455958af1466a861d5bf7d",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
+            "main_symbol": "dm³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5024fe1a-0236-5460-bbc2-3fa2e8a46a7b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DecaM3"
+            ],
+            "osw_id": "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8#OSW5024fe1a02365460bbc23fa2e8a46a7b",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW2b7aeb54b7395e99b3d5c20b77de4b15",
+            "main_symbol": "dam³"
+        }
+    ]
+}

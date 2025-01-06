@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4db6d50e-4e4e-5d9d-bd54-9d706e3f6c44",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-M3-K"
+    ],
+    "name": "J-PER-M3-K",
+    "label": [
+        {
+            "text": "Joule per Cubic Metre Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Joule per Cubic Meter Kelvin}$ is a unit for 'Volumetric Heat Capacity' expressed as $J/(m^{3} K)$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(m³·K)",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "831c2e01-19cd-5e46-a75a-fc834fffaf7d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/J-PER-CentiM3-K"
+            ],
+            "osw_id": "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44#OSW831c2e0119cd5e46a75afc834fffaf7d",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "J/(cm³·K)"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "20b837bf-d2fa-5c3a-bc86-347ce702f27c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-SEC"
+    ],
+    "name": "M2-PER-SEC",
+    "label": [
+        {
+            "text": "square metre per second",
+            "lang": "en"
+        },
+        {
+            "text": "Quadratmeter je Sekunde",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The unit $\\textit{Square Metres per Second}$ is the SI derived unit of angular momentum, defined by distance\n   or displacement in metres multiplied by distance again in metres and divided by time in seconds. \n  The unit is written in symbols as $m^2/s$ or $m^22s^{-1}$. \n  It may be better understood when phrased as $\\textit{metres per second times metres}$, i.e. the momentum\n   of an object with respect to a position.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/s",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5db8f161-eb8c-5912-9cef-62d84dd3309c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM2-PER-SEC"
+            ],
+            "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW5db8f161eb8c59129cef62d84dd3309c",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm²/s"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "031bb99e-e99a-5794-a24c-66e6203c21db",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM2-PER-SEC"
+            ],
+            "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW031bb99ee99a5794a24c66e6203c21db",
+            "conversion_factor_from_si": 0.0001,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm²/s"
+        }
+    ]
+}

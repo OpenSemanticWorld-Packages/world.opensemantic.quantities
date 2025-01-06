@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "6ad21b17-9ec9-5f4e-ac0b-38c08cf5d3b2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RecombinationCoefficient"
+    ],
+    "name": "RecombinationCoefficient",
+    "label": [
+        {
+            "text": "Recombination Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Recombination Coefficient\" is the rate of recombination of positive ions with electrons or negative ions in a gas, per unit volume, divided by the product of the number of positive ions per unit volume and the number of electrons or negative ions per unit volume.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4ed5503a56ab514ab3d925287da52a95"
+    ]
+}

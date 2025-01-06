@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "6f1d7d59-ec1c-597c-a211-6bb28ab015d9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Period"
+    ],
+    "name": "Period",
+    "label": [
+        {
+            "text": "Period",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Duration of one cycle of a periodic phenomenon.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84"
+    ]
+}

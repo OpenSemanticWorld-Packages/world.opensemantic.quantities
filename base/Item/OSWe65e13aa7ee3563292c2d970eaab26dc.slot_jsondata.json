@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "e65e13aa-7ee3-5632-92c2-d970eaab26dc",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerAreaPerSolidAngle"
+    ],
+    "name": "PowerAreaPerSolidAngle",
+    "label": [
+        {
+            "text": "Power Area per Solid Angle",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW21cf512b048358628e8ce57f4cecb9cc"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "e8eeff6c-98fe-586a-87ea-2225190130d7",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Impedance"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Electrical_impedance"
+    ],
+    "name": "Impedance",
+    "label": [
+        {
+            "text": "Impedance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Impedance\" is the measure of the opposition that a circuit presents to the passage of a current when a voltage is applied. In quantitative terms, it is the complex ratio of the voltage to the current in an alternating current (AC) circuit. Impedance extends the concept of resistance to AC circuits, and possesses both magnitude and phase, unlike resistance, which has only magnitude. When a circuit is driven with direct current (DC), there is no distinction between impedance and resistance; the latter can be thought of as impedance with zero phase angle.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1"
+    ]
+}

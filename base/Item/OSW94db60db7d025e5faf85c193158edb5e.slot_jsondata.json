@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "94db60db-7d02-5e5f-af85-c193158edb5e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCharge"
+    ],
+    "close_ontology_match": [
+        "https://si-digital-framework.org/SI/quantities/ELCH"
+    ],
+    "name": "ElectricCharge",
+    "label": [
+        {
+            "text": "Electric charge",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Ladung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Charge\" is a fundamental conserved property of some subatomic particles, which determines their electromagnetic interaction. Electrically charged matter is influenced by, and produces, electromagnetic fields. The electric charge on a body may be positive or negative. Two positively charged bodies experience a mutual repulsive force, as do two negatively charged bodies. A positively charged body and a negatively charged body experience an attractive force. Electric charge is carried by discrete particles and can be positive or negative. The sign convention is such that the elementary electric charge $e$, that is, the charge of the proton, is positive. The SI derived unit of electric charge is the coulomb.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWb74ce812542f578fb6df2ecf9080fb32",
+        "Item:OSWafebb36f7bb65377baeb39c5c782bc93",
+        "Item:OSW5705fe1e62ee57b3b67f335a31bc8e6e",
+        "Item:OSW0a1d318a6f7d551baea7e80a6a56959a"
+    ]
+}

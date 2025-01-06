@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "394d6a9b-2791-55cc-9f14-6dae49bb649a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TON_Metric-PER-DAY"
+    ],
+    "name": "TON_Metric-PER-DAY",
+    "label": [
+        {
+            "text": "Tonne per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "metric unit ton divided by the unit for time day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t/day",
+    "conversion_factor_from_si": 0.011574074074074
+}

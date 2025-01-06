@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "613aca3c-29d4-537b-a519-026f4b0a9c15",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GRAIN-PER-M3"
+    ],
+    "name": "GRAIN-PER-M3",
+    "label": [
+        {
+            "text": "Grains per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Grains per cubic metre of volume",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "gr{UK}/m³",
+    "conversion_factor_from_si": 6.479891e-05
+}

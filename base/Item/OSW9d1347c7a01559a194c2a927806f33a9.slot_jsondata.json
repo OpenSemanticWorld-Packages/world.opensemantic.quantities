@@ -1,0 +1,27 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "9d1347c7-a015-59a1-94c2-a927806f33a9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassPerArea"
+    ],
+    "name": "MassPerArea",
+    "label": [
+        {
+            "text": "Mass per Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The area density (also known as areal density, surface density, or superficial density) of a two-dimensional object is calculated as the mass per unit area. The SI derived unit is: kilogram per square metre  ($kg \\cdot m^{-2}$).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22",
+        "Item:OSW3aacdbefb59951ae987f22ffaf0497dc",
+        "Item:OSW854e876f73a75ecc8a2cc4d88a31a5a0"
+    ]
+}

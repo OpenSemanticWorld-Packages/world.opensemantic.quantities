@@ -1,0 +1,30 @@
+{
+    "subclass_of": [
+        "Category:Item"
+    ],
+    "type": [
+        "Category:Category"
+    ],
+    "uuid": "d2520fa0-1684-4e01-af00-97a85bb25b25",
+    "label": [
+        {
+            "text": "Quantity Unit",
+            "lang": "en"
+        },
+        {
+            "text": "Größeneinheit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for a physical, technical or economical quantity",
+            "lang": "en"
+        },
+        {
+            "text": "Einheit für eine physikalische, technische oder ökonomische Größe",
+            "lang": "de"
+        }
+    ],
+    "name": "QuantityUnit"
+}

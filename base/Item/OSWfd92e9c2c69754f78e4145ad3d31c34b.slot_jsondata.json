@@ -1,0 +1,117 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "fd92e9c2-c697-54f7-8e41-45ad3d31c34b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-KiloGM"
+    ],
+    "name": "MOL-PER-KiloGM",
+    "label": [
+        {
+            "text": "Mole per Kilogram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mole Per Kilogram ($mol/kg$) is a unit of Molality",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/kg",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ce6b6416-3d09-5aff-bef6-daa39c9cd063",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FemtoMOL-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSWce6b64163d095affbef6daa39c9cd063",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
+            "main_symbol": "fmol/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "84e7943c-ec52-5980-82a9-6c43ab77d33a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloMOL-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW84e7943cec52598082a96c43ab77d33a",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kmol/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9abfd6b6-d96b-507a-bac8-057d6e35a74f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiMOL-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW9abfd6b6d96b507abac8057d6e35a74f",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cmol/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "51bd13e6-7a47-58bb-a503-88bd5cffe504",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoMOL-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW51bd13e67a4758bba50388bd5cffe504",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nmol/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "78a5da75-d0d1-5046-935d-f4e27fa7d3a9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliMOL-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSW78a5da75d0d15046935df4e27fa7d3a9",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mmol/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a9d227b6-d129-58eb-a67f-df22b0934535",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroMOL-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSWa9d227b6d12958eba67fdf22b0934535",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µmol/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "d77b5543-087f-560c-aec2-016c89521715",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoMOL-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b#OSWd77b5543087f560caec2016c89521715",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pmol/kg"
+        }
+    ]
+}

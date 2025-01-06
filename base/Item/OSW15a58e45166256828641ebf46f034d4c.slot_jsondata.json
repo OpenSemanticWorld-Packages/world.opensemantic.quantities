@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "15a58e45-1662-5682-8641-ebf46f034d4c",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/zetta"
+    ],
+    "name": "zetta",
+    "label": [
+        {
+            "text": "zetta (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Z",
+    "factor": 1e+21
+}

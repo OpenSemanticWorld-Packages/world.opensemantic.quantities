@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "779e33a0-5727-5cba-9d6f-363a1526d8bf",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-GM"
+    ],
+    "name": "PER-GM",
+    "label": [
+        {
+            "text": "Reciprocal gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the 0.001-fold of the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/g",
+    "conversion_factor_from_si": 1000.0
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "68f6c214-9802-593c-9502-002b6a13ba6e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearDensity"
+    ],
+    "name": "LinearDensity",
+    "label": [
+        {
+            "text": "Linear Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Linear density, linear mass density or linear mass is a measure of mass per unit of length, and it is a characteristic of strings or other one-dimensional objects.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0429f89d17e6572fac6630caa443c336"
+    ]
+}

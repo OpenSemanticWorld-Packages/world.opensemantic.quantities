@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "a51dd30e-4128-56fd-b65e-16c4bcb74960",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseAmountOfSubstance"
+    ],
+    "name": "InverseAmountOfSubstance",
+    "label": [
+        {
+            "text": "Inverse amount of substance",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW7b8304e9935651c7a91b9d5b8f6594e3"
+    ]
+}

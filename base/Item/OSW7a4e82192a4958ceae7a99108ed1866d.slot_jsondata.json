@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7a4e8219-2a49-58ce-ae7a-99108ed1866d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-HZ4"
+    ],
+    "name": "M2-HZ4",
+    "label": [
+        {
+            "text": "Square metres Hertz^4",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²·Hz⁴",
+    "conversion_factor_from_si": 1.0
+}

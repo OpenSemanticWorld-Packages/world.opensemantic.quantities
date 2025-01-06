@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e5ae11f7-ed99-5d13-bdf1-2af6c0a8a444",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-K"
+    ],
+    "name": "M-K",
+    "label": [
+        {
+            "text": "metre kelvin",
+            "lang": "en"
+        },
+        {
+            "text": "Meter mal Kelvin",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Meter Kelvin}$ is a unit for 'Length Temperature' expressed as $m K$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m·K",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e8b1aef9-0f36-58a1-88f5-aaf54cd01384",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-HR-PER-M2"
+    ],
+    "name": "W-HR-PER-M2",
+    "label": [
+        {
+            "text": "Watt hour per square metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of energy per unit area, equivalent to 3,600 joules per square metre.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W·h/m²",
+    "conversion_factor_from_si": 3600.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f1206d0d-1834-545d-aea2-29acbe7559e4",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloW-HR-PER-M2"
+            ],
+            "osw_id": "Item:OSWe8b1aef90f3658a188f5aaf54cd01384#OSWf1206d0d1834545daea229acbe7559e4",
+            "conversion_factor_from_si": 3600000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kW·h/m²"
+        }
+    ]
+}

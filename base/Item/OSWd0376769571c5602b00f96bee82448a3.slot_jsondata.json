@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "d0376769-571c-5602-b00f-96bee82448a3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassRatio"
+    ],
+    "name": "MassRatio",
+    "label": [
+        {
+            "text": "Mass Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In aerospace engineering, mass ratio is a measure of the efficiency of a rocket. It describes how much more massive the vehicle is with propellant than without; that is, it is the ratio of the rocket's wet mass (vehicle plus contents plus propellant) to its dry mass (vehicle plus contents)",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW36c3b3d668515d6ba8fd68089a3a0371"
+    ]
+}

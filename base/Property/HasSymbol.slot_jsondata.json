@@ -1,0 +1,15 @@
+{
+    "type": [
+        "Category:DataProperty"
+    ],
+    "name": "HasSymbol",
+    "property_type": "Text",
+    "uuid": "9ee4d02a-7f49-4422-841a-eec0710f1e23",
+    "label": [
+        {
+            "text": "Symbol",
+            "lang": "de"
+        }
+    ],
+    "description": []
+}

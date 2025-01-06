@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7a041f56-5fd0-5aa7-800b-4fa1cedb3d9a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StandardGravitationalParameter"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Standard_gravitational_parameter"
+    ],
+    "name": "StandardGravitationalParameter",
+    "label": [
+        {
+            "text": "Standard Gravitational Parameter",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In celestial mechanics the standard gravitational parameter of a celestial body is the product of the gravitational constant G and the mass M of the body. Expressed as $\\mu = G \\cdot M$. The SI units of the standard gravitational parameter are $m^{3}s^{-2}$.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW70d2cca5a9c75bec807d755997acbf8c"
+    ]
+}

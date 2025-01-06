@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "370f71fa-df83-58da-ae35-fcadb110fb8c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VentilationRatePerFloorArea"
+    ],
+    "name": "VentilationRatePerFloorArea",
+    "label": [
+        {
+            "text": "Ventilation Rate per Floor Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Ventilation Rate is often expressed by the volumetric flowrate of outdoor air introduced to a building. However, ASHRAE now recommends ventilation rates dependent upon floor area.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW3248fcac4b1b514b81d2b9f7bf05e180"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "580eaf9a-8f31-5c55-a319-53e4184cf0cf",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-L"
+    ],
+    "name": "L-PER-L",
+    "label": [
+        {
+            "text": "Litre per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "volume ratio consisting of the unit litre divided by the unit litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/L",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b2c63d9b-c847-5e67-96ed-73643fe4422c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroL-PER-L"
+            ],
+            "osw_id": "Item:OSW580eaf9a8f315c55a31953e4184cf0cf#OSWb2c63d9bc8475e6796ed73643fe4422c",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μL/L"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a40bae6f-bf9b-5845-8d3b-400434b85103",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliL-PER-L"
+            ],
+            "osw_id": "Item:OSW580eaf9a8f315c55a31953e4184cf0cf#OSWa40bae6fbf9b58458d3b400434b85103",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mL/L"
+        }
+    ]
+}

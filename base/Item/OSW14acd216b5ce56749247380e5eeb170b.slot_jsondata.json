@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "14acd216-b5ce-5674-9247-380e5eeb170b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LengthTemperatureTime"
+    ],
+    "name": "LengthTemperatureTime",
+    "label": [
+        {
+            "text": "Length Temperature Time",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW47b476c946d35bde93b5757a8e2d3d1b"
+    ]
+}

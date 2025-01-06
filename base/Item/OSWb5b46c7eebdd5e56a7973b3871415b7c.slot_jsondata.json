@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "b5b46c7e-ebdd-5e56-a797-3b3871415b7c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ForcePerAngle"
+    ],
+    "name": "ForcePerAngle",
+    "label": [
+        {
+            "text": "Force per Angle",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW1a0a52ba2fe957989fe3e1a2d0bbdcc4"
+    ]
+}

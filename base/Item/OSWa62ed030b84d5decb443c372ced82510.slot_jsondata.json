@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "a62ed030-b84d-5dec-b443-c372ced82510",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ForcePerLength"
+    ],
+    "name": "ForcePerLength",
+    "label": [
+        {
+            "text": "Force per Length",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0d4e5e11d53f5018a0b965373b55510d",
+        "Item:OSW9137313140045506900306df5eadafcc"
+    ]
+}

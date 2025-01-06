@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "e5277de7-6c4e-5ae1-840f-1931a942b628",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LineicPower"
+    ],
+    "name": "LineicPower",
+    "label": [
+        {
+            "text": "Lineic power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Leistung dividiert durch die zugehörige Länge",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4cf53c813d36501db82ba5b6ac1a48bf"
+    ]
+}

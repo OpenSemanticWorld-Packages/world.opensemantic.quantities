@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "e96cbd9b-4c9c-5e2a-b7b4-a76d5ad71449",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-KiloGM-PA"
+    ],
+    "name": "MOL-PER-KiloGM-PA",
+    "label": [
+        {
+            "text": "Mole per Kilogram Pascal",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mole Per Kilogram Pascal ($mol/kg-pa$) is a unit of Molar Mass variation due to Pressure.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(kg·Pa)",
+    "conversion_factor_from_si": 1.0
+}

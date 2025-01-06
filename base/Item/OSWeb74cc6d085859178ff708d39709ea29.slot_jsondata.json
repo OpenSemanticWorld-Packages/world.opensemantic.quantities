@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "eb74cc6d-0858-5917-8ff7-08d39709ea29",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-SR"
+    ],
+    "name": "W-PER-SR",
+    "label": [
+        {
+            "text": "Watt per Steradian",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Watt Per Steradian (W/sr)}$ is the unit in the category of Radiant intensity. It is also known as watts per steradian. This unit is commonly used in the SI unit system. Watt Per Steradian (W/sr) has a dimension of $M\\cdot L^{-2}\\cdot T^{-3}$ where $M$ is mass, $L$ is length, and $T$ is time. This unit is the standard SI unit in this category.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/sr",
+    "conversion_factor_from_si": 1.0
+}

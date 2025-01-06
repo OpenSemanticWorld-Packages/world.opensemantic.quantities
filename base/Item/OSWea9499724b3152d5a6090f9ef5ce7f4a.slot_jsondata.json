@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "ea949972-4b31-52d5-a609-0f9ef5ce7f4a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-KiloGM2"
+    ],
+    "name": "PER-KiloGM2",
+    "label": [
+        {
+            "text": "Reciprocal Square Kilogram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Square Kilogram is a denominator unit with dimensions $/kg^2$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/kg²",
+    "conversion_factor_from_si": 1.0
+}

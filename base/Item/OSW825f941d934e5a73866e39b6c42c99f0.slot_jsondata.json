@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "825f941d-934e-5a73-866e-39b6c42c99f0",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/OHM-M"
+    ],
+    "name": "OHM-M",
+    "label": [
+        {
+            "text": "ohm metre",
+            "lang": "en"
+        },
+        {
+            "text": "Ohmmeter",
+            "lang": "de"
+        }
+    ],
+    "main_symbol": "Ω·m",
+    "conversion_factor_from_si": 1.0
+}

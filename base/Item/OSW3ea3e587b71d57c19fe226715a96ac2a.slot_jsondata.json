@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "3ea3e587-b71d-57c1-9fe2-26715a96ac2a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectrolyticConductivity"
+    ],
+    "name": "ElectrolyticConductivity",
+    "label": [
+        {
+            "text": "Electrolytic Conductivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electrolytic Conductivity\" of an electrolyte solution is a measure of its ability to conduct electricity.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd3fc3766e5c05e0cb845b81a590bbd9d"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "e32b1e35-96a1-5d52-acd1-d23a0ac204d2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ExtentOfReaction"
+    ],
+    "name": "ExtentOfReaction",
+    "label": [
+        {
+            "text": "Extent of Reaction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In physical chemistry, the \"Extent of Reaction\" is a quantity that measures the extent in which the reaction proceeds.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4d9412cede875e399cffb35415646316"
+    ]
+}

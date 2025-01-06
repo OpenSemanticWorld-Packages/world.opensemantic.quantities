@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "975f7993-5c9f-543c-aaec-4538d778a2f5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-SEC-PER-M3"
+    ],
+    "name": "PA-SEC-PER-M3",
+    "label": [
+        {
+            "text": "pascal second per cubic metre",
+            "lang": "en"
+        },
+        {
+            "text": "Pascalsekunde je Kubikmeter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Pascal Second Per Cubic Meter}$ ($Pa-s/m^3$) is a unit in the category of Acoustic impedance. It is also known as $\\textit{pascal-second/cubic meter}$. It has a dimension of $ML^{-4}T^{-1}$ where $M$ is mass, $L$ is length, and $T$ is time. This unit is the standard SI unit in this category.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa·s/m³",
+    "conversion_factor_from_si": 1.0
+}

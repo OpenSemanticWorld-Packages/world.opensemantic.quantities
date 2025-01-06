@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "0561f01c-47fa-590b-918e-49b18981c08d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LorenzCoefficient"
+    ],
+    "name": "LorenzCoefficient",
+    "label": [
+        {
+            "text": "Lorenz Coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Lorenz Coefficient\" is part mof the Lorenz curve.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW2ef02698f9245a488ed2d3f996ca14a0"
+    ]
+}

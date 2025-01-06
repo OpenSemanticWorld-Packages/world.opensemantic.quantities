@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "9abb4e9c-aa63-5d4f-95be-f728ad1276aa",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MomentOfForce"
+    ],
+    "close_ontology_match": [
+        "https://si-digital-framework.org/SI/quantities/TORQ"
+    ],
+    "name": "MomentOfForce",
+    "label": [
+        {
+            "text": "Moment of Force",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Moment of force (often just moment) is the tendency of a force to twist or rotate an object.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW599c5384bf7a5de7b8cee8b2e94c39e3"
+    ]
+}

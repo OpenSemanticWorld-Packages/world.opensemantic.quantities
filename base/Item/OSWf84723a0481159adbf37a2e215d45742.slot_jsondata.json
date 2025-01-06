@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f84723a0-4811-59ad-bf37-a2e215d45742",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/EV-PER-K"
+    ],
+    "name": "EV-PER-K",
+    "label": [
+        {
+            "text": "Electron Volt per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Electron Volt per Kelvin}$ is a unit for 'Heat Capacity' expressed as $ev/K$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "eV/K",
+    "conversion_factor_from_si": 1.602176634e-19
+}

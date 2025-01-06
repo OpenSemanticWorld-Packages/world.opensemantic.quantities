@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "0be842b1-433b-5b4a-a562-5264c188d622",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/deci"
+    ],
+    "name": "deci",
+    "label": [
+        {
+            "text": "deci (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "d",
+    "factor": 0.1
+}

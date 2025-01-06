@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "906ec111-66b8-5966-95dc-c1457c87db94",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerPerArea"
+    ],
+    "name": "PowerPerArea",
+    "label": [
+        {
+            "text": "Power Per Area",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "3adb44b7-a27d-5ed0-b969-1b095779cb1f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-M2",
+        "http://dbpedia.org/resource/Steradian"
+    ],
+    "name": "PER-M2",
+    "label": [
+        {
+            "text": "Reciprocal Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Per Square Meter\" is a denominator unit with dimensions $/m^2$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/m²",
+    "conversion_factor_from_si": 1.0
+}

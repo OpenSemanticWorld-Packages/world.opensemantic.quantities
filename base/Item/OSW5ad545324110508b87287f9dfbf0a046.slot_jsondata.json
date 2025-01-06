@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "5ad54532-4110-508b-8728-7f9dfbf0a046",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ForcePerAreaTime"
+    ],
+    "name": "ForcePerAreaTime",
+    "label": [
+        {
+            "text": "Force Per Area Time",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW1e6dd22fb3e050989adb41d7b5d18290",
+        "Item:OSWf4452162e5755f7c97126a47cf4761f9",
+        "Item:OSWda81752da4a7532fb7d5790cd2e41a1c",
+        "Item:OSWcce5c7659af35ac68a521de7beb8556d"
+    ]
+}

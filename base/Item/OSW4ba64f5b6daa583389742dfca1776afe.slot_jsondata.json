@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4ba64f5b-6daa-5833-8974-2dfca1776afe",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-SEC-PER-M3"
+    ],
+    "name": "N-SEC-PER-M3",
+    "label": [
+        {
+            "text": "Newton second per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The SI unit of specific acoustic impedance. \n  When sound waves pass through any physical substance the pressure of the waves causes the particles of the substance to move. \n  The sound specific impedance is the ratio between the sound pressure and the particle velocity it produces. \n  The specific impedance is $1 N \\cdot s \\cdot m^{-3}$ if unit pressure produces unit velocity.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·s/m³",
+    "conversion_factor_from_si": 1.0
+}

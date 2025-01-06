@@ -1,0 +1,45 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "24fcc1bb-84db-5b3b-951d-b598cddc1319",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/LM",
+        "http://dbpedia.org/resource/Lumen",
+        "https://si-digital-framework.org/SI/units/lumen"
+    ],
+    "name": "LM",
+    "label": [
+        {
+            "text": "lumen",
+            "lang": "en"
+        },
+        {
+            "text": "Lumen",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit for measuring the flux of light being produced by a light source or received by a surface. The intensity of a light source is measured in candelas. One lumen represents the total flux of light emitted, equal to the intensity in candelas multiplied by the solid angle in steradians into which the light is emitted. A full sphere has a solid angle of $4\\cdot\\pi$ steradians. A light source that uniformly radiates one candela in all directions has a total luminous flux of $1 cd\\cdot 4 \\pi sr = 4 \\pi cd \\cdot sr \\approx 12.57 \\; \\text{lumens}$. \"Lumen\" is a Latin word for light.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "lm",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "15cb09d6-31d6-5ecb-b0d1-b54df9f2475e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloLM"
+            ],
+            "osw_id": "Item:OSW24fcc1bb84db5b3b951db598cddc1319#OSW15cb09d631d65ecbb0d1b54df9f2475e",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "klm"
+        }
+    ]
+}

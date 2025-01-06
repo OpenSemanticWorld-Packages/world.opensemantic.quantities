@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "1aef0f22-af9a-55e5-8e45-8c5d4e94f161",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SectionModulus"
+    ],
+    "name": "SectionModulus",
+    "label": [
+        {
+            "text": "Section Modulus",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Section Modulus is a geometric property for a given cross-section used in the design of beams or flexural members.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW7aa0d48fa4a45427a03c5abd43b488f8"
+    ]
+}

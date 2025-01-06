@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "8c8b7f93-b965-5d75-a070-a672e19635f9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/KermaRate"
+    ],
+    "name": "KermaRate",
+    "label": [
+        {
+            "text": "Kerma Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Kerma Rate\" is the kerma per unit time.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4cbc32faa6945fea85c32ee675aff008"
+    ]
+}

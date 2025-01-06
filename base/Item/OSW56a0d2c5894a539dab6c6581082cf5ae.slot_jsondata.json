@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "56a0d2c5-894a-539d-ab6c-6581082cf5ae",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-M2"
+    ],
+    "name": "J-M2",
+    "label": [
+        {
+            "text": "Joule Square Metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J·m²",
+    "conversion_factor_from_si": 1.0
+}

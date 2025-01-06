@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d7015166-d39d-5cae-866a-40eac3d51896",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-GM"
+    ],
+    "name": "M2-PER-GM",
+    "label": [
+        {
+            "text": "Square metres per gram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/g",
+    "conversion_factor_from_si": 1000.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c811db36-2efa-5d33-a49b-56ffdd77e54d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/M2-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "m²/kg"
+        }
+    ]
+}

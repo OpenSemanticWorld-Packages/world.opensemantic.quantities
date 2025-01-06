@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7d014464-7c65-5cbe-ac60-4178c20df9c8",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V-PER-SEC"
+    ],
+    "name": "V-PER-SEC",
+    "label": [
+        {
+            "text": "Volt per second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'Volt per Second' is a unit of magnetic flux equaling one weber. This is the flux passing through a conducting loop and reduced to zero at a uniform rate in one second inducing an electric potential of one volt in the loop. ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V/s",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a89d207f-fc6f-502a-9f74-2482fb84c1ad",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/V-PER-MicroSEC"
+            ],
+            "osw_id": "Item:OSW7d0144647c655cbeac604178c20df9c8#OSWa89d207ffc6f502a9f742482fb84c1ad",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "V/µs"
+        }
+    ]
+}

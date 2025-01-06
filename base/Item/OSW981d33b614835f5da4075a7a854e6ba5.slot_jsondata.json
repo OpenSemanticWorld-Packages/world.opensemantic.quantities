@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "981d33b6-1483-5f5d-a407-5a7a854e6ba5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SectionAreaIntegral"
+    ],
+    "name": "SectionAreaIntegral",
+    "label": [
+        {
+            "text": "Section Area Integral",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The sectional area integral measure is typically used in torsional analysis. It is usually measured in M⁵.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWe03debd3c6025a95b236f88c61ba0bac"
+    ]
+}

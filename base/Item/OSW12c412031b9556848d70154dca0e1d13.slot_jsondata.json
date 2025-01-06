@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "12c41203-1b95-5684-8d70-154dca0e1d13",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TONNE",
+        "https://si-digital-framework.org/SI/units/tonne"
+    ],
+    "name": "TONNE",
+    "label": [
+        {
+            "text": "Tonne",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1,000-fold of the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t",
+    "conversion_factor_from_si": 1000.0
+}

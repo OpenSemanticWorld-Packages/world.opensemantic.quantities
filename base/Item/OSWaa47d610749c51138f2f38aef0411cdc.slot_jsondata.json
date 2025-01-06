@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "aa47d610-749c-5113-8f2f-38aef0411cdc",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-M3-SEC"
+    ],
+    "name": "MOL-PER-M3-SEC",
+    "label": [
+        {
+            "text": "Moles per cubic metre second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI unit of quantity of matter per SI unit volume per SI unit of time.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(m³·s)",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b91a9634-94eb-5fd6-8fdd-26833e054276",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoMOL-PER-M3-SEC"
+            ],
+            "osw_id": "Item:OSWaa47d610749c51138f2f38aef0411cdc#OSWb91a963494eb5fd68fdd26833e054276",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pmol/(m³·s)"
+        }
+    ]
+}

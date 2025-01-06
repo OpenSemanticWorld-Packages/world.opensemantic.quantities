@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "9b727edc-3b7a-5d4f-8ae4-523e35d3d045",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GRAY",
+        "http://dbpedia.org/resource/Grey",
+        "https://si-digital-framework.org/SI/units/gray"
+    ],
+    "name": "GRAY",
+    "label": [
+        {
+            "text": "gray",
+            "lang": "en"
+        },
+        {
+            "text": "Gray",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of radiation dose. Radiation carries energy, and when it is absorbed by matter the matter receives this energy. The dose is the amount of energy deposited per unit of mass. One gray is defined to be the dose of one joule of energy absorbed per kilogram of matter, or 100 rad. The unit is named for the British physician L. Harold Gray (1905-1965), an authority on the use of radiation in the treatment of cancer.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Gy",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6e0ffe45-c22c-509b-8beb-8814fe6b5b93",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroGRAY",
+                "http://dbpedia.org/resource/Grey"
+            ],
+            "osw_id": "Item:OSW9b727edc3b7a5d4f8ae4523e35d3d045#OSW6e0ffe45c22c509b8beb8814fe6b5b93",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μGy"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7cfb1c8e-b59c-5065-8148-81811a44fa09",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGRAY"
+            ],
+            "osw_id": "Item:OSW9b727edc3b7a5d4f8ae4523e35d3d045#OSW7cfb1c8eb59c5065814881811a44fa09",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mGy"
+        }
+    ]
+}

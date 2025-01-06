@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7b8330ad-3535-55c9-ab91-f792f4bea5a1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M4-PER-SEC"
+    ],
+    "name": "M4-PER-SEC",
+    "label": [
+        {
+            "text": "Metres to the power four per second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m⁴/s",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "8db8e99f-c1ce-5914-bdb7-f42fa21afe1f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BIT",
+        "http://dbpedia.org/resource/Bit"
+    ],
+    "name": "BIT",
+    "label": [
+        {
+            "text": "Bit",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In information theory, a bit is the amount of information that, on average, can be stored in a discrete bit. It is thus the amount of information carried by a choice between two equally likely outcomes. One bit corresponds to about 0.693 nats (ln(2)), or 0.301 hartleys (log10(2)).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "b",
+    "conversion_factor_from_si": 0.6931471805599453
+}

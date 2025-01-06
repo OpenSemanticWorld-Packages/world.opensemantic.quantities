@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b87aaf78-7d28-5ba8-8225-897edbebc154",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-M"
+    ],
+    "name": "K-M",
+    "label": [
+        {
+            "text": "Kelvin metres",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K·m",
+    "conversion_factor_from_si": 1.0
+}

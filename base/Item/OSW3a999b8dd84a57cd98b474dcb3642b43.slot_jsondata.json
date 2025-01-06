@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "3a999b8d-d84a-57cd-98b4-74dcb3642b43",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/WK",
+        "http://dbpedia.org/resource/Week"
+    ],
+    "name": "WK",
+    "label": [
+        {
+            "text": "Week",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mean solar week",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "wk",
+    "conversion_factor_from_si": 604800.0
+}

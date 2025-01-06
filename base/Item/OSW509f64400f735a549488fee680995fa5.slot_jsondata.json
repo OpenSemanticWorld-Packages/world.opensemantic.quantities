@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "509f6440-0f73-5a54-9488-fee680995fa5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/IsentropicCompressibility"
+    ],
+    "name": "IsentropicCompressibility",
+    "label": [
+        {
+            "text": "Isentropic Compressibility",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Isentropic compressibility is the extent to which a material reduces its volume when it is subjected to compressive stresses at a constant value of entropy.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
+    ]
+}

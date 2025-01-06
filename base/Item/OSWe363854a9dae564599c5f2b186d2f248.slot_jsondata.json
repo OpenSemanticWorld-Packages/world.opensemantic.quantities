@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e363854a-9dae-5645-99c5-f2b186d2f248",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-HR"
+    ],
+    "name": "MOL-PER-HR",
+    "label": [
+        {
+            "text": "Mole per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit mole divided by the unit for time hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/h",
+    "conversion_factor_from_si": 0.000277778,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "d95d2efc-01ef-530e-8082-c420db9bb287",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloMOL-PER-HR"
+            ],
+            "osw_id": "Item:OSWe363854a9dae564599c5f2b186d2f248#OSWd95d2efc01ef530e8082c420db9bb287",
+            "conversion_factor_from_si": 0.277777777777778,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kmol/h"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "33dfda3d-4dea-57d1-92d0-2eecdbc09b86",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-K"
+    ],
+    "name": "PER-K",
+    "label": [
+        {
+            "text": "Reciprocal Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Kelvin Unit is a denominator unit with dimensions $/k$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/K",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "caf3b598-16fa-5774-80be-d4062b6086c1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalResistance"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Thermal_resistance"
+    ],
+    "name": "ThermalResistance",
+    "label": [
+        {
+            "text": "Thermal resistance",
+            "lang": "en"
+        },
+        {
+            "text": "Thermischer Widerstand",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Thermal Resistance}$ is a heat property and a measure of a temperature difference by which an object or material resists a heat flow (heat per time unit or thermal resistance). Thermal resistance is the reciprocal thermal conductance. the thermodynamic temperature difference divided by heat flow rate. Thermal resistance $R$ has the units $\\frac{m^2 \\cdot K}{W}$.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW3e3198453a27527ead13a1e41cd9d0f0"
+    ]
+}

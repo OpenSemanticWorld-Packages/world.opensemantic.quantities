@@ -1,0 +1,71 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "1d9ac7ec-48cc-5b7d-a90e-8c2d529d6df0",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/T",
+        "http://dbpedia.org/resource/Tesla",
+        "https://si-digital-framework.org/SI/units/tesla"
+    ],
+    "name": "T",
+    "label": [
+        {
+            "text": "tesla",
+            "lang": "en"
+        },
+        {
+            "text": "Tesla",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of flux density (or field intensity) for magnetic fields (also called the magnetic induction). The intensity of a magnetic field can be measured by placing a current-carrying conductor in the field. The magnetic field exerts a force on the conductor, a force which depends on the amount of the current and on the length of the conductor. One tesla is defined as the field intensity generating one newton of force per ampere of current per meter of conductor. Equivalently, one tesla represents a magnetic flux density of one weber per square meter of area. A field of one tesla is quite strong: the strongest fields available in laboratories are about 20 teslas, and the Earth's magnetic flux density, at its surface, is about 50 microteslas. The tesla, defined in 1958, honors the Serbian-American electrical engineer Nikola Tesla (1856-1943), whose work in electromagnetic induction led to the first practical generators and motors using alternating current. $T =  V\\cdot s \\cdot m^{-2} = N\\cdot A^{-1}\\cdot m^{-1} = Wb\\cdot m^{-2} = kg \\cdot  C^{-1}\\cdot s^{-1}\\cdot A^{-1} = kg \\cdot s^{-2}\\cdot A^{-1} = N \\cdot s \\cdot C^{-1}\\cdot m^{-1}$ where, $\\\\$ $A$ = ampere, $C$=coulomb, $m$ = meter,  $N$ = newton, $s$ = second, $T$ = tesla, $Wb$ = weber",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "T",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "490afd74-306a-568c-858e-46dd393110fe",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliT"
+            ],
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW490afd74306a568c858e46dd393110fe",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mT"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "30a0158a-f544-5fbc-8b08-c843d0a84d5a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroT"
+            ],
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW30a0158af5445fbc8b08c843d0a84d5a",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µT"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7b67d496-40c7-5e54-b490-6f4bd72b494b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoT"
+            ],
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW7b67d49640c75e54b4906f4bd72b494b",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nT"
+        }
+    ]
+}

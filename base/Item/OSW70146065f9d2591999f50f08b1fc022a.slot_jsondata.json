@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "70146065-f9d2-5919-99f5-0f08b1fc022a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectromagneticWavePhaseSpeed"
+    ],
+    "name": "ElectromagneticWavePhaseSpeed",
+    "label": [
+        {
+            "text": "Electromagnetic Wave Phase Speed",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electromagnetic Wave Phase Speed\" is the ratio of angular velocity and wavenumber.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW78331234e1a15aeebd8b0caa71201939"
+    ]
+}

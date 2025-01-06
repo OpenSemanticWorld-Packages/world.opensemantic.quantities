@@ -1,0 +1,45 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7f1fb9d6-ddeb-5fb7-a8a3-9067553a6dc1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/WB",
+        "http://dbpedia.org/resource/Weber",
+        "https://si-digital-framework.org/SI/units/weber"
+    ],
+    "name": "WB",
+    "label": [
+        {
+            "text": "weber",
+            "lang": "en"
+        },
+        {
+            "text": "Weber",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of magnetic flux. \"Flux\" is the rate (per unit of time) at which something crosses a surface perpendicular to the flow. The weber is a large unit, equal to $10^{8}$ maxwells, and practical fluxes are usually fractions of one weber. The weber is the magnetic flux which, linking a circuit of one turn, would produce in it an electromotive force of 1 volt if it were reduced to zero at a uniform rate in 1 second. In SI base units, the dimensions of the weber are $(kg \\cdot m^2)/(s^2 \\cdot A)$. The weber is commonly expressed in terms of other derived units as the Tesla-square meter ($T \\cdot m^2$), volt-seconds ($V \\cdot s$), or joules per ampere ($J/A$).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Wb",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a09dcefc-c2be-5cb1-ae11-6d0189c300e3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliWB"
+            ],
+            "osw_id": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1#OSWa09dcefcc2be5cb1ae116d0189c300e3",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mWb"
+        }
+    ]
+}

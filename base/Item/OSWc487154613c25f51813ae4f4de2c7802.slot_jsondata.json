@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c4871546-13c2-5f51-813a-e4f4de2c7802",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HZ-PER-T"
+    ],
+    "name": "HZ-PER-T",
+    "label": [
+        {
+            "text": "Hertz per Tesla",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Hertz per Tesla\" is a unit for  'Electric Charge Per Mass' expressed as $Hz T^{-1}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Hz/T",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9281c508-7fb4-5cd3-b075-07b940231330",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaHZ-PER-T"
+            ],
+            "osw_id": "Item:OSWc487154613c25f51813ae4f4de2c7802#OSW9281c5087fb45cd3b07507b940231330",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MHz/T"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7cfa85d4-3ba4-56dd-af44-00df3533879a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousExposure"
+    ],
+    "name": "LuminousExposure",
+    "label": [
+        {
+            "text": "Luminous Exposure",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminous Exposure is the time-integrated illuminance.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW91dd8f1236fc5d328855ad69ed6ba6c4"
+    ]
+}

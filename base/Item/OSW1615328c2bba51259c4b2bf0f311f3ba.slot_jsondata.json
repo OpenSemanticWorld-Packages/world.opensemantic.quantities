@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "1615328c-2bba-5125-9c4b-2bf0f311f3ba",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ShearModulus"
+    ],
+    "name": "ShearModulus",
+    "label": [
+        {
+            "text": "Shear Modulus",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Shear Modulus or modulus of rigidity, denoted by $G$, or sometimes $S$ or $\\mu$, is defined as the ratio of shear stress to the shear strain.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c"
+    ]
+}

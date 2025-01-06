@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "88f406fb-6a12-50ea-b2d8-9590d6488f19",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M2-K4"
+    ],
+    "name": "W-PER-M2-K4",
+    "label": [
+        {
+            "text": "Watt per Square Metre Quartic Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Watt Per Square Meter Per Quartic Kelvin ($W/m2\\cdotK4)$ is a unit in the category of light.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(m²·K⁴)",
+    "conversion_factor_from_si": 1.0
+}

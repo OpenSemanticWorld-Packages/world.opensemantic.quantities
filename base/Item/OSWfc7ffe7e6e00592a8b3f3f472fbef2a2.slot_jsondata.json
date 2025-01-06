@@ -1,0 +1,84 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "fc7ffe7e-6e00-592a-8b3f-3f472fbef2a2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/H",
+        "http://dbpedia.org/resource/Henry",
+        "https://si-digital-framework.org/SI/units/henry"
+    ],
+    "name": "H",
+    "label": [
+        {
+            "text": "henry",
+            "lang": "en"
+        },
+        {
+            "text": "Henry",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The unit $\\textit{Henry}$ is the SI unit of electric inductance. \n  A changing magnetic field induces an electric current in a loop of wire (or in a coil of many loops) located in the field. \n  Although the induced voltage depends only on the rate at which the magnetic flux changes, measured in webers per second, the amount of the current depends also on the physical properties of the coil. \n  A coil with an inductance of one henry requires a flux of one weber for each ampere of induced current. \n  If, on the other hand, it is the current which changes, then the induced field will generate a potential difference within the coil: \n  if the inductance is one henry a current change of one ampere per second generates a potential difference of one volt. \n  The henry is a large unit; inductances in practical circuits are measured in millihenrys (mH) or microhenrys (u03bc H). \n  The unit is named for the American physicist Joseph Henry (1797-1878), one of several scientists who discovered independently how magnetic fields can be used to generate alternating currents. \n\n  A $\\textit{Henry}$ is defined as:\n\n  $$\\text{H} \\; \\equiv \\; \\text{henry}\\; \\equiv\\; \\frac{\\text{Wb}}{\\text{A}}\\; \\equiv\\; \\frac{\\text{weber}}{\\text{amp}}\\; \\equiv\\ \\frac{\\text{V}\\cdot\\text{s}}{\\text{A}}\\; \\equiv\\; \\frac{\\text{volt} \\cdot \\text{second}}{\\text{amp}}\\; \\equiv\\ \\Omega\\cdot\\text{s}\\; \\equiv\\; \\text{ohm.second}$$\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "H",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f936212f-9368-5b0a-81e8-81b7b4cd691c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliH"
+            ],
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWf936212f93685b0a81e881b7b4cd691c",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mH"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c916910c-9433-5ef4-bfd4-956fdb64d445",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PicoH"
+            ],
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWc916910c94335ef4bfd4956fdb64d445",
+            "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
+            "main_symbol": "pH"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "466788b3-b910-5408-8792-f8efcf881b73",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/NanoH"
+            ],
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW466788b3b91054088792f8efcf881b73",
+            "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
+            "main_symbol": "nH"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0b6f22fd-f450-5cd1-a14c-ed6ce63fd1c3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroH"
+            ],
+            "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μH"
+        }
+    ]
+}

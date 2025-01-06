@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "81eca477-81b6-5aeb-8307-f91f449eb166",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricDipoleMoment_QuarticPerEnergy_Cubic"
+    ],
+    "name": "QuarticElectricDipoleMomentPerCubicEnergy",
+    "label": [
+        {
+            "text": "Quartic Electric Dipole Moment per Cubic Energy",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWe0b098248f7557aaa6a892a6ecbd32b8"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "5f30cc2b-cd4f-5f6f-936b-b735d9376134",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VolumePerArea"
+    ],
+    "name": "VolumePerUnitArea",
+    "label": [
+        {
+            "text": "Volume per Unit Area",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4e5bc87db9e65426a3fa4b62dc22dcb4",
+        "Item:OSWa2c814499650570090ea4ac058c81e3b"
+    ]
+}

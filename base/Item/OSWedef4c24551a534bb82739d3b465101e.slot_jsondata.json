@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "edef4c24-551a-534b-b827-39d3b465101e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RadiantEnergyDensity"
+    ],
+    "name": "RadiantEnergyDensity",
+    "label": [
+        {
+            "text": "Radiant Energy Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Radiant Energy Density\", or radiant power, is the radiant energy per unit volume.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW9ea4bf89c42b56728392f1c55639ac18"
+    ]
+}

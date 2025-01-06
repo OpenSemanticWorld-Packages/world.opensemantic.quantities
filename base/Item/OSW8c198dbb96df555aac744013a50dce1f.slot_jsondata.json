@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "8c198dbb-96df-555a-ac74-4013a50dce1f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-CentiM2-DAY"
+    ],
+    "name": "J-PER-CentiM2-DAY",
+    "label": [
+        {
+            "text": "Joules per square centimetre day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radiant energy per 10^-4 SI unit area over a period of one day.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(cm²·day)",
+    "conversion_factor_from_si": 0.115740740740741
+}

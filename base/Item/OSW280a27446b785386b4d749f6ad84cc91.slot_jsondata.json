@@ -1,0 +1,66 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "280a2744-6b78-5386-b4d7-49f6ad84cc91",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-HR"
+    ],
+    "name": "M-PER-HR",
+    "label": [
+        {
+            "text": "Metre per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Metre per hour is a metric unit of both speed (scalar) and velocity (Vector (geometry)). Its symbol is m/h or mu00b7h-1 (not to be confused with the imperial unit symbol mph. By definition, an object travelling at a speed of 1 m/h for an hour would move 1 metre.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/h",
+    "conversion_factor_from_si": 0.000277777778,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "58d5e996-dc44-5e3b-8a51-4daca97a0b0b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM-PER-HR"
+            ],
+            "osw_id": "Item:OSW280a27446b785386b4d749f6ad84cc91#OSW58d5e996dc445e3b8a514daca97a0b0b",
+            "conversion_factor_from_si": 2.777778e-07,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm/h"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "98382a74-93f4-5bb0-bb4e-367aa8e23566",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM-PER-HR"
+            ],
+            "osw_id": "Item:OSW280a27446b785386b4d749f6ad84cc91#OSW98382a7493f45bb0bb4e367aa8e23566",
+            "conversion_factor_from_si": 2.777778e-06,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm/h"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "98afb210-2b08-5c7f-8ec8-a052a88099f3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloM-PER-HR",
+                "http://dbpedia.org/resource/Kilometres_per_hour"
+            ],
+            "osw_id": "Item:OSW280a27446b785386b4d749f6ad84cc91#OSW98afb2102b085c7f8ec8a052a88099f3",
+            "conversion_factor_from_si": 0.2777777777777778,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "km/h"
+        }
+    ]
+}

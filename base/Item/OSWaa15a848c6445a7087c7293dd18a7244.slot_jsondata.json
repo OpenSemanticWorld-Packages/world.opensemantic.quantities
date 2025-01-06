@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "aa15a848-c644-5a70-87c7-293dd18a7244",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/femto"
+    ],
+    "name": "femto",
+    "label": [
+        {
+            "text": "femto (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "f",
+    "factor": 1e-15
+}

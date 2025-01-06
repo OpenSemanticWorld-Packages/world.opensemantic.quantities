@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "564da763-f439-5835-aaec-45131f48b5a7",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-K-PER-W"
+    ],
+    "name": "M-K-PER-W",
+    "label": [
+        {
+            "text": "Metre Kelvin per Watt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Meter Kelvin per Watt}$ is a unit for 'Thermal Resistivity' expressed as $K-m/W$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m·K/W",
+    "conversion_factor_from_si": 1.0
+}

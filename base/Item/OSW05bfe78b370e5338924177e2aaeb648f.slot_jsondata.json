@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "05bfe78b-370e-5338-9241-77e2aaeb648f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricChargePerMass"
+    ],
+    "name": "ElectricChargePerMass",
+    "label": [
+        {
+            "text": "Electric Charge Per Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Charge Per Mass\" is the charge associated with a specific mass of a substance. In the SI and ISO systems this is $1 kg$.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW57e1f78efd6a50fd8f2c35ea808d7b86",
+        "Item:OSWc487154613c25f51813ae4f4de2c7802",
+        "Item:OSWf67d1f72b8d65f079085ae0b2e649428",
+        "Item:OSW24c69f74406f5ba5aef5e37f7534044c"
+    ]
+}

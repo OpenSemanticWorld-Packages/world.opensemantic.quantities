@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "bf685bb2-8c9b-5d15-ab98-238af18f1f74",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C3-M-PER-J2"
+    ],
+    "name": "C3-M-PER-J2",
+    "label": [
+        {
+            "text": "Cubic Coulomb Metre per Square Joule",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Cubic Coulomb Meter per Square Joule\" is a unit for  'Cubic Electric Dipole Moment Per Square Energy' expressed as $C^{3} m^{3} J^{-2}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C³·m/J²",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "7bc2ff12-a164-55b3-921e-012268eede5d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-HR"
+    ],
+    "name": "GM-PER-HR",
+    "label": [
+        {
+            "text": "Gram per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/h",
+    "conversion_factor_from_si": 2.777778e-07,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "413aa7e8-8ce6-5396-8b05-87f53d191c08",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-HR"
+            ],
+            "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW413aa7e88ce653968b0587f53d191c08",
+            "conversion_factor_from_si": 0.000277777778,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/h"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0495cb74-0afb-5527-ad15-32b7b4bec0e2",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-HR"
+            ],
+            "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW0495cb740afb5527ad1532b7b4bec0e2",
+            "conversion_factor_from_si": 2.777778e-10,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/h"
+        }
+    ]
+}

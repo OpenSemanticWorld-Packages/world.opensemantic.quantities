@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "c8104c1c-1757-5929-a33a-439e29043394",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundVolumeVelocity"
+    ],
+    "name": "SoundVolumeVelocity",
+    "label": [
+        {
+            "text": "Sound volume velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sound Volume Velocity is the product of particle velocity $v$ and the surface area $S$ through which an acoustic wave of frequency $f$ propagates. Also, the surface integral of the normal component of the sound particle velocity over the cross-section (through which the sound propagates). It is used to calculate acoustic impedance.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4ed5503a56ab514ab3d925287da52a95"
+    ]
+}

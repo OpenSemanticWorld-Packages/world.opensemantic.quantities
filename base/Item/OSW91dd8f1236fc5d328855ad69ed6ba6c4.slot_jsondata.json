@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "91dd8f12-36fc-5d32-8855-ad69ed6ba6c4",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/LUX-HR",
+        "http://dbpedia.org/resource/Lux"
+    ],
+    "name": "LUX-HR",
+    "label": [
+        {
+            "text": "Lux Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit for measuring the illumination (illuminance) of a surface. One lux is defined as an illumination of one lumen per square meter or 0.0001 phot. In considering the various light units, it's useful to think about light originating at a point and shining upon a surface. The intensity of the light source is measured in candelas; the total light flux in transit is measured in lumens (1 lumen = 1 candelau00b7steradian); and the amount of light received per unit of surface area is measured in lux (1 lux = 1 lumen/square meter). One lux is equal to approximately 0.09290 foot candle.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "lx·h",
+    "conversion_factor_from_si": 3600.0
+}

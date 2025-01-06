@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "3a66f272-a42d-5ea6-9573-f3eb99dcb859",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Admittance"
+    ],
+    "name": "Admittance",
+    "label": [
+        {
+            "text": "Admittance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Admittance\" is a measure of how easily a circuit or device will allow a current to flow. It is defined as the inverse of the impedance ($Z$).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93"
+    ]
+}

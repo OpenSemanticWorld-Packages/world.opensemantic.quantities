@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "6d40ac4b-dbc9-50ec-9290-f6a47ce23d20",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-MOL-K"
+    ],
+    "name": "J-PER-MOL-K",
+    "label": [
+        {
+            "text": "Joule per Mole Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Energy needed to heat one mole of substance by 1 Kelvin, under standard conditions (not standard temperature and pressure STP). The standard molar entropy is usually given the symbol S, and has units of joules per mole kelvin ( $ J\\cdot mol^{-1} K^{-1}$). Unlike standard enthalpies of formation, the value of S is an absolute. That is, an element in its standard state has a nonzero value of S at room temperature.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(mol·K)",
+    "conversion_factor_from_si": 1.0
+}

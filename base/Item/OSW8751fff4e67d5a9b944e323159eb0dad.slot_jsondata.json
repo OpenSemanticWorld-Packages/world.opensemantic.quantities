@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "8751fff4-e67d-5a9b-944e-323159eb0dad",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/H-PER-OHM"
+    ],
+    "name": "H-PER-OHM",
+    "label": [
+        {
+            "text": "Henry per Ohm",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit henry divided by the SI derived unit ohm",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "H/Ω",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6df92296-49a6-5017-8226-75d67c415c23",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliH-PER-OHM"
+            ],
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW6df9229649a65017822675d67c415c23",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mH/Ω"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "14b5b614-d6eb-5e94-9713-232e9d79b744",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroH-PER-OHM"
+            ],
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW14b5b614d6eb5e949713232e9d79b744",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µH/Ω"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f02ec247-3013-5b3c-84a2-8a362576cd24",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/H-PER-KiloOHM"
+            ],
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSWf02ec24730135b3c84a28a362576cd24",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "H/kΩ"
+        }
+    ]
+}

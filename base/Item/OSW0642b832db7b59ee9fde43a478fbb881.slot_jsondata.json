@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "0642b832-db7b-59ee-9fde-43a478fbb881",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalCurrent"
+    ],
+    "name": "TotalCurrent",
+    "label": [
+        {
+            "text": "Total Current",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Total Current\" is the sum of the electric current that is flowing through a surface and the displacement current.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec"
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "title": "UnitPrefix",
+    "@context": [
+        "/wiki/Category:OSWd02741381aaa4709ae0753a0edc341ce?action=raw&slot=jsonschema",
+        "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema",
+        {
+            "symbol": "Property:HasSymbol",
+            "factor": "Property:HasFactor"
+        }
+    ],
+    "allOf": [
+        {
+            "$ref": "/wiki/Category:OSWd02741381aaa4709ae0753a0edc341ce?action=raw&slot=jsonschema"
+        },
+        {
+            "$ref": "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+        }
+    ],
+    "type": "object",
+    "uuid": "99e0f46a-40ca-4129-a420-b4bb89c4cc45",
+    "title*": {
+        "en": "Unit prefix",
+        "de": "Einheitenpräfix"
+    },
+    "description": "Prefix for unit symbols, e.g. kilo (k), milli (m). See https://si-digital-framework.org/SI/prefixes?lang=en",
+    "description*": {
+        "en": "Prefix for unit symbols, e.g. kilo (k), milli (m). See https://si-digital-framework.org/SI/prefixes?lang=en",
+        "de": "Vorsilben für Einheiten-Symbole, z.B. kilo (k), milli (m). Siehe https://si-digital-framework.org/SI/prefixes?lang=en"
+    },
+    "required": [
+        "type",
+        "name",
+        "symbol",
+        "factor"
+    ],
+    "properties": {
+        "type": {
+            "default": [
+                "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+            ]
+        },
+        "name": {
+            "options": {
+                "hidden": false
+            }
+        },
+        "symbol": {
+            "type": "string",
+            "title": "Symbol",
+            "description": "e.g. m for milli"
+        },
+        "factor": {
+            "type": "number",
+            "title": "Factor",
+            "description": "e.g. 1e-3 for milli"
+        }
+    }
+}

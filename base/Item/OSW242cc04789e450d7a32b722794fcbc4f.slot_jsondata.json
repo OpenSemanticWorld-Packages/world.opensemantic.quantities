@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "242cc047-89e4-50d7-a32b-722794fcbc4f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricPolarization"
+    ],
+    "name": "ElectricPolarization",
+    "label": [
+        {
+            "text": "Electric polarization",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Polarisation",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Polarization\" is the relative shift of positive and negative electric charge in opposite directions within an insulator, or dielectric, induced by an external electric field. Polarization occurs when an electric field distorts the negative cloud of electrons around positive atomic nuclei in a direction opposite the field. This slight separation of charge makes one side of the atom somewhat positive and the opposite side somewhat negative. In some materials whose molecules are permanently polarized by chemical forces, such as water molecules, some of the polarization is caused by molecules rotating into the same alignment under the influence of the electric field. One of the measures of polarization is electric dipole moment, which equals the distance between the slightly shifted centres of positive and negative charge multiplied by the amount of one of the charges. Polarization P in its quantitative meaning is the amount of dipole moment p per unit volume V of a polarized material, P = p/V.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239"
+    ]
+}

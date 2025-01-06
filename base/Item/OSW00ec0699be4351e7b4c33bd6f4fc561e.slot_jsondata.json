@@ -1,0 +1,21 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "00ec0699-be43-51e7-b4c3-3bd6f4fc561e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TimeTemperature"
+    ],
+    "name": "TimeTemperature",
+    "label": [
+        {
+            "text": "Time Temperature",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW2e906b3278d05a35aec582cba0191b65",
+        "Item:OSW89a93ec7182451c7bb7c49473c81bc2c",
+        "Item:OSW258e0e8da8e15fd69ec6810d5b93c7ab"
+    ]
+}

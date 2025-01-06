@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "ed766f1d-ce39-59e3-9bb9-a8749f99dc34",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-HR"
+    ],
+    "name": "J-PER-HR",
+    "label": [
+        {
+            "text": "Joule per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit joule divided by the 3600 times the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/h",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "9f5126b9-1d1d-5456-82b1-7c6685f9268c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaJ-PER-HR"
+            ],
+            "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSW9f5126b91d1d545682b17c6685f9268c",
+            "conversion_factor_from_si": 277777.77777777775,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GJ/h"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b3b25b25-40cd-5acd-ba07-941a513e473b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaJ-PER-HR"
+            ],
+            "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSWb3b25b2540cd5acdba07941a513e473b",
+            "conversion_factor_from_si": 277.77777777777777,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MJ/h"
+        }
+    ]
+}

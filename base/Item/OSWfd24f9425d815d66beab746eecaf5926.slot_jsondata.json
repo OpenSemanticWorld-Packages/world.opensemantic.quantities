@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "fd24f942-5d81-5d66-beab-746eecaf5926",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-K"
+    ],
+    "name": "KiloGM-K",
+    "label": [
+        {
+            "text": "Kilogram Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Kilogram Kelvin}$ is a unit for 'Mass Temperature' expressed as $kg-K$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg·K",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "077c7482-1dd8-5785-90db-a99f0b64ee07",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CurvatureFromRadius"
+    ],
+    "name": "Curvature",
+    "label": [
+        {
+            "text": "Curvature",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In mathematics \"Curvature\" is the amount by which a geometric object deviates from being flat, or straight in the case of a line, but this is defined in different ways depending on the context.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW28e75b089e145904998a54f1c4125bf3"
+    ]
+}

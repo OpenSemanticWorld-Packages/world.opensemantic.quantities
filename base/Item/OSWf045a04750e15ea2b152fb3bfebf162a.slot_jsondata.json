@@ -1,0 +1,43 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f045a047-50e1-5ea2-b152-fb3bfebf162a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-SEC"
+    ],
+    "name": "J-SEC",
+    "label": [
+        {
+            "text": "joule second",
+            "lang": "en"
+        },
+        {
+            "text": "Joulesekunde",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The $\\textit{joule-second}$ is a unit equal to a $joule$ multiplied by a second, used to measure action or angular momentum. \n  The joule-second is the unit used for Planck's constant.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J·s",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "3eaa66dd-20f8-56fe-9a5c-4199bc0a1ea4",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/AttoJ-SEC"
+            ],
+            "osw_id": "Item:OSWf045a04750e15ea2b152fb3bfebf162a#OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
+            "conversion_factor_from_si": 1e-18,
+            "prefix": "Item:OSWa569fd62d673576f8150159be578c72d",
+            "main_symbol": "aJ·s"
+        }
+    ]
+}

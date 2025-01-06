@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e5961e1f-e91e-50b7-bee9-83e5cb1c375b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-SEC-M2"
+    ],
+    "name": "PER-SEC-M2",
+    "label": [
+        {
+            "text": "Reciprocal Second Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Per Second Square Meter}$ is a measure of flux with dimensions $/sec-m^2$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "s⁻¹·m⁻²",
+    "conversion_factor_from_si": 1.0
+}

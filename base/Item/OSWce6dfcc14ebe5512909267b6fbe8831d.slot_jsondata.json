@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "ce6dfcc1-4ebe-5512-9092-67b6fbe8831d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliL-PER-CentiM2-SEC"
+    ],
+    "name": "MilliL-PER-CentiM2-SEC",
+    "label": [
+        {
+            "text": "Millilitre per Square Centimetre Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit of the volume flow rate millilitre divided by second related to the transfer area as 0.0001-fold of the power of the SI base unit metre by exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mL/(cm²·s)",
+    "conversion_factor_from_si": 0.01
+}

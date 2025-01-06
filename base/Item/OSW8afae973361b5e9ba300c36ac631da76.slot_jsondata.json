@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "8afae973-361b-5e9b-a300-c36ac631da76",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M2-SR"
+    ],
+    "name": "W-PER-M2-SR",
+    "label": [
+        {
+            "text": "Watt per Square Metre Steradian",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Watt per steradian per square metre}$ is the SI unit of radiance ($W·sr^{-1}·m^{-2}$),\n  while that of spectral radiance in frequency is the watt per steradian per square metre\n  per hertz ($W·sr^{-1}·m^{-2}·Hz^{-1}$) and that of spectral radiance in wavelength is\n  the watt per steradian per square metre, per metre ($W·sr^{-1}·m^{-3}$),\n  commonly the watt per steradian per square metre per nanometre ($W·sr^{-1}·m^{-2}·nm^{-1}$). \n  It has a dimension of $ML^{-4}T^{-3}$ where $M$ is mass, $L$ is length, and $T$ is time. \n  This unit is the standard SI unit in this category.\"\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(m²·sr)",
+    "conversion_factor_from_si": 1.0
+}

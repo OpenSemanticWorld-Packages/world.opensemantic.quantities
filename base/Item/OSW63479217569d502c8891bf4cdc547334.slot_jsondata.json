@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "63479217-569d-502c-8891-bf4cdc547334",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificOpticalRotatoryPower"
+    ],
+    "name": "SpecificOpticalRotatoryPower",
+    "label": [
+        {
+            "text": "Specific Optical Rotatory Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Specific Optical Rotatory Power\" Angle of optical rotation divided by the optical path length through the medium and by the mass concentration of the substance giving the specific optical rotatory power.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW555ce8e01951566b8507f419b1987b04"
+    ]
+}

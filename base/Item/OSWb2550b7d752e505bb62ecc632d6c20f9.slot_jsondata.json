@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b2550b7d-752e-505b-b62e-cc632d6c20f9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-K"
+    ],
+    "name": "M-PER-K",
+    "label": [
+        {
+            "text": "Metre per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/K",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "023c2032-8372-5c8b-814a-69dd13cfcb92",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM-PER-K"
+            ],
+            "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW023c203283725c8b814a69dd13cfcb92",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm/K"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "3585b69d-1b32-5a36-918e-362b36dcd2b9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM-PER-K"
+            ],
+            "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW3585b69d1b325a36918e362b36dcd2b9",
+            "conversion_factor_from_si": 0.01,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm/K"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "8aabb581-b81c-50b6-8890-9bbc187a92d1",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroM-PER-K"
+            ],
+            "osw_id": "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW8aabb581b81c50b688909bbc187a92d1",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µm/K"
+        }
+    ]
+}

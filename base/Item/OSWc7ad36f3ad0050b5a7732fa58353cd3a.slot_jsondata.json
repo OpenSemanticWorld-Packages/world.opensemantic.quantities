@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "c7ad36f3-ad00-50b5-a773-2fa58353cd3a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificEntropy"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Entropy"
+    ],
+    "name": "SpecificEntropy",
+    "label": [
+        {
+            "text": "Specific Entropy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Specific Entropy\" is entropy per unit of mass.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW93d8b6e516fd54f09d483dee1278e3a8",
+        "Item:OSWbe6c8545fd585776ad877e91f1c72b16"
+    ]
+}

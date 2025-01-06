@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "6ddac2f9-7605-5ffc-b416-c1da8dec445f",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/quetta"
+    ],
+    "name": "quetta",
+    "label": [
+        {
+            "text": "quetta (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Q",
+    "factor": 1e+30
+}

@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c3111bc3-2832-5013-9974-feaa71b99c31",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PPTR_VOL"
+    ],
+    "name": "PPTR_VOL",
+    "label": [
+        {
+            "text": "Parts per trillion by volume",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "pptr",
+    "conversion_factor_from_si": 1e-12
+}

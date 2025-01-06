@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "5f8f9460-1be0-5a07-8108-b2be4d74e461",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/pico"
+    ],
+    "name": "pico",
+    "label": [
+        {
+            "text": "pico (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "p",
+    "factor": 1e-12
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "8a3b2c78-6aeb-55f7-a8a6-be1fe96329a1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-H"
+    ],
+    "name": "PER-H",
+    "label": [
+        {
+            "text": "Reciprocal Henry",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the SI derived unit henry",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/H",
+    "conversion_factor_from_si": 1.0
+}

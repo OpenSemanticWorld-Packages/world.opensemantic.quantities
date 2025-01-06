@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b6cd0575-9487-5dca-b33a-9f3fdd1ef440",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-M-PER-DEG-M"
+    ],
+    "name": "N-M-PER-DEG-M",
+    "label": [
+        {
+            "text": "Newton metre per degree metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A common unit for measuring the modulus of rotational subgrade reaction.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·m/(°·m)",
+    "conversion_factor_from_si": 57.2957795785523,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1df81409-b3fe-54f6-88dd-5fa9d87d8d39",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloN-M-PER-DEG-M"
+            ],
+            "osw_id": "Item:OSWb6cd057594875dcab33a9f3fdd1ef440#OSW1df81409b3fe54f688dd5fa9d87d8d39",
+            "conversion_factor_from_si": 57295.7795785523,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kN·m/(°·m)"
+        }
+    ]
+}

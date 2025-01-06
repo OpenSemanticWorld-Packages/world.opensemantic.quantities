@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "6591fe27-dbb9-5ace-b00d-28ceb772167f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TON_Metric-PER-SEC"
+    ],
+    "name": "TON_Metric-PER-SEC",
+    "label": [
+        {
+            "text": "Tonne per Second (metric Ton)",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit ton divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t/s",
+    "conversion_factor_from_si": 1000.0
+}

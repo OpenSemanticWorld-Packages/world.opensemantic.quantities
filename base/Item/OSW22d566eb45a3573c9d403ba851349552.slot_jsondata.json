@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "22d566eb-45a3-573c-9d40-3ba851349552",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Resistivity"
+    ],
+    "name": "Resistivity",
+    "label": [
+        {
+            "text": "Resistivity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Resistivity\" is the inverse of the conductivity when this inverse exists.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0",
+        "Item:OSW9f85124b1acc5b619852b415a2d67c83"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "33a26f69-ca60-5c76-a185-7a16c57cfce0",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NonActivePower"
+    ],
+    "name": "NonActivePower",
+    "label": [
+        {
+            "text": "Non-active Power",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Non-active Power\", for a two-terminal element or a two-terminal circuit under periodic conditions, is the quantity equal to the square root of the difference of the squares of the apparent power and the active power.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9"
+    ]
+}

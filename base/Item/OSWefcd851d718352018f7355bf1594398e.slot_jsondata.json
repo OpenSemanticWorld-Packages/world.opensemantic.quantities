@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "efcd851d-7183-5201-8f73-55bf1594398e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-PER-A"
+    ],
+    "name": "N-PER-A",
+    "label": [
+        {
+            "text": "Newton per Ampere",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit newton divided by the SI base unit ampere",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N/A",
+    "conversion_factor_from_si": 1.0
+}

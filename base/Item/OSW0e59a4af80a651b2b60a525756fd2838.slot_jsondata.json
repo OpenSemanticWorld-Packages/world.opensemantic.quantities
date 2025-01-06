@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "0e59a4af-80a6-51b2-b60a-525756fd2838",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-KiloGM"
+    ],
+    "name": "L-PER-KiloGM",
+    "label": [
+        {
+            "text": "Litre per Kilogram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit of the volume litre divided by the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/kg",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "bf064e4b-8d00-55a0-a5d9-a9f18efb0f64",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliL-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSW0e59a4af80a651b2b60a525756fd2838#OSWbf064e4b8d0055a0a5d9a9f18efb0f64",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mL/kg"
+        }
+    ]
+}

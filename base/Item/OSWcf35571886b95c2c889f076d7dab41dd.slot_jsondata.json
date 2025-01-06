@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "cf355718-86b9-5c2c-889f-076d7dab41dd",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-M-PER-RAD"
+    ],
+    "name": "N-M-PER-RAD",
+    "label": [
+        {
+            "text": "Newton metre per radian",
+            "lang": "en"
+        },
+        {
+            "text": "Newtonmeter pro Radian",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Newton Meter per Radian is the SI unit for Torsion Constant",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·m/rad",
+    "conversion_factor_from_si": 1.0
+}

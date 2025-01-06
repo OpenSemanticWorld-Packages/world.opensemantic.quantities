@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "a2c81449-9650-5700-90ea-4ac058c81e3b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-M2"
+    ],
+    "name": "M3-PER-M2",
+    "label": [
+        {
+            "text": "Cubic Metre per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "power of the SI base unit metre with the exponent 3 divided by the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/m²",
+    "conversion_factor_from_si": 1.0
+}

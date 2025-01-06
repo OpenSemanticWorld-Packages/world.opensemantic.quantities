@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "3063bab9-47d2-56b1-a7a1-1cdb158d11b1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-M2-SEC"
+    ],
+    "name": "MOL-PER-M2-SEC",
+    "label": [
+        {
+            "text": "Moles per square metre second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI unit of quantity of matter per SI unit area per SI unit of time.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(m²·s)",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "92a55c5f-59b2-59f8-acfe-7284e9f7ebe1",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroMOL-PER-M2-SEC"
+            ],
+            "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSW92a55c5f59b259f8acfe7284e9f7ebe1",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µmol/(m²·s)"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "d5bf9cdb-2776-5d8b-bc55-3cf3682b1c52",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliMOL-PER-M2-SEC"
+            ],
+            "osw_id": "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSWd5bf9cdb27765d8bbc553cf3682b1c52",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mmol/(m²·s)"
+        }
+    ]
+}

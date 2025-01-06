@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "3c3bd7a1-9c56-54ed-beca-03c1d622b078",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundReductionIndex"
+    ],
+    "name": "SoundReductionIndex",
+    "label": [
+        {
+            "text": "Sound reduction index",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Sound Reduction Index is used to measure the level of sound insulation provided by a structure such as a wall, window, door, or ventilator.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW20ac6724f1a05ee884222d546955e78f"
+    ]
+}

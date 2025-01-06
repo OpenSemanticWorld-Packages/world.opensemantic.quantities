@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "eb7f0169-5c96-5360-be41-408bae5e1eba",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM2-SEC"
+    ],
+    "name": "CentiM2-SEC",
+    "label": [
+        {
+            "text": "Square Centimetre Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Square Centimeter Second\" is a C.G.S System unit for  'Area Time' expressed as $cm^2 . s$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm²·s",
+    "conversion_factor_from_si": 0.0001
+}

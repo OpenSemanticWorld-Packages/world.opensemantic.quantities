@@ -1,0 +1,56 @@
+{
+    "@context": [
+        "/wiki/Category:Item?action=raw&slot=jsonschema",
+        "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema",
+        {
+            "units": {
+                "@type": "@id",
+                "@id": "Property:HasUnit"
+            }
+        }
+    ],
+    "allOf": [
+        {
+            "$ref": "/wiki/Category:Item?action=raw&slot=jsonschema"
+        },
+        {
+            "$ref": "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+        }
+    ],
+    "type": "object",
+    "uuid": "00fbd6fe-ecb5-4089-97ca-18d4e681a131",
+    "title": "QuantityKind",
+    "title*": {
+        "en": "Quantity Kind"
+    },
+    "description": "Physical, technical or economical quantities",
+    "description*": {
+        "en": "Physical, technical or economical quantities"
+    },
+    "required": [
+        "type"
+    ],
+    "defaultProperties": [
+        "exact_ontology_match",
+        "units"
+    ],
+    "properties": {
+        "type": {
+            "default": [
+                "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+            ]
+        },
+        "units": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "format": "autocomplete",
+                "$comment": "QuantityUnit",
+                "range": "Category:OSWd2520fa016844e01af0097a85bb25b25",
+                "options": {
+                    "compact": "true"
+                }
+            }
+        }
+    }
+}

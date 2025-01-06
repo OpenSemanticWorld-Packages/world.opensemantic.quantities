@@ -1,0 +1,35 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "c8adf8d2-a777-5f80-b8cb-6290497f6dfc",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Area"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Area",
+        "https://si-digital-framework.org/SI/quantities/AREA"
+    ],
+    "name": "Area",
+    "label": [
+        {
+            "text": "Area",
+            "lang": "en"
+        },
+        {
+            "text": "Fläche",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Area is a quantity expressing the two-dimensional size of a defined part of a surface, typically a region bounded by a closed curve.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd10e5841c68e5aad94b481b58ef9dfb9",
+        "Item:OSWd4e21cb49cfd55cda5953b1caf8ab63f",
+        "Item:OSW0839530c03c356bba0525b93a3efcc33"
+    ]
+}

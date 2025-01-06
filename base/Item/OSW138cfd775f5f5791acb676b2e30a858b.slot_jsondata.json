@@ -1,0 +1,117 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "138cfd77-5f5f-5791-acb6-76b2e30a858b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C-PER-M3"
+    ],
+    "name": "C-PER-M3",
+    "label": [
+        {
+            "text": "Coulomb per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Coulomb Per Cubic Meter ($C/m^{3}$) is a unit in the category of Electric charge density. It is also known as coulomb per cubic metre, coulombs per cubic meter, coulombs per cubic metre, coulomb/cubic meter, coulomb/cubic metre. This unit is commonly used in the SI unit system. Coulomb Per Cubic Meter has a dimension of $L^{-3}TI$ where $L$ is length, $T$ is time, and $I$ is electric current. This unit is the standard SI unit in this category.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C/m³",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6684ece7-8b03-5280-a999-7fd7e0946a64",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/C-PER-MilliM3"
+            ],
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW6684ece78b035280a9997fd7e0946a64",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "C/mm³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a2ef417c-c765-54cc-bc1e-21d3399b1d0f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaC-PER-M3"
+            ],
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSWa2ef417cc76554ccbc1e21d3399b1d0f",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GC/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "78239b85-b325-5c27-b70c-82b5d719f312",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaC-PER-M3"
+            ],
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW78239b85b3255c27b70c82b5d719f312",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MC/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "abb39bf7-7e53-590a-afd8-5088c14233eb",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloC-PER-M3"
+            ],
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSWabb39bf77e53590aafd85088c14233eb",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kC/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7ff98149-4feb-5738-9342-7df6c288c2c1",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroC-PER-M3"
+            ],
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW7ff981494feb573893427df6c288c2c1",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µC/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0cf667e0-41bf-5c70-ad88-948e99591fa7",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliC-PER-M3"
+            ],
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSW0cf667e041bf5c70ad88948e99591fa7",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mC/m³"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "f658e917-0de7-57b9-9c1b-492865347a7e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/C-PER-CentiM3"
+            ],
+            "osw_id": "Item:OSW138cfd775f5f5791acb676b2e30a858b#OSWf658e9170de757b99c1b492865347a7e",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "C/cm³"
+        }
+    ]
+}

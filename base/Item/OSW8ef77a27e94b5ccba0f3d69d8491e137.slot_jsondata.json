@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "8ef77a27-e94b-5ccb-a0f3-d69d8491e137",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-PER-KiloGM"
+    ],
+    "name": "N-PER-KiloGM",
+    "label": [
+        {
+            "text": "Newton per Kilogram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Gravitational field strength at a point is the gravitational force per unit mass at that point. It is a vector and its S.I. unit is N kg-1.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N/kg",
+    "conversion_factor_from_si": 1.0
+}

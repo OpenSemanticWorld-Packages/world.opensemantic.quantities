@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f63766f7-c838-52d7-a1d8-e12deeee90c7",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-M"
+    ],
+    "name": "M2-PER-M",
+    "label": [
+        {
+            "text": "square metre per metre",
+            "lang": "en"
+        },
+        {
+            "text": "Quadratmeter je Meter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "square metre divided by metre: plain text description in English",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/m",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "f67d1f72-b8d6-5f07-9085-ae0b2e649428",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-T-SEC"
+    ],
+    "name": "PER-T-SEC",
+    "label": [
+        {
+            "text": "Reciprocal Tesla Second Unit",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Tesla Second Unit is a denominator unit with dimensions $/s . T$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(T·s)",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "dca43250-7fd5-502c-a9e3-8e09f7e6ef6e",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TONNE-PER-SEC"
+    ],
+    "name": "TONNE-PER-SEC",
+    "label": [
+        {
+            "text": "Tonne per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit tonne divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t/s",
+    "conversion_factor_from_si": 1000.0
+}

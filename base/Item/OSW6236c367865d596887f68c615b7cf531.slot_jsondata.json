@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "6236c367-865d-5968-87f6-8c615b7cf531",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ActivityConcentration"
+    ],
+    "name": "ActivityConcentration",
+    "label": [
+        {
+            "text": "Activity Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Activity Concentration\", also known as volume activity, and activity density, is .",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWbb252cb7b9505d5c9369be8da21e274d",
+        "Item:OSWd3720cbbb37c5c1698a8570b837b5af9"
+    ]
+}

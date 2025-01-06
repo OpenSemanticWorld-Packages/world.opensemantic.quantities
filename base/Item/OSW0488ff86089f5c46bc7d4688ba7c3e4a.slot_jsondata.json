@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "0488ff86-089f-5c46-bc7d-4688ba7c3e4a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DeciL-PER-GM"
+    ],
+    "name": "DeciL-PER-GM",
+    "label": [
+        {
+            "text": "Decilitre per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.1-fold of the unit of the volume litre divided by the 0.001-fold of the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "dL/g",
+    "conversion_factor_from_si": 0.1
+}

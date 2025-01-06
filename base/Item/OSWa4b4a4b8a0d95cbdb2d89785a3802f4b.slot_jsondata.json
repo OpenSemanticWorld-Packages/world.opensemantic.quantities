@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "a4b4a4b8-a0d9-5cbd-b2d8-9785a3802f4b",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCurrent"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Electric_current",
+        "https://si-digital-framework.org/SI/quantities/ELCU"
+    ],
+    "name": "ElectricCurrent",
+    "label": [
+        {
+            "text": "Electric current",
+            "lang": "en"
+        },
+        {
+            "text": "Elektrische Stromstärke",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Electric Current\" is the flow (movement) of electric charge. The amount of electric current through some surface, for example, a section through a copper conductor, is defined as the amount of electric charge flowing through that surface over time. Current is a scalar-valued quantity. Electric current is one of the base quantities in the International System of Quantities, ISQ, on which the International System of Units, SI, is based.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec"
+    ]
+}

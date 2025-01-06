@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "0ab2af45-d05c-527d-8fe2-0509629f9ae3",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-PER-J"
+    ],
+    "name": "KiloGM-PER-J",
+    "label": [
+        {
+            "text": "Kilogram per Joule",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit kilogram divided by the SI base unit joule",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/J",
+    "conversion_factor_from_si": 1.0
+}

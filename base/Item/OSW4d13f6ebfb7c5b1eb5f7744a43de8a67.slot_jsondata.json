@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4d13f6eb-fb7c-5b1e-b5f7-744a43de8a67",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-YR"
+    ],
+    "name": "M-PER-YR",
+    "label": [
+        {
+            "text": "Metre per year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of SI standard unit length over a period of an average calendar year (365.25 days).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/a",
+    "conversion_factor_from_si": 3.16880878140289e-08,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "20b5887d-96c5-5d85-a5a1-b2753499fc19",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliM-PER-YR"
+            ],
+            "osw_id": "Item:OSW4d13f6ebfb7c5b1eb5f7744a43de8a67#OSW20b5887d96c55d85a5a1b2753499fc19",
+            "conversion_factor_from_si": 3.168808781402895e-11,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mm/a"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "398d36aa-d25e-59ab-83cb-3f5ad9698523",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM-PER-YR"
+            ],
+            "osw_id": "Item:OSW4d13f6ebfb7c5b1eb5f7744a43de8a67#OSW398d36aad25e59ab83cb3f5ad9698523",
+            "conversion_factor_from_si": 3.16880878140289e-10,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm/a"
+        }
+    ]
+}

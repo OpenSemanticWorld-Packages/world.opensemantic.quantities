@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "8f843933-1ff2-5ab2-a7df-5c2f3572d198",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerPerAreaQuarticTemperature"
+    ],
+    "name": "PowerPerAreaQuarticTemperature",
+    "label": [
+        {
+            "text": "Power per area quartic temperature",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW88f406fb6a1250eab2d89590d6488f19"
+    ]
+}

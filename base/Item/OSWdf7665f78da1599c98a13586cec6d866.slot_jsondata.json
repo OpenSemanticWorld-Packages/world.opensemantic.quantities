@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "df7665f7-8da1-599c-98a1-3586cec6d866",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroM-PER-N"
+    ],
+    "name": "MicroM-PER-N",
+    "label": [
+        {
+            "text": "Micro metre per Newton",
+            "lang": "en"
+        },
+        {
+            "text": "Mikrometer pro Newton",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Micro metres measured per Newton",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "µm/N",
+    "conversion_factor_from_si": 1e-06
+}

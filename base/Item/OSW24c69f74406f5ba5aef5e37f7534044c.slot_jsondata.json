@@ -1,0 +1,53 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "24c69f74-406f-5ba5-aef5-e37f7534044c",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/R",
+        "http://dbpedia.org/resource/Roentgen"
+    ],
+    "name": "R",
+    "label": [
+        {
+            "text": "Roentgen",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Not to be confused with roentgen equivalent man or roentgen equivalent physical. The roentgen (symbol R) is an obsolete unit of measurement for the kerma of X-rays and gamma rays up to 3 MeV.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "R",
+    "conversion_factor_from_si": 0.000258,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b6980007-87a9-530f-bf38-d408a735d849",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliR"
+            ],
+            "osw_id": "Item:OSW24c69f74406f5ba5aef5e37f7534044c#OSWb698000787a9530fbf38d408a735d849",
+            "conversion_factor_from_si": 2.58e-07,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mR"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "11becc29-1de5-59a4-8041-ed5f8a1cf82a",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloR"
+            ],
+            "osw_id": "Item:OSW24c69f74406f5ba5aef5e37f7534044c#OSW11becc291de559a48041ed5f8a1cf82a",
+            "conversion_factor_from_si": 0.258,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kR"
+        }
+    ]
+}

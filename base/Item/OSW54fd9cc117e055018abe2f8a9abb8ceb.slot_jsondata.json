@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "54fd9cc1-17e0-5501-8abe-2f8a9abb8ceb",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificVolume"
+    ],
+    "close_ontology_match": [
+        "https://si-digital-framework.org/SI/quantities/SPVO"
+    ],
+    "name": "SpecificVolume",
+    "label": [
+        {
+            "text": "Specific Volume",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Specific Volume\" ($\\nu$) is the volume occupied by a unit of mass of a material. It is equal to the inverse of density.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0e59a4af80a651b2b60a525756fd2838",
+        "Item:OSW8967238ff12d589a8e1383b0a684ddc5",
+        "Item:OSW2bd67b66d9f15e7e834fbaaf9a6d5551",
+        "Item:OSW0488ff86089f5c46bc7d4688ba7c3e4a",
+        "Item:OSWf22a5f4404805d79b24448e9bfc5e7d4",
+        "Item:OSW62c24da2a31b51d5a574127a27ba2184"
+    ]
+}

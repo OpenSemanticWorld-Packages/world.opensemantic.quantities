@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "ee60f0c8-6f60-51bb-9e1c-60b77a607ba2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-PER-M"
+    ],
+    "name": "DEG_C-PER-M",
+    "label": [
+        {
+            "text": "Degrees Celsius per metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C/m",
+    "conversion_factor_from_si": 1.0
+}

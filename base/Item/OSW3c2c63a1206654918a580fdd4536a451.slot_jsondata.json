@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "3c2c63a1-2066-5491-8a58-0fdd4536a451",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Length"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Length",
+        "https://si-digital-framework.org/SI/quantities/LENG"
+    ],
+    "name": "Length",
+    "label": [
+        {
+            "text": "Length",
+            "lang": "en"
+        },
+        {
+            "text": "Länge",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In geometric measurements, length most commonly refers to the est dimension of an object. In some contexts, the term \"length\" is reserved for a certain dimension of an object along which the length is measured.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+        "Item:OSWc589f456dfad5c85a971c1d393030cb5"
+    ]
+}

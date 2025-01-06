@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "a70daa68-6e9b-5852-9a89-8046850470f4",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousIntensityDistribution"
+    ],
+    "name": "IonConcentration",
+    "label": [
+        {
+            "text": "Ion Concentration",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Luminous Intensity Distribution\" is a measure of the luminous intensity of a light source that changes according to the direction of the ray. It is normally based on some standardized distribution light distribution curves. Usually measured in Candela/Lumen (cd/lm) or (cd/klm).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWb175d26e736c5603bcaa1060f2afddff"
+    ]
+}

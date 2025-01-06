@@ -1,0 +1,175 @@
+{
+    "@context": [
+        "/wiki/Category:Item?action=raw&slot=jsonschema",
+        "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema",
+        {
+            "prefix_units": "Property:HasPrefixUnit",
+            "prefix": "Property:HasPrefix",
+            "main_symbol": "Property:HasSymbol",
+            "main_symbol*": "Property:Display_title_of",
+            "conversion_factor_from_si": "Property:HasConversionFactorFromSI"
+        }
+    ],
+    "allOf": [
+        {
+            "$ref": "/wiki/Category:Item?action=raw&slot=jsonschema"
+        },
+        {
+            "$ref": "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+        }
+    ],
+    "type": "object",
+    "uuid": "d2520fa0-1684-4e01-af00-97a85bb25b25",
+    "title": "QuantityUnit",
+    "title*": {
+        "en": "QuantityUnit"
+    },
+    "description": "Unit for a physical, technical or economical quantity",
+    "description*": {
+        "en": "Unit for a physical, technical or economical quantity"
+    },
+    "required": [
+        "type",
+        "main_symbol"
+    ],
+    "defaultProperties": [
+        "exact_ontology_match",
+        "prefix_units"
+    ],
+    "properties": {
+        "type": {
+            "default": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ]
+        },
+        "main_symbol": {
+            "type": "string"
+        },
+        "conversion_factor_from_si": {
+            "type": "number",
+            "title": "Conversion Factor",
+            "Title*": {
+                "de": "Umrechnungsfaktor"
+            },
+            "description": "The corresponding SI unit has to be multiplied with this factor to yield this unit",
+            "description*": {
+                "de": "Die entsprechende SI Einheit muss mit diesem Faktor multipliziert werden, um diese Einheit zu erhalten."
+            }
+        },
+        "prefix_units": {
+            "type": "array",
+            "title": "Prefix units",
+            "description": "Combines a quantity unit with an unit prefix",
+            "_format": "table",
+            "format": "tabs",
+            "eval_template": [
+                {
+                    "type": "mustache-wikitext",
+                    "value": "{{=<% %>=}} <%#prefix_units%> {{Viewer/Link |page=<%osw_id%>}}<br> <%/prefix_units%>",
+                    "mode": "render"
+                }
+            ],
+            "items": {
+                "type": "object",
+                "_format": "grid-strict",
+                "id": "prefix_unit",
+                "headerTemplate": "{{ self.main_symbol }}",
+                "required": [
+                    "uuid",
+                    "osw_id",
+                    "prefix",
+                    "main_symbol"
+                ],
+                "defaultProperties": [
+                    "exact_ontology_match"
+                ],
+                "allOf": [
+                    {
+                        "$ref": "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+                    }
+                ],
+                "properties": {
+                    "uuid": {
+                        "title": "UUID",
+                        "type": "string",
+                        "$comment": "format uuid field are copied, if not set in copy_ignore",
+                        "_format": "uuid",
+                        "_template": "dynamic_template",
+                        "dynamic_template": "{{_uuid_}}",
+                        "options": {
+                            "hidden": true,
+                            "dynamic_template": {
+                                "override": "empty"
+                            }
+                        }
+                    },
+                    "osw_id": {
+                        "title": "OSW-ID",
+                        "type": "string",
+                        "watch": {
+                            "_own_uuid": "prefix_unit.uuid"
+                        },
+                        "_format": "dynamic_template",
+                        "dynamic_template": "{{_current_subject_}}#OSW{{#replace '-' ''}}{{_own_uuid}}{{/replace}}",
+                        "options": {
+                            "hidden": true,
+                            "dynamic_template": {
+                                "override": "empty"
+                            }
+                        }
+                    },
+                    "conversion_factor_from_si": {
+                        "type": "number",
+                        "title": "Conversion Factor",
+                        "Title*": {
+                            "de": "Umrechnungsfaktor"
+                        },
+                        "description": "The corresponding SI unit has to be multiplied with this factor to yield this unit",
+                        "description*": {
+                            "de": "Die entsprechende SI Einheit muss mit diesem Faktor multipliziert werden, um diese Einheit zu erhalten."
+                        }
+                    },
+                    "prefix": {
+                        "type": "string",
+                        "format": "autocomplete",
+                        "range": "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45",
+                        "$comment": "We have to watch the target editor (fieldmap.target_path)",
+                        "watch": {
+                            "prefix_symbol": "prefix_unit.prefix_symbol"
+                        },
+                        "options": {
+                            "autocomplete": {
+                                "query": "[[Category:OSW99e0f46a40ca4129a420b4bb89c4cc45]]|?HasName=name|?HasSymbol=symbol",
+                                "field_maps": [
+                                    {
+                                        "source_path": "$",
+                                        "template": "{{{unit_main_symbol}}}{{{result.printouts.symbol.[0]}}}",
+                                        "target_path": "$(prefix_symbol)"
+                                    }
+                                ]
+                            },
+                            "grid_columns": 8
+                        }
+                    },
+                    "prefix_symbol": {
+                        "type": "string",
+                        "options": {
+                            "hidden": "true"
+                        }
+                    },
+                    "main_symbol": {
+                        "type": "string",
+                        "watch": {
+                            "unit_main_symbol": "root.main_symbol",
+                            "prefix_symbol": "prefix_unit.prefix_symbol"
+                        },
+                        "template": "{{{prefix_symbol}}}{{{unit_main_symbol}}}",
+                        "options": {
+                            "grid_columns": 4
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "71031968-cb5c-53bd-acc2-955f288009db",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TON_Metric-PER-HR"
+    ],
+    "name": "TON_Metric-PER-HR",
+    "label": [
+        {
+            "text": "Tonne per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit tonne divided by the unit for time hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t/h",
+    "conversion_factor_from_si": 0.277777777777778
+}

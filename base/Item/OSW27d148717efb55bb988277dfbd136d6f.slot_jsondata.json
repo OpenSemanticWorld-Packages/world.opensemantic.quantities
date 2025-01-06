@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "27d14871-7efb-55bb-9882-77dfbd136d6f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/SV",
+        "http://dbpedia.org/resource/Sievert",
+        "https://si-digital-framework.org/SI/units/sievert"
+    ],
+    "name": "SV",
+    "label": [
+        {
+            "text": "sievert",
+            "lang": "en"
+        },
+        {
+            "text": "Sievert",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Although the sievert has the same dimensions as the gray (i.e. joules per kilogram), it measures a different quantity. To avoid any risk of confusion between the absorbed dose and the equivalent dose, the corresponding special units, namely the gray instead of the joule per kilogram for absorbed dose and the sievert instead of the joule per kilogram for the dose equivalent, should be used.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Sv",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "921781fc-1d8d-5753-bb4e-217fce342e3e",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliSV"
+            ],
+            "osw_id": "Item:OSW27d148717efb55bb988277dfbd136d6f#OSW921781fc1d8d5753bb4e217fce342e3e",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mSv"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "be7b1aea-b128-5591-8599-5f43b0448616",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroSV",
+                "http://dbpedia.org/resource/Sievert"
+            ],
+            "osw_id": "Item:OSW27d148717efb55bb988277dfbd136d6f#OSWbe7b1aeab128559185995f43b0448616",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "µSv"
+        }
+    ]
+}

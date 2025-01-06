@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "9f9bee3d-7222-5991-bfca-8c6dd3f273d8",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PPB"
+    ],
+    "name": "PPB",
+    "label": [
+        {
+            "text": "Parts per billion",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Dimensionless unit for concentration. Recommended practice is to use specific units such as $ug/l$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "PPB",
+    "conversion_factor_from_si": 1e-09
+}

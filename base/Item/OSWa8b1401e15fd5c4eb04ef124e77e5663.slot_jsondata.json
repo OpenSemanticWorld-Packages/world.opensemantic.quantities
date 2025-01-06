@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "a8b1401e-15fd-5c4e-b04e-f124e77e5663",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DisplacementCurrentDensity"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Electric_flux"
+    ],
+    "name": "DisplacementCurrentDensity",
+    "label": [
+        {
+            "text": "Displacement Current Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\text{Displacement Current Density}$ is the time rate of change of the $\\textit{Electric Flux Density}$. \n  This is a measure of how quickly the electric field changes if we observe it as a function of time. \n  This is different than if we look at how the electric field changes spatially, that is, over a region of space for a fixed amount of time.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW2b1e97f1edd650c088abbe8896fe0333"
+    ]
+}

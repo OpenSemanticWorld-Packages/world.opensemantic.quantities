@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b2b78d96-3e4e-54d7-b5e6-4db90eb5fad2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-V-SEC"
+    ],
+    "name": "M2-PER-V-SEC",
+    "label": [
+        {
+            "text": "square metre per volt second",
+            "lang": "en"
+        },
+        {
+            "text": "Quadratmeter je Volt und Sekunde",
+            "lang": "de"
+        }
+    ],
+    "main_symbol": "m²/(V·s)",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5912aba5-3a8b-5951-ae88-d643b40ff33d",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/CentiM2-PER-V-SEC"
+            ],
+            "osw_id": "Item:OSWb2b78d963e4e54d7b5e64db90eb5fad2#OSW5912aba53a8b5951ae88d643b40ff33d",
+            "conversion_factor_from_si": 0.0001,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "cm²/(V·s)"
+        }
+    ]
+}

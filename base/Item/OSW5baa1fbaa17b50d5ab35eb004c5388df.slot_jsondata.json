@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "5baa1fba-a17b-50d5-ab35-eb004c5388df",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-MilliM"
+    ],
+    "name": "GM-MilliM",
+    "label": [
+        {
+            "text": "Gram Millimetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit of the imbalance as product of the 0.001-fold of the SI base unit kilogram and the 0.001-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g·mm",
+    "conversion_factor_from_si": 1e-06
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "f9b0487b-99de-586d-b32d-ccdf4f0006d6",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ExposureRate"
+    ],
+    "name": "ExposureRate",
+    "label": [
+        {
+            "text": "Exposure Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Exposure Rate\" expresses the rate of charge production per unit mass of air and is commonly expressed in roentgens per hour (R/h) or milliroentgens per hour (mR/h).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW7c9817a1145157e8b2803464c641e6cf"
+    ]
+}

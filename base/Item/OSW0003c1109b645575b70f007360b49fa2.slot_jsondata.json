@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "0003c110-9b64-5575-b70f-007360b49fa2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-PER-M"
+    ],
+    "name": "PA-PER-M",
+    "label": [
+        {
+            "text": "Pascal per Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit pascal divided by the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa/m",
+    "conversion_factor_from_si": 1.0
+}

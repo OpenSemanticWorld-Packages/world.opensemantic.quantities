@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "aed77452-d949-55e9-95fa-902b71b85235",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ScalarMagneticPotential"
+    ],
+    "name": "ScalarMagneticPotential",
+    "label": [
+        {
+            "text": "Scalar Magnetic Potential",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Scalar Magnetic Potential\" is the scalar potential of an irrotational magnetic field strength. The negative of the gradient of the scalar magnetic potential is the irrotational magnetic field strength. The magnetic scalar potential is not unique since any constant scalar field can be added to it without changing its gradient.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf63c15f03855534fabdc39bb5403d1ff"
+    ]
+}

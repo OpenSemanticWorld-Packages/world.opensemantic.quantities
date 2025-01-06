@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "e6a35542-7e61-5e7e-961c-64f101cd10d0",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ModulusOfSubgradeReaction"
+    ],
+    "name": "ModulusOfSubgradeReaction",
+    "label": [
+        {
+            "text": "Modulus of Subgrade Reaction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Modulus of Subgrade Reaction is a geotechnical measure describing interaction between foundation structures and the soil. May also be known as bedding measure. Usually measured in N/m3.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf3f9733d84285a338b5b7306145c9b6d"
+    ]
+}

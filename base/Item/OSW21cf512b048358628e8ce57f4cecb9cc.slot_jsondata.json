@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "21cf512b-0483-5862-8e8c-e57f4cecb9cc",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-M2-PER-SR"
+    ],
+    "name": "W-M2-PER-SR",
+    "label": [
+        {
+            "text": "W-M2-PER-SR",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W·m²/sr",
+    "conversion_factor_from_si": 1.0
+}

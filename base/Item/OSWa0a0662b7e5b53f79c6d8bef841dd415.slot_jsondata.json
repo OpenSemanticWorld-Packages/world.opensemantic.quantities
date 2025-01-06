@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "a0a0662b-7e5b-53f7-9c6d-8bef841dd415",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-M2"
+    ],
+    "name": "A-M2",
+    "label": [
+        {
+            "text": "Ampere Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of electromagnetic moment.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A·m²",
+    "conversion_factor_from_si": 1.0
+}

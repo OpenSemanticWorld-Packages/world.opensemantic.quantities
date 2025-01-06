@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "7fc1aafd-0122-5f3a-99eb-e043b7e4a34a",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Power"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Power",
+        "https://si-digital-framework.org/SI/quantities/POWR"
+    ],
+    "name": "Power",
+    "label": [
+        {
+            "text": "Power",
+            "lang": "en"
+        },
+        {
+            "text": "Leistung",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Power is the rate at which work is performed or energy is transmitted, or the amount of energy required or expended for a given unit of time. As a rate of change of work done or the energy of a subsystem, power is: $P = W/t$, where $P$ is power, $W$ is work and {t} is time.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
+        "Item:OSWed766f1dce3959e39bb9a8749f99dc34",
+        "Item:OSWc8ce01b894b35860b58893ae03d4792d",
+        "Item:OSW073f4c8e772d52b9863e30a637d07628",
+        "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122"
+    ]
+}

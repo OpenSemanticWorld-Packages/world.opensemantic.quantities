@@ -1,0 +1,149 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "730568cd-7ae6-5906-abbb-cef1d15cb074",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J",
+        "http://dbpedia.org/resource/Joule",
+        "https://si-digital-framework.org/SI/units/joule"
+    ],
+    "name": "J",
+    "label": [
+        {
+            "text": "joule",
+            "lang": "en"
+        },
+        {
+            "text": "Joule",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI unit of work or energy, defined to be the work done by a force of one newton acting to move an object through a distance of one meter in the direction in which the force is applied. Equivalently, since kinetic energy is one half the mass times the square of the velocity, one joule is the kinetic energy of a mass of two kilograms moving at a velocity of 1 m/s. This is the same as 107 ergs in the CGS system, or approximately 0.737 562 foot-pound in the traditional English system. In other energy units, one joule equals about 9.478 170 x 10-4 Btu, 0.238 846 (small) calories, or 2.777 778 x 10-4 watt hour. The joule is named for the British physicist James Prescott Joule (1818-1889), who demonstrated the equivalence of mechanical and thermal energy in a famous experiment in 1843. ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "5ba80670-b294-5c08-b355-51442d3169d5",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/ExaJ"
+            ],
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW5ba80670b2945c08b35551442d3169d5",
+            "conversion_factor_from_si": 1e+18,
+            "prefix": "Item:OSW6536aa1754db57d7a75f42389720cb23",
+            "main_symbol": "EJ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c26bf1cf-449d-56ef-8122-745336585d2b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GigaJ"
+            ],
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc26bf1cf449d56ef8122745336585d2b",
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
+            "main_symbol": "GJ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0ac3643d-930d-5c99-936e-5ece487a9634",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/TeraJ"
+            ],
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW0ac3643d930d5c99936e5ece487a9634",
+            "conversion_factor_from_si": 1000000000000.0,
+            "prefix": "Item:OSW8c95fb553826551fb7c0294a7c0ada41",
+            "main_symbol": "TJ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "2d5cdc08-b064-506e-8f9a-5b0456b7a0b3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FemtoJ"
+            ],
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW2d5cdc08b064506e8f9a5b0456b7a0b3",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
+            "main_symbol": "fJ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "4e7003f5-d7ff-58a1-9016-7711dd63b0bd",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/PetaJ"
+            ],
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW4e7003f5d7ff58a190167711dd63b0bd",
+            "conversion_factor_from_si": 1000000000000000.0,
+            "prefix": "Item:OSW8f99dd9018ab5f848ada364a751a65db",
+            "main_symbol": "PJ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ad2518d4-2b68-5f56-9679-c3599455c3d3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloJ"
+            ],
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kJ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "c1525b1f-1fc0-5c40-b971-5328bf707805",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaJ"
+            ],
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MJ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a73c696e-fa58-519a-a07c-265ea965ceda",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/AttoJ"
+            ],
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWa73c696efa58519aa07c265ea965ceda",
+            "conversion_factor_from_si": 1e-18,
+            "prefix": "Item:OSWa569fd62d673576f8150159be578c72d",
+            "main_symbol": "aJ"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6df75101-1258-508e-9d15-967190c819f3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliJ"
+            ],
+            "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW6df751011258508e9d15967190c819f3",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mJ"
+        }
+    ]
+}

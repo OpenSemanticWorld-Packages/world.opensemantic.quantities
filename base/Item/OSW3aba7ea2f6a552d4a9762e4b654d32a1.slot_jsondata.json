@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "3aba7ea2-f6a5-52d4-a976-2e4b654d32a1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-PER-RAD"
+    ],
+    "name": "A-PER-RAD",
+    "label": [
+        {
+            "text": "Ampere per Radian",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Ampere per Radian}$ is a derived unit for measuring the amount of current per unit measure of angle, expressed in ampere per radian.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A/rad",
+    "conversion_factor_from_si": 1.0
+}

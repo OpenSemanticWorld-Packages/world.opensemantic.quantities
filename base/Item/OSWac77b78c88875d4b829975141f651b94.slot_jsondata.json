@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "ac77b78c-8887-5d4b-8299-75141f651b94",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-PER-K"
+    ],
+    "name": "PA-PER-K",
+    "label": [
+        {
+            "text": "Pascal per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa/K",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "3232f6c7-0da5-5b8a-a7b7-c2ea4f84565b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaPA-PER-K"
+            ],
+            "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94#OSW3232f6c70da55b8aa7b7c2ea4f84565b",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MPa/K"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "56eb00ee-243c-5f29-93c4-4c2259217fd3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/HectoPA-PER-K"
+            ],
+            "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94#OSW56eb00ee243c5f2993c44c2259217fd3",
+            "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
+            "main_symbol": "hPa/K"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b4362566-8975-5bf1-9939-55ab270253c3",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloPA-PER-K"
+            ],
+            "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94#OSWb436256689755bf1993955ab270253c3",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kPa/K"
+        }
+    ]
+}

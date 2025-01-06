@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "2c67c099-2198-586a-8c8c-835b39dddec2",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DiffusionCoefficient"
+    ],
+    "name": "DiffusionCoefficient",
+    "label": [
+        {
+            "text": "Diffusion coefficient",
+            "lang": "en"
+        },
+        {
+            "text": "Diffusionskoeffizient",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Diffusion Coefficient\" is a proportionality constant between the molar flux due to molecular diffusion and the gradient in the concentration of the species (or the driving force for diffusion). Diffusivity is encountered in Fick's law and numerous other equations of physical chemistry.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW20b837bfd2fa5c3abc86347ce702f27c"
+    ]
+}

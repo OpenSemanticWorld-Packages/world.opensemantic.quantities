@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "cce5c765-9af3-5ac6-8a52-1de7beb8556d",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M3"
+    ],
+    "name": "W-PER-M3",
+    "label": [
+        {
+            "text": "Watt per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit watt divided by the power of the SI base unit metre with the exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/m³",
+    "conversion_factor_from_si": 1.0
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "007b6ab8-edad-56a6-8297-6b88a46ef732",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-K"
+    ],
+    "name": "MOL-K",
+    "label": [
+        {
+            "text": "Mole Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The $\\textit{Mole Kelvin}$ is a unit for $\\textit{Temperature Amount Of Substance}$ expressed as $mol-K$.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol·K",
+    "conversion_factor_from_si": 1.0
+}

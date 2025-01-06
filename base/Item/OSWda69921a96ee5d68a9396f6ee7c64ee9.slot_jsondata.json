@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "da69921a-96ee-5d68-a939-6f6ee7c64ee9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PhaseCoefficient"
+    ],
+    "name": "PhaseCoefficient",
+    "label": [
+        {
+            "text": "Phase coefficient",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The phase coefficient is the amount of phase shift that occurs as the wave travels one meter. Increasing the loss of the material, via the manipulation of the material's conductivity, will decrease the wavelength (increase $\\beta$) and increase the attenuation coefficient (increase $\\alpha$).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW28e75b089e145904998a54f1c4125bf3"
+    ]
+}

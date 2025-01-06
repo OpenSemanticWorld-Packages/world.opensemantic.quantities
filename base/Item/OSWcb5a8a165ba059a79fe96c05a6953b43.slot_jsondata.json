@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "cb5a8a16-5ba0-59a7-9fe9-6c05a6953b43",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Luminance"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Luminance",
+        "https://si-digital-framework.org/SI/quantities/LUMA"
+    ],
+    "name": "Luminance",
+    "label": [
+        {
+            "text": "Luminance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Luminance is a photometric measure of the luminous intensity per unit area of light travelling in a given direction. It describes the amount of light that passes through or is emitted from a particular area, and falls within a given solid angle.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5"
+    ]
+}

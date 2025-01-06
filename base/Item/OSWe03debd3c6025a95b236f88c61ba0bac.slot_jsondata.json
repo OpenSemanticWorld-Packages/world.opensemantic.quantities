@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "e03debd3-c602-5a95-b236-f88c61ba0bac",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M5"
+    ],
+    "name": "M5",
+    "label": [
+        {
+            "text": "Quintic Metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m⁵",
+    "conversion_factor_from_si": 1.0
+}

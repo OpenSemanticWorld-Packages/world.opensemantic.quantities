@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "397d9707-b473-555a-8b29-4558cbc5d2a1",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-J-M3"
+    ],
+    "name": "PER-J-M3",
+    "label": [
+        {
+            "text": "Reciprocal Joule Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit of the density of states as a reciprocal of the derived unit joule related to the power of the SI base unit metre by exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(J·m³)",
+    "conversion_factor_from_si": 1.0
+}

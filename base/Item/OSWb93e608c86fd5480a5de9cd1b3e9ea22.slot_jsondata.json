@@ -1,0 +1,78 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "b93e608c-86fd-5480-a5de-9cd1b3e9ea22",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M2"
+    ],
+    "name": "GM-PER-M2",
+    "label": [
+        {
+            "text": "Gram per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/m²",
+    "conversion_factor_from_si": 0.001,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "86b6ab5f-70aa-5624-be17-645333d53d51",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-M2"
+            ],
+            "osw_id": "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW86b6ab5f70aa5624be17645333d53d51",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/m²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "0ac392f5-beaf-59ab-807d-2e0de0da85c9",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/GM-PER-CentiM2"
+            ],
+            "osw_id": "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0ac392f5beaf59ab807d2e0de0da85c9",
+            "conversion_factor_from_si": 10.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "main_symbol": "g/cm²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1a1e54cf-a41d-52e6-80e7-8ec75e65f99c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliGM-PER-M2"
+            ],
+            "osw_id": "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW1a1e54cfa41d52e680e78ec75e65f99c",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mg/m²"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "2e2a377b-f14c-5943-9e62-290c987ba4ac",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloGM-PER-KiloM2"
+            ],
+            "osw_id": "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW2e2a377bf14c59439e62290c987ba4ac",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kg/km²"
+        }
+    ]
+}

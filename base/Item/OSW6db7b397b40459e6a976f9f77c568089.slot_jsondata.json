@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "6db7b397-b404-59e6-a976-f9f77c568089",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TONNE-PER-YR"
+    ],
+    "name": "TONNE-PER-YR",
+    "label": [
+        {
+            "text": "Tonne per Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1,000-fold of the SI base unit kilogram divided by the unit year",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t/y",
+    "conversion_factor_from_si": 3.168808781e-05,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "ca073491-ff03-557f-9405-4c2212cb8275",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloTONNE-PER-YR"
+            ],
+            "osw_id": "Item:OSW6db7b397b40459e6a976f9f77c568089#OSWca073491ff03557f94054c2212cb8275",
+            "conversion_factor_from_si": 0.03168808781,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kt/year"
+        }
+    ]
+}

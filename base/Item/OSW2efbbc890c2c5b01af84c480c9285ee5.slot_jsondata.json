@@ -1,0 +1,54 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "2efbbc89-0c2c-5b01-af84-c480c9285ee5",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Unknown"
+    ],
+    "name": "Unknown",
+    "label": [
+        {
+            "text": "Unknown",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Placeholder value used for reference from units where it is not clear what a given unit is a measure of.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf619f81d86235c0c8ec35b106174a40b",
+        "Item:OSW9a6d042d9c395029835b8c36c8ddd5de",
+        "Item:OSW97e5f148d95c58568ebdff0b6645e4b0",
+        "Item:OSW9907d7b751875942867513bbb8d8c43e",
+        "Item:OSWa07b4db88a6c555dae2e1681b718ada9",
+        "Item:OSWdaab904a55e6554e8d59447f7d3c944b",
+        "Item:OSWbf8547ef108c567d9f8ec5fb372a9265",
+        "Item:OSW7a4e82192a4958ceae7a99108ed1866d",
+        "Item:OSW1b7f9a31306f56e2a5811c99710c4b44",
+        "Item:OSW1045127fad1a54b4bf5c0a15890fdc8b",
+        "Item:OSW4030a48bbf955abeab3a4778a019ad4e",
+        "Item:OSW7b8330ad353555c9ab91f792f4bea5a1",
+        "Item:OSWb76e67715391578bbb9b2b3dc63b1bd7",
+        "Item:OSW7f25bfbc76785295bbbe8366288c6466",
+        "Item:OSWbe545914a10f59c488ad0cb1317400d2",
+        "Item:OSW00bc905725a65493b1dc8c400b79ab41",
+        "Item:OSWe40edef66d9a5079b05919b49c85ecfd",
+        "Item:OSW9e8d9ee33c3754839379541dfd21f3fa",
+        "Item:OSWa79b08201daa51a6aea179fcbd04b811",
+        "Item:OSW450d98c618f35e158df3f262ccc36215",
+        "Item:OSW928a2bd0b7c05745b866c35c4a12772d",
+        "Item:OSW41f3dd5c1d6452c09950414345db0927",
+        "Item:OSWd1b86677d9085b6780701aa4b8bcb3f9",
+        "Item:OSW5a76f98abf765e69b9639b8e6b7b8530",
+        "Item:OSW5c2763db9cc05c208827055a2cea496a",
+        "Item:OSWc3111bc3283250139974feaa71b99c31",
+        "Item:OSWddb99e1fbfeb55cf82ce663a9bf91d8b",
+        "Item:OSWe9af175183dd5d7cb8ac53a3c723d3d1",
+        "Item:OSWc6f784a69e075f0faccd43e108a28bc2",
+        "Item:OSW124f92362f8859be8ab2fcbafb94c9de"
+    ]
+}

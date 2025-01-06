@@ -1,0 +1,84 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "4d9412ce-de87-5e39-9cff-b35415646316",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL",
+        "http://dbpedia.org/resource/Mole_%28unit%29",
+        "https://si-digital-framework.org/SI/units/mole"
+    ],
+    "name": "MOL",
+    "label": [
+        {
+            "text": "mole",
+            "lang": "en"
+        },
+        {
+            "text": "Mol",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  The $\\textit{mole}$ is a unit of measurement used in chemistry to express amounts of a chemical substance. \n  The official definition, adopted as part of the SI system in 1971, is that one mole of a substance contains just as many elementary entities (atoms, molecules, ions, or other kinds of particles) as there are atoms in 12 grams of carbon-12 (carbon-12 is the most common atomic form of carbon, consisting of atoms having 6 protons and 6 neutrons).\n  This corresponds to a value of $6.02214179(30) \\times 10^{23}$ elementary entities of the substance. \n  It is one of the base units in the International System of Units, and has the unit symbol $mol$. \n  A Mole is the SI base unit of the amount of a substance (as distinct from its mass or weight). \n  Moles measure the actual number of atoms or molecules in an object. \n  An earlier name is gram molecular weight, because one mole of a chemical compound is the same number of grams as the molecular weight of a molecule of that compound measured in atomic mass units.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "2971b3cb-7eca-5161-8428-2ecfa45bfb81",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/KiloMOL"
+            ],
+            "osw_id": "Item:OSW4d9412cede875e399cffb35415646316#OSW2971b3cb7eca516184282ecfa45bfb81",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "kmol"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1d4f11a4-a142-5dba-81c9-dac510278967",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MicroMOL"
+            ],
+            "osw_id": "Item:OSW4d9412cede875e399cffb35415646316#OSW1d4f11a4a1425dba81c9dac510278967",
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "main_symbol": "μmol"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b4b00897-b51e-505a-8c8c-ac8d6958b73b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/FemtoMOL"
+            ],
+            "osw_id": "Item:OSW4d9412cede875e399cffb35415646316#OSWb4b00897b51e505a8c8cac8d6958b73b",
+            "conversion_factor_from_si": 1e-15,
+            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
+            "main_symbol": "fmol"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "09461c4b-2fa8-5ab6-83a3-572a199ef16b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliMOL"
+            ],
+            "osw_id": "Item:OSW4d9412cede875e399cffb35415646316#OSW09461c4b2fa85ab683a3572a199ef16b",
+            "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mmol"
+        }
+    ]
+}

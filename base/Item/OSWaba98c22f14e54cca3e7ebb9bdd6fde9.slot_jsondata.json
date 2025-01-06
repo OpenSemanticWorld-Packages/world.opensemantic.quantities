@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "aba98c22-f14e-54cc-a3e7-ebb9bdd6fde9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-MIN"
+    ],
+    "name": "L-PER-MIN",
+    "label": [
+        {
+            "text": "Litre per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit litre divided by the unit minute",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/min",
+    "conversion_factor_from_si": 1.666667e-05,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "890744f9-916a-5c26-aebd-4f0236c8c367",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliL-PER-MIN"
+            ],
+            "osw_id": "Item:OSWaba98c22f14e54cca3e7ebb9bdd6fde9#OSW890744f9916a5c26aebd4f0236c8c367",
+            "conversion_factor_from_si": 1.666667e-08,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mL/min"
+        }
+    ]
+}

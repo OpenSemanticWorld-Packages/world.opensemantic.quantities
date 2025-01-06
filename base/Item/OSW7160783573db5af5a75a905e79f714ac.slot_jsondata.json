@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "71607835-73db-5af5-a75a-905e79f714ac",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PhotonIntensity"
+    ],
+    "name": "PhotonIntensity",
+    "label": [
+        {
+            "text": "Photon Intensity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A measure of flux of photons per solid angle",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWaf6c62c0856f5ac288ac862f5344f227"
+    ]
+}

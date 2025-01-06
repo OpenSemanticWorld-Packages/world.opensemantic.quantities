@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "cf2655aa-ed21-511e-b10d-5aae2dbe8176",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Inductance"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Inductance",
+        "https://si-digital-framework.org/SI/quantities/ELIN"
+    ],
+    "name": "Inductance",
+    "label": [
+        {
+            "text": "Inductance",
+            "lang": "en"
+        },
+        {
+            "text": "Induktivität",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Inductance\" is an electromagentic quantity that characterizes a circuit's resistance to any change of electric current; a change in the electric current through induces an opposing electromotive force (EMF). Quantitatively, inductance is proportional to the magnetic flux per unit of electric current.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2"
+    ]
+}

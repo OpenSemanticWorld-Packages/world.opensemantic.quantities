@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "6138b8a8-1ca2-5842-ac68-5f3241b7195f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TON_Metric-PER-MIN"
+    ],
+    "name": "TON_Metric-PER-MIN",
+    "label": [
+        {
+            "text": "Tonne per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit ton divided by the unit for time minute",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "t/min",
+    "conversion_factor_from_si": 16.666666666666668
+}

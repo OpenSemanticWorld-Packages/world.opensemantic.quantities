@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "uuid": "59f1ae99-ce85-577d-995c-76e442b46e74",
+    "exact_ontology_match": [
+        "https://si-digital-framework.org/SI/prefixes/micro"
+    ],
+    "name": "micro",
+    "label": [
+        {
+            "text": "micro (unit prefix)",
+            "lang": "en"
+        }
+    ],
+    "symbol": "µ",
+    "factor": 1e-06
+}

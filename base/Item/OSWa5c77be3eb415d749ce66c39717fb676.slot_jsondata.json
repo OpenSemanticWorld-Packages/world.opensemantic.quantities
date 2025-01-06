@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "a5c77be3-eb41-5d74-9ce6-6c39717fb676",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM2-MIN"
+    ],
+    "name": "CentiM2-MIN",
+    "label": [
+        {
+            "text": "Square Centimetre Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Square centimeter minute\" is a unit for  'Area Time' expressed as $cm^{2} . m$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm²·min",
+    "conversion_factor_from_si": 0.006
+}

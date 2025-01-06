@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "4b190466-bae1-5739-b111-2199be8f2f54",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SurfaceActivityDensity"
+    ],
+    "name": "SurfaceActivityDensity",
+    "label": [
+        {
+            "text": "Surface Activity Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Surface Activity Density\" is undefined.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW8369e204ddec5045893b3249ff474d53"
+    ]
+}

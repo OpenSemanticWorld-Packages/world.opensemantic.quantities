@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "d577070c-496e-574b-97b5-cd6aaf0d3f78",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DisplacementCurrent"
+    ],
+    "name": "DisplacementCurrent",
+    "label": [
+        {
+            "text": "Displacement Current",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Displacement Current\" is a quantity appearing in Maxwell's equations that is defined in terms of the rate of change of electric displacement field. Displacement current has the units of electric current density, and it has an associated magnetic field just as actual currents do. However it is not an electric current of moving charges, but a time-varying electric field. In materials, there is also a contribution from the slight motion of charges bound in atoms, dielectric polarization.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec"
+    ]
+}

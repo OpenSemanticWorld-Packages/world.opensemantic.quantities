@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "d4e21cb4-9cfd-55cd-a595-3b1caf8ab63f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/ARE"
+    ],
+    "name": "ARE",
+    "label": [
+        {
+            "text": "are",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An 'are' is a unit of area equal to 0.02471 acre and 100 centare.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "a",
+    "conversion_factor_from_si": 100.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "88172ed6-bffa-53b8-8f16-354ea485db4c",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/DecaARE"
+            ],
+            "osw_id": "Item:OSWd4e21cb49cfd55cda5953b1caf8ab63f#OSW88172ed6bffa53b88f16354ea485db4c",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW2b7aeb54b7395e99b3d5c20b77de4b15",
+            "main_symbol": "daa"
+        }
+    ]
+}

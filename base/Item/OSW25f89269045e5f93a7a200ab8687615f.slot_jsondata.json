@@ -1,0 +1,52 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "25f89269-045e-5f93-a7a2-00ab8687615f",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-GM"
+    ],
+    "name": "W-PER-GM",
+    "label": [
+        {
+            "text": "Watt per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit watt divided by the SI derived unit gram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/g",
+    "conversion_factor_from_si": 1000.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "6a06afff-ec32-5f16-9a34-e47ab7c414fe",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/W-PER-KiloGM"
+            ],
+            "osw_id": "Item:OSW25f89269045e5f93a7a200ab8687615f#OSW6a06afffec325f169a34e47ab7c414fe",
+            "conversion_factor_from_si": 1.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "main_symbol": "W/kg"
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "7207ca2b-074d-5f1b-9ef3-972f52ea670f",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MilliW-PER-MilliGM"
+            ],
+            "osw_id": "Item:OSW25f89269045e5f93a7a200ab8687615f#OSW7207ca2b074d5f1b9ef3972f52ea670f",
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "main_symbol": "mW/mg"
+        }
+    ]
+}

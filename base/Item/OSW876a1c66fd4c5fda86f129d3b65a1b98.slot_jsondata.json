@@ -1,0 +1,18 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "uuid": "876a1c66-fd4c-5fda-86f1-29d3b65a1b98",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-PER-M2-SEC2"
+    ],
+    "name": "KiloGM-PER-M2-SEC2",
+    "label": [
+        {
+            "text": "Kilogram per Square Metre Square Second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/(m²·s²)",
+    "conversion_factor_from_si": 1.0
+}

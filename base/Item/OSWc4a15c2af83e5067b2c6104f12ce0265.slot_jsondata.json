@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "c4a15c2a-f83e-5067-b2c6-104f12ce0265",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-PER-M"
+    ],
+    "name": "K-PER-M",
+    "label": [
+        {
+            "text": "Kelvin per metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A change of temperature on the Kelvin temperature scale in one SI unit of length.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K/m",
+    "conversion_factor_from_si": 1.0
+}

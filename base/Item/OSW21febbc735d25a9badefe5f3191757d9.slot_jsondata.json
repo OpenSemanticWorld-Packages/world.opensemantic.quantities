@@ -1,0 +1,43 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "21febbc7-35d2-5a9b-adef-e5f3191757d9",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HZ-PER-K"
+    ],
+    "name": "HZ-PER-K",
+    "label": [
+        {
+            "text": "hertz per kelvin",
+            "lang": "en"
+        },
+        {
+            "text": "Hertz je Kelvin",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\n  $\\textit{Hertz per Kelvin}$ is a unit for 'Inverse Time Temperature' expressed as $Hz K^{-1}$.\n  ",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Hz/K",
+    "conversion_factor_from_si": 1.0,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "1214143f-4aa9-52e7-8f3e-c1c339d9500b",
+            "exact_ontology_match": [
+                "http://qudt.org/vocab/unit/MegaHZ-PER-K"
+            ],
+            "osw_id": "Item:OSW21febbc735d25a9badefe5f3191757d9#OSW1214143f4aa952e78f3ec1c339d9500b",
+            "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "main_symbol": "MHz/K"
+        }
+    ]
+}

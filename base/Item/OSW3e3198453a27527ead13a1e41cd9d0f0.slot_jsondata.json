@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "3e319845-3a27-527e-ad13-a1e41cd9d0f0",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-PER-W"
+    ],
+    "name": "K-PER-W",
+    "label": [
+        {
+            "text": "kelvin per watt",
+            "lang": "en"
+        },
+        {
+            "text": "Kelvin je Watt",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "<p>Thermal resistance is a heat property and a measure of a temperature difference by which an object or material resists a heat flow (heat per time unit or thermal resistance). Thermal resistance is the reciprocal thermal conductance. Absolute thermal resistance is the temperature difference across a structure when a unit of heat energy flows through it in unit time. It is the reciprocal of thermal conductance. The SI units of thermal resistance are kelvins per watt or the equivalent degrees Celsius per watt (the two are the same since as intervals).</p>",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K/W",
+    "conversion_factor_from_si": 1.0
+}

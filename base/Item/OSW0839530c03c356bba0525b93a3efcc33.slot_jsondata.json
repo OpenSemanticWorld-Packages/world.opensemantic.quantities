@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "uuid": "0839530c-03c3-56bb-a052-5b93a3efcc33",
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HA",
+        "http://dbpedia.org/resource/Hectare",
+        "https://si-digital-framework.org/SI/units/hectare"
+    ],
+    "name": "HA",
+    "label": [
+        {
+            "text": "Hectare",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The customary metric unit of land area, equal to 100 ares. One hectare is a square hectometer, that is, the area of a square 100 meters on each side: exactly 10 000 square meters or approximately 107 639.1 square feet, 11 959.9 square yards, or 2.471 054 acres.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ha",
+    "conversion_factor_from_si": 10000.0
+}
