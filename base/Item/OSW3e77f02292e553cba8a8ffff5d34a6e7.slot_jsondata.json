@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GeneralizedCoordinate"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GeneralizedCoordinate"
+    ],
+    "uuid": "3e77f022-92e5-53cb-a8a8-ffff5d34a6e7",
+    "name": "GeneralizedCoordinate",
+    "label": [
+        {
+            "text": "Generalized Coordinate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Generalized Coordinates refers to the parameters that describe the configuration of the system relative to some reference configuration. These parameters must uniquely define the configuration of the system relative to the reference configuration.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

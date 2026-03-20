@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaGM-PER-HA"
+    ],
+    "uuid": "fad32d35-2a4d-5f8c-ac5d-17636515a9b2",
+    "name": "MegagramPerHectare",
+    "label": [
+        {
+            "text": "MegaGram per Hectare",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1 000-fold of the SI base unit kilogram divided by the 10,000-fold of the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Mg/ha",
+    "conversion_factor_from_si": 0.1,
+    "ucum_codes": [
+        "Mg.har-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

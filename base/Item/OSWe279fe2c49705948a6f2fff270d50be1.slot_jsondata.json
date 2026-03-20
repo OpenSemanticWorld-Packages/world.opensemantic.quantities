@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "e279fe2c-4970-5948-a6f2-fff270d50be1",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/FARAD-PER-M"
     ],
-    "name": "FARAD-PER-M",
+    "uuid": "e279fe2c-4970-5948-a6f2-fff270d50be1",
+    "name": "FaradPerMetre",
     "label": [
         {
-            "text": "farad per metre",
+            "text": "Farad per Metre",
             "lang": "en"
         },
         {
-            "text": "Farad je Meter",
+            "text": "Farad Je Meter",
             "lang": "de"
         }
     ],
@@ -25,58 +25,127 @@
     ],
     "main_symbol": "F/m",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "F.m-1",
+        "F/m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "a8178412-3511-55ee-a5ff-7170de8040be",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/NanoFARAD-PER-M"
-            ],
-            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWa8178412351155eea5ff7170de8040be",
-            "conversion_factor_from_si": 1e-09,
-            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
-            "main_symbol": "nF/m"
+            "exponent": -1
         },
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "635f4b80-20b6-5573-8a87-7cb7e87831be",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/PicoFARAD-PER-M"
-            ],
-            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW635f4b8020b655738a877cb7e87831be",
-            "conversion_factor_from_si": 1e-12,
-            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
-            "main_symbol": "pF/m"
-        },
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "c45e1c5e-4909-5d4d-805e-a836290790b7",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroFARAD-PER-M"
-            ],
-            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWc45e1c5e49095d4d805ea836290790b7",
-            "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "µF/m"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "47e4ca26-4928-5de5-b1db-d98338fac916",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/FARAD-PER-KiloM"
-            ],
             "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW47e4ca2649285de5b1dbd98338fac916",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "F/km"
+            "main_symbol": "F/km",
+            "ucum_codes": [
+                "F.km-1",
+                "F/km"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "635f4b80-20b6-5573-8a87-7cb7e87831be",
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW635f4b8020b655738a877cb7e87831be",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 1e-12,
+            "main_symbol": "pF/m",
+            "ucum_codes": [
+                "pF.m-1",
+                "pF/m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "92b6ef49-ce23-5a5f-985e-7af89619c492",
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSW92b6ef49ce235a5f985e7af89619c492",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "μF/km",
+            "ucum_codes": [
+                "uF.km-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a8178412-3511-55ee-a5ff-7170de8040be",
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWa8178412351155eea5ff7170de8040be",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "nF/m",
+            "ucum_codes": [
+                "nF.m-1",
+                "nF/m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c45e1c5e-4909-5d4d-805e-a836290790b7",
+            "osw_id": "Item:OSWe279fe2c49705948a6f2fff270d50be1#OSWc45e1c5e49095d4d805ea836290790b7",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "μF/m",
+            "ucum_codes": [
+                "uF.m-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

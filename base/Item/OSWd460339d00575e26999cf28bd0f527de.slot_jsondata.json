@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Lethargy"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Lethargy"
+    ],
+    "uuid": "d460339d-0057-5e26-999c-f28bd0f527de",
+    "name": "Lethargy",
+    "label": [
+        {
+            "text": "Lethargy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Lethargy\" is a dimensionless logarithm of the ratio of the energy of source neutrons to the energy of neutrons after a collision.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

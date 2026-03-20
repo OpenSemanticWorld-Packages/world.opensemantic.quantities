@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MultiplicationFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MultiplicationFactor"
+    ],
+    "uuid": "5527ed92-7c89-5870-a344-c8ff94353b20",
+    "name": "MultiplicationFactor",
+    "label": [
+        {
+            "text": "Multiplication Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Multiplication Factor\" is the ratio of the total number of fission or fission-dependent neutrons produced in a time interval to the total number of neutrons lost by absorption and leakage during the same interval.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

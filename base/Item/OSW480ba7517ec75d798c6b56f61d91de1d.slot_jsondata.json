@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "480ba751-7ec7-5d79-8c6b-56f61d91de1d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA2-SEC"
     ],
-    "name": "PA2-SEC",
+    "uuid": "480ba751-7ec7-5d79-8c6b-56f61d91de1d",
+    "name": "SquarePascalSecond",
     "label": [
         {
             "text": "Square Pascal Second",
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "Pa²·s",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "Pa2.s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 2
+        }
+    ]
 }

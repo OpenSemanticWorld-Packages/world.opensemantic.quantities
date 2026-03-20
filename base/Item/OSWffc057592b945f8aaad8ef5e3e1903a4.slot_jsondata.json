@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM6"
+    ],
+    "uuid": "ffc05759-2b94-5f8a-aad8-ef5e3e1903a4",
+    "name": "SexticCentimetre",
+    "label": [
+        {
+            "text": "Sextic CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Scaling of hexic meter by 10^-12",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm⁶",
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "cm6"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 6
+        }
+    ]
+}

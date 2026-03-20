@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "3b1e3671-0511-523d-a370-25a70b6a305d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-SEC2-K"
     ],
-    "name": "M2-PER-SEC2-K",
+    "uuid": "3b1e3671-0511-523d-a370-25a70b6a305d",
+    "name": "SquareMetrePerSquareSecondKelvin",
     "label": [
         {
-            "text": "square metre per square second kelvin",
+            "text": "Square Metre per Square Second Kelvin",
             "lang": "en"
         }
     ],
@@ -20,5 +20,20 @@
         }
     ],
     "main_symbol": "m²/(s²·K)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m2.s2-1.K-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

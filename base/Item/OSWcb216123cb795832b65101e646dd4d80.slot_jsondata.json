@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoMOL-PER-GM-HR"
+    ],
+    "uuid": "cb216123-cb79-5832-b651-01e646dd4d80",
+    "name": "NanomolesPerGramPerHour",
+    "label": [
+        {
+            "text": "NanoMoles per Gram per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "10^-9 SI unit of the quantity of matter per SI unit of mass per unit of time expressed in hour (3,600 seconds).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "nmol/(g·h)",
+    "conversion_factor_from_si": 2.7777777777777777e-10,
+    "ucum_codes": [
+        "nmol.g-1.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

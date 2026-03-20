@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GRAD"
+    ],
+    "uuid": "73898f06-57e8-5cea-96a9-9e532433dc9a",
+    "name": "Grad",
+    "label": [
+        {
+            "text": "Grad",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Grad\" is a unit for  'Plane Angle' expressed as $grad$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "grad",
+    "conversion_factor_from_si": 0.015707963267949,
+    "factor_unit_scalar": 1
+}

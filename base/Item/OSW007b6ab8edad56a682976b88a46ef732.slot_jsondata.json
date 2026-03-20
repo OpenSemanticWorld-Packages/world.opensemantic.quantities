@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "007b6ab8-edad-56a6-8297-6b88a46ef732",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-K"
     ],
-    "name": "MOL-K",
+    "uuid": "007b6ab8-edad-56a6-8297-6b88a46ef732",
+    "name": "MoleKelvin",
     "label": [
         {
             "text": "Mole Kelvin",
@@ -15,10 +15,22 @@
     ],
     "description": [
         {
-            "text": "\n  The $\\textit{Mole Kelvin}$ is a unit for $\\textit{Temperature Amount Of Substance}$ expressed as $mol-K$.\n  ",
+            "text": "The $\\textit{Mole Kelvin}$ is a unit for $\\textit{Temperature Amount Of Substance}$ expressed as $mol-K$.",
             "lang": "en"
         }
     ],
     "main_symbol": "mol·K",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "mol.K"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

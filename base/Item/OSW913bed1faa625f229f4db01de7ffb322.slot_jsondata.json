@@ -2,13 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "913bed1f-aa62-5f22-9f4d-b01de7ffb322",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/NP",
-        "http://dbpedia.org/resource/Neper",
-        "https://si-digital-framework.org/SI/units/neper"
+        "http://qudt.org/vocab/unit/NP"
     ],
-    "name": "NP",
+    "uuid": "913bed1f-aa62-5f22-9f4d-b01de7ffb322",
+    "name": "Neper",
     "label": [
         {
             "text": "Neper",
@@ -21,5 +19,10 @@
             "lang": "en"
         }
     ],
-    "main_symbol": "Np"
+    "main_symbol": "Np",
+    "conversion_factor_from_si": 0.0,
+    "ucum_codes": [
+        "Np"
+    ],
+    "factor_unit_scalar": 1
 }

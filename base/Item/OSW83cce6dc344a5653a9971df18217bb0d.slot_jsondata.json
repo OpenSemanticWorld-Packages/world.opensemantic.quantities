@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoMOL-PER-MicroMOL-DAY"
+    ],
+    "uuid": "83cce6dc-344a-5653-a997-1df18217bb0d",
+    "name": "NanomolesPerMicromoleDay",
+    "label": [
+        {
+            "text": "NanoMoles per MicroMole Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unavailable.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "nmol/(μmol·d)",
+    "conversion_factor_from_si": 1.1574074074074074e-08,
+    "ucum_codes": [
+        "nmol.umol-1.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

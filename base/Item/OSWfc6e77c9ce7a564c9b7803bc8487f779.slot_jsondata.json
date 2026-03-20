@@ -1,0 +1,44 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificImpulseByWeight"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificImpulseByWeight"
+    ],
+    "uuid": "fc6e77c9-ce7a-564c-9b78-03bc8487f779",
+    "name": "SpecificImpulseByWeight",
+    "label": [
+        {
+            "text": "Specific Impulse by Weight",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW386b8cf741555c98ae8917736ea79d7c",
+        "Item:OSW3a999b8dd84a57cd98b474dcb3642b43",
+        "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7",
+        "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7#OSWc43e5d26f2a951f397afff65351fa135",
+        "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7#OSWf8e6949946765e47bec446d7b0d87dd9",
+        "Item:OSW5006c43ac65f5114a5ec3c43c4904caa",
+        "Item:OSW5a418530d15557278ca740771e841034",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW14e2efd7a4a05306a74663592edb23e8",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW2e4fec0373f45f1891403f06e433c5eb",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW6d7b86490502559eaa4ae39fa2354256",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW78488a0c8e885365beff30aae10a4efd",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW84d4f530814e5251b06e73ee0184e32b",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW90ff22cff2dd5d8ba6de84bf9a70c50c",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWbc38445f00d056069fef04f8e25c66f6",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWc6f2918cbdef5bde8d00cf86938c7f8e",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWd1e24421c83d5defb5c22e9a5fe490fb",
+        "Item:OSW88417d9793cb5da3af2d4211fc2e7e80",
+        "Item:OSW905936e5b7ad52368fcb1bcc1e3bde8c",
+        "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
+        "Item:OSWc11439599ec0538ab0c1d7d5d88da3e0",
+        "Item:OSWc90e307854c453be958300304ca8185e",
+        "Item:OSWca47b84354ef5eb1947de297c89694a4"
+    ]
+}

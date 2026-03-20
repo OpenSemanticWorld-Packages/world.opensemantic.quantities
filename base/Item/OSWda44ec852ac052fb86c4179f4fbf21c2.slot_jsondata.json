@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseSquareMass"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseSquareMass"
+    ],
+    "uuid": "da44ec85-2ac0-52fb-86c4-179f4fbf21c2",
+    "name": "InverseSquareMass",
+    "label": [
+        {
+            "text": "Inverse Square Mass",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a"
+    ]
+}

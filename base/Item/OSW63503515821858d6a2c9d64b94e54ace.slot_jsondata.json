@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "63503515-8218-58d6-a2c9-d64b94e54ace",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/HZ-M"
     ],
-    "name": "HZ-M",
+    "uuid": "63503515-8218-58d6-a2c9-d64b94e54ace",
+    "name": "HertzMetre",
     "label": [
         {
             "text": "Hertz Metre",
@@ -21,45 +21,99 @@
     ],
     "main_symbol": "Hz·m",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "Hz.m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "0a03c178-7bd7-5930-855f-22d98c7bd4cb",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/GigaHZ-M"
-            ],
             "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSW0a03c1787bd75930855f22d98c7bd4cb",
+            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
-            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
-            "main_symbol": "GHz·m"
+            "main_symbol": "GHz·m",
+            "ucum_codes": [
+                "GHz.m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "1a4d9f24-164c-50ba-8143-9e8a85b8f6b8",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaHZ-M"
-            ],
             "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSW1a4d9f24164c50ba81439e8a85b8f6b8",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MHz·m"
+            "main_symbol": "MHz·m",
+            "ucum_codes": [
+                "MHz.m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "ae889a06-480a-5a0b-a336-966fb1f19724",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloHZ-M"
-            ],
             "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSWae889a06480a5a0ba336966fb1f19724",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kHz·m"
+            "main_symbol": "kHz·m",
+            "ucum_codes": [
+                "kHz.m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "b4fb76f3-d2b8-5488-ba5d-8b45605b9965",
+            "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSWb4fb76f3d2b85488ba5d8b45605b9965",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "main_symbol": "MHz·km",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

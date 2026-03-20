@@ -2,17 +2,35 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "85f51fc6-962e-5c5e-a5e5-41ad1bdce849",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-KiloGM-K-PA"
     ],
-    "name": "J-PER-KiloGM-K-PA",
+    "uuid": "85f51fc6-962e-5c5e-a5e5-41ad1bdce849",
+    "name": "JoulePerKilogramKelvinPascal",
     "label": [
         {
-            "text": "Joule per Kilogram Kelvin Pascal",
+            "text": "Joule per KiloGram Kelvin Pascal",
             "lang": "en"
         }
     ],
     "main_symbol": "J/(kg·K·Pa)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "J.kg-1.K-1.Pa-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

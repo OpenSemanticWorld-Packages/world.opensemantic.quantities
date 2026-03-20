@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloMOL-PER-M3"
+    ],
+    "uuid": "e718f1e8-ec19-5206-9a95-6ab1096f08cb",
+    "name": "KilomolePerCubicMetre",
+    "label": [
+        {
+            "text": "KiloMole per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1 000-fold of the SI base unit mol divided by the power of the SI base unit metre with the exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kmol/m³",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "kmol.m-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

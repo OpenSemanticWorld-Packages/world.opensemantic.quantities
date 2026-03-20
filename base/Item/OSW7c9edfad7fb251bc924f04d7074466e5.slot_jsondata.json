@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-MicroMOL"
+    ],
+    "uuid": "7c9edfad-7fb2-51bc-924f-04d7074466e5",
+    "name": "LitresPerMicromole",
+    "label": [
+        {
+            "text": "Litres per MicroMole",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The inverse of a molar concentration.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/μmol",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "L.umol-1",
+        "L/umol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

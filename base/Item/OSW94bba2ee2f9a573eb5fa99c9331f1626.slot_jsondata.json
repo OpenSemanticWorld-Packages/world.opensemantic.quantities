@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "94bba2ee-2f9a-573e-b5fa-99c9331f1626",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-MOL"
     ],
-    "name": "M3-PER-MOL",
+    "uuid": "94bba2ee-2f9a-573e-b5fa-99c9331f1626",
+    "name": "CubicMetrePerMole",
     "label": [
         {
-            "text": "cubic metre per mole",
+            "text": "Cubic Metre per Mole",
             "lang": "en"
         },
         {
-            "text": "Kubikmeter je Mol",
+            "text": "Kubikmeter Je Mol",
             "lang": "de"
         }
     ],
@@ -25,32 +25,63 @@
     ],
     "main_symbol": "m³/mol",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "m3.mol-1",
+        "m3/mol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "6eaa02f1-d5ad-581f-97e7-e017fab31412",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/DeciM3-PER-MOL"
-            ],
             "osw_id": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW6eaa02f1d5ad581f97e7e017fab31412",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
-            "main_symbol": "dm³/mol"
+            "main_symbol": "dm³/mol",
+            "ucum_codes": [
+                "dm3.mol-1",
+                "dm3/mol"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 3
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "90c99a00-002b-5483-a1ac-0638fdbe9078",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/CentiM3-PER-MOL"
-            ],
             "osw_id": "Item:OSW94bba2ee2f9a573eb5fa99c9331f1626#OSW90c99a00002b5483a1ac0638fdbe9078",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "cm³/mol"
+            "main_symbol": "cm³/mol",
+            "ucum_codes": [
+                "cm3.mol-1",
+                "cm3/mol"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

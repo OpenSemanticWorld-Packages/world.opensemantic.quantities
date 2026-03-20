@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarFluxDensity"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarFluxDensity"
+    ],
+    "uuid": "74555169-ee9a-593b-9ae0-cf7f3fb29bbe",
+    "name": "MolarFluxDensity",
+    "label": [
+        {
+            "text": "Molar Flux Density",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "the rate at which moles of a substance pass through a unit area per unit time. It is used for describing the flow of materials in terms of the transport of molecules or particles rather than bulk mass. The SI units are mol m-2 s-1",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW1be151a2b48358989693e1d41651fb63",
+        "Item:OSW3063bab947d256b1a7a11cdb158d11b1",
+        "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSW92a55c5f59b259f8acfe7284e9f7ebe1",
+        "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSW9b2a4846177753ac883adc4f1c4372e5",
+        "Item:OSW3063bab947d256b1a7a11cdb158d11b1#OSWd5bf9cdb27765d8bbc553cf3682b1c52",
+        "Item:OSWb0f42ca828795d16baf061f0332e9bbd"
+    ]
+}

@@ -2,16 +2,14 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "f04f81ce-6d6a-53b9-8630-967e75958e53",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/CD",
-        "http://dbpedia.org/resource/Candela",
-        "https://si-digital-framework.org/SI/units/candela"
+        "http://qudt.org/vocab/unit/CD"
     ],
-    "name": "CD",
+    "uuid": "f04f81ce-6d6a-53b9-8630-967e75958e53",
+    "name": "Candela",
     "label": [
         {
-            "text": "candela",
+            "text": "Candela",
             "lang": "en"
         },
         {
@@ -26,5 +24,33 @@
         }
     ],
     "main_symbol": "cd",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "cd"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "30368957-2355-510b-bc89-c9c3d26d164a",
+            "osw_id": "Item:OSWf04f81ce6d6a53b98630967e75958e53#OSW303689572355510bbc89c9c3d26d164a",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "prefix_symbol": "m",
+            "main_symbol": "mcd"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "aafc38bd-a34b-53ec-953b-191d1935ce8d",
+            "osw_id": "Item:OSWf04f81ce6d6a53b98630967e75958e53#OSWaafc38bda34b53ec953b191d1935ce8d",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "prefix_symbol": "k",
+            "main_symbol": "kcd"
+        }
+    ]
 }

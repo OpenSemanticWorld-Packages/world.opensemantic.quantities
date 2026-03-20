@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "7c8ab09f-16b4-5f3f-97f9-a94ec65e99c8",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/L-PER-MOL"
     ],
-    "name": "L-PER-MOL",
+    "uuid": "7c8ab09f-16b4-5f3f-97f9-a94ec65e99c8",
+    "name": "LitrePerMole",
     "label": [
         {
             "text": "Litre per Mole",
@@ -21,19 +21,41 @@
     ],
     "main_symbol": "L/mol",
     "conversion_factor_from_si": 0.001,
-    "prefix_units": [
+    "ucum_codes": [
+        "L.mol-1",
+        "L/mol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "7c9edfad-7fb2-51bc-924f-04d7074466e5",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/L-PER-MicroMOL"
-            ],
             "osw_id": "Item:OSW7c8ab09f16b45f3f97f9a94ec65e99c8#OSW7c9edfad7fb251bc924f04d7074466e5",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "L/µmol"
+            "main_symbol": "L/μmol",
+            "ucum_codes": [
+                "L.umol-1",
+                "L/umol"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

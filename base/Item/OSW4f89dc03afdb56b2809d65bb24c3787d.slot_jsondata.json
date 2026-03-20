@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StructureFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StructureFactor"
+    ],
+    "uuid": "4f89dc03-afdb-56b2-809d-65bb24c3787d",
+    "name": "StructureFactor",
+    "label": [
+        {
+            "text": "Structure Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Structure Factor\" is a mathematical description of how a material scatters incident radiation.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

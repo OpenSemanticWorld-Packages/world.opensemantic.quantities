@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PicoGM-PER-L"
+    ],
+    "uuid": "84ec459d-4d13-5bf2-8a61-0cd00061d18c",
+    "name": "PicogramsPerLitre",
+    "label": [
+        {
+            "text": "PicoGrams per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One 10**15 part of the SI standard unit of mass of the measurand per litre volume of matrix..",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "pg/L",
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "pg.L-1",
+        "pg/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

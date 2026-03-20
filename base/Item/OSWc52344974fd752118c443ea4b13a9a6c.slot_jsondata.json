@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Zebi"
+    ],
+    "uuid": "c5234497-4fd7-5211-8c44-3ea4b13a9a6c",
+    "name": "zebi",
+    "label": [
+        {
+            "text": "zebi",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A binary prefix for expressing a value with a scaling of $1024^{7}$, or $2^{70}$.",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Zi",
+    "factor": 1.1805916207174113e+21
+}

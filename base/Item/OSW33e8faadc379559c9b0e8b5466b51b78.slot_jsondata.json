@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiMOL-PER-L"
+    ],
+    "uuid": "33e8faad-c379-559c-9b0e-8b5466b51b78",
+    "name": "CentimolePerLitre",
+    "label": [
+        {
+            "text": "CentiMole per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1/100 of SI unit of amount of substance per litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cmol/L",
+    "conversion_factor_from_si": 10.0,
+    "ucum_codes": [
+        "cmol.L-1",
+        "cmol/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

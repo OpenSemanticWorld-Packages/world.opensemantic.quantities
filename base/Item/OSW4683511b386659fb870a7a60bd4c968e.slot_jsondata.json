@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "4683511b-3866-59fb-870a-7a60bd4c968e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificHeatCapacity"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Specific_heat_capacity",
-        "https://si-digital-framework.org/SI/quantities/SHEC"
+        "http://qudt.org/vocab/quantitykind/SpecificHeatCapacity",
+        "https://si-digital-framework.org/quantities/SHEC"
     ],
+    "uuid": "4683511b-3866-59fb-870a-7a60bd4c968e",
     "name": "SpecificHeatCapacity",
     "label": [
         {
@@ -24,8 +25,11 @@
         }
     ],
     "units": [
+        "Item:OSW2dab15bbb20c59a681c5ffecfdcb9e59",
+        "Item:OSW3b1e36710511523da37025a70b6a305d",
         "Item:OSW93d8b6e516fd54f09d483dee1278e3a8",
+        "Item:OSWa0cd208ccfa759388597f5f9ff5c69fc",
         "Item:OSWbe6c8545fd585776ad877e91f1c72b16",
-        "Item:OSW3b1e36710511523da37025a70b6a305d"
+        "Item:OSWbe6c8545fd585776ad877e91f1c72b16#OSW75171ce175aa5004b4f550375d9b33f6"
     ]
 }

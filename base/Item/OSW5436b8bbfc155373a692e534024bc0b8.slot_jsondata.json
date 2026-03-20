@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "5436b8bb-fc15-5373-a692-e534024bc0b8",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-KiloV-A-HR"
     ],
-    "name": "PER-KiloV-A-HR",
+    "uuid": "5436b8bb-fc15-5373-a692-e534024bc0b8",
+    "name": "ReciprocalKilovoltAmpereHour",
     "label": [
         {
-            "text": "Reciprocal Kilovolt Ampere Hour",
+            "text": "Reciprocal KiloVolt Ampere Hour",
             "lang": "en"
         }
     ],
@@ -20,5 +20,20 @@
         }
     ],
     "main_symbol": "/(kV·A·h)",
-    "conversion_factor_from_si": 2.7777777777777776e-07
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "ucum_codes": [
+        "kV-1.A-1.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

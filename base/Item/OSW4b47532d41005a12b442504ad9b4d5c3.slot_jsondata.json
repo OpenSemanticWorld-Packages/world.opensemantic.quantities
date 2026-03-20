@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "4b47532d-4100-5a12-b442-504ad9b4d5c3",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Dimensionless"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/Dimensionless_quantity"
+        "http://dbpedia.org/resource/Dimensionless_quantity",
+        "http://qudt.org/vocab/quantitykind/Dimensionless"
     ],
+    "uuid": "4b47532d-4100-5a12-b442-504ad9b4d5c3",
     "name": "Dimensionless",
     "label": [
         {
@@ -23,7 +24,17 @@
         }
     ],
     "units": [
+        "Item:OSW06f8af4e54ad53928a97bbea7c1ad93f",
+        "Item:OSW0be74caefba456f59dd6a5dd26d5b71d",
+        "Item:OSW40636fa80f3a57e199ed719bd4e5c25a",
         "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
-        "Item:OSW913bed1faa625f229f4db01de7ffb322"
+        "Item:OSW913bed1faa625f229f4db01de7ffb322",
+        "Item:OSW9ba16cb7f86552fea157915b5edc38e0",
+        "Item:OSW9ba16cb7f86552fea157915b5edc38e0#OSWceaad9b0ddf75bf49abc5335b3b688c5",
+        "Item:OSW9d5bb5f52f115671bbb3d915950b1798",
+        "Item:OSWc72c8e13779050d1a5512740a9a12112",
+        "Item:OSWcaa6954009345f4b9678045af4538006",
+        "Item:OSWeaf4fef0eec25f09b6d851cd90f571a3",
+        "Item:OSWf35642a6684951daac8610e582c9c3e3"
     ]
 }

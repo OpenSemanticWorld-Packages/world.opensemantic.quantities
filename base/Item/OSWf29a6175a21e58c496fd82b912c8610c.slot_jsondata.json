@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-CentiM2-YR"
+    ],
+    "uuid": "f29a6175-a21e-58c4-96fd-82b912c8610c",
+    "name": "GramsPerSquareCentimetreYear",
+    "label": [
+        {
+            "text": "Grams per Square CentiMetre Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of 0.001 of the SI unit of mass over 0.00001 of the SI unit of area in a period of an average calendar year (365.25 days)",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(cm²·a)",
+    "conversion_factor_from_si": 3.168808781402895e-07,
+    "ucum_codes": [
+        "g.cm-2.a-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

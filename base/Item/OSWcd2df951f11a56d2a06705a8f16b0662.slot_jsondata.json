@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM3"
+    ],
+    "uuid": "cd2df951-f11a-56d2-a067-05a8f16b0662",
+    "name": "CubicCentimetre",
+    "label": [
+        {
+            "text": "Cubic CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The CGS unit of volume, equal to 10-6 cubic meter, 1 milliliter, or about 0.061 023 7 cubic inch",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm³",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "cm3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        }
+    ]
+}

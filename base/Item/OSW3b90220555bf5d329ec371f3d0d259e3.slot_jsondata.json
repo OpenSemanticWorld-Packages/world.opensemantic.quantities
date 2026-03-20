@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-HR"
+    ],
+    "uuid": "3b902205-55bf-5d32-9ec3-71f3d0d259e3",
+    "name": "DegreeCelsiusHour",
+    "label": [
+        {
+            "text": "Degree Celsius Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of measurement that represents the difference between a reference temperature (typically 18°C) and the actual outdoor temperature over one hour, used to estimate heating or cooling energy needs for buildings.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C·h",
+    "conversion_factor_from_si": 3600.0,
+    "ucum_codes": [
+        "Cel.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

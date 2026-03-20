@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-L"
+    ],
+    "uuid": "ca4043a3-85f2-5aa3-a981-22f2aefd0d2e",
+    "name": "MilligramPerLitre",
+    "label": [
+        {
+            "text": "MilliGram per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the SI base unit kilogram divided by the unit litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/L",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "mg.L-1",
+        "mg/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliA-PER-MilliM"
+    ],
+    "uuid": "e385b197-cb0e-581d-8e25-ce1ec9a73c7a",
+    "name": "MilliamperePerMillimetre",
+    "label": [
+        {
+            "text": "MilliAmpere per MilliMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.001-fold of the SI base unit ampere  divided by the 0.001-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mA/mm",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "mA.mm-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-PER-HA"
+    ],
+    "uuid": "bc79874a-722f-5d3f-9071-bfcf26af8416",
+    "name": "KilogramPerHectare",
+    "label": [
+        {
+            "text": "KiloGram per Hectare",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Kilogram Per Hectare is a unit of mass per area. Kilogram Per Hectare (kg/ha) has a dimension of ML-2 where $M$ is mass, and $L$ is length. It can be converted to the corresponding standard SI unit kg/m2 by multiplying its value by a factor of 0.0001.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/ha",
+    "conversion_factor_from_si": 0.0001,
+    "ucum_codes": [
+        "kg.har-1",
+        "kg/har"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

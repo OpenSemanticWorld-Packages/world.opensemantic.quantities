@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroM3-PER-M3"
+    ],
+    "uuid": "7726a7d1-3737-5db4-80e8-086b6f23506e",
+    "name": "CubicMicronsPerCubicMetre",
+    "label": [
+        {
+            "text": "Cubic MicroNs per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μm³/m³",
+    "conversion_factor_from_si": 1e-18,
+    "ucum_codes": [
+        "um3.m-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": 3
+        }
+    ]
+}

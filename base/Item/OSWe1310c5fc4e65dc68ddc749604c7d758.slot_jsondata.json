@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "e1310c5f-c4e6-5dc6-8ddc-749604c7d758",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-W"
     ],
-    "name": "M2-PER-W",
+    "uuid": "e1310c5f-c4e6-5dc6-8ddc-749604c7d758",
+    "name": "SquareMetrePerWatt",
     "label": [
         {
-            "text": "square metre per watt",
+            "text": "Square Metre per Watt",
             "lang": "en"
         },
         {
-            "text": "Quadratmeter je Watt",
+            "text": "Quadratmeter Je Watt",
             "lang": "de"
         }
     ],
@@ -25,19 +25,39 @@
     ],
     "main_symbol": "m²/W",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "m2.W-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "1e8006cf-8349-52ab-8673-3cd87ed7be1c",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/M2-PER-KiloW"
-            ],
             "osw_id": "Item:OSWe1310c5fc4e65dc68ddc749604c7d758#OSW1e8006cf834952ab86733cd87ed7be1c",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "m²/kW"
+            "main_symbol": "m²/kW",
+            "ucum_codes": [
+                "m2.kW-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

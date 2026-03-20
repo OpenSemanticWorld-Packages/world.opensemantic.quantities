@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-KiloGM"
+    ],
+    "uuid": "ddab3ad9-ea73-57eb-bf27-de6e6e20405d",
+    "name": "GramPerKilogram",
+    "label": [
+        {
+            "text": "Gram per KiloGram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001 fold of the SI base unit kilogram divided by the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/kg",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "g.kg-1",
+        "g/kg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

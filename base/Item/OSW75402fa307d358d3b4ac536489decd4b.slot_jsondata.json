@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Exbi"
+    ],
+    "uuid": "75402fa3-07d3-58d3-b4ac-536489decd4b",
+    "name": "exbi",
+    "label": [
+        {
+            "text": "exbi",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A binary prefix for expressing a value with a scaling of $1024^{6}$, or $2^{60}$.",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Ei",
+    "factor": 1.5292150460684698e+17
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/YR_Sidereal"
+    ],
+    "uuid": "5a418530-d155-5727-8ca7-40771e841034",
+    "name": "SiderealYear",
+    "label": [
+        {
+            "text": "Sidereal Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A sidereal year is the time taken for Sun to return to the same position with respect to the stars of the celestial sphere.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "a{sidereal}",
+    "conversion_factor_from_si": 31558149.7632,
+    "factor_unit_scalar": 1
+}

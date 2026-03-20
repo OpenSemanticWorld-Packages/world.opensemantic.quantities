@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "4db0854e-ff4d-5d37-9573-a3a0120baa5a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Permittivity"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Permittivity",
-        "https://si-digital-framework.org/SI/quantities/PRMI"
+        "http://qudt.org/vocab/quantitykind/Permittivity",
+        "https://si-digital-framework.org/quantities/PRMI"
     ],
+    "uuid": "4db0854e-ff4d-5d37-9573-a3a0120baa5a",
     "name": "Permittivity",
     "label": [
         {
@@ -24,6 +25,11 @@
         }
     ],
     "units": [
+        "Item:OSW47e4ca2649285de5b1dbd98338fac916",
+        "Item:OSW635f4b8020b655738a877cb7e87831be",
+        "Item:OSW92b6ef49ce235a5f985e7af89619c492",
+        "Item:OSWa8178412351155eea5ff7170de8040be",
+        "Item:OSWc45e1c5e49095d4d805ea836290790b7",
         "Item:OSWe279fe2c49705948a6f2fff270d50be1"
     ]
 }

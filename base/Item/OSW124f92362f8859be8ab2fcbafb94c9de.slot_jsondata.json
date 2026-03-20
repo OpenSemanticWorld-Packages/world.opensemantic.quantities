@@ -1,33 +1,167 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "124f9236-2f88-59be-8ab2-fcbafb94c9de",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-PER-M2-M-SR"
     ],
-    "name": "W-PER-M2-M-SR",
+    "uuid": "124f9236-2f88-59be-8ab2-fcbafb94c9de",
+    "name": "WattsPerSquareMetreMetreSteradian",
     "label": [
         {
-            "text": "Watts per square metre metre steradian",
+            "text": "Watts per Square Metre Metre Steradian",
             "lang": "en"
         }
     ],
     "main_symbol": "W/(m²·m·sr)",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "W.m-2.m-1.sr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "27ca6fbe-93f7-51c1-9e3f-07223ef04145",
+            "osw_id": "Item:OSW124f92362f8859be8ab2fcbafb94c9de#OSW27ca6fbe93f751c19e3f07223ef04145",
+            "conversion_factor_to_main_unit": 10000000.0,
+            "conversion_factor_from_si": 10000000.0,
+            "main_symbol": "mW/(cm²·μm·sr)",
+            "ucum_codes": [
+                "mW.cm-2.um-1.sr-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "484184f6-e4d1-5339-9d18-186c50ce8d6f",
+            "osw_id": "Item:OSW124f92362f8859be8ab2fcbafb94c9de#OSW484184f6e4d153399d18186c50ce8d6f",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "W/(m²·μm·sr)",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "74b4aede-be05-596d-8270-42f14930136b",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/W-PER-M2-NanoM-SR"
-            ],
             "osw_id": "Item:OSW124f92362f8859be8ab2fcbafb94c9de#OSW74b4aedebe05596d827042f14930136b",
+            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
-            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
-            "main_symbol": "W/(m²·nm·sr)"
+            "main_symbol": "W/(m²·nm·sr)",
+            "ucum_codes": [
+                "W.m-2.nm-1.sr-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "88330dba-1ef3-5654-8199-7f06e051e6d0",
+            "osw_id": "Item:OSW124f92362f8859be8ab2fcbafb94c9de#OSW88330dba1ef3565481997f06e051e6d0",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "mW/(m²·nm·sr)",
+            "ucum_codes": [
+                "mW.m-2.nm-1.sr-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "9c25ee84-d7c0-5e7d-8b66-cef39a12fe15",
+            "osw_id": "Item:OSW124f92362f8859be8ab2fcbafb94c9de#OSW9c25ee84d7c05e7d8b66cef39a12fe15",
+            "conversion_factor_to_main_unit": 10000.0,
+            "conversion_factor_from_si": 10000.0,
+            "main_symbol": "μW/(cm²·μm·sr)",
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

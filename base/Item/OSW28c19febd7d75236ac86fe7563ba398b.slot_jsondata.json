@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BindingFraction"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BindingFraction"
+    ],
+    "uuid": "28c19feb-d7d7-5236-ac86-fe7563ba398b",
+    "name": "BindingFraction",
+    "label": [
+        {
+            "text": "Binding Fraction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Binding Fraction\" is the ratio of the binding energy of a nucleus to the atomic mass number.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

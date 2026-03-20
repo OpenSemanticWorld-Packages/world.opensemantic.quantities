@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroMOL-PER-MOL"
+    ],
+    "uuid": "3e8c3b40-71a2-534d-a3a3-5239cce2d24c",
+    "name": "MicromolesPerMole",
+    "label": [
+        {
+            "text": "MicroMoles per Mole",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μmol/mol",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "umol.mol-1",
+        "umol/mol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

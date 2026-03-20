@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "dca2b4ec-25b6-5997-86cd-88de8e1b220f",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/TONNE-PER-DAY"
     ],
-    "name": "TONNE-PER-DAY",
+    "uuid": "dca2b4ec-25b6-5997-86cd-88de8e1b220f",
+    "name": "TonnePerDay",
     "label": [
         {
             "text": "Tonne per Day",
@@ -19,6 +19,19 @@
             "lang": "en"
         }
     ],
-    "main_symbol": "t/day",
-    "conversion_factor_from_si": 0.011574074074074
+    "main_symbol": "t/d",
+    "conversion_factor_from_si": 0.011574074074074073,
+    "ucum_codes": [
+        "t.d-1",
+        "t/d"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

@@ -2,16 +2,14 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "c589f456-dfad-5c85-a971-c1d393030cb5",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/AU",
-        "http://dbpedia.org/resource/Astronomical_unit",
-        "https://si-digital-framework.org/SI/units/astronomicalunit"
+        "http://qudt.org/vocab/unit/AU"
     ],
-    "name": "AU",
+    "uuid": "c589f456-dfad-5c85-a971-c1d393030cb5",
+    "name": "AstronomicalUnit",
     "label": [
         {
-            "text": "astronomical-unit",
+            "text": "Astronomical-unit",
             "lang": "en"
         }
     ],
@@ -22,5 +20,9 @@
         }
     ],
     "main_symbol": "AU",
-    "conversion_factor_from_si": 149597870691.6
+    "conversion_factor_from_si": 149597870691.6,
+    "ucum_codes": [
+        "AU"
+    ],
+    "factor_unit_scalar": 1
 }

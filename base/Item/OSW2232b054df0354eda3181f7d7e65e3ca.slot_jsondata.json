@@ -1,0 +1,44 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerEnergy"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerEnergy"
+    ],
+    "uuid": "2232b054-df03-54ed-a318-1f7d7e65e3ca",
+    "name": "EnergyCost",
+    "label": [
+        {
+            "text": "Energy cost",
+            "lang": "en"
+        },
+        {
+            "text": "Energiekosten",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "The monetary cost of a unit of energy",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW07934b5043e05afb8c3db10c3b098a87",
+        "Item:OSW0db23553b6075ef9b9a4f717b286b0d0",
+        "Item:OSW0e65ef0fa8bb5fa7a6cb54505e54d559",
+        "Item:OSW3c97bbdd02cf52839cac517b5db25755",
+        "Item:OSW5124e1cf54de593789b807df549a1c9c",
+        "Item:OSW62abaa6888ab5bc1993bdc057bf66d01",
+        "Item:OSW718d130a81655fef9ef6d18b79df2f0b",
+        "Item:OSW900f3e428d94531585290faab081bb65",
+        "Item:OSWa2eff55a062a5ac7b35c6644e3964a97",
+        "Item:OSWb8ebd931d79f536db513bfa5624a8170",
+        "Item:OSWc06f95444c015a02be4a89ba59bb7c69",
+        "Item:OSWd07d2737c3de5ffd8e9027505e8b44db",
+        "Item:OSWfc0f1b2da6735268b36f271b58a30880"
+    ]
+}

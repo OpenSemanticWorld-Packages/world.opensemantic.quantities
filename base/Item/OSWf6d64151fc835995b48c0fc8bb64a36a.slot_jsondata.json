@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-CentiM3"
+    ],
+    "uuid": "f6d64151-fc83-5995-b48c-0fc8bb64a36a",
+    "name": "ReciprocalCubicCentimetre",
+    "label": [
+        {
+            "text": "Reciprocal Cubic CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the 0.000001-fold of the power of the SI base unit metre with the exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/cm³",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "cm-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        }
+    ]
+}

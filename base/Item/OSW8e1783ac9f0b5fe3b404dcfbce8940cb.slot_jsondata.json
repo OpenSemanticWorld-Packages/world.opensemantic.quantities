@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliPA-SEC"
+    ],
+    "uuid": "8e1783ac-9f0b-5fe3-b404-dcfbce8940cb",
+    "name": "MillipascalSecond",
+    "label": [
+        {
+            "text": "MilliPascal Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.001-fold of the product of the SI derived unit pascal and the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mPa·s",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "mPa.s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

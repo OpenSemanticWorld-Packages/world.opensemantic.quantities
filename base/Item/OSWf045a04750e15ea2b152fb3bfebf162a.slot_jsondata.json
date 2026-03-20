@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "f045a047-50e1-5ea2-b152-fb3bfebf162a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-SEC"
     ],
-    "name": "J-SEC",
+    "uuid": "f045a047-50e1-5ea2-b152-fb3bfebf162a",
+    "name": "JouleSecond",
     "label": [
         {
-            "text": "joule second",
+            "text": "Joule Second",
             "lang": "en"
         },
         {
@@ -19,25 +19,45 @@
     ],
     "description": [
         {
-            "text": "\n  The $\\textit{joule-second}$ is a unit equal to a $joule$ multiplied by a second, used to measure action or angular momentum. \n  The joule-second is the unit used for Planck's constant.\n  ",
+            "text": "The $\\textit{joule-second}$ is a unit equal to a $joule$ multiplied by a second, used to measure action or angular momentum. \n  The joule-second is the unit used for Planck's constant.",
             "lang": "en"
         }
     ],
     "main_symbol": "J·s",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "J.s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "3eaa66dd-20f8-56fe-9a5c-4199bc0a1ea4",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/AttoJ-SEC"
-            ],
             "osw_id": "Item:OSWf045a04750e15ea2b152fb3bfebf162a#OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
+            "conversion_factor_to_main_unit": 1e-18,
             "conversion_factor_from_si": 1e-18,
-            "prefix": "Item:OSWa569fd62d673576f8150159be578c72d",
-            "main_symbol": "aJ·s"
+            "main_symbol": "aJ·s",
+            "ucum_codes": [
+                "aJ.s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

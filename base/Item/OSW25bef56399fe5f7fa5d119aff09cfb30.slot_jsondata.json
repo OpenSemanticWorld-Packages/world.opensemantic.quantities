@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "25bef563-99fe-5f7f-a5d1-19aff09cfb30",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-MOL-SEC"
     ],
-    "name": "M3-PER-MOL-SEC",
+    "uuid": "25bef563-99fe-5f7f-a5d1-19aff09cfb30",
+    "name": "CubicMetrePerMoleSecond",
     "label": [
         {
             "text": "Cubic Metre per Mole Second",
@@ -21,19 +21,45 @@
     ],
     "main_symbol": "m³/(mol·s)",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "m3.mol-1.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 3
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "e3739db7-a148-562e-b2f2-9ef963e3c001",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/CentiM3-PER-MOL-SEC"
-            ],
             "osw_id": "Item:OSW25bef56399fe5f7fa5d119aff09cfb30#OSWe3739db7a148562eb2f29ef963e3c001",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "cm³/(mol·s)"
+            "main_symbol": "cm³/(mol·s)",
+            "ucum_codes": [
+                "cm3.mol-1.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

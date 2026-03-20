@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "6ddac2f9-7605-5ffc-b416-c1da8dec445f",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Quetta",
         "https://si-digital-framework.org/SI/prefixes/quetta"
     ],
+    "uuid": "6ddac2f9-7605-5ffc-b416-c1da8dec445f",
     "name": "quetta",
     "label": [
         {
-            "text": "quetta (unit prefix)",
+            "text": "quetta",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'quetta' is a decimal prefix for expressing a value with a scaling of \\(10^{30}\\).",
             "lang": "en"
         }
     ],

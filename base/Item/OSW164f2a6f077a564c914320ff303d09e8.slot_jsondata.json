@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "164f2a6f-077a-564c-9143-20ff303d09e8",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M2-PER-A"
     ],
-    "name": "N-M2-PER-A",
+    "uuid": "164f2a6f-077a-564c-9143-20ff303d09e8",
+    "name": "NewtonMetreSquaredPerAmpere",
     "label": [
         {
             "text": "Newton Metre Squared per Ampere",
@@ -20,5 +20,21 @@
         }
     ],
     "main_symbol": "N·m²/A",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "N.m2.A-1",
+        "N.m2/A"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

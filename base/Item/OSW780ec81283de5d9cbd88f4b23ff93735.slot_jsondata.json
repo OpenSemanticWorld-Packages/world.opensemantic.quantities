@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "780ec812-83de-5d9c-bd88-f4b23ff93735",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Ronna",
         "https://si-digital-framework.org/SI/prefixes/ronna"
     ],
+    "uuid": "780ec812-83de-5d9c-bd88-f4b23ff93735",
     "name": "ronna",
     "label": [
         {
-            "text": "ronna (unit prefix)",
+            "text": "ronna",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'ronna' is a decimal prefix for expressing a value with a scaling of \\(10^{27}\\).",
             "lang": "en"
         }
     ],

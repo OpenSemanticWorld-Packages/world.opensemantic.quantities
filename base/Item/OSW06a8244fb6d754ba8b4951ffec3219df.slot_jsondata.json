@@ -1,0 +1,27 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LogarithmicFrequencyInterval"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LogarithmicFrequencyInterval"
+    ],
+    "uuid": "06a8244f-b6d7-54ba-8b49-51ffec3219df",
+    "name": "LogarithmicFrequencyInterval",
+    "label": [
+        {
+            "text": "Logarithmic frequency interval",
+            "lang": "en"
+        },
+        {
+            "text": "Frequenzmaßintervall",
+            "lang": "de"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112",
+        "Item:OSWcaa6954009345f4b9678045af4538006"
+    ]
+}

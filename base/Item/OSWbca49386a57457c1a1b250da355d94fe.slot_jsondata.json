@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "bca49386-a574-57c1-a1b2-50da355d94fe",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Centi",
         "https://si-digital-framework.org/SI/prefixes/centi"
     ],
+    "uuid": "bca49386-a574-57c1-a1b2-50da355d94fe",
     "name": "centi",
     "label": [
         {
-            "text": "centi (unit prefix)",
+            "text": "centi",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'centi' is a decimal prefix for expressing a value with a scaling of \\(10^{-2}\\).",
             "lang": "en"
         }
     ],

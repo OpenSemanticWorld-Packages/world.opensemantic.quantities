@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoM-PER-CentiM-MegaPA"
+    ],
+    "uuid": "9efb2104-1c86-5012-bb4d-4d80abcd8d02",
+    "name": "NanometerPerCentimeterMegapascal",
+    "label": [
+        {
+            "text": "NanoMeter per CentiMeter MegaPascal",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "nm/(cm·MPa)",
+    "conversion_factor_from_si": 1e-13,
+    "ucum_codes": [
+        "nm.cm-1.MPa-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

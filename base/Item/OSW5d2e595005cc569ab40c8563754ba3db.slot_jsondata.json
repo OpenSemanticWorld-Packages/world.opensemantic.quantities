@@ -2,12 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "5d2e5950-05cc-569a-b40c-8563754ba3db",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/PERCENT",
-        "http://dbpedia.org/resource/Percentage"
+        "http://qudt.org/vocab/unit/PERCENT"
     ],
-    "name": "PERCENT",
+    "uuid": "5d2e5950-05cc-569a-b40c-8563754ba3db",
+    "name": "Percent",
     "label": [
         {
             "text": "Percent",
@@ -21,5 +20,9 @@
         }
     ],
     "main_symbol": "%",
-    "conversion_factor_from_si": 0.01
+    "conversion_factor_from_si": 0.01,
+    "ucum_codes": [
+        "%"
+    ],
+    "factor_unit_scalar": 1
 }

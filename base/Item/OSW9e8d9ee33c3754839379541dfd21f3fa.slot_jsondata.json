@@ -1,18 +1,30 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "9e8d9ee3-3c37-5483-9379-541dfd21f3fa",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-M"
     ],
-    "name": "PA-M",
+    "uuid": "9e8d9ee3-3c37-5483-9379-541dfd21f3fa",
+    "name": "PascalMetres",
     "label": [
         {
-            "text": "Pascal metres",
+            "text": "Pascal Metres",
             "lang": "en"
         }
     ],
     "main_symbol": "Pa·m",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "Pa.m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

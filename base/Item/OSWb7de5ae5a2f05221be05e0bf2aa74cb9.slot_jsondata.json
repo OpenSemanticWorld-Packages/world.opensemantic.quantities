@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiN-M"
+    ],
+    "uuid": "b7de5ae5-a2f0-5221-be05-e0bf2aa74cb9",
+    "name": "CentinewtonMetre",
+    "label": [
+        {
+            "text": "CentiNewton Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.01-fold of the product of the SI derived unit newton and SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cN·m",
+    "conversion_factor_from_si": 0.01,
+    "ucum_codes": [
+        "cN.m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

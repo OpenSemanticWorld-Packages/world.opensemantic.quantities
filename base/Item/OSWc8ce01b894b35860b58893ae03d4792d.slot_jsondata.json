@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "c8ce01b8-94b3-5860-b588-93ae03d4792d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-SEC"
     ],
-    "name": "J-PER-SEC",
+    "uuid": "c8ce01b8-94b3-5860-b588-93ae03d4792d",
+    "name": "JoulePerSecond",
     "label": [
         {
             "text": "Joule per Second",
@@ -21,19 +21,234 @@
     ],
     "main_symbol": "J/s",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "J.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "06aa0b73-5641-5d0e-8111-0185ef639eaf",
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW06aa0b7356415d0e81110185ef639eaf",
+            "conversion_factor_to_main_unit": 1000000000000000.0,
+            "conversion_factor_from_si": 1000000000000000.0,
+            "main_symbol": "PJ/s",
+            "ucum_codes": [
+                "PJ.s-1",
+                "PJ/s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0bc8e25f-2cda-53ac-b483-5061203df843",
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW0bc8e25f2cda53acb4835061203df843",
+            "conversion_factor_to_main_unit": 1e+18,
+            "conversion_factor_from_si": 1e+18,
+            "main_symbol": "EJ/s",
+            "ucum_codes": [
+                "EJ.s-1",
+                "EJ/s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "1255ac21-4e16-555f-aefd-6a7c294127ab",
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW1255ac214e16555faefd6a7c294127ab",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "nJ/s",
+            "ucum_codes": [
+                "nJ.s-1",
+                "nJ/s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "17a88340-c9d1-5bdd-8361-6efe81987c50",
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW17a88340c9d15bdd83616efe81987c50",
+            "conversion_factor_to_main_unit": 1000000000000.0,
+            "conversion_factor_from_si": 1000000000000.0,
+            "main_symbol": "TJ/s",
+            "ucum_codes": [
+                "TJ.s-1",
+                "TJ/s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "1eb3841a-ea1d-5b92-899c-249b1dbd74ce",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaJ-PER-SEC"
-            ],
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW1eb3841aea1d5b92899c249b1dbd74ce",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MJ/s"
+            "main_symbol": "MJ/s",
+            "ucum_codes": [
+                "MJ.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "33eb0aa7-13bd-5ad1-8f8b-64ff5fcbf1b7",
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW33eb0aa713bd5ad18f8b64ff5fcbf1b7",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 1e-12,
+            "main_symbol": "pJ/s",
+            "ucum_codes": [
+                "pJ.s-1",
+                "pJ/s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3ea79856-df77-5498-8e12-2abf064d83db",
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW3ea79856df7754988e122abf064d83db",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "μJ/s",
+            "ucum_codes": [
+                "uJ.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3f269b16-b339-5880-a7c2-e8f5c89012ad",
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW3f269b16b3395880a7c2e8f5c89012ad",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mJ/s",
+            "ucum_codes": [
+                "mJ.s-1",
+                "mJ/s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "469cae5b-c97e-5446-9a9f-717b21a3d659",
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW469cae5bc97e54469a9f717b21a3d659",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "kJ/s",
+            "ucum_codes": [
+                "kJ.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f77cdec2-8d3b-5552-a28f-4abfdaf97774",
+            "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSWf77cdec28d3b5552a28f4abfdaf97774",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "main_symbol": "GJ/s",
+            "ucum_codes": [
+                "GJ.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

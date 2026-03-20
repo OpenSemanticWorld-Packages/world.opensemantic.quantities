@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SignalDetectionThreshold"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SignalDetectionThreshold"
+    ],
+    "uuid": "d93d4895-58c4-5a49-8b3d-9702fce9d9a1",
+    "name": "SignalDetectionThreshold",
+    "label": [
+        {
+            "text": "Signal Detection Threshold",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4a571dc190d55a6198e93c8a26657754"
+    ]
+}

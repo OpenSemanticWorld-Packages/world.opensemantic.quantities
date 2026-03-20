@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassFraction"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassFraction"
+    ],
+    "uuid": "1204bac7-0138-50c1-8e78-824c1e91991e",
+    "name": "MassFraction",
+    "label": [
+        {
+            "text": "Mass Fraction",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Mass Fraction\" is the fraction of one substance with mass to the mass of the total mixture .",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

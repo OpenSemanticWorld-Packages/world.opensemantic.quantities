@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "1615328c-2bba-5125-9c4b-2bf0f311f3ba",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ShearModulus"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ShearModulus"
+    ],
+    "uuid": "1615328c-2bba-5125-9c4b-2bf0f311f3ba",
     "name": "ShearModulus",
     "label": [
         {
@@ -20,6 +23,14 @@
         }
     ],
     "units": [
-        "Item:OSWb663e6bff3595e7b93b28fffce66c50c"
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW264ebdc21f54568593a91bbd832b6fbf",
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW38b0e12539b05ce28cd126c8eea29f95",
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW49bb4743a5735e189777f3c6bd422a52",
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW5def4be309ce50ee933c99cf4b74e310",
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW8d40059d9e3951bb97378fe3f119ba21",
+        "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSWb6e132d328e152e9865728688c349589"
     ]
 }

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "bc562f05-62d9-55df-9503-17bc2cbbace4",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassPerElectricCharge"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassPerElectricCharge"
+    ],
+    "uuid": "bc562f05-62d9-55df-9503-17bc2cbbace4",
     "name": "MassPerElectricCharge",
     "label": [
         {

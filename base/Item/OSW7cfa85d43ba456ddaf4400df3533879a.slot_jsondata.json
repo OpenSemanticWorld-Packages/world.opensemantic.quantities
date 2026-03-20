@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "7cfa85d4-3ba4-56dd-af44-00df3533879a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LuminousExposure"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousExposure"
+    ],
+    "uuid": "7cfa85d4-3ba4-56dd-af44-00df3533879a",
     "name": "LuminousExposure",
     "label": [
         {

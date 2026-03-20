@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "a51dd30e-4128-56fd-b65e-16c4bcb74960",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseAmountOfSubstance"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseAmountOfSubstance"
+    ],
+    "uuid": "a51dd30e-4128-56fd-b65e-16c4bcb74960",
     "name": "InverseAmountOfSubstance",
     "label": [
         {

@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-KiloM"
+    ],
+    "uuid": "d82843dc-68c8-505a-9434-9a0d7ce152e6",
+    "name": "GramPerKilometre",
+    "label": [
+        {
+            "text": "Gram per KiloMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the 1000-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/km",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "g.km-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

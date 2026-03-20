@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "ad7d5de8-05ba-533a-aeb5-fc3f2999cfbd",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LuminousFluxPerArea"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousFluxPerArea"
+    ],
+    "uuid": "ad7d5de8-05ba-533a-aeb5-fc3f2999cfbd",
     "name": "LuminousFluxPerArea",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
+        "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5",
         "Item:OSWca14d08a41b65ac59d79d96be1351305"
     ]
 }

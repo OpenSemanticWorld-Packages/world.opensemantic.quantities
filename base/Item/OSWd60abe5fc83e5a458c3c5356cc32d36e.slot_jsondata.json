@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Unbalance"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Unbalance"
+    ],
+    "uuid": "d60abe5f-c83e-5a45-8c3c-5356cc32d36e",
+    "name": "Unbalance",
+    "label": [
+        {
+            "text": "Unbalance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "durch ungleichmäßige Masseverteilung bedingter, unruhiger Lauf rotierender Körper, ausgedrückt als Produkt aus dem Radius und einer zugehörigen Masse",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW5baa1fbaa17b50d5ab35eb004c5388df"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Kibi"
+    ],
+    "uuid": "92280c9f-e633-52e6-a59b-573f062dad63",
+    "name": "kibi",
+    "label": [
+        {
+            "text": "kibi",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A binary prefix for expressing a value with a scaling of $1024$, or $2^{10}$.",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Ki",
+    "factor": 1024.0
+}

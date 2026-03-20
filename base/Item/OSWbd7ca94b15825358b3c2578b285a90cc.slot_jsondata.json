@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperaturePerSquareTime"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperaturePerSquareTime"
+    ],
+    "uuid": "bd7ca94b-1582-5358-b3c2-578b285a90cc",
+    "name": "TemperaturePerSquareTime",
+    "label": [
+        {
+            "text": "Temperature per Square Time",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW44905d403bba5525b7b95b2325c87b42"
+    ]
+}

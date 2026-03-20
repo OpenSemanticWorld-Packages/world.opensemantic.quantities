@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroGM-PER-GM-HR"
+    ],
+    "uuid": "ddfe4ba2-180f-5382-92f5-d0548877e2f6",
+    "name": "MicrogramsPerGramPerHour",
+    "label": [
+        {
+            "text": "MicroGrams per Gram per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.0000000001-fold of the SI base unit kilogram divided by 0.0001-fold of the SI base unit kilogram over a period of 1 hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μg/(g·h)",
+    "conversion_factor_from_si": 2.7777777777777777e-10,
+    "ucum_codes": [
+        "ug.g-1.hr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

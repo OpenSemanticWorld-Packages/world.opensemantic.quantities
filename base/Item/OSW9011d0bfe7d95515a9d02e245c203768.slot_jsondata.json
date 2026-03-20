@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "9011d0bf-e7d9-5515-a9d0-2e245c203768",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Ronto",
         "https://si-digital-framework.org/SI/prefixes/ronto"
     ],
+    "uuid": "9011d0bf-e7d9-5515-a9d0-2e245c203768",
     "name": "ronto",
     "label": [
         {
-            "text": "ronto (unit prefix)",
+            "text": "ronto",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'ronto' is a decimal prefix for expressing a value with a scaling of \\(10^{-27}\\).",
             "lang": "en"
         }
     ],

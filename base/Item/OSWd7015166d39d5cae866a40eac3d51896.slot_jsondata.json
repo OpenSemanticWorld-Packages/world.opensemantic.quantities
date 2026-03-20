@@ -1,33 +1,75 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "d7015166-d39d-5cae-866a-40eac3d51896",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-GM"
     ],
-    "name": "M2-PER-GM",
+    "uuid": "d7015166-d39d-5cae-866a-40eac3d51896",
+    "name": "SquareMetresPerGram",
     "label": [
         {
-            "text": "Square metres per gram",
+            "text": "Square Metres per Gram",
             "lang": "en"
         }
     ],
     "main_symbol": "m²/g",
     "conversion_factor_from_si": 1000.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "m2.g-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "c811db36-2efa-5d33-a49b-56ffdd77e54d",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/M2-PER-KiloGM"
-            ],
             "osw_id": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "m²/kg"
+            "main_symbol": "m²/kg",
+            "ucum_codes": [
+                "m2.kg-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "d9d021d4-3da3-53fb-8a4c-efaf4498b39e",
+            "osw_id": "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWd9d021d43da353fb8a4cefaf4498b39e",
+            "conversion_factor_to_main_unit": 0.0001,
+            "conversion_factor_from_si": 0.1,
+            "main_symbol": "cm²/g",
+            "ucum_codes": [
+                "cm2.g-1",
+                "cm2/g"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 2
+                }
+            ]
         }
     ]
 }

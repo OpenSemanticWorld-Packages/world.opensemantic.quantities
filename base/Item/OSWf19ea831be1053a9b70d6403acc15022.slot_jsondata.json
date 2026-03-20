@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloM2-PER-SEC2"
+    ],
+    "uuid": "f19ea831-be10-53a9-b70d-6403acc15022",
+    "name": "SquareKilometresPerSquareSecond",
+    "label": [
+        {
+            "text": "Square KiloMetres per Square Second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "km²/s²",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "km2.s-2",
+        "km2/s2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

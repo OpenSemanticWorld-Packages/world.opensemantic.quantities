@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C-PER-CentiM3"
+    ],
+    "uuid": "f658e917-0de7-57b9-9c1b-492865347a7e",
+    "name": "CoulombPerCubicCentimetre",
+    "label": [
+        {
+            "text": "Coulomb per Cubic CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "derived SI unit coulomb divided by the 0.000 001-fold of the power of the SI base unit metre by exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C/cm³",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "C.cm-3",
+        "C/cm3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

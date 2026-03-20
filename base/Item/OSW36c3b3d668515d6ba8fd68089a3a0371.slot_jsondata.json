@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "36c3b3d6-6851-5d6b-a8fd-68089a3a0371",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-GM"
     ],
-    "name": "GM-PER-GM",
+    "uuid": "36c3b3d6-6851-5d6b-a8fd-68089a3a0371",
+    "name": "GramPerGram",
     "label": [
         {
             "text": "Gram per Gram",
@@ -21,71 +21,324 @@
     ],
     "main_symbol": "g/g",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "g.g-1",
+        "g/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "03aa8b02-45fe-546d-b836-8809b8a752e1",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW03aa8b0245fe546db8368809b8a752e1",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "ng/mg",
+            "ucum_codes": [
+                "ng.mg-1",
+                "ng/mg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "067aa295-c569-52f7-b7d7-e0149308cee8",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW067aa295c56952f7b7d7e0149308cee8",
+            "conversion_factor_to_main_unit": 0.01,
+            "conversion_factor_from_si": 0.01,
+            "main_symbol": "g/hg",
+            "ucum_codes": [
+                "g.hg-1",
+                "g/hg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "0e151b86-9b43-58e0-9c5b-e62ba332b9e2",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/PicoGM-PER-GM"
-            ],
             "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW0e151b869b4358e09c5be62ba332b9e2",
+            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
-            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
-            "main_symbol": "pg/g"
+            "main_symbol": "pg/g",
+            "ucum_codes": [
+                "pg.g-1",
+                "pg/g"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "2f5b867d-773d-5268-b173-09fab65db209",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW2f5b867d773d5268b17309fab65db209",
+            "conversion_factor_to_main_unit": 1e-18,
+            "conversion_factor_from_si": 1e-18,
+            "main_symbol": "fg/kg",
+            "ucum_codes": [
+                "fg.kg-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "31fbfb51-bd3f-59f8-ad07-21cb4d285ad3",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliGM-PER-GM"
-            ],
             "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW31fbfb51bd3f59f8ad0721cb4d285ad3",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mg/g"
+            "main_symbol": "mg/g",
+            "ucum_codes": [
+                "mg.g-1",
+                "mg/g"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "ddab3ad9-ea73-57eb-bf27-de6e6e20405d",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/GM-PER-KiloGM"
-            ],
-            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWddab3ad9ea7357ebbf27de6e6e20405d",
+            "uuid": "32934a44-1d32-5fe4-ab16-a8654fb65867",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW32934a441d325fe4ab16a8654fb65867",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "g/kg"
+            "main_symbol": "μg/mg",
+            "ucum_codes": [
+                "ug.mg-1",
+                "ug/mg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "ae508fcf-b7fb-56c7-8ae5-250e13758161",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloGM-PER-KiloGM"
+            "uuid": "3bed6d44-ed61-5a74-8a75-95d801c245b8",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW3bed6d44ed615a748a7595d801c245b8",
+            "conversion_factor_to_main_unit": 1e-15,
+            "conversion_factor_from_si": 1e-15,
+            "main_symbol": "pg/kg",
+            "ucum_codes": [
+                "pg.kg-1",
+                "pg/kg"
             ],
-            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWae508fcfb7fb56c78ae5250e13758161",
-            "conversion_factor_from_si": 1.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kg/kg"
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "489e9a9e-15db-5cdb-8c5e-19af8453080d",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW489e9a9e15db5cdb8c5e19af8453080d",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "μg/kg",
+            "ucum_codes": [
+                "ug.kg-1",
+                "ug/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "4918ceb8-bfb3-55b7-9ae2-55d1ca1eb021",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW4918ceb8bfb355b79ae255d1ca1eb021",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "mg/kg",
+            "ucum_codes": [
+                "mg.kg-1",
+                "mg/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "7e7e0527-9aa4-577f-b0eb-1d647fecf484",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW7e7e05279aa4577fb0eb1d647fecf484",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "pg/mg",
+            "ucum_codes": [
+                "pg.mg-1",
+                "pg/mg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "8b210935-1a6e-5074-92cb-ce6f37661a92",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroGM-PER-GM"
-            ],
             "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSW8b2109351a6e507492cbce6f37661a92",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "μg/g"
+            "main_symbol": "μg/g",
+            "ucum_codes": [
+                "ug.g-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ae508fcf-b7fb-56c7-8ae5-250e13758161",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWae508fcfb7fb56c78ae5250e13758161",
+            "conversion_factor_to_main_unit": 1.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/kg",
+            "ucum_codes": [
+                "kg.kg-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c8e31fab-4f67-570e-a38e-00fd9c82be94",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWc8e31fab4f67570ea38e00fd9c82be94",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 1e-12,
+            "main_symbol": "ng/kg",
+            "ucum_codes": [
+                "ng.kg-1",
+                "ng/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ddab3ad9-ea73-57eb-bf27-de6e6e20405d",
+            "osw_id": "Item:OSW36c3b3d668515d6ba8fd68089a3a0371#OSWddab3ad9ea7357ebbf27de6e6e20405d",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "g/kg",
+            "ucum_codes": [
+                "g.kg-1",
+                "g/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

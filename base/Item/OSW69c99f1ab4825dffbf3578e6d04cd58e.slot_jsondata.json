@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "69c99f1a-b482-5dff-bf35-78e6d04cd58e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-SEC-PER-M"
     ],
-    "name": "N-SEC-PER-M",
+    "uuid": "69c99f1a-b482-5dff-bf35-78e6d04cd58e",
+    "name": "NewtonSecondPerMetre",
     "label": [
         {
             "text": "Newton Second per Metre",
             "lang": "en"
         },
         {
-            "text": "Newtonsekunden pro Meter",
+            "text": "Newtonsekunden Pro Meter",
             "lang": "de"
         }
     ],
@@ -24,5 +24,21 @@
         }
     ],
     "main_symbol": "N·s/m",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "N.s.m-1",
+        "N.s/m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

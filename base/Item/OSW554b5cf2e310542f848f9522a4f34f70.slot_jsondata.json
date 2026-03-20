@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM3-PER-K"
+    ],
+    "uuid": "554b5cf2-e310-542f-848f-9522a4f34f70",
+    "name": "CubicCentimetrePerKelvin",
+    "label": [
+        {
+            "text": "Cubic CentiMetre per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the power of the SI base unit metre with the exponent 3 divided by the SI base unit kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm³/K",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "cm3.K-1",
+        "cm3/K"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

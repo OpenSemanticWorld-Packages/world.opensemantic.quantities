@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MIN_Sidereal"
+    ],
+    "uuid": "c1143959-9ec0-538a-b0c1-d7d5d88da3e0",
+    "name": "SiderealMinute",
+    "label": [
+        {
+            "text": "Sidereal Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Sidereal time is a time-keeping system astronomers use to keep track of the direction to point their telescopes to view a given star in the night sky. A mean sidereal day is about $23 h 56 m 4.1 s$ in length. However, due to variations in the rotation rate of the Earth, the rate of an ideal sidereal clock deviates from any simple multiple of a civil clock. In practice, the difference is kept track of by the difference UTC-UT1, which is measured by radio telescopes and kept on file and available to the public at the IERS and at the United States Naval Observatory. A Sidereal Minute is $1/60^{th}$ of a Sidereal Hour, which is $1/24^{th}$ of a Sidereal Day.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "min{sidereal}",
+    "conversion_factor_from_si": 59.83617,
+    "factor_unit_scalar": 1
+}

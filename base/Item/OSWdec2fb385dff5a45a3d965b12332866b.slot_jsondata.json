@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-M3-DAY"
+    ],
+    "uuid": "dec2fb38-5dff-5a45-a3d9-65b12332866b",
+    "name": "MilligramsPerCubicMetreDay",
+    "label": [
+        {
+            "text": "MilliGrams per Cubic Metre Day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/(m³·d)",
+    "conversion_factor_from_si": 1.1574074074074074e-11,
+    "ucum_codes": [
+        "mg.m-3.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

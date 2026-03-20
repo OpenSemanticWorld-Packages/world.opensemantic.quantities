@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "62e04cd0-df5c-5ad4-b76d-5632fa7b47a0",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Giga",
         "https://si-digital-framework.org/SI/prefixes/giga"
     ],
+    "uuid": "62e04cd0-df5c-5ad4-b76d-5632fa7b47a0",
     "name": "giga",
     "label": [
         {
-            "text": "giga (unit prefix)",
+            "text": "giga",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'giga' is a decimal prefix for expressing a value with a scaling of \\(10^{9}\\).",
             "lang": "en"
         }
     ],

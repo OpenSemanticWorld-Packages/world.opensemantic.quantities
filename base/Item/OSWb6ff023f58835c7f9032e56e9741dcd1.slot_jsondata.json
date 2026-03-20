@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "b6ff023f-5883-5c7f-9032-e56e9741dcd1",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/WarpingConstant"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/WarpingConstant"
+    ],
+    "uuid": "b6ff023f-5883-5c7f-9032-e56e9741dcd1",
     "name": "WarpingConstant",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
-        "Item:OSWc5904c8a783d5e8da5f6a24745774a6b"
+        "Item:OSWc5904c8a783d5e8da5f6a24745774a6b",
+        "Item:OSWc5904c8a783d5e8da5f6a24745774a6b#OSWffc057592b945f8aaad8ef5e3e1903a4"
     ]
 }

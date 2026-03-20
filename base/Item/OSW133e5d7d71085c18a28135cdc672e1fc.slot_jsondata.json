@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "133e5d7d-7108-5c18-a281-35cdc672e1fc",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricCurrentPerTemperature"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCurrentPerTemperature"
+    ],
+    "uuid": "133e5d7d-7108-5c18-a281-35cdc672e1fc",
     "name": "ElectricCurrentPerTemperature",
     "label": [
         {

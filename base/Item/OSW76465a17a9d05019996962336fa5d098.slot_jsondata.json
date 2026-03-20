@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Gibi"
+    ],
+    "uuid": "76465a17-a9d0-5019-9969-62336fa5d098",
+    "name": "gibi",
+    "label": [
+        {
+            "text": "gibi",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A binary prefix for expressing a value with a scaling of $1024^{3}$, or $2^{30}$.",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Gi",
+    "factor": 1073741824.0
+}

@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "af610057-c910-58aa-b518-53d5a2d1ac41",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SurfaceDensity"
     ],
     "close_ontology_match": [
-        "https://si-digital-framework.org/SI/quantities/SUDE"
+        "http://qudt.org/vocab/quantitykind/SurfaceDensity",
+        "https://si-digital-framework.org/quantities/SUDE"
     ],
+    "uuid": "af610057-c910-58aa-b518-53d5a2d1ac41",
     "name": "SurfaceDensity",
     "label": [
         {
@@ -23,6 +24,17 @@
         }
     ],
     "units": [
-        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22"
+        "Item:OSW6a81c11daa085e04bbe8555c344c2a95",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0277ff4df5125b8ab10f720e991ca792",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0ac392f5beaf59ab807d2e0de0da85c9",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0c0b3d92963f5b64a62a504d4a96c724",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW1a1e54cfa41d52e680e78ec75e65f99c",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW2e2a377bf14c59439e62290c987ba4ac",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW86b6ab5f70aa5624be17645333d53d51",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW9c7d95657ab05c0fb979e730224e6dd7",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW9fc7265dfa7c59b0b55bdefc137812fa",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSWbea4b306b10f575c8ee58aeeeca5b3a5",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSWe56de728f7c85b2199313bb5bb7e049e"
     ]
 }

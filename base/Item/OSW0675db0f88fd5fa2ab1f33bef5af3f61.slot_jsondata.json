@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM-PER-KiloYR"
+    ],
+    "uuid": "0675db0f-88fd-5fa2-ab1f-33bef5af3f61",
+    "name": "CentimetresPerThousandYears",
+    "label": [
+        {
+            "text": "CentiMetres per Thousand Years",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm/ka",
+    "conversion_factor_from_si": 3.168808781402895e-13,
+    "ucum_codes": [
+        "cm.ka-1",
+        "cm/ka"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

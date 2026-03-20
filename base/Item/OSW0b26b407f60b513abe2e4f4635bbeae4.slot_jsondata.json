@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Fluidity"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Fluidity"
+    ],
+    "uuid": "0b26b407-f60b-513a-be2e-4f4635bbeae4",
+    "name": "Fluidity",
+    "label": [
+        {
+            "text": "Fluidity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Fließvermögen eines Stoffes als Kehrwert der dynamischen Viskosität",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW5a76f98abf765e69b9639b8e6b7b8530"
+    ]
+}

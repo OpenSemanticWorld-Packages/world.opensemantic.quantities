@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "3033afc7-0c4f-524d-babf-2a0fb0c6352b",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-L"
     ],
-    "name": "PER-L",
+    "uuid": "3033afc7-0c4f-524d-babf-2a0fb0c6352b",
+    "name": "ReciprocalLitre",
     "label": [
         {
             "text": "Reciprocal Litre",
@@ -21,19 +21,35 @@
     ],
     "main_symbol": "/L",
     "conversion_factor_from_si": 1000.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "/L",
+        "L-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "82247f27-468c-520a-bd52-4312c0acd428",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/PER-MilliL"
-            ],
             "osw_id": "Item:OSW3033afc70c4f524dbabf2a0fb0c6352b#OSW82247f27468c520abd524312c0acd428",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "/mL"
+            "main_symbol": "/mL",
+            "ucum_codes": [
+                "/mL",
+                "mL-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

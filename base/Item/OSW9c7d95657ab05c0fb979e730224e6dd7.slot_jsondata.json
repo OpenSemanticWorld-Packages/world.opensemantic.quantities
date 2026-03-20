@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoGM-PER-CentiM2"
+    ],
+    "uuid": "9c7d9565-7ab0-5c0f-b979-e730224e6dd7",
+    "name": "NanogramPerSquareCentimetre",
+    "label": [
+        {
+            "text": "NanoGram per Square CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,000,000,000,001-fold of the SI base unit kilogram divided by the 0.0001-fold of the power of the SI base unit metre and exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ng/cm²",
+    "conversion_factor_from_si": 1e-08,
+    "ucum_codes": [
+        "ng.cm-2",
+        "ng/cm2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

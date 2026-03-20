@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "dca43250-7fd5-502c-a9e3-8e09f7e6ef6e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/TONNE-PER-SEC"
     ],
-    "name": "TONNE-PER-SEC",
+    "uuid": "dca43250-7fd5-502c-a9e3-8e09f7e6ef6e",
+    "name": "TonnePerSecond",
     "label": [
         {
             "text": "Tonne per Second",
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "t/s",
-    "conversion_factor_from_si": 1000.0
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "t.s-1",
+        "t/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

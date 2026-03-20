@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "afc32dea-f985-57c0-a8d6-38d70a773e7e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PoyntingVector"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PoyntingVector"
+    ],
+    "uuid": "afc32dea-f985-57c0-a8d6-38d70a773e7e",
     "name": "PoyntingVector",
     "label": [
         {
@@ -24,6 +27,12 @@
         }
     ],
     "units": [
-        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11"
+        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11",
+        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSW00c052459081509183393ab52f223233",
+        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSW0688e8a35b7755d5ac704c4f05682e9e",
+        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWa735be7b016c510f98dd404ee42c6722",
+        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWbec47ab085945564b8bc080ab7934395",
+        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf194c328c8ef587c823773008774afc8",
+        "Item:OSW7f2c167c5a39550d91c1f95cc01a9a11#OSWf33a1a99c6055b178a0b973e57e1aacb"
     ]
 }

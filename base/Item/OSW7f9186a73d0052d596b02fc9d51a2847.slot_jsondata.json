@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-CentiM3"
+    ],
+    "uuid": "7f9186a7-3d00-52d5-96b0-2fc9d51a2847",
+    "name": "GramPerCubicCentimetre",
+    "label": [
+        {
+            "text": "Gram per Cubic CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.001-fold of the SI base unit kilogram divided by the 0.000001-fold of the power of the SI base unit metre with the exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/cm³",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "g.cm-3",
+        "g/cm3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -3
+        }
+    ]
+}

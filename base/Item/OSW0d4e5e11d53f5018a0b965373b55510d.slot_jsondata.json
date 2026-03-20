@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "0d4e5e11-d53f-5018-a0b9-65373b55510d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-PER-M2"
     ],
-    "name": "N-M-PER-M2",
+    "uuid": "0d4e5e11-d53f-5018-a0b9-65373b55510d",
+    "name": "NewtonMetrePerSquareMetre",
     "label": [
         {
             "text": "Newton Metre per Square Metre",
@@ -20,5 +20,184 @@
         }
     ],
     "main_symbol": "N·m/m²",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "N.m.m-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "77ee74a9-d0ad-52bf-a18b-bd5b09eaca69",
+            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW77ee74a9d0ad52bfa18bbd5b09eaca69",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "MN·m/m²",
+            "ucum_codes": [
+                "m.MN.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "791fa318-0a03-5398-90ed-a05576abf858",
+            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW791fa3180a03539890eda05576abf858",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "μN·m/m²",
+            "ucum_codes": [
+                "m.uN.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "909a5e38-23da-5067-844c-ec023a453416",
+            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW909a5e3823da5067844cec023a453416",
+            "conversion_factor_to_main_unit": 0.01,
+            "conversion_factor_from_si": 0.01,
+            "main_symbol": "cN·m/m²",
+            "ucum_codes": [
+                "cN.m.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ca3713c7-96a8-50e2-8929-b34bfe347edb",
+            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWca3713c796a850e28929b34bfe347edb",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "kN·m/m²",
+            "ucum_codes": [
+                "kN.m.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "d9d22e06-814b-5888-aeb3-585fe9c2b8a7",
+            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWd9d22e06814b5888aeb3585fe9c2b8a7",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "nN·m/m²",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f299b56c-b817-5f83-b089-a378f9ff4193",
+            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWf299b56cb8175f83b089a378f9ff4193",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mN·m/m²",
+            "ucum_codes": [
+                "m.mN.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f844aa3c-562e-5c94-894b-2f6ccc2dca55",
+            "osw_id": "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWf844aa3c562e5c94894b2f6ccc2dca55",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "main_symbol": "GN·m/m²",
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
 }

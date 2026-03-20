@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "c7298c96-b3c3-59e0-b488-11238a535a07",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/WB-PER-M"
     ],
-    "name": "WB-PER-M",
+    "uuid": "c7298c96-b3c3-59e0-b488-11238a535a07",
+    "name": "WeberPerMetre",
     "label": [
         {
-            "text": "weber per metre",
+            "text": "Weber per Metre",
             "lang": "en"
         },
         {
-            "text": "Weber je Meter",
+            "text": "Weber Je Meter",
             "lang": "de"
         }
     ],
@@ -25,32 +25,60 @@
     ],
     "main_symbol": "Wb/m",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "Wb.m-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "339ab51b-85d0-5cab-a712-7804832e4b42",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloWB-PER-M"
-            ],
             "osw_id": "Item:OSWc7298c96b3c359e0b48811238a535a07#OSW339ab51b85d05caba7127804832e4b42",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kWb/m"
+            "main_symbol": "kWb/m",
+            "ucum_codes": [
+                "kWb.m-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "eb17891a-3f4a-57f7-91ae-5364603ffba0",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/WB-PER-MilliM"
-            ],
             "osw_id": "Item:OSWc7298c96b3c359e0b48811238a535a07#OSWeb17891a3f4a57f791ae5364603ffba0",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "Wb/mm"
+            "main_symbol": "Wb/mm",
+            "ucum_codes": [
+                "Wb.mm-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

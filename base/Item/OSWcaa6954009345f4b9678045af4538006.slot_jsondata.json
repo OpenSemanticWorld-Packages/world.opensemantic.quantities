@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/OCT"
+    ],
+    "uuid": "caa69540-0934-5f4b-9678-045af4538006",
+    "name": "Oct",
+    "label": [
+        {
+            "text": "Oct",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An octave is a doubling or halving of a frequency.  One oct is the logarithmic frequency interval between $f1$ and $f2$ when $f2/f1 = 2$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "octave",
+    "conversion_factor_from_si": 0.0,
+    "factor_unit_scalar": 1
+}

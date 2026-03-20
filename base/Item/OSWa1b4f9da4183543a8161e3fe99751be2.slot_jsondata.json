@@ -1,17 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FARAD"
     ],
     "uuid": "a1b4f9da-4183-543a-8161-e3fe99751be2",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/FARAD",
-        "http://dbpedia.org/resource/Farad",
-        "https://si-digital-framework.org/SI/units/farad"
-    ],
-    "name": "FARAD",
+    "name": "Farad",
     "label": [
         {
-            "text": "farad",
+            "text": "Farad",
             "lang": "en"
         },
         {
@@ -27,73 +25,103 @@
     ],
     "main_symbol": "F",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "F"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "3690c26e-937c-55f1-aeb3-dcba3c5d79f4",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroFARAD"
-            ],
-            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW3690c26e937c55f1aeb3dcba3c5d79f4",
-            "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "μF"
+            "exponent": 1
         },
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "328bea7c-3686-59c0-ab27-29ace2604ebc",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/AttoFARAD"
-            ],
-            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW328bea7c368659c0ab2729ace2604ebc",
-            "conversion_factor_from_si": 1e-18,
-            "prefix": "Item:OSWa569fd62d673576f8150159be578c72d",
-            "main_symbol": "aF"
-        },
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "2c99e79b-872e-50d7-a3cd-b3b0614bbb1d",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/NanoFARAD",
-                "http://dbpedia.org/resource/Farad"
-            ],
-            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW2c99e79b872e50d7a3cdb3b0614bbb1d",
-            "conversion_factor_from_si": 1e-09,
-            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
-            "main_symbol": "nF"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "233c7ca1-25dc-5092-bdc6-9b05723ba75b",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliFARAD"
-            ],
             "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW233c7ca125dc5092bdc69b05723ba75b",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mF"
+            "main_symbol": "mF",
+            "ucum_codes": [
+                "mF"
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "2c99e79b-872e-50d7-a3cd-b3b0614bbb1d",
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW2c99e79b872e50d7a3cdb3b0614bbb1d",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "nF",
+            "ucum_codes": [
+                "nF"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "328bea7c-3686-59c0-ab27-29ace2604ebc",
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW328bea7c368659c0ab2729ace2604ebc",
+            "conversion_factor_to_main_unit": 1e-18,
+            "conversion_factor_from_si": 1e-18,
+            "main_symbol": "aF",
+            "ucum_codes": [
+                "aF"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3690c26e-937c-55f1-aeb3-dcba3c5d79f4",
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW3690c26e937c55f1aeb3dcba3c5d79f4",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "μF",
+            "ucum_codes": [
+                "uF"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "4a917619-88a6-5eed-b66e-a86bafd6322a",
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW4a91761988a65eedb66ea86bafd6322a",
+            "conversion_factor_to_main_unit": 1e-15,
+            "conversion_factor_from_si": 1e-15,
+            "main_symbol": "fF"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "6d5eff72-01aa-54a6-8e1f-4165e8cf762d",
+            "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW6d5eff7201aa54a68e1f4165e8cf762d",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "kF"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "ea22beb7-c143-50cf-b4a8-029430e0a9e3",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/PicoFARAD",
-                "http://dbpedia.org/resource/Farad"
-            ],
             "osw_id": "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSWea22beb7c14350cfb4a8029430e0a9e3",
+            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
-            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
-            "main_symbol": "pF"
+            "main_symbol": "pF",
+            "ucum_codes": [
+                "pF"
+            ]
         }
     ]
 }

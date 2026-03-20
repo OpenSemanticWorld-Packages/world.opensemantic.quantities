@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "c7bc4bc3-9923-5808-85b9-1cf36c63d11a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AngularImpulse"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/AngularMomentum"
+        "http://dbpedia.org/resource/AngularMomentum",
+        "http://qudt.org/vocab/quantitykind/AngularImpulse"
     ],
+    "uuid": "c7bc4bc3-9923-5808-85b9-1cf36c63d11a",
     "name": "AngularImpulse",
     "label": [
         {
@@ -27,8 +28,10 @@
         }
     ],
     "units": [
-        "Item:OSWf045a04750e15ea2b152fb3bfebf162a",
         "Item:OSW1dd1ded9a5705629b47aa64b3ac3deea",
-        "Item:OSW5e6ed82c68555dc2b37925babf728409"
+        "Item:OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
+        "Item:OSW5e6ed82c68555dc2b37925babf728409",
+        "Item:OSWc5e4d5b0a17f513ca13db454fc844fbc",
+        "Item:OSWf045a04750e15ea2b152fb3bfebf162a"
     ]
 }

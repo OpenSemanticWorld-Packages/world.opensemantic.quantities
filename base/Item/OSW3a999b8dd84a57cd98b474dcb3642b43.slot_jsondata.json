@@ -2,12 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "3a999b8d-d84a-57cd-98b4-74dcb3642b43",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/WK",
-        "http://dbpedia.org/resource/Week"
+        "http://qudt.org/vocab/unit/WK"
     ],
-    "name": "WK",
+    "uuid": "3a999b8d-d84a-57cd-98b4-74dcb3642b43",
+    "name": "Week",
     "label": [
         {
             "text": "Week",
@@ -21,5 +20,9 @@
         }
     ],
     "main_symbol": "wk",
-    "conversion_factor_from_si": 604800.0
+    "conversion_factor_from_si": 604800.0,
+    "ucum_codes": [
+        "wk"
+    ],
+    "factor_unit_scalar": 1
 }

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TON_Assay"
+    ],
+    "uuid": "54afa435-8b86-5533-8e8e-82e2ea7fac65",
+    "name": "AssayTon",
+    "label": [
+        {
+            "text": "Assay Ton",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In the United States, a unit of mass, approximately $29.167\\, grams$. The number of milligrams of precious metal in one assay ton of the ore being tested is equal to the number of troy ounces of pure precious metal in one 2000-pound ton of the ore. i.e. a bead is obtained that weights 3 milligrams, thus the precious metals in the bead would equal three troy ounces to each ton of ore with the understanding that this varies considerably in the real world as the amount of precious values in each ton of ore varies considerably.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "AT",
+    "conversion_factor_from_si": 0.02916667,
+    "factor_unit_scalar": 1
+}

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "0636ab59-0d37-5db4-9b8e-3838b2edee7a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Slowing-DownDensity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Slowing-DownDensity"
+    ],
+    "uuid": "0636ab59-0d37-5db4-9b8e-3838b2edee7a",
     "name": "SlowingDownDensity",
     "label": [
         {

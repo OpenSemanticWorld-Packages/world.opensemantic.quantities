@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-SEC"
+    ],
+    "uuid": "bdc0ed13-9524-5ea6-ab4e-216073c79697",
+    "name": "MilligramPerSecond",
+    "label": [
+        {
+            "text": "MilliGram per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the SI base unit kilogram divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/s",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "mg/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

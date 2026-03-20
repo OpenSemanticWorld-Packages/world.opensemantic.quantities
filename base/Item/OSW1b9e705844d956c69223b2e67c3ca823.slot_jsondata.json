@@ -1,0 +1,53 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-M0dot5"
+    ],
+    "uuid": "1b9e7058-44d9-56c6-9223-b2e67c3ca823",
+    "name": "PascalSquareRootMetre",
+    "label": [
+        {
+            "text": "Pascal Square Root Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A metric unit for stress intensity factor and fracture toughness.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa√m",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 5
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "853eeac5-232e-542f-9412-c0b9cd666ab6",
+            "osw_id": "Item:OSW1b9e705844d956c69223b2e67c3ca823#OSW853eeac5232e542f9412c0b9cd666ab6",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "MPa√m",
+            "factor_units": [
+                {
+                    "exponent": 5
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

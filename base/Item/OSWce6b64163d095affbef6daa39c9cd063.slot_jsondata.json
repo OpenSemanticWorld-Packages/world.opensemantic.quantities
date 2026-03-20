@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FemtoMOL-PER-KiloGM"
+    ],
+    "uuid": "ce6b6416-3d09-5aff-bef6-daa39c9cd063",
+    "name": "FemtomolesPerKilogram",
+    "label": [
+        {
+            "text": "FemtoMoles per KiloGram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A 10**15 part quantity of substance of the measurand per kilogram mass of matrix.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "fmol/kg",
+    "conversion_factor_from_si": 1e-15,
+    "ucum_codes": [
+        "fmol.kg-1",
+        "fmol/kg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

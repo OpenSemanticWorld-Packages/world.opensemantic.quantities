@@ -1,0 +1,21 @@
+{
+    "subclass_of": [
+        "Category:Item"
+    ],
+    "type": [
+        "Category:Category"
+    ],
+    "uuid": "27782669-526d-4d9a-8de8-3659c03c64d5",
+    "label": [
+        {
+            "text": "System Of Quantities And Units",
+            "lang": "en"
+        },
+        {
+            "text": "System von Größen und Einheiten",
+            "lang": "de"
+        }
+    ],
+    "description": [],
+    "name": "SystemOfQuantitiesAndUnits"
+}

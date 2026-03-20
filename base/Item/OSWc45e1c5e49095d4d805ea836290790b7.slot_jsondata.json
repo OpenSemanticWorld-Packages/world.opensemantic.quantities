@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroFARAD-PER-M"
+    ],
+    "uuid": "c45e1c5e-4909-5d4d-805e-a836290790b7",
+    "name": "MicrofaradPerMetre",
+    "label": [
+        {
+            "text": "MicroFarad per Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the SI derived unit farad divided by the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μF/m",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "uF.m-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

@@ -1,13 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-M2"
     ],
     "uuid": "3adb44b7-a27d-5ed0-b969-1b095779cb1f",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/PER-M2",
-        "http://dbpedia.org/resource/Steradian"
-    ],
-    "name": "PER-M2",
+    "name": "ReciprocalSquareMetre",
     "label": [
         {
             "text": "Reciprocal Square Metre",
@@ -21,5 +20,15 @@
         }
     ],
     "main_symbol": "/m²",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "/m2",
+        "m-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        }
+    ]
 }

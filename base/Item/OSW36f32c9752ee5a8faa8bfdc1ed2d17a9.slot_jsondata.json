@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "36f32c97-52ee-5a8f-aa8b-fdc1ed2d17a9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricDipoleMoment"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricDipoleMoment"
+    ],
+    "uuid": "36f32c97-52ee-5a8f-aa8b-fdc1ed2d17a9",
     "name": "ElectricDipoleMoment",
     "label": [
         {

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "f959d2fa-ea4a-53e7-a77e-4923e2b6050a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassAbsorptionCoefficient"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassAbsorptionCoefficient"
+    ],
+    "uuid": "f959d2fa-ea4a-53e7-a77e-4923e2b6050a",
     "name": "MassAbsorptionCoefficient",
     "label": [
         {
@@ -20,6 +23,8 @@
         }
     ],
     "units": [
-        "Item:OSWd7015166d39d5cae866a40eac3d51896"
+        "Item:OSWd7015166d39d5cae866a40eac3d51896",
+        "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWc811db362efa5d33a49b56ffdd77e54d",
+        "Item:OSWd7015166d39d5cae866a40eac3d51896#OSWd9d021d43da353fb8a4cefaf4498b39e"
     ]
 }

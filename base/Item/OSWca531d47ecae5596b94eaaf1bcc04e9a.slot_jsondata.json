@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "ca531d47-ecae-5596-b94e-aaf1bcc04e9a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Capacitance"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Capacitance",
-        "https://si-digital-framework.org/SI/quantities/ELCA"
+        "http://qudt.org/vocab/quantitykind/Capacitance",
+        "https://si-digital-framework.org/quantities/ELCA"
     ],
+    "uuid": "ca531d47-ecae-5596-b94e-aaf1bcc04e9a",
     "name": "Capacitance",
     "label": [
         {
@@ -24,6 +25,13 @@
         }
     ],
     "units": [
-        "Item:OSWa1b4f9da4183543a8161e3fe99751be2"
+        "Item:OSWa1b4f9da4183543a8161e3fe99751be2",
+        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW233c7ca125dc5092bdc69b05723ba75b",
+        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW2c99e79b872e50d7a3cdb3b0614bbb1d",
+        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW328bea7c368659c0ab2729ace2604ebc",
+        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW3690c26e937c55f1aeb3dcba3c5d79f4",
+        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW4a91761988a65eedb66ea86bafd6322a",
+        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSW6d5eff7201aa54a68e1f4165e8cf762d",
+        "Item:OSWa1b4f9da4183543a8161e3fe99751be2#OSWea22beb7c14350cfb4a8029430e0a9e3"
     ]
 }

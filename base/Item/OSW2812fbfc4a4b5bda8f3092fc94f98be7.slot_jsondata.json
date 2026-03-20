@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "2812fbfc-4a4b-5bda-8f30-92fc94f98be7",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThermalResistivity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThermalResistivity"
+    ],
+    "uuid": "2812fbfc-4a4b-5bda-8f30-92fc94f98be7",
     "name": "ThermalResistivity",
     "label": [
         {
@@ -20,7 +23,7 @@
         }
     ],
     "units": [
-        "Item:OSWc51652fc56f1518ebabb2c7f7701436e",
-        "Item:OSW564da763f4395835aaec45131f48b5a7"
+        "Item:OSW564da763f4395835aaec45131f48b5a7",
+        "Item:OSWc51652fc56f1518ebabb2c7f7701436e"
     ]
 }

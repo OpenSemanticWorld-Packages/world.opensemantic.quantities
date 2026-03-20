@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "078721f3-8fa8-5e39-ad69-22059a25b826",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MIN_Angle"
     ],
-    "name": "MIN_Angle",
+    "uuid": "078721f3-8fa8-5e39-ad69-22059a25b826",
+    "name": "MinuteAngle",
     "label": [
         {
             "text": "Minute Angle",
@@ -14,5 +14,9 @@
         }
     ],
     "main_symbol": "'",
-    "conversion_factor_from_si": 0.000290888209
+    "conversion_factor_from_si": 0.000290888209,
+    "ucum_codes": [
+        "'"
+    ],
+    "factor_unit_scalar": 1
 }

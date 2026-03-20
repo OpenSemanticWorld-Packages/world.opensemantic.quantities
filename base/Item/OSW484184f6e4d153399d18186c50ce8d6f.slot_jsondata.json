@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M2-MicroM-SR"
+    ],
+    "uuid": "484184f6-e4d1-5339-9d18-186c50ce8d6f",
+    "name": "WattsPerMeterSquaredMicrometerSteradian",
+    "label": [
+        {
+            "text": "Watts per Meter Squared MicroMeter Steradian",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of spectral radiance that is the power radiating from a surface per unit of solid angle per unit of wavelength, measured in units of watts per meter squared per micrometer per steradian",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(m²·μm·sr)",
+    "conversion_factor_from_si": 1000000.0,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

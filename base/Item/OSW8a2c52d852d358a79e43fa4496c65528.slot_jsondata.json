@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "8a2c52d8-52d3-58a7-9e43-fa4496c65528",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MegaEV-FemtoM"
     ],
-    "name": "MegaEV-FemtoM",
+    "uuid": "8a2c52d8-52d3-58a7-9e43-fa4496c65528",
+    "name": "MegaElectronVoltFemtometre",
     "label": [
         {
-            "text": "Mega Electron Volt Femtometre",
+            "text": "Mega Electron Volt FemtoMetre",
             "lang": "en"
         }
     ],
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "MeV·fm",
-    "conversion_factor_from_si": 1.602176634e-28
+    "conversion_factor_from_si": 1.602176634e-28,
+    "ucum_codes": [
+        "MeV.fm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

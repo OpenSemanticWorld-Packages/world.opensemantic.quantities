@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DECADE"
+    ],
+    "uuid": "06f8af4e-54ad-5392-8a97-bbea7c1ad93f",
+    "name": "Dec",
+    "label": [
+        {
+            "text": "Dec",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One decade is a factor of 10 difference between two numbers (an order of magnitude difference) measured on a logarithmic scale. It is especially useful when referring to frequencies and when describing frequency response of electronic systems, such as audio amplifiers and filters. The factor-of-ten in a decade can be in either direction: so one decade up from 100 Hz is 1000 Hz, and one decade down is 10 Hz. The factor-of-ten is what is important, not the unit used, so $3.14 rad/s$ is one decade down from $31.4 rad/s$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "dec",
+    "conversion_factor_from_si": 0.0,
+    "factor_unit_scalar": 1
+}

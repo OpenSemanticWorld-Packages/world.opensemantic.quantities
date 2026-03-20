@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpectralRadiance"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpectralRadiance"
+    ],
+    "uuid": "2075e5df-2e0b-597f-99d5-bd8e188cb14c",
+    "name": "MeasurementUnitOfSpectralRadiance",
+    "label": [
+        {
+            "text": "Measurement Unit of Spectral Radiance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Spectral Radiance is a radiometry term for the power per unit area of electromagnetic radiation per unit wavelength per unit solid angle emerging from a surface.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW124f92362f8859be8ab2fcbafb94c9de",
+        "Item:OSW124f92362f8859be8ab2fcbafb94c9de#OSW88330dba1ef3565481997f06e051e6d0",
+        "Item:OSW124f92362f8859be8ab2fcbafb94c9de#OSW9c25ee84d7c05e7d8b66cef39a12fe15",
+        "Item:OSW27ca6fbe93f751c19e3f07223ef04145",
+        "Item:OSW484184f6e4d153399d18186c50ce8d6f",
+        "Item:OSW56c5e9f95d035851bf9166fe99d6ebda",
+        "Item:OSW74b4aedebe05596d827042f14930136b",
+        "Item:OSWaf6a2d84fff9582fb0464a15b1cfe4b5",
+        "Item:OSWc6f784a69e075f0faccd43e108a28bc2",
+        "Item:OSWc6f784a69e075f0faccd43e108a28bc2#OSW31006953e02f5b8082dff2b9bfa1c683"
+    ]
+}

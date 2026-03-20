@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "17b86819-2d69-5e9b-a819-9743858b7066",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VolumetricFlux"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VolumetricFlux"
+    ],
+    "uuid": "17b86819-2d69-5e9b-a819-9743858b7066",
     "name": "VolumetricFlux",
     "label": [
         {

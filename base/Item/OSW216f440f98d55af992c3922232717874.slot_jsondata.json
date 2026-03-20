@@ -2,14 +2,14 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "216f440f-98d5-5af9-92c3-922232717874",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PPM"
     ],
-    "name": "PPM",
+    "uuid": "216f440f-98d5-5af9-92c3-922232717874",
+    "name": "PartsPerMillion",
     "label": [
         {
-            "text": "Parts per million",
+            "text": "Parts per MilliOn",
             "lang": "en"
         }
     ],
@@ -20,5 +20,9 @@
         }
     ],
     "main_symbol": "PPM",
-    "conversion_factor_from_si": 1e-06
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "[ppm]"
+    ],
+    "factor_unit_scalar": 1
 }

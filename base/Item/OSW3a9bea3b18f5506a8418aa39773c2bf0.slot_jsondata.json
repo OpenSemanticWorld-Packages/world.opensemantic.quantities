@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MILLION"
+    ],
+    "uuid": "3a9bea3b-18f5-506a-8418-aa39773c2bf0",
+    "name": "MilliOn",
+    "label": [
+        {
+            "text": "MilliOn",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Counting unit for a count of one million",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "1000000",
+    "conversion_factor_from_si": 1000000.0,
+    "factor_unit_scalar": 1
+}

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "6f93ccaa-10c9-5c20-bc7b-7cc03903a812",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ResidualResistivity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ResidualResistivity"
+    ],
+    "uuid": "6f93ccaa-10c9-5c20-bc7b-7cc03903a812",
     "name": "ResidualResistivity",
     "label": [
         {
@@ -20,6 +23,15 @@
         }
     ],
     "units": [
-        "Item:OSW825f941d934e5a73866e39b6c42c99f0"
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0",
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW3bf3932c8c7256a8854f4794bfe99b63",
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW577cd7a93cf35f618ffd6b6e27e3f5bb",
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW579cb525fbff5556975a5904b5697430",
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW6a9fe2c6ad005ecdabb6d666fb242e70",
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW90c360baa9af571586669b5354f45133",
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSWbe027215f7ae5fe981755746032cd135",
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSWdc781742a5af5fc58f59e86ec298bc3f",
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSWe16f5a8ef63d51e9b0400bed42ae9581",
+        "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSWf5d198857cd75307806dcaff04c8dd8b"
     ]
 }

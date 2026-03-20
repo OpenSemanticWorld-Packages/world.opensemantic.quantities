@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "e65e13aa-7ee3-5632-92c2-d970eaab26dc",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PowerAreaPerSolidAngle"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerAreaPerSolidAngle"
+    ],
+    "uuid": "e65e13aa-7ee3-5632-92c2-d970eaab26dc",
     "name": "PowerAreaPerSolidAngle",
     "label": [
         {

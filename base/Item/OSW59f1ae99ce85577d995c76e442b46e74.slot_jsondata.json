@@ -2,17 +2,24 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "59f1ae99-ce85-577d-995c-76e442b46e74",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Micro",
         "https://si-digital-framework.org/SI/prefixes/micro"
     ],
+    "uuid": "59f1ae99-ce85-577d-995c-76e442b46e74",
     "name": "micro",
     "label": [
         {
-            "text": "micro (unit prefix)",
+            "text": "micro",
             "lang": "en"
         }
     ],
-    "symbol": "µ",
+    "description": [
+        {
+            "text": "\"micro\" is a decimal prefix for expressing a value with a scaling of \\(10^{-6}\\).",
+            "lang": "en"
+        }
+    ],
+    "symbol": "μ",
     "factor": 1e-06
 }

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "31844323-c0ca-59e4-bdf5-f433adfddba3",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificHeatCapacityAtConstantVolume"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificHeatCapacityAtConstantVolume"
+    ],
+    "uuid": "31844323-c0ca-59e4-bdf5-f433adfddba3",
     "name": "SpecificHeatCapacityAtConstantVolume",
     "label": [
         {
@@ -20,7 +23,10 @@
         }
     ],
     "units": [
+        "Item:OSW2dab15bbb20c59a681c5ffecfdcb9e59",
         "Item:OSW93d8b6e516fd54f09d483dee1278e3a8",
-        "Item:OSWbe6c8545fd585776ad877e91f1c72b16"
+        "Item:OSWa0cd208ccfa759388597f5f9ff5c69fc",
+        "Item:OSWbe6c8545fd585776ad877e91f1c72b16",
+        "Item:OSWbe6c8545fd585776ad877e91f1c72b16#OSW75171ce175aa5004b4f550375d9b33f6"
     ]
 }

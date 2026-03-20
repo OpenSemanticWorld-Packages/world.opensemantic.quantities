@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloL-PER-HR"
+    ],
+    "uuid": "6bfe28b9-646e-544b-af7f-7165cdedc06e",
+    "name": "KilolitrePerHour",
+    "label": [
+        {
+            "text": "KiloLitre per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit of the volume kilolitres divided by the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kL/h",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "kL.h-1",
+        "kL/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

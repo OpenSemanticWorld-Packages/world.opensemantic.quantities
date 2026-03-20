@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "826fcfbb-b562-5943-927e-314ede359e6b",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/BloodGlucoseLevel"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BloodGlucoseLevel"
+    ],
+    "uuid": "826fcfbb-b562-5943-927e-314ede359e6b",
     "name": "BloodGlucoseLevel",
     "label": [
         {
@@ -20,6 +23,12 @@
         }
     ],
     "units": [
-        "Item:OSW58a109c7b24256769e6f6716407aff58"
+        "Item:OSW040f32fcf76d545aa5d4c002e316f98b",
+        "Item:OSW33e8faadc379559c9b0e8b5466b51b78",
+        "Item:OSW37d2d772a3135db595349578327b5ac8",
+        "Item:OSW5367e00a40605a74b878ae9d2962dcee",
+        "Item:OSW58a109c7b24256769e6f6716407aff58",
+        "Item:OSW58a109c7b24256769e6f6716407aff58#OSW42ad2b521cac599c9a5f08e3edd7d88a",
+        "Item:OSW6c417325ca155276b312fd6393406a04"
     ]
 }

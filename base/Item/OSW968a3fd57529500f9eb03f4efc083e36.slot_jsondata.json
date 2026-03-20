@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "968a3fd5-7529-500f-9eb0-3f4efc083e36",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-MOL"
     ],
-    "name": "GM-PER-MOL",
+    "uuid": "968a3fd5-7529-500f-9eb0-3f4efc083e36",
+    "name": "GramPerMole",
     "label": [
         {
             "text": "Gram per Mole",
@@ -21,32 +21,63 @@
     ],
     "main_symbol": "g/mol",
     "conversion_factor_from_si": 0.001,
-    "prefix_units": [
+    "ucum_codes": [
+        "g.mol-1",
+        "g/mol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "31a2c5ae-09d1-578a-8432-67fef44c2cdb",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloGM-PER-MOL"
-            ],
             "osw_id": "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW31a2c5ae09d1578a843267fef44c2cdb",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kg/mol"
+            "main_symbol": "kg/mol",
+            "ucum_codes": [
+                "kg.mol-1",
+                "kg/mol"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "4c27839f-7cd4-587c-a5e6-f44b592e5922",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloGM-PER-KiloMOL"
-            ],
             "osw_id": "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW4c27839f7cd4587ca5e6f44b592e5922",
+            "conversion_factor_to_main_unit": 1.0,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kg/kmol"
+            "main_symbol": "kg/kmol",
+            "ucum_codes": [
+                "kg.kmol-1",
+                "kg/kmol"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

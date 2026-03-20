@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "754b1a35-6472-5113-ac58-3f91ae2ea959",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-L"
     ],
-    "name": "GM-PER-L",
+    "uuid": "754b1a35-6472-5113-ac58-3f91ae2ea959",
+    "name": "GramPerLitre",
     "label": [
         {
             "text": "Gram per Litre",
@@ -21,123 +21,370 @@
     ],
     "main_symbol": "g/L",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "g.L-1",
+        "g/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "194b1970-54bf-5fa8-a1be-2c3174c45533",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW194b197054bf5fa8a1be2c3174c45533",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "ng/μL",
+            "ucum_codes": [
+                "ng.uL-1",
+                "ng/uL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "1a48aea5-dca4-5c34-bbde-02b0df02f6f8",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/GM-PER-DeciL"
-            ],
             "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW1a48aea5dca45c34bbde02b0df02f6f8",
+            "conversion_factor_to_main_unit": 10.0,
             "conversion_factor_from_si": 10.0,
-            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
-            "main_symbol": "g/dL"
+            "main_symbol": "g/dL",
+            "ucum_codes": [
+                "g.dL-1",
+                "g/dL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "e905ceb2-3b3b-5504-89be-d5baa6c9b466",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/GM-PER-MilliL"
-            ],
-            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWe905ceb23b3b550489bed5baa6c9b466",
-            "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "g/mL"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "457d0485-a44c-57cd-a788-a583bf9ab4ff",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroGM-PER-L"
-            ],
-            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW457d0485a44c57cda788a583bf9ab4ff",
-            "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "μg/L"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "ca4043a3-85f2-5aa3-a981-22f2aefd0d2e",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliGM-PER-L"
-            ],
-            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWca4043a385f25aa3a98122f2aefd0d2e",
-            "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mg/L"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "40c93326-9ec4-5fc1-aeef-04aefce2b374",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloGM-PER-L"
-            ],
             "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW40c933269ec45fc1aeef04aefce2b374",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kg/L"
+            "main_symbol": "kg/L",
+            "ucum_codes": [
+                "kg.L-1",
+                "kg/L"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "449dc749-4f3f-5c0b-bd9a-ff1d1fd2f591",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/FemtoGM-PER-L"
+            "uuid": "42db9089-53c7-5d6a-b0be-4b63a4328cbf",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW42db908953c75d6ab0be4b63a4328cbf",
+            "conversion_factor_to_main_unit": 1e-05,
+            "conversion_factor_from_si": 1e-05,
+            "main_symbol": "μg/dL",
+            "ucum_codes": [
+                "ug.dL-1",
+                "ug/dL"
             ],
-            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW449dc7494f3f5c0bbd9aff1d1fd2f591",
-            "conversion_factor_from_si": 1e-15,
-            "prefix": "Item:OSWaa15a848c6445a7087c7293dd18a7244",
-            "main_symbol": "fg/L"
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "42fdef27-c8ae-5c8f-bf18-76c400f27101",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/NanoGM-PER-L"
-            ],
             "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW42fdef27c8ae5c8fbf1876c400f27101",
+            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
-            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
-            "main_symbol": "ng/L"
+            "main_symbol": "ng/L",
+            "ucum_codes": [
+                "ng.L-1",
+                "ng/L"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "449dc749-4f3f-5c0b-bd9a-ff1d1fd2f591",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW449dc7494f3f5c0bbd9aff1d1fd2f591",
+            "conversion_factor_to_main_unit": 1e-15,
+            "conversion_factor_from_si": 1e-15,
+            "main_symbol": "fg/L",
+            "ucum_codes": [
+                "fg.L-1",
+                "fg/L"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "457d0485-a44c-57cd-a788-a583bf9ab4ff",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW457d0485a44c57cda788a583bf9ab4ff",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "μg/L",
+            "ucum_codes": [
+                "ug.L-1",
+                "ug/L"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "4e40e8b3-0f7e-538e-a8e0-d4f05b5d3902",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW4e40e8b30f7e538ea8e0d4f05b5d3902",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "pg/mL",
+            "ucum_codes": [
+                "pg/mL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5fa45224-944c-5acf-ab05-391fe0148c20",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW5fa45224944c5acfab05391fe0148c20",
+            "conversion_factor_to_main_unit": 0.01,
+            "conversion_factor_from_si": 0.01,
+            "main_symbol": "mg/dL",
+            "ucum_codes": [
+                "mg.dL-1",
+                "mg/dL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "66bb1b83-5058-5aed-a95c-898810e3bb48",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW66bb1b8350585aeda95c898810e3bb48",
+            "conversion_factor_to_main_unit": 1e-08,
+            "conversion_factor_from_si": 1e-08,
+            "main_symbol": "ng/dL",
+            "ucum_codes": [
+                "ng.dL-1",
+                "ng/dL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "7bff330d-b03c-5566-82c1-6dc67a19e528",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW7bff330db03c556682c16dc67a19e528",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "ng/mL",
+            "ucum_codes": [
+                "ng.mL-1",
+                "ng/mL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "84ec459d-4d13-5bf2-8a61-0cd00061d18c",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/PicoGM-PER-L"
-            ],
             "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW84ec459d4d135bf28a610cd00061d18c",
+            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
-            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
-            "main_symbol": "pg/L"
+            "main_symbol": "pg/L",
+            "ucum_codes": [
+                "pg.L-1",
+                "pg/L"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "99bbcff9-47e1-508b-ad38-d748ad6ff8e2",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliGM-PER-MilliL"
-            ],
             "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW99bbcff947e1508bad38d748ad6ff8e2",
+            "conversion_factor_to_main_unit": 1.0,
             "conversion_factor_from_si": 1.0,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mg/mL"
+            "main_symbol": "mg/mL",
+            "ucum_codes": [
+                "mg.mL-1",
+                "mg/mL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ca4043a3-85f2-5aa3-a981-22f2aefd0d2e",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWca4043a385f25aa3a98122f2aefd0d2e",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mg/L",
+            "ucum_codes": [
+                "mg.L-1",
+                "mg/L"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "cfce86b4-df4f-59ea-a882-e2af54dd4bad",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWcfce86b4df4f59eaa882e2af54dd4bad",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "μg/mL",
+            "ucum_codes": [
+                "ug.mL-1",
+                "ug/mL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e905ceb2-3b3b-5504-89be-d5baa6c9b466",
+            "osw_id": "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWe905ceb23b3b550489bed5baa6c9b466",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "g/mL",
+            "ucum_codes": [
+                "g.mL-1",
+                "g/mL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

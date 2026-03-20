@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "1867660f-9640-528c-809c-8d29b3051296",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SecondOrderReactionRateConstant"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SecondOrderReactionRateConstant"
+    ],
+    "uuid": "1867660f-9640-528c-809c-8d29b3051296",
     "name": "ReactionRateConstant",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
-        "Item:OSW25bef56399fe5f7fa5d119aff09cfb30"
+        "Item:OSW25bef56399fe5f7fa5d119aff09cfb30",
+        "Item:OSWe3739db7a148562eb2f29ef963e3c001"
     ]
 }

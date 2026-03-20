@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "1dd1ded9-a570-5629-b47a-a64b3ac3deea",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/EV-SEC"
     ],
-    "name": "EV-SEC",
+    "uuid": "1dd1ded9-a570-5629-b47a-a64b3ac3deea",
+    "name": "ElectronVoltSecond",
     "label": [
         {
             "text": "Electron Volt Second",
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "eV·s",
-    "conversion_factor_from_si": 1.602176634e-19
+    "conversion_factor_from_si": 1.602176634e-19,
+    "ucum_codes": [
+        "eV.s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

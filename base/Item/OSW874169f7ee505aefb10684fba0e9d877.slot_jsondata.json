@@ -1,0 +1,104 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-HA"
+    ],
+    "uuid": "874169f7-ee50-5aef-b106-84fba0e9d877",
+    "name": "GramPerHectare",
+    "label": [
+        {
+            "text": "Gram per Hectare",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Gram Per Hectare is a unit of mass per area. Gram Per Hectare (mg/ha) has a dimension of ML-3 where M is mass, and L is length. It can be converted to the corresponding standard SI unit kg/m2 by multiplying its value by a factor of 0.0000001.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/ha",
+    "conversion_factor_from_si": 1e-07,
+    "ucum_codes": [
+        "g.har-1",
+        "g/har"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0ccb09ed-c0e9-5e6f-9bbf-7e4de1926a4e",
+            "osw_id": "Item:OSW874169f7ee505aefb10684fba0e9d877#OSW0ccb09edc0e95e6f9bbf7e4de1926a4e",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1e-10,
+            "main_symbol": "mg/ha",
+            "ucum_codes": [
+                "mg.har-1",
+                "mg/har"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "bc79874a-722f-5d3f-9071-bfcf26af8416",
+            "osw_id": "Item:OSW874169f7ee505aefb10684fba0e9d877#OSWbc79874a722f5d3f9071bfcf26af8416",
+            "conversion_factor_to_main_unit": 1000.0000000000001,
+            "conversion_factor_from_si": 0.0001,
+            "main_symbol": "kg/ha",
+            "ucum_codes": [
+                "kg.har-1",
+                "kg/har"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "fad32d35-2a4d-5f8c-ac5d-17636515a9b2",
+            "osw_id": "Item:OSW874169f7ee505aefb10684fba0e9d877#OSWfad32d352a4d5f8cac5d17636515a9b2",
+            "conversion_factor_to_main_unit": 1000000.0000000001,
+            "conversion_factor_from_si": 0.1,
+            "main_symbol": "Mg/ha",
+            "ucum_codes": [
+                "Mg.har-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

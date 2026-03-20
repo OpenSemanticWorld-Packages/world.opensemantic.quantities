@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "1a0a52ba-2fe9-5798-9fe3-e1a2d0bbdcc4",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-PER-RAD"
     ],
-    "name": "N-PER-RAD",
+    "uuid": "1a0a52ba-2fe9-5798-9fe3-e1a2d0bbdcc4",
+    "name": "NewtonPerRadian",
     "label": [
         {
-            "text": "Newton per radian",
+            "text": "Newton per Radian",
             "lang": "en"
         },
         {
-            "text": "Newton pro Radian",
+            "text": "Newton Pro Radian",
             "lang": "de"
         }
     ],
@@ -24,5 +24,18 @@
         }
     ],
     "main_symbol": "N/rad",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "N.rad-1",
+        "N/rad"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

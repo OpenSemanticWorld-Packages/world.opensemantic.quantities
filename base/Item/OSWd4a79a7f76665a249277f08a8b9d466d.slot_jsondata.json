@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "d4a79a7f-7666-5a24-9277-f08a8b9d466d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RotationalVelocity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RotationalVelocity"
+    ],
+    "uuid": "d4a79a7f-7666-5a24-9277-f08a8b9d466d",
     "name": "RotationalFrequency",
     "label": [
         {
@@ -21,7 +24,15 @@
     ],
     "units": [
         "Item:OSW7496c09c41b154bdba82f6d09195cae5",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW077a52d68b86560a897183598a476b41",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW37c66b2e350050d891107e427a1c0210",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW5860049cdfae5d64abcd7bb8ace55540",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWd1cfeefa4862510399a624711178435a",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWfbbfa62ac8095c5bb37ea9f22ab121dd",
         "Item:OSW98372a3dae18565f8e4c5863c7aaf33a",
+        "Item:OSW98372a3dae18565f8e4c5863c7aaf33a#OSW4e1dedc5c7a6585c868ff31ff7432d99",
+        "Item:OSWa80beccbe400554f9308ab46307aa80f",
         "Item:OSWed94e8968e8855bb9130785f981b0549"
     ]
 }

@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloV-A"
+    ],
+    "uuid": "dd70086e-1454-51cc-8dd5-2ebc29684d6d",
+    "name": "KilovoltAmpere",
+    "label": [
+        {
+            "text": "KiloVolt Ampere",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1 000-fold of the product of the SI derived unit volt and the SI base unit ampere",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kV·A",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "kV.A"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

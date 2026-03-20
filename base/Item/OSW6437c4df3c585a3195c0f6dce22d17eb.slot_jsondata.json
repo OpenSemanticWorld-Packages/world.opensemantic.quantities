@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PERCENT_RH"
+    ],
+    "uuid": "6437c4df-3c58-5a31-95c0-f6dce22d17eb",
+    "name": "PercentRelativeHumidity",
+    "label": [
+        {
+            "text": "Percent Relative Humidity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Percent relative humidity is the ratio of the partial pressure of water vapor to the equilibrium vapor pressure of water at a given temperature, expressed as a percentage.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "%RH",
+    "conversion_factor_from_si": 0.01,
+    "factor_unit_scalar": 1
+}

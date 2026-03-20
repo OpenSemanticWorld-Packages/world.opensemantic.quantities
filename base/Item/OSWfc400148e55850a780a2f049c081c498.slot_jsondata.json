@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Absorptance"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Absorptance"
+    ],
+    "uuid": "fc400148-e558-50a7-80a2-f049c081c498",
+    "name": "Absorptance",
+    "label": [
+        {
+            "text": "Absorptance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Absorptance is the ratio of the radiation absorbed by a surface to that incident upon it. Also known as absorbance.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

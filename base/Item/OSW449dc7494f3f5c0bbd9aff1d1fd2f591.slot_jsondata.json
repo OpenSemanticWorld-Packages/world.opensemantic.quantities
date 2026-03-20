@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FemtoGM-PER-L"
+    ],
+    "uuid": "449dc749-4f3f-5c0b-bd9a-ff1d1fd2f591",
+    "name": "FemtogramsPerLitre",
+    "label": [
+        {
+            "text": "FemtoGrams per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One 10**18 part of the SI standard unit of mass of the measurand per litre volume of matrix..",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "fg/L",
+    "conversion_factor_from_si": 1e-15,
+    "ucum_codes": [
+        "fg.L-1",
+        "fg/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

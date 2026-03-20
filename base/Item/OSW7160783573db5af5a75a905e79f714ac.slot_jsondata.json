@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "71607835-73db-5af5-a75a-905e79f714ac",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PhotonIntensity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PhotonIntensity"
+    ],
+    "uuid": "71607835-73db-5af5-a75a-905e79f714ac",
     "name": "PhotonIntensity",
     "label": [
         {

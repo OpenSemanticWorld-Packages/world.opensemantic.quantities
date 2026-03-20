@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "f7148422-e50b-5448-b5ec-6bfb6e985441",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaTime"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaTime"
+    ],
+    "uuid": "f7148422-e50b-5448-b5ec-6bfb6e985441",
     "name": "AreaTime",
     "label": [
         {

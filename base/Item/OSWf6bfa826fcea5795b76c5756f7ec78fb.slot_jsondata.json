@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "f6bfa826-fcea-5795-b76c-5756f7ec78fb",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-SEC"
     ],
-    "name": "GM-PER-SEC",
+    "uuid": "f6bfa826-fcea-5795-b76c-5756f7ec78fb",
+    "name": "GramPerSecond",
     "label": [
         {
             "text": "Gram per Second",
@@ -21,32 +21,61 @@
     ],
     "main_symbol": "g/s",
     "conversion_factor_from_si": 0.001,
-    "prefix_units": [
+    "ucum_codes": [
+        "g.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "bdc0ed13-9524-5ea6-ab4e-216073c79697",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliGM-PER-SEC"
-            ],
             "osw_id": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWbdc0ed1395245ea6ab4e216073c79697",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mg/s"
+            "main_symbol": "mg/s",
+            "ucum_codes": [
+                "mg/s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "fe7b5227-d127-57e7-8905-5c9fd32d15e4",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloGM-PER-SEC"
-            ],
             "osw_id": "Item:OSWf6bfa826fcea5795b76c5756f7ec78fb#OSWfe7b5227d12757e789055c9fd32d15e4",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kg/s"
+            "main_symbol": "kg/s",
+            "ucum_codes": [
+                "kg.s-1",
+                "kg/s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "4d8d1ce2-9dc7-5b5a-b24d-22c06630cd83",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EnergyDensityOfStates"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyDensityOfStates"
+    ],
+    "uuid": "4d8d1ce2-9dc7-5b5a-b24d-22c06630cd83",
     "name": "EnergyDensityOfStates",
     "label": [
         {

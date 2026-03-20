@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "059c739d-ae61-53cc-8ae5-6fd38b7e0933",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RotationalMass"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RotationalMass"
+    ],
+    "uuid": "059c739d-ae61-53cc-8ae5-6fd38b7e0933",
     "name": "RotationalMass",
     "label": [
         {
@@ -20,6 +23,8 @@
         }
     ],
     "units": [
+        "Item:OSW391034a969af55ae94b7511e27805794",
+        "Item:OSW82c716e8954c527fa755f64c88150efd",
         "Item:OSWd211fc61709b5e48a4c96473c86a8d13"
     ]
 }

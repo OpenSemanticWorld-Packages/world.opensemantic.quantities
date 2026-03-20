@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-MilliM"
+    ],
+    "uuid": "e77bc3c1-bd7a-566e-adb5-5f3b68d351f2",
+    "name": "ReciprocalMillimetre",
+    "label": [
+        {
+            "text": "Reciprocal MilliMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Millimeter Unit is a denominator unit with dimensions $/mm$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/mm",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "/mm",
+        "mm-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        }
+    ]
+}

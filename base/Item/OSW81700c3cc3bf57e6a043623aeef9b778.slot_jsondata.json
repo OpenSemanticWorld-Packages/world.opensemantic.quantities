@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "81700c3c-c3bf-57e6-a043-623aeef9b778",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LengthEnergy"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LengthEnergy"
+    ],
+    "uuid": "81700c3c-c3bf-57e6-a043-623aeef9b778",
     "name": "LengthEnergy",
     "label": [
         {

@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "3f1801f3-4a37-5683-9fbb-b79e6a46befc",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/CatalyticActivity"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Catalysis",
-        "https://si-digital-framework.org/SI/quantities/CATA"
+        "http://qudt.org/vocab/quantitykind/CatalyticActivity",
+        "https://si-digital-framework.org/quantities/CATA"
     ],
+    "uuid": "3f1801f3-4a37-5683-9fbb-b79e6a46befc",
     "name": "CatalyticActivity",
     "label": [
         {
@@ -24,6 +25,12 @@
         }
     ],
     "units": [
-        "Item:OSW73fc60d9e1dd5337a5f4befdc3646012"
+        "Item:OSW73fc60d9e1dd5337a5f4befdc3646012",
+        "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSW04d4b8bf4352570e91c67ca0183549c3",
+        "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSW68b0210c657c5820aa6863c86452bef7",
+        "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSWa7286c9b76935cb0974066b843882f91",
+        "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSWb8cdfc20a6a855a29fd8efb58c127e77",
+        "Item:OSWe363854a9dae564599c5f2b186d2f248",
+        "Item:OSWe363854a9dae564599c5f2b186d2f248#OSWd95d2efc01ef530e8082c420db9bb287"
     ]
 }

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "fef2dea1-2253-52f4-890d-a21126d77a16",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MolarConductivity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarConductivity"
+    ],
+    "uuid": "fef2dea1-2253-52f4-890d-a21126d77a16",
     "name": "MolarConductivity",
     "label": [
         {

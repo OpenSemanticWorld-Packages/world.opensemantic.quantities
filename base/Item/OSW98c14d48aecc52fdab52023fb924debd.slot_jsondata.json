@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-KiloVA-HR"
+    ],
+    "uuid": "98c14d48-aecc-52fd-ab52-023fb924debd",
+    "name": "ReciprocalKilovoltAmpereHour",
+    "label": [
+        {
+            "text": "Reciprocal KiloVolt Ampere Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the 1,000-fold of the product of the SI derived unit volt ampere and the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(kVA·h)",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "ucum_codes": [
+        "kVA-1.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

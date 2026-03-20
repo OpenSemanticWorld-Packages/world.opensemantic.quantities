@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "a08a211c-2ca3-52ac-a735-75928929e4ce",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificModulus"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/Specific_modulus"
+        "http://dbpedia.org/resource/Specific_modulus",
+        "http://qudt.org/vocab/quantitykind/SpecificModulus"
     ],
+    "uuid": "a08a211c-2ca3-52ac-a735-75928929e4ce",
     "name": "SpecificModulus",
     "label": [
         {
@@ -23,6 +24,8 @@
         }
     ],
     "units": [
+        "Item:OSWf19ea831be1053a9b70d6403acc15022",
+        "Item:OSWf3093f867b3e5a7e9955befd1748ff78",
         "Item:OSWf6d6f2af61295484ab10221fe5922f97"
     ]
 }

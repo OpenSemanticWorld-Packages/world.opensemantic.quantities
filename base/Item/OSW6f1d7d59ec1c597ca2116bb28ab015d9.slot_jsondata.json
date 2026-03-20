@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "6f1d7d59-ec1c-597c-a211-6bb28ab015d9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Period"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Period"
+    ],
+    "uuid": "6f1d7d59-ec1c-597c-a211-6bb28ab015d9",
     "name": "Period",
     "label": [
         {
@@ -20,6 +23,15 @@
         }
     ],
     "units": [
-        "Item:OSW85302b21cf045998b80f38c9fdb88f84"
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW14e2efd7a4a05306a74663592edb23e8",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW2e4fec0373f45f1891403f06e433c5eb",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW6d7b86490502559eaa4ae39fa2354256",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW78488a0c8e885365beff30aae10a4efd",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW84d4f530814e5251b06e73ee0184e32b",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSW90ff22cff2dd5d8ba6de84bf9a70c50c",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWbc38445f00d056069fef04f8e25c66f6",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWc6f2918cbdef5bde8d00cf86938c7f8e",
+        "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWd1e24421c83d5defb5c22e9a5fe490fb"
     ]
 }

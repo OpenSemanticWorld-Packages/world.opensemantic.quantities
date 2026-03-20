@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "89896336-be9f-5f90-8642-806a1e96151a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseMass"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseMass"
+    ],
+    "uuid": "89896336-be9f-5f90-8642-806a1e96151a",
     "name": "ReciprocalMass",
     "label": [
         {
@@ -14,6 +17,8 @@
         }
     ],
     "units": [
-        "Item:OSW779e33a057275cba9d6f363a1526d8bf"
+        "Item:OSW779e33a057275cba9d6f363a1526d8bf",
+        "Item:OSW779e33a057275cba9d6f363a1526d8bf#OSW426037dcdc9a53ce9412d341d3bd0dbf",
+        "Item:OSW779e33a057275cba9d6f363a1526d8bf#OSW51e92cfef8085d169733191c9e3af49f"
     ]
 }

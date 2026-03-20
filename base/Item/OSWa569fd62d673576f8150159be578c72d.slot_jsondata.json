@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "a569fd62-d673-576f-8150-159be578c72d",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Atto",
         "https://si-digital-framework.org/SI/prefixes/atto"
     ],
+    "uuid": "a569fd62-d673-576f-8150-159be578c72d",
     "name": "atto",
     "label": [
         {
-            "text": "atto (unit prefix)",
+            "text": "atto",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"atto\" is a decimal prefix for expressing a value with a scaling of \\(10^{-18}\\).",
             "lang": "en"
         }
     ],

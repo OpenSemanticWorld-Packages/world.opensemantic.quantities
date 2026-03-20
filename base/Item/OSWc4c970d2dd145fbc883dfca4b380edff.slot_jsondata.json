@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "c4c970d2-dd14-5fbc-883d-fca4b380edff",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/LM-SEC"
     ],
-    "name": "LM-SEC",
+    "uuid": "c4c970d2-dd14-5fbc-883d-fca4b380edff",
+    "name": "LumenSecond",
     "label": [
         {
-            "text": "lumen second",
+            "text": "Lumen Second",
             "lang": "en"
         }
     ],
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "lm·s",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "lm.s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

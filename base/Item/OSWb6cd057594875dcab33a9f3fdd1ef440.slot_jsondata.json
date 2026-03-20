@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "b6cd0575-9487-5dca-b33a-9f3fdd1ef440",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-PER-DEG-M"
     ],
-    "name": "N-M-PER-DEG-M",
+    "uuid": "b6cd0575-9487-5dca-b33a-9f3fdd1ef440",
+    "name": "NewtonMetrePerDegreeMetre",
     "label": [
         {
-            "text": "Newton metre per degree metre",
+            "text": "Newton Metre per Degree Metre",
             "lang": "en"
         }
     ],
@@ -21,19 +21,51 @@
     ],
     "main_symbol": "N·m/(°·m)",
     "conversion_factor_from_si": 57.2957795785523,
-    "prefix_units": [
+    "ucum_codes": [
+        "N.m.deg-1.m-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "1df81409-b3fe-54f6-88dd-5fa9d87d8d39",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloN-M-PER-DEG-M"
-            ],
             "osw_id": "Item:OSWb6cd057594875dcab33a9f3fdd1ef440#OSW1df81409b3fe54f688dd5fa9d87d8d39",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 57295.7795785523,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kN·m/(°·m)"
+            "main_symbol": "kN·m/(°·m)",
+            "ucum_codes": [
+                "kN.m.deg-1.m-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

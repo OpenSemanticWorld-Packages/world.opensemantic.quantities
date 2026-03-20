@@ -2,14 +2,14 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "9f9bee3d-7222-5991-bfca-8c6dd3f273d8",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PPB"
     ],
-    "name": "PPB",
+    "uuid": "9f9bee3d-7222-5991-bfca-8c6dd3f273d8",
+    "name": "PartsPerBillion",
     "label": [
         {
-            "text": "Parts per billion",
+            "text": "Parts per Billion",
             "lang": "en"
         }
     ],
@@ -20,5 +20,9 @@
         }
     ],
     "main_symbol": "PPB",
-    "conversion_factor_from_si": 1e-09
+    "conversion_factor_from_si": 1e-09,
+    "ucum_codes": [
+        "[ppb]"
+    ],
+    "factor_unit_scalar": 1
 }

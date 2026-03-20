@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DeciM3-PER-MOL"
+    ],
+    "uuid": "6eaa02f1-d5ad-581f-97e7-e017fab31412",
+    "name": "CubicDecimetrePerMole",
+    "label": [
+        {
+            "text": "Cubic DeciMetre per Mole",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the power of the SI base unit metre with the exponent 3 divided by the SI base unit mol",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "dm³/mol",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "dm3.mol-1",
+        "dm3/mol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 3
+        }
+    ]
+}

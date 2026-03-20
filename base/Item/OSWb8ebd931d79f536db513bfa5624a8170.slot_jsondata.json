@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_CZK-PER-KiloW-HR"
+    ],
+    "uuid": "b8ebd931-d79f-536d-b513-bfa5624a8170",
+    "name": "CzechKorunaPerKilowattHour",
+    "label": [
+        {
+            "text": "Czech Koruna per KiloWatt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Kč/(kW·h)",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "b92ae8a4-e8d0-5cac-bf12-55b69282db17",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PowerPerElectricCharge"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerPerElectricCharge"
+    ],
+    "uuid": "b92ae8a4-e8d0-5cac-bf12-55b69282db17",
     "name": "PowerPerElectricCharge",
     "label": [
         {
@@ -20,6 +23,8 @@
         }
     ],
     "units": [
-        "Item:OSW7d0144647c655cbeac604178c20df9c8"
+        "Item:OSW7d0144647c655cbeac604178c20df9c8",
+        "Item:OSW7d0144647c655cbeac604178c20df9c8#OSWa89d207ffc6f502a9f742482fb84c1ad",
+        "Item:OSWeb2b1de516395cee816ba36de570a3cf"
     ]
 }

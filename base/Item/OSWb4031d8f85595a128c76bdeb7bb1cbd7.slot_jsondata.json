@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "b4031d8f-8559-5a12-8c76-bdeb7bb1cbd7",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-M-PER-MOL"
     ],
-    "name": "J-M-PER-MOL",
+    "uuid": "b4031d8f-8559-5a12-8c76-bdeb7bb1cbd7",
+    "name": "JouleMetrePerMole",
     "label": [
         {
             "text": "Joule Metre per Mole",
@@ -15,10 +15,26 @@
     ],
     "description": [
         {
-            "text": "$\\textit{Joule Meter per Mole}$ is a unit for 'Length Molar Energy' expressed as:\n  $$J \\cdot m \\cdot mol^{-1}$$.\n  ",
+            "text": "$\\textit{Joule Meter per Mole}$ is a unit for 'Length Molar Energy' expressed as:\n  $$J \\cdot m \\cdot mol^{-1}$$.",
             "lang": "en"
         }
     ],
     "main_symbol": "J·m/mol",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "J.m.mol-1",
+        "J.m/mol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

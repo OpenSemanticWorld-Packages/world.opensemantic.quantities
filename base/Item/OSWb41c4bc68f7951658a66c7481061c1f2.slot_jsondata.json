@@ -1,0 +1,168 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/VA"
+    ],
+    "uuid": "b41c4bc6-8f79-5165-8a66-c7481061c1f2",
+    "name": "VoltAmpere",
+    "label": [
+        {
+            "text": "Volt Ampere",
+            "lang": "en"
+        },
+        {
+            "text": "Voltampere",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Product of the RMS value of the voltage and the RMS value of an alternating electric current",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "VA",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "VA"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0312d37f-6ca0-5465-8398-6bc84e60fa6c",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW0312d37f6ca0546583986bc84e60fa6c",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "prefix_symbol": "n",
+            "main_symbol": "nVA",
+            "ucum_codes": [
+                "nVA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "256034b8-60d8-56de-bed9-839c153bef87",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW256034b860d856debed9839c153bef87",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix_symbol": "G",
+            "main_symbol": "GVA",
+            "ucum_codes": [
+                "GVA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5c6a4dbb-56f2-5f37-8d33-0c4881c4bf58",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW5c6a4dbb56f25f378d330c4881c4bf58",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 1e-12,
+            "prefix_symbol": "p",
+            "main_symbol": "pVA",
+            "ucum_codes": [
+                "pVA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "6115ea60-137f-58f4-8c39-c6a7022f04a0",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW6115ea60137f58f48c39c6a7022f04a0",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "prefix_symbol": "μ",
+            "main_symbol": "μVA",
+            "ucum_codes": [
+                "uVA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "67a08a84-2116-55f1-97fd-8d5809f003ed",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW67a08a84211655f197fd8d5809f003ed",
+            "conversion_factor_to_main_unit": 1000000000000000.0,
+            "conversion_factor_from_si": 1000000000000000.0,
+            "prefix_symbol": "P",
+            "main_symbol": "PVA"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "cafa0565-b412-503b-8647-7319f5bb3187",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWcafa0565b412503b86477319f5bb3187",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "prefix_symbol": "k",
+            "main_symbol": "kVA",
+            "ucum_codes": [
+                "kVA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "deccf337-e24e-57fe-9456-dbdce19ed82f",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWdeccf337e24e57fe9456dbdce19ed82f",
+            "conversion_factor_to_main_unit": 1000000000000.0,
+            "conversion_factor_from_si": 1000000000000.0,
+            "prefix_symbol": "T",
+            "main_symbol": "TVA",
+            "ucum_codes": [
+                "TVA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ebd9434a-5d82-5ee5-910c-a9d1f23e806f",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWebd9434a5d825ee5910ca9d1f23e806f",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "prefix_symbol": "m",
+            "main_symbol": "mVA",
+            "ucum_codes": [
+                "mVA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ecfc0485-465d-510a-a98f-09bb3aafabef",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWecfc0485465d510aa98f09bb3aafabef",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "prefix_symbol": "M",
+            "main_symbol": "MVA",
+            "ucum_codes": [
+                "MVA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "fb5b9473-7dd3-5262-af38-a506dd470955",
+            "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWfb5b94737dd35262af38a506dd470955",
+            "conversion_factor_to_main_unit": 1e+18,
+            "conversion_factor_from_si": 1e+18,
+            "prefix_symbol": "E",
+            "main_symbol": "EVA"
+        }
+    ]
+}

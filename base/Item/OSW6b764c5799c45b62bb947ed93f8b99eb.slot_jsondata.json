@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "6b764c57-99c4-5b62-bb94-7ed93f8b99eb",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-SEC"
     ],
-    "name": "MOL-PER-SEC",
+    "uuid": "6b764c57-99c4-5b62-bb94-7ed93f8b99eb",
+    "name": "MolePerSecond",
     "label": [
         {
             "text": "Mole per Second",
@@ -21,32 +21,63 @@
     ],
     "main_symbol": "mol/s",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "mol.s-1",
+        "mol/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "b3ad32c2-d890-57e0-8a13-a3562b52bd17",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloMOL-PER-SEC"
+            "uuid": "10e98cb9-b701-5015-8fc1-544d9f094ad2",
+            "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSW10e98cb9b70150158fc1544d9f094ad2",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "μmol/s",
+            "ucum_codes": [
+                "umol.s-1",
+                "umol/s"
             ],
-            "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17",
-            "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kmol/s"
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "10e98cb9-b701-5015-8fc1-544d9f094ad2",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroMOL-PER-SEC"
+            "uuid": "b3ad32c2-d890-57e0-8a13-a3562b52bd17",
+            "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "kmol/s",
+            "ucum_codes": [
+                "kmol.s-1",
+                "kmol/s"
             ],
-            "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSW10e98cb9b70150158fc1544d9f094ad2",
-            "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "µmol/s"
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "467e2e80-ae48-546c-b313-55254d2f4fd7",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-MIN"
     ],
-    "name": "MOL-PER-MIN",
+    "uuid": "467e2e80-ae48-546c-b313-55254d2f4fd7",
+    "name": "MolePerMinute",
     "label": [
         {
             "text": "Mole per Minute",
@@ -20,20 +20,41 @@
         }
     ],
     "main_symbol": "mol/min",
-    "conversion_factor_from_si": 0.016666667,
-    "prefix_units": [
+    "conversion_factor_from_si": 0.016666666666666666,
+    "ucum_codes": [
+        "mol.min-1",
+        "mol/min"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "1e936211-6408-5cd5-8893-663c44d43e70",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloMOL-PER-MIN"
-            ],
             "osw_id": "Item:OSW467e2e80ae48546cb31355254d2f4fd7#OSW1e93621164085cd58893663c44d43e70",
+            "conversion_factor_to_main_unit": 1000.0000000000001,
             "conversion_factor_from_si": 16.666666666666668,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kmol/min"
+            "main_symbol": "kmol/min",
+            "ucum_codes": [
+                "kmol.min-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

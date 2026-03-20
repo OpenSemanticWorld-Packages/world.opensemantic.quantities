@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "8e0cd044-0b36-5870-ba04-bc7d2bcb6122",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-M3-PER-SEC"
     ],
-    "name": "PA-M3-PER-SEC",
+    "uuid": "8e0cd044-0b36-5870-ba04-bc7d2bcb6122",
+    "name": "PascalCubicMetrePerSecond",
     "label": [
         {
             "text": "Pascal Cubic Metre per Second",
@@ -21,32 +21,70 @@
     ],
     "main_symbol": "Pa·m³/s",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "Pa.m3.s-1",
+        "Pa.m3/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "51ef27a4-68d7-59f0-9612-97af55bf0f05",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/HectoPA-M3-PER-SEC"
-            ],
             "osw_id": "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122#OSW51ef27a468d759f0961297af55bf0f05",
+            "conversion_factor_to_main_unit": 100.0,
             "conversion_factor_from_si": 100.0,
-            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
-            "main_symbol": "hPa·m³/s"
+            "main_symbol": "hPa·m³/s",
+            "ucum_codes": [
+                "hPa.m3.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "d9dd4ab1-f7db-5beb-978e-2ed4cae595da",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaPA-M3-PER-SEC"
-            ],
             "osw_id": "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122#OSWd9dd4ab1f7db5beb978e2ed4cae595da",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MPa·m³/s"
+            "main_symbol": "MPa·m³/s",
+            "ucum_codes": [
+                "MPa.m3.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

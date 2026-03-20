@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-PER-CentiM2"
+    ],
+    "uuid": "ec1a540d-0374-5760-af1d-26077e9d762e",
+    "name": "AmperePerSquareCentimetre",
+    "label": [
+        {
+            "text": "Ampere per Square CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit ampere divided by the 0.0001-fold  of the power of the SI base unit metre by exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A/cm²",
+    "conversion_factor_from_si": 10000.0,
+    "ucum_codes": [
+        "A.cm-2",
+        "A/cm2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "33359bfb-4bee-5d8b-9fea-8a8fda65c044",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Voltage"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Voltage"
+    ],
+    "uuid": "33359bfb-4bee-5d8b-9fea-8a8fda65c044",
     "name": "Voltage",
     "label": [
         {
@@ -20,6 +23,17 @@
         }
     ],
     "units": [
-        "Item:OSW85efe1428cb75363a75aab6435e2d98d"
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW1fbd0bf30a03578dbecd9d87111260f7",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW4deed980237a5360b48e0dd1331d4199",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW583771e6ff165bf6a471da308b140d5d",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW65f3ebc347f6558493aceb34335f5982",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW66d7f7feafae58bab7f8349a090ddb8f",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW78798aa1bdcb57f0aea8d4eb86ff3355",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW82d25d00b1485cc18c204f95de4536a9",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW9c2f0f7babe5535fac652ece392f7779",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW9db08931f4d156b9b2ec23c8eceea7e9",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSWa25740fa41e1578dac7551da4fcd1af4",
+        "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSWc0cb09a94aa553589a59ea70bfccfc96"
     ]
 }

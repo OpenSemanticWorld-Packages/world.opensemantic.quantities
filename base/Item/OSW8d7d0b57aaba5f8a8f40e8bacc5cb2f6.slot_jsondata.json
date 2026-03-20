@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-PER-MilliM2"
+    ],
+    "uuid": "8d7d0b57-aaba-5f8a-8f40-e8bacc5cb2f6",
+    "name": "AmperePerSquareMillimetre",
+    "label": [
+        {
+            "text": "Ampere per Square MilliMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit ampere divided by the 0.000 001-fold of the power of the SI base unit metre by exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A/mm²",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "A.mm-2",
+        "A/mm2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

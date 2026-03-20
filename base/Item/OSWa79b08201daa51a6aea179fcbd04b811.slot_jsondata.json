@@ -1,18 +1,34 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "a79b0820-1daa-51a6-aea1-79fcbd04b811",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-M-PER-SEC"
     ],
-    "name": "PA-M-PER-SEC",
+    "uuid": "a79b0820-1daa-51a6-aea1-79fcbd04b811",
+    "name": "PascalMetresPerSecond",
     "label": [
         {
-            "text": "Pascal metres per second",
+            "text": "Pascal Metres per Second",
             "lang": "en"
         }
     ],
     "main_symbol": "Pa·m/s",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "Pa.m.s-1",
+        "Pa.m/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

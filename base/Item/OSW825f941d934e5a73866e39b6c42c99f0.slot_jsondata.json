@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "825f941d-934e-5a73-866e-39b6c42c99f0",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/OHM-M"
     ],
-    "name": "OHM-M",
+    "uuid": "825f941d-934e-5a73-866e-39b6c42c99f0",
+    "name": "OhmMetre",
     "label": [
         {
-            "text": "ohm metre",
+            "text": "Ohm Metre",
             "lang": "en"
         },
         {
@@ -18,5 +18,208 @@
         }
     ],
     "main_symbol": "Ω·m",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "Ohm.m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3bf3932c-8c72-56a8-854f-4794bfe99b63",
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW3bf3932c8c7256a8854f4794bfe99b63",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "Ω·km",
+            "ucum_codes": [
+                "Ohm.km"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "577cd7a9-3cf3-5f61-8ffd-6b6e27e3f5bb",
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW577cd7a93cf35f618ffd6b6e27e3f5bb",
+            "conversion_factor_to_main_unit": 0.01,
+            "conversion_factor_from_si": 0.01,
+            "main_symbol": "Ω·cm",
+            "ucum_codes": [
+                "Ohm.cm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "579cb525-fbff-5556-975a-5904b5697430",
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW579cb525fbff5556975a5904b5697430",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mΩ·m",
+            "ucum_codes": [
+                "m.mOhm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "6a9fe2c6-ad00-5ecd-abb6-d666fb242e70",
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW6a9fe2c6ad005ecdabb6d666fb242e70",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "MΩ·m",
+            "ucum_codes": [
+                "m.MOhm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "90c360ba-a9af-5715-8666-9b5354f45133",
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSW90c360baa9af571586669b5354f45133",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "main_symbol": "GΩ·m",
+            "ucum_codes": [
+                "GOhm.m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "be027215-f7ae-5fe9-8175-5746032cd135",
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSWbe027215f7ae5fe981755746032cd135",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "main_symbol": "MΩ·km",
+            "ucum_codes": [
+                "MOhm.km"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "dc781742-a5af-5fc5-8f59-e86ec298bc3f",
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSWdc781742a5af5fc58f59e86ec298bc3f",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "nΩ·m",
+            "ucum_codes": [
+                "nOhm.m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e16f5a8e-f63d-51e9-b040-0bed42ae9581",
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSWe16f5a8ef63d51e9b0400bed42ae9581",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "μΩ·m",
+            "ucum_codes": [
+                "m.uOhm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f5d19885-7cd7-5307-806d-caff04c8dd8b",
+            "osw_id": "Item:OSW825f941d934e5a73866e39b6c42c99f0#OSWf5d198857cd75307806dcaff04c8dd8b",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "kΩ·m",
+            "ucum_codes": [
+                "kOhm.m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
 }

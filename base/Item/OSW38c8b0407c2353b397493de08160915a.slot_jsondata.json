@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroM3-PER-MilliL"
+    ],
+    "uuid": "38c8b040-7c23-53b3-9749-3de08160915a",
+    "name": "CubicMicronsPerMillilitre",
+    "label": [
+        {
+            "text": "Cubic MicroNs per MilliLitre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μm³/mL",
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "um3.mL-1",
+        "um3/mL"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "b76e6771-5391-578b-bb9b-2b3dc63b1bd7",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-GM-HR"
     ],
-    "name": "MOL-PER-GM-HR",
+    "uuid": "b76e6771-5391-578b-bb9b-2b3dc63b1bd7",
+    "name": "MolesPerGramHour",
     "label": [
         {
-            "text": "Moles per gram hour",
+            "text": "Moles per Gram Hour",
             "lang": "en"
         }
     ],
@@ -20,20 +20,95 @@
         }
     ],
     "main_symbol": "mol/(g·h)",
-    "conversion_factor_from_si": 0.277777777777778,
-    "prefix_units": [
+    "conversion_factor_from_si": 0.2777777777777778,
+    "ucum_codes": [
+        "mol.g-1.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "3bd249f4-a12e-5ca0-acd9-6b084a34600d",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroMOL-PER-GM-HR"
-            ],
             "osw_id": "Item:OSWb76e67715391578bbb9b2b3dc63b1bd7#OSW3bd249f4a12e5ca0acd96b084a34600d",
-            "conversion_factor_from_si": 2.77777777777778e-07,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "µmol/(g·h)"
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "μmol/(g·h)",
+            "ucum_codes": [
+                "umol.g-1.h-1",
+                "umol/g/h"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "6491d1b5-a4cb-57ec-9e44-87606ca7ebe4",
+            "osw_id": "Item:OSWb76e67715391578bbb9b2b3dc63b1bd7#OSW6491d1b5a4cb57ec9e4487606ca7ebe4",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.0002777777777777778,
+            "main_symbol": "nmol/(μg·h)",
+            "ucum_codes": [
+                "nmol.ug-1.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "cb216123-cb79-5832-b651-01e646dd4d80",
+            "osw_id": "Item:OSWb76e67715391578bbb9b2b3dc63b1bd7#OSWcb216123cb795832b65101e646dd4d80",
+            "conversion_factor_to_main_unit": 9.999999999999999e-10,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "nmol/(g·h)",
+            "ucum_codes": [
+                "nmol.g-1.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

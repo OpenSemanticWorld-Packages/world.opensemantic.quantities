@@ -1,18 +1,30 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "41f3dd5c-1d64-52c0-9950-414345db0927",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-M-SEC"
     ],
-    "name": "PER-M-SEC",
+    "uuid": "41f3dd5c-1d64-52c0-9950-414345db0927",
+    "name": "ReciprocalMetrePerSecond",
     "label": [
         {
-            "text": "Reciprocal metre per second",
+            "text": "Reciprocal Metre per Second",
             "lang": "en"
         }
     ],
     "main_symbol": "/(m·s)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m-1.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

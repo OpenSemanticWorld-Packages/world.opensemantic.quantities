@@ -2,14 +2,14 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "321f737a-4c78-5e4e-8d9c-b025341d049c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PPQ"
     ],
-    "name": "PPQ",
+    "uuid": "321f737a-4c78-5e4e-8d9c-b025341d049c",
+    "name": "PartPerQuadrillion",
     "label": [
         {
-            "text": "part per quadrillion",
+            "text": "Part per Quadrillion",
             "lang": "en"
         }
     ],
@@ -20,5 +20,9 @@
         }
     ],
     "main_symbol": "ppq",
-    "conversion_factor_from_si": 1e-16
+    "conversion_factor_from_si": 1e-16,
+    "ucum_codes": [
+        "[ppq]"
+    ],
+    "factor_unit_scalar": 1
 }

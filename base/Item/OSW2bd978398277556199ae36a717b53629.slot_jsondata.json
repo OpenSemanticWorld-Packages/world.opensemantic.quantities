@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PoissonRatio"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PoissonRatio"
+    ],
+    "uuid": "2bd97839-8277-5561-99ae-36a717b53629",
+    "name": "PoissonRatio",
+    "label": [
+        {
+            "text": "Poisson Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Poisson Ratio is the negative ratio of transverse to axial strain. In fact, when a sample object is stretched (or squeezed), to an extension (or contraction) in the direction of the applied load, it corresponds a contraction (or extension) in a direction perpendicular to the applied load. The ratio between these two quantities is the Poisson's ratio.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

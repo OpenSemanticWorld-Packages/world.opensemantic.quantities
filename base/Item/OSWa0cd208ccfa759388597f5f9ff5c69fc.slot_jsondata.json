@@ -1,0 +1,43 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-KiloGM-DEG_C"
+    ],
+    "uuid": "a0cd208c-cfa7-5938-8597-f5f9ff5c69fc",
+    "name": "JoulePerKilogramDegreeCelsius",
+    "label": [
+        {
+            "text": "Joule per KiloGram Degree Celsius",
+            "lang": "en"
+        },
+        {
+            "text": "Joule Je KiloGramm Grad Celsius",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for expressing the specific heat capacity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(kg·°C)",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "J.kg-1.Cel-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

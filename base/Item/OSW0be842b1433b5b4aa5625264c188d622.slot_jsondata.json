@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "0be842b1-433b-5b4a-a562-5264c188d622",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Deci",
         "https://si-digital-framework.org/SI/prefixes/deci"
     ],
+    "uuid": "0be842b1-433b-5b4a-a562-5264c188d622",
     "name": "deci",
     "label": [
         {
-            "text": "deci (unit prefix)",
+            "text": "deci",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"deci\" is a decimal prefix for expressing a value with a scaling of \\(10^{-1}\\).",
             "lang": "en"
         }
     ],

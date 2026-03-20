@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "7a09e4a7-75a2-5c4d-99a3-77483be824c6",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ParticleFluenceRate"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ParticleFluenceRate"
+    ],
+    "uuid": "7a09e4a7-75a2-5c4d-99a3-77483be824c6",
     "name": "ParticleFluenceRate",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
-        "Item:OSW580b455ce69e57418303f409d43f373a"
+        "Item:OSW580b455ce69e57418303f409d43f373a",
+        "Item:OSW86063c1ed298526d9fca457fe605f00e"
     ]
 }

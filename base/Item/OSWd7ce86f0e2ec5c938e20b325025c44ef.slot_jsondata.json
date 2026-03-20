@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "d7ce86f0-e2ec-5c93-8e20-b325025c44ef",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ForcePerElectricCharge"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ForcePerElectricCharge"
+    ],
+    "uuid": "d7ce86f0-e2ec-5c93-8e20-b325025c44ef",
     "name": "ForcePerElectricCharge",
     "label": [
         {

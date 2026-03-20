@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "7dba7702-fdc7-5ff4-9bb1-a55348063285",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Flux"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Flux"
+    ],
+    "uuid": "7dba7702-fdc7-5ff4-9bb1-a55348063285",
     "name": "Flux",
     "label": [
         {
@@ -21,6 +24,7 @@
     ],
     "units": [
         "Item:OSW580b455ce69e57418303f409d43f373a",
+        "Item:OSW86063c1ed298526d9fca457fe605f00e",
         "Item:OSWe5961e1fe91e50b7bee983e5cb1c375b"
     ]
 }

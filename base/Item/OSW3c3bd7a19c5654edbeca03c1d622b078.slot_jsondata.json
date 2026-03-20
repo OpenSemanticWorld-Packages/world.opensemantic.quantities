@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "3c3bd7a1-9c56-54ed-beca-03c1d622b078",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SoundReductionIndex"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundReductionIndex"
+    ],
+    "uuid": "3c3bd7a1-9c56-54ed-beca-03c1d622b078",
     "name": "SoundReductionIndex",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
+        "Item:OSW07ca63bf7dc757298a3f4e0d372dfe73",
         "Item:OSW20ac6724f1a05ee884222d546955e78f"
     ]
 }

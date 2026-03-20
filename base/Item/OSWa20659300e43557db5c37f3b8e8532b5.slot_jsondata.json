@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HectoPA-PER-HR"
+    ],
+    "uuid": "a2065930-0e43-557d-b5c3-7f3b8e8532b5",
+    "name": "HectopascalsPerHour",
+    "label": [
+        {
+            "text": "HectoPascals per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A change in pressure of one hundred Newtons per square metre (100 Pascals) per hour. Equivalent to a change of one millibar per hour.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "hPa/h",
+    "conversion_factor_from_si": 0.027777777777777776,
+    "ucum_codes": [
+        "hPa.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

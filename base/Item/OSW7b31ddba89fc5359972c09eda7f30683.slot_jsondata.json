@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloJ-PER-K"
+    ],
+    "uuid": "7b31ddba-89fc-5359-972c-09eda7f30683",
+    "name": "KilojoulePerKelvin",
+    "label": [
+        {
+            "text": "KiloJoule per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1 000-fold of the SI derived unit joule divided by the SI base unit kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kJ/K",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "kJ.K-1",
+        "kJ/K"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

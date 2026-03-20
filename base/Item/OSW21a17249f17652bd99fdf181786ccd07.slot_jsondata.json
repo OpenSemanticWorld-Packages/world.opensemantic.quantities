@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PicoMOL-PER-M-W-SEC"
+    ],
+    "uuid": "21a17249-f176-52bd-99fd-f181786ccd07",
+    "name": "PicomolesPerMetreWattSecond",
+    "label": [
+        {
+            "text": "PicoMoles per Metre Watt Second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "pmol/(m·W·s)",
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "pmol.m-1.W-1.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperatureVariance"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperatureVariance"
+    ],
+    "uuid": "98c40340-cfd6-5950-8d2a-acce2c2ae6fe",
+    "name": "TemperatureVariance",
+    "label": [
+        {
+            "text": "Temperature Variance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variance for temperature data.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWd9cb8583836d53228ac7907d5bf8f0f9"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliA-HR"
+    ],
+    "uuid": "0f2851b9-e012-5b93-9293-3d2723c88912",
+    "name": "MilliampereHour",
+    "label": [
+        {
+            "text": "MilliAmpere Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the 0.001-fold of the SI base unit ampere and the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mA·h",
+    "conversion_factor_from_si": 3.6,
+    "ucum_codes": [
+        "mA.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

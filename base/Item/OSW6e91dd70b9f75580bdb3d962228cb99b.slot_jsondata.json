@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "6e91dd70-b9f7-5580-bdb3-d962228cb99b",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/RAD-M2-PER-MOL"
     ],
-    "name": "RAD-M2-PER-MOL",
+    "uuid": "6e91dd70-b9f7-5580-bdb3-d962228cb99b",
+    "name": "RadianSquareMetrePerMole",
     "label": [
         {
             "text": "Radian Square Metre per Mole",
@@ -14,5 +14,21 @@
         }
     ],
     "main_symbol": "rad·m²/mol",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "rad.m2.mol-1",
+        "rad.m2/mol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

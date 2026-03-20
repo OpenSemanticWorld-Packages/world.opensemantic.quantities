@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BAN"
+    ],
+    "uuid": "90fc1f5c-e974-59cf-b9a4-9a8138e227a3",
+    "name": "Ban",
+    "label": [
+        {
+            "text": "Ban",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A $\\textit{ban}$ is a logarithmic unit which measures information or entropy,\n   based on base 10 logarithms and powers of 10, rather than the powers of 2\n   and base 2 logarithms which define the bit. \n  One $\\textit{ban}$ is approximately $3.32 (log_2 10) bits$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ban",
+    "conversion_factor_from_si": 2.30258509,
+    "factor_unit_scalar": 1
+}

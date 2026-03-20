@@ -2,13 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "a13d058b-4ccc-58e5-87ec-191ec1729ce0",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/EV",
-        "http://dbpedia.org/resource/Electron_volt",
-        "https://si-digital-framework.org/SI/units/electronvolt"
+        "http://qudt.org/vocab/unit/EV"
     ],
-    "name": "EV",
+    "uuid": "a13d058b-4ccc-58e5-87ec-191ec1729ce0",
+    "name": "ElectronVolt",
     "label": [
         {
             "text": "Electron Volt",
@@ -23,45 +21,52 @@
     ],
     "main_symbol": "eV",
     "conversion_factor_from_si": 1.602176634e-19,
+    "ucum_codes": [
+        "eV"
+    ],
+    "factor_unit_scalar": 1,
     "prefix_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "4b9cccfc-12ce-52a1-9321-2e16298fe368",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloEV"
-            ],
-            "osw_id": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW4b9cccfc12ce52a193212e16298fe368",
-            "conversion_factor_from_si": 1.602176634e-16,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "keV"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "2f6387f8-4311-5a4b-88fb-68009e2f7dff",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaEV"
-            ],
             "osw_id": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW2f6387f843115a4b88fb68009e2f7dff",
+            "conversion_factor_to_main_unit": 1000000.0000000001,
             "conversion_factor_from_si": 1.602176634e-13,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MeV"
+            "prefix_symbol": "M",
+            "main_symbol": "MeV",
+            "ucum_codes": [
+                "MeV"
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "4b9cccfc-12ce-52a1-9321-2e16298fe368",
+            "osw_id": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW4b9cccfc12ce52a193212e16298fe368",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.602176634e-16,
+            "prefix_symbol": "k",
+            "main_symbol": "keV",
+            "ucum_codes": [
+                "keV"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "763c04e5-ccb3-5c63-9251-5e2be1e7f4a3",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/GigaEV"
-            ],
             "osw_id": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW763c04e5ccb35c6392515e2be1e7f4a3",
+            "conversion_factor_to_main_unit": 1000000000.0000001,
             "conversion_factor_from_si": 1.602176634e-10,
-            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
-            "main_symbol": "GeV"
+            "prefix_symbol": "G",
+            "main_symbol": "GeV",
+            "ucum_codes": [
+                "GeV"
+            ]
         }
     ]
 }

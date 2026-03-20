@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "975f7993-5c9f-543c-aaec-4538d778a2f5",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-SEC-PER-M3"
     ],
-    "name": "PA-SEC-PER-M3",
+    "uuid": "975f7993-5c9f-543c-aaec-4538d778a2f5",
+    "name": "PascalSecondPerCubicMetre",
     "label": [
         {
-            "text": "pascal second per cubic metre",
+            "text": "Pascal Second per Cubic Metre",
             "lang": "en"
         },
         {
-            "text": "Pascalsekunde je Kubikmeter",
+            "text": "Pascalsekunde Je Kubikmeter",
             "lang": "de"
         }
     ],
@@ -24,5 +24,20 @@
         }
     ],
     "main_symbol": "Pa·s/m³",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "Pa.s.m-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -3
+        }
+    ]
 }

@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloMOL-PER-HR"
+    ],
+    "uuid": "d95d2efc-01ef-530e-8082-c420db9bb287",
+    "name": "KilomolePerHour",
+    "label": [
+        {
+            "text": "KiloMole per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1 000-fold of the SI base unit mole divided by the unit for time hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kmol/h",
+    "conversion_factor_from_si": 0.2777777777777778,
+    "ucum_codes": [
+        "kmol.h-1",
+        "kmol/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

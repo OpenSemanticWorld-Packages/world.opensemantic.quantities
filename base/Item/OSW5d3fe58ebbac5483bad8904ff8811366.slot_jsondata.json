@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "5d3fe58e-bbac-5483-bad8-904ff8811366",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/NUM"
     ],
-    "name": "NUM",
+    "uuid": "5d3fe58e-bbac-5483-bad8-904ff8811366",
+    "name": "Number",
     "label": [
         {
             "text": "Number",
@@ -20,5 +20,10 @@
         }
     ],
     "main_symbol": "#",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "1",
+        "{#}"
+    ],
+    "factor_unit_scalar": 1
 }

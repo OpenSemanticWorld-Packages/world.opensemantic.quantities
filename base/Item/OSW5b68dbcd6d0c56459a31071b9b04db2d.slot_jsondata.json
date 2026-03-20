@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "5b68dbcd-6d0c-5645-9a31-071b9b04db2d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassPerEnergy"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassPerEnergy"
+    ],
+    "uuid": "5b68dbcd-6d0c-5645-9a31-071b9b04db2d",
     "name": "MassPerEnergy",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
-        "Item:OSW0ab2af45d05c527d8fe20509629f9ae3"
+        "Item:OSW0ab2af45d05c527d8fe20509629f9ae3",
+        "Item:OSWed66a7af0af258c1b94a9646a09cda97"
     ]
 }

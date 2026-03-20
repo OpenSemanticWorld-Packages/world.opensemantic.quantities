@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "8afae973-361b-5e9b-a300-c36ac631da76",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-PER-M2-SR"
     ],
-    "name": "W-PER-M2-SR",
+    "uuid": "8afae973-361b-5e9b-a300-c36ac631da76",
+    "name": "WattPerSquareMetreSteradian",
     "label": [
         {
             "text": "Watt per Square Metre Steradian",
@@ -15,10 +15,25 @@
     ],
     "description": [
         {
-            "text": "$\\textit{Watt per steradian per square metre}$ is the SI unit of radiance ($W·sr^{-1}·m^{-2}$),\n  while that of spectral radiance in frequency is the watt per steradian per square metre\n  per hertz ($W·sr^{-1}·m^{-2}·Hz^{-1}$) and that of spectral radiance in wavelength is\n  the watt per steradian per square metre, per metre ($W·sr^{-1}·m^{-3}$),\n  commonly the watt per steradian per square metre per nanometre ($W·sr^{-1}·m^{-2}·nm^{-1}$). \n  It has a dimension of $ML^{-4}T^{-3}$ where $M$ is mass, $L$ is length, and $T$ is time. \n  This unit is the standard SI unit in this category.\"\n  ",
+            "text": "$\\textit{Watt per steradian per square metre}$ is the SI unit of radiance ($W·sr^{-1}·m^{-2}$),\n  while that of spectral radiance in frequency is the watt per steradian per square metre\n  per hertz ($W·sr^{-1}·m^{-2}·Hz^{-1}$) and that of spectral radiance in wavelength is\n  the watt per steradian per square metre, per metre ($W·sr^{-1}·m^{-3}$),\n  commonly the watt per steradian per square metre per nanometre ($W·sr^{-1}·m^{-2}·nm^{-1}$). \n  It has a dimension of $ML^{-4}T^{-3}$ where $M$ is mass, $L$ is length, and $T$ is time. \n  This unit is the standard SI unit in this category.\"",
             "lang": "en"
         }
     ],
     "main_symbol": "W/(m²·sr)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "W.m-2.sr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

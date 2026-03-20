@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/FastFissionFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/FastFissionFactor"
+    ],
+    "uuid": "aea8af51-9df3-53da-9bf2-1432980e507f",
+    "name": "FastFissionFactor",
+    "label": [
+        {
+            "text": "Fast Fission Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Fast Fission Factor\" in an infinite medium, is the ratio of the mean number of neutrons produced by fission due to neutrons of all energies to the mean number of neutrons produced by fissions due to thermal neutrons only.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

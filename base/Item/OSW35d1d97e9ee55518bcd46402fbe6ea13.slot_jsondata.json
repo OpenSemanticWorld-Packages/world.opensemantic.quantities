@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "35d1d97e-9ee5-5518-bcd4-6402fbe6ea13",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Energy"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Energy",
-        "https://si-digital-framework.org/SI/quantities/ENGY"
+        "http://qudt.org/vocab/quantitykind/Energy",
+        "https://si-digital-framework.org/quantities/ENGY"
     ],
+    "uuid": "35d1d97e-9ee5-5518-bcd4-6402fbe6ea13",
     "name": "Energy",
     "label": [
         {
@@ -28,10 +29,32 @@
         }
     ],
     "units": [
+        "Item:OSW36e830079f985f9bada7e2fbfbff6f95",
         "Item:OSW730568cd7ae65906abbbcef1d15cb074",
-        "Item:OSWa13d058b4ccc58e587ec191ec1729ce0",
-        "Item:OSWc0185cbae32951049063bb3c1d6b5996",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW0ac3643d930d5c99936e5ece487a9634",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW2d5cdc08b064506e8f9a5b0456b7a0b3",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW30f80559b4db5a9b8d78a70a24847f4b",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW3346670746685c229dc04ba811e7afe9",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW4e7003f5d7ff58a190167711dd63b0bd",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW5ba80670b2945c08b35551442d3169d5",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW6df751011258508e9d15967190c819f3",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW866098e606665b39a34baff6dbb4fae4",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWa73c696efa58519aa07c265ea965ceda",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc26bf1cf449d56ef8122745336585d2b",
         "Item:OSW7a184bd36f7e58f5a5c030497784cc02",
-        "Item:OSW9724a509b76e5646977ae17dce137267"
+        "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW18cf8f6641b257d895834485eb0b2a75",
+        "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW5704cffb8be75d4ba16ce0b5f4be48ab",
+        "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW73af36683bb35cf1aa68e16032c95802",
+        "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW8af49b328ebd55f08d45cf3fc0de2f79",
+        "Item:OSW8375632d08f4586880505270a729188d",
+        "Item:OSW9724a509b76e5646977ae17dce137267",
+        "Item:OSWa13d058b4ccc58e587ec191ec1729ce0",
+        "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW2f6387f843115a4b88fb68009e2f7dff",
+        "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW4b9cccfc12ce52a193212e16298fe368",
+        "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW763c04e5ccb35c6392515e2be1e7f4a3",
+        "Item:OSWa3a12e65123e5c128a222b5ccd537371",
+        "Item:OSWbbd1817837d95c95a9e395774daea725"
     ]
 }

@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "397d9707-b473-555a-8b29-4558cbc5d2a1",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-J-M3"
     ],
-    "name": "PER-J-M3",
+    "uuid": "397d9707-b473-555a-8b29-4558cbc5d2a1",
+    "name": "ReciprocalJouleCubicMetre",
     "label": [
         {
             "text": "Reciprocal Joule Cubic Metre",
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "/(J·m³)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "J-1.m-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

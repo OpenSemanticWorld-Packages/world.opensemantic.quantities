@@ -1,0 +1,40 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CAL_TH-PER-CentiM3-K"
+    ],
+    "uuid": "a0fc0bef-94df-5e83-9e06-751b84e74ae3",
+    "name": "ThermochemicalCaloriePerCubicCentimetreKelvin",
+    "label": [
+        {
+            "text": "Thermochemical Calorie per Cubic CentiMetre Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermochemical Calorie per Cubic Centimeter Kelvin is a unit for Volumetric Heat Capacity expressed as cal{th}/(cm³·K).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cal/(cm³·K)",
+    "conversion_factor_from_si": 4184000.0,
+    "ucum_codes": [
+        "cal_th.cm-3.K-1",
+        "cal_th/(cm3.K)"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

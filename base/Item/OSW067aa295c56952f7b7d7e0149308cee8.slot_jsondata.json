@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-HectoGM"
+    ],
+    "uuid": "067aa295-c569-52f7-b7d7-e0149308cee8",
+    "name": "GramPerHectogram",
+    "label": [
+        {
+            "text": "Gram per HectoGram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by 0.1-fold of the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/hg",
+    "conversion_factor_from_si": 0.01,
+    "ucum_codes": [
+        "g.hg-1",
+        "g/hg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

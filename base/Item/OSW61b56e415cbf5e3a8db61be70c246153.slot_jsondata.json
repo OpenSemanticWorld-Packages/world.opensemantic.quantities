@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "61b56e41-5cbf-5e3a-8db6-1be70c246153",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MilliBQ-PER-GM"
     ],
-    "name": "MilliBQ-PER-GM",
+    "uuid": "61b56e41-5cbf-5e3a-8db6-1be70c246153",
+    "name": "MillibecquerelsPerGram",
     "label": [
         {
-            "text": "Millibecquerels per gram",
+            "text": "MilliBecquerels per Gram",
             "lang": "en"
         }
     ],
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "mBq/g",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "mBq.g-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

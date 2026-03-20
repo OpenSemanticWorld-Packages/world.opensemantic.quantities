@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroMOL-PER-L"
+    ],
+    "uuid": "5367e00a-4060-5a74-b878-ae9d2962dcee",
+    "name": "MicromolesPerLitre",
+    "label": [
+        {
+            "text": "MicroMoles per Litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μmol/L",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "umol.L-1",
+        "umol/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

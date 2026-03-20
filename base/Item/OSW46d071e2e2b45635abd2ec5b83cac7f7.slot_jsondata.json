@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "46d071e2-e2b4-5635-abd2-ec5b83cac7f7",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/YR"
     ],
-    "name": "YR",
+    "uuid": "46d071e2-e2b4-5635-abd2-ec5b83cac7f7",
+    "name": "Year",
     "label": [
         {
             "text": "Year",
@@ -21,19 +21,35 @@
     ],
     "main_symbol": "a",
     "conversion_factor_from_si": 31557600.0,
+    "ucum_codes": [
+        "a"
+    ],
+    "factor_unit_scalar": 1,
     "prefix_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "c43e5d26-f2a9-51f3-97af-ff65351fa135",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaYR"
-            ],
             "osw_id": "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7#OSWc43e5d26f2a951f397afff65351fa135",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 31557600000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "Ma"
+            "prefix_symbol": "M",
+            "main_symbol": "Ma",
+            "ucum_codes": [
+                "Ma"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f8e69499-4676-5e47-bec4-46d7b0d87dd9",
+            "osw_id": "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7#OSWf8e6949946765e47bec446d7b0d87dd9",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 31557600000.0,
+            "prefix_symbol": "k",
+            "main_symbol": "ka"
         }
     ]
 }

@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-KiloGM"
+    ],
+    "uuid": "ffdf8410-a8c6-5687-a122-eaf44719162d",
+    "name": "JoulePerKilogram",
+    "label": [
+        {
+            "text": "Joule per KiloGram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A $\\textit{Joule Per Kilogram}$, ($J/kg$), is a unit in the category of total energy per unit mass, commonly known as specific enthalpy. \n  It is also known as $\\textit{joules per kilogram}$.  \n  The unit has a dimension of $L2T^{-2}$ where $L$ is length, and $T$ is time. \n  This unit is the standard SI unit in this category.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/kg",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "J.kg-1",
+        "J/kg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

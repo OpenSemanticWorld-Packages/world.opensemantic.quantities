@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "509f6440-0f73-5a54-9488-fee680995fa5",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/IsentropicCompressibility"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/IsentropicCompressibility"
+    ],
+    "uuid": "509f6440-0f73-5a54-9488-fee680995fa5",
     "name": "IsentropicCompressibility",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
-        "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
+        "Item:OSWf030abd4441d52a7a8c5f84950985ea4",
+        "Item:OSWf030abd4441d52a7a8c5f84950985ea4#OSW76c7de3066ca5349bd8e252ca3e3ee95"
     ]
 }

@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-M2"
+    ],
+    "uuid": "1a1e54cf-a41d-52e6-80e7-8ec75e65f99c",
+    "name": "MilligramPerSquareMetre",
+    "label": [
+        {
+            "text": "MilliGram per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the SI base unit kilogram divided by the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/m²",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "mg.m-2",
+        "mg/m2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

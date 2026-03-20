@@ -1,0 +1,41 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM4"
+    ],
+    "uuid": "73b630d9-3619-585b-bc7f-4a3a4a3be104",
+    "name": "CentimetreToTheFourthPower",
+    "label": [
+        {
+            "text": "CentiMetre to the Fourth Power",
+            "lang": "en"
+        },
+        {
+            "text": "Quartic CentiMetre",
+            "lang": "en"
+        },
+        {
+            "text": "Zentimeter Hoch 4",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.01-fold of the SI base unit metre with the exponent 4",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm⁴",
+    "conversion_factor_from_si": 1e-08,
+    "ucum_codes": [
+        "cm4"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 4
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerPower"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerPower"
+    ],
+    "uuid": "876f7e15-d758-5ef9-8482-f38a345ca70e",
+    "name": "CostPerPower",
+    "label": [
+        {
+            "text": "Cost per power",
+            "lang": "en"
+        },
+        {
+            "text": "Anschaffungskosten pro Watt",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In photovoltaics, cost per power of electricity produced measures the cost of installing the hardware relative to the power produced.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW25f15974fe095c2d8f2469a96915102c",
+        "Item:OSWc747a38c7cb854b9835305d554c85020"
+    ]
+}

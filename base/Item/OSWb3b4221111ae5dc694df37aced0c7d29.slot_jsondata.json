@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalIonization"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalIonization"
+    ],
+    "uuid": "b3b42211-11ae-5dc6-94df-37aced0c7d29",
+    "name": "TotalIonization",
+    "label": [
+        {
+            "text": "Total Ionization",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Total Ionization\" by a particle, total mean charge, divided by the elementary charge, $e$, of all positive ions produced by an ionizing charged particle along its entire path and along the paths of any secondary charged particles.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

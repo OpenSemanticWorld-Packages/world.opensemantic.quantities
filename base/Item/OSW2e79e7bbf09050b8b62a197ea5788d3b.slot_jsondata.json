@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NapierianAbsorbance"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NapierianAbsorbance"
+    ],
+    "uuid": "2e79e7bb-f090-50b8-b62a-197ea5788d3b",
+    "name": "NapierianAbsorbance",
+    "label": [
+        {
+            "text": "Napierian Absorbance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Napierian Absorbance is the natural (Napierian) logarithm of the reciprocal of the spectral internal transmittance.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

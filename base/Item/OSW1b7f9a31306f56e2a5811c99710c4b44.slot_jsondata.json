@@ -1,18 +1,30 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "1b7f9a31-306f-56e2-a581-1c99710c4b44",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-HZ"
     ],
-    "name": "M2-PER-HZ",
+    "uuid": "1b7f9a31-306f-56e2-a581-1c99710c4b44",
+    "name": "SquareMetresPerHertz",
     "label": [
         {
-            "text": "Square metres per Hertz",
+            "text": "Square Metres per Hertz",
             "lang": "en"
         }
     ],
     "main_symbol": "m²/Hz",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m2.Hz-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        }
+    ]
 }

@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "e9af1751-83dd-5d7c-b8ac-53a3c723d3d1",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-M-PER-M2-SR"
     ],
-    "name": "W-M-PER-M2-SR",
+    "uuid": "e9af1751-83dd-5d7c-b8ac-53a3c723d3d1",
+    "name": "WattMetrePerSquareMetreSteradian",
     "label": [
         {
-            "text": "Watt metre per square metre steradian",
+            "text": "Watt Metre per Square Metre Steradian",
             "lang": "en"
         }
     ],
@@ -20,5 +20,23 @@
         }
     ],
     "main_symbol": "W·m/(m²·sr)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "W.m-2.m.sr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
 }

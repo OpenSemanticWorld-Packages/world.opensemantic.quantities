@@ -1,13 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/LUX-HR"
     ],
     "uuid": "91dd8f12-36fc-5d32-8855-ad69ed6ba6c4",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/LUX-HR",
-        "http://dbpedia.org/resource/Lux"
-    ],
-    "name": "LUX-HR",
+    "name": "LuxHour",
     "label": [
         {
             "text": "Lux Hour",
@@ -21,5 +20,17 @@
         }
     ],
     "main_symbol": "lx·h",
-    "conversion_factor_from_si": 3600.0
+    "conversion_factor_from_si": 3600.0,
+    "ucum_codes": [
+        "lx.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

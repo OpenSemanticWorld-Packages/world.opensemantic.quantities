@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/ERG-PER-CentiM2"
+    ],
+    "uuid": "a6f5dc3b-da32-5537-be95-9b73b3f9cffb",
+    "name": "ErgPerSquareCentimetre",
+    "label": [
+        {
+            "text": "Erg per Square CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Derived CGS unit erg divided by the 0.0001-fold of the power of the SI base unit metre by exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "erg/cm²",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "erg.cm-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

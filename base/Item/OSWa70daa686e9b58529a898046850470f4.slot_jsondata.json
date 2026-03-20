@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "a70daa68-6e9b-5852-9a89-8046850470f4",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LuminousIntensityDistribution"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousIntensityDistribution"
+    ],
+    "uuid": "a70daa68-6e9b-5852-9a89-8046850470f4",
     "name": "IonConcentration",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
-        "Item:OSWb175d26e736c5603bcaa1060f2afddff"
+        "Item:OSWb175d26e736c5603bcaa1060f2afddff",
+        "Item:OSWb175d26e736c5603bcaa1060f2afddff#OSW77b2c8bd92a057b1ade0ce1687eb7520"
     ]
 }

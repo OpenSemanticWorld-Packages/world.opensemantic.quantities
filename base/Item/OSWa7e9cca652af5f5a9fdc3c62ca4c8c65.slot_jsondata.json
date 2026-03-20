@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-PER-CentiM2"
+    ],
+    "uuid": "a7e9cca6-52af-5f5a-9fdc-3c62ca4c8c65",
+    "name": "NewtonPerSquareCentimetre",
+    "label": [
+        {
+            "text": "Newton per Square CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "derived SI unit newton divided by the 0.0001-fold of the power of the SI base unit metre by exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N/cm²",
+    "conversion_factor_from_si": 10000.0,
+    "ucum_codes": [
+        "N.cm-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

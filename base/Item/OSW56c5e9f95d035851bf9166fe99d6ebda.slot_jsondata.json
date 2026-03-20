@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M2-NanoM"
+    ],
+    "uuid": "56c5e9f9-5d03-5851-bf91-66fe99d6ebda",
+    "name": "WattsPerSquareMetreNanometre",
+    "label": [
+        {
+            "text": "Watts per Square Metre NanoMetre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(m²·nm)",
+    "conversion_factor_from_si": 1000000000.0,
+    "ucum_codes": [
+        "W.m-2.nm-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "386b8cf7-4155-5c98-ae89-17736ea79d7c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/YR_TROPICAL"
     ],
-    "name": "YR_TROPICAL",
+    "uuid": "386b8cf7-4155-5c98-ae89-17736ea79d7c",
+    "name": "TropicalYear",
     "label": [
         {
             "text": "Tropical Year",
@@ -20,5 +20,9 @@
         }
     ],
     "main_symbol": "a{tropical}",
-    "conversion_factor_from_si": 31556925.216
+    "conversion_factor_from_si": 31556925.216,
+    "ucum_codes": [
+        "a_t"
+    ],
+    "factor_unit_scalar": 1
 }

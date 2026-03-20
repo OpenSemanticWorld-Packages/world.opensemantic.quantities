@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "1842de09-3ef5-5166-a61d-4f313e1d14ff",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-HR"
     ],
-    "name": "M3-PER-HR",
+    "uuid": "1842de09-3ef5-5166-a61d-4f313e1d14ff",
+    "name": "CubicMetrePerHour",
     "label": [
         {
             "text": "Cubic Metre per Hour",
@@ -21,32 +21,63 @@
     ],
     "main_symbol": "m³/h",
     "conversion_factor_from_si": 0.0002777777777777778,
-    "prefix_units": [
+    "ucum_codes": [
+        "m3.h-1",
+        "m3/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "9e528bf0-820e-550f-a929-4f585f5afd70",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/DeciM3-PER-HR"
+            "uuid": "40e9391e-95cc-5f03-a6df-838c40958d81",
+            "osw_id": "Item:OSW1842de093ef55166a61d4f313e1d14ff#OSW40e9391e95cc5f03a6df838c40958d81",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "cm³/h",
+            "ucum_codes": [
+                "cm3.h-1",
+                "cm3/h"
             ],
-            "osw_id": "Item:OSW1842de093ef55166a61d4f313e1d14ff#OSW9e528bf0820e550fa9294f585f5afd70",
-            "conversion_factor_from_si": 2.777778e-07,
-            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
-            "main_symbol": "dm³/h"
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 3
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "40e9391e-95cc-5f03-a6df-838c40958d81",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/CentiM3-PER-HR"
+            "uuid": "9e528bf0-820e-550f-a929-4f585f5afd70",
+            "osw_id": "Item:OSW1842de093ef55166a61d4f313e1d14ff#OSW9e528bf0820e550fa9294f585f5afd70",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "dm³/h",
+            "ucum_codes": [
+                "dm3.h-1",
+                "dm3/h"
             ],
-            "osw_id": "Item:OSW1842de093ef55166a61d4f313e1d14ff#OSW40e9391e95cc5f03a6df838c40958d81",
-            "conversion_factor_from_si": 2.777778e-10,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "cm³/h"
+            "factor_units": [
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

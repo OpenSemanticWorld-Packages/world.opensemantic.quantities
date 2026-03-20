@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoMOL-PER-MicroMOL"
+    ],
+    "uuid": "a5fd0a4f-17c2-5174-9e8d-e6ff0fa59ed9",
+    "name": "NanomolesPerMicromole",
+    "label": [
+        {
+            "text": "NanoMoles per MicroMole",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unavailable.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "nmol/μmol",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "nmol.umol-1",
+        "nmol/umol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

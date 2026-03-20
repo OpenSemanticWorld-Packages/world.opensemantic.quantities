@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "779e33a0-5727-5cba-9d6f-363a1526d8bf",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-GM"
     ],
-    "name": "PER-GM",
+    "uuid": "779e33a0-5727-5cba-9d6f-363a1526d8bf",
+    "name": "ReciprocalGram",
     "label": [
         {
-            "text": "Reciprocal gram",
+            "text": "Reciprocal Gram",
             "lang": "en"
         }
     ],
@@ -20,5 +20,55 @@
         }
     ],
     "main_symbol": "/g",
-    "conversion_factor_from_si": 1000.0
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "/g",
+        "g-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "426037dc-dc9a-53ce-9412-d341d3bd0dbf",
+            "osw_id": "Item:OSW779e33a057275cba9d6f363a1526d8bf#OSW426037dcdc9a53ce9412d341d3bd0dbf",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "/mg",
+            "ucum_codes": [
+                "/mg",
+                "mg-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "51e92cfe-f808-5d16-9733-191c9e3af49f",
+            "osw_id": "Item:OSW779e33a057275cba9d6f363a1526d8bf#OSW51e92cfef8085d169733191c9e3af49f",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "/kg",
+            "ucum_codes": [
+                "/kg",
+                "kg-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
 }

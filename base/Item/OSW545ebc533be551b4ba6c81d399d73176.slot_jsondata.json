@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Pebi"
+    ],
+    "uuid": "545ebc53-3be5-51b4-ba6c-81d399d73176",
+    "name": "pebi",
+    "label": [
+        {
+            "text": "pebi",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A binary prefix for expressing a value with a scaling of $1024^{5}$, or $2^{50}$.",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Pi",
+    "factor": 125899906842624.0
+}

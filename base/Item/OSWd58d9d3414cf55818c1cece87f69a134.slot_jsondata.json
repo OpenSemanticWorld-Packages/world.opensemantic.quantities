@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DegreeOfDissociation"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Faraday_constant",
+        "http://qudt.org/vocab/quantitykind/DegreeOfDissociation"
+    ],
+    "uuid": "d58d9d34-14cf-5581-8c1c-ece87f69a134",
+    "name": "DegreeOfDissociation",
+    "label": [
+        {
+            "text": "Degree of Dissociation",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Degree of Dissociation\" is the fraction of original solute molecules that have dissociated.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

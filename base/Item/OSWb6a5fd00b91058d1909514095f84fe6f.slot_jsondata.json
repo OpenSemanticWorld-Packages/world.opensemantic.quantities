@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "b6a5fd00-b910-58d1-9095-14095f84fe6f",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Nano",
         "https://si-digital-framework.org/SI/prefixes/nano"
     ],
+    "uuid": "b6a5fd00-b910-58d1-9095-14095f84fe6f",
     "name": "nano",
     "label": [
         {
-            "text": "nano (unit prefix)",
+            "text": "nano",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'nano' is a  decimal prefix for expressing a value with a scaling of \\(10^{-9}\\).",
             "lang": "en"
         }
     ],

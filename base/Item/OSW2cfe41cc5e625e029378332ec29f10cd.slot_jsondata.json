@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "2cfe41cc-5e62-5e02-9378-332ec29f10cd",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificEnergy"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Specific_energy",
-        "https://si-digital-framework.org/SI/quantities/SENG"
+        "http://qudt.org/vocab/quantitykind/SpecificEnergy",
+        "https://si-digital-framework.org/quantities/SENG"
     ],
+    "uuid": "2cfe41cc-5e62-5e02-9378-332ec29f10cd",
     "name": "SpecificEnergy",
     "label": [
         {
@@ -24,6 +25,11 @@
         }
     ],
     "units": [
-        "Item:OSW0fb024653eb9557482d93f027840ee33"
+        "Item:OSW0fb024653eb9557482d93f027840ee33",
+        "Item:OSW0fb024653eb9557482d93f027840ee33#OSW198b087b3d565fedb18279ccd08a5b40",
+        "Item:OSW0fb024653eb9557482d93f027840ee33#OSW27784b13f8b75b47875a87f13de1cde9",
+        "Item:OSW0fb024653eb9557482d93f027840ee33#OSW4acc791f0c595c508efa5222cb675287",
+        "Item:OSW5c3bc74f490f59b898441d2863f5e961",
+        "Item:OSWffdf8410a8c65687a122eaf44719162d"
     ]
 }

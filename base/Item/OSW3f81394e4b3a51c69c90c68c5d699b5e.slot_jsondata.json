@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FA"
+    ],
+    "uuid": "3f81394e-4b3a-51c6-9c90-c68c5d699b5e",
+    "name": "FractionalArea",
+    "label": [
+        {
+            "text": "Fractional Area",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Fractional area\" is a unit for  'Solid Angle' expressed as $fa$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "fa",
+    "conversion_factor_from_si": 12.5663706,
+    "factor_unit_scalar": 1
+}

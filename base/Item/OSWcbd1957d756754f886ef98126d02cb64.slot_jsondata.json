@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StatisticalWeight"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StatisticalWeight"
+    ],
+    "uuid": "cbd1957d-7567-54f8-86ef-98126d02cb64",
+    "name": "StatisticalWeight",
+    "label": [
+        {
+            "text": "Statistical Weight",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A \"Statistical Weight\" is the relative probability (possibly unnormalized) of a particular feature of a state.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

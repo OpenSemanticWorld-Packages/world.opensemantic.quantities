@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "ed766f1d-ce39-59e3-9bb9-a8749f99dc34",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-HR"
     ],
-    "name": "J-PER-HR",
+    "uuid": "ed766f1d-ce39-59e3-9bb9-a8749f99dc34",
+    "name": "JoulePerHour",
     "label": [
         {
             "text": "Joule per Hour",
@@ -21,32 +21,81 @@
     ],
     "main_symbol": "J/h",
     "conversion_factor_from_si": 0.0002777777777777778,
-    "prefix_units": [
+    "ucum_codes": [
+        "J.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "9f5126b9-1d1d-5456-82b1-7c6685f9268c",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/GigaJ-PER-HR"
+            "uuid": "9a1ec7b2-603f-53c7-9bbf-32779f0d892d",
+            "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSW9a1ec7b2603f53c79bbf32779f0d892d",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 0.2777777777777778,
+            "main_symbol": "kJ/h",
+            "ucum_codes": [
+                "kJ.h-1"
             ],
-            "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSW9f5126b91d1d545682b17c6685f9268c",
-            "conversion_factor_from_si": 277777.77777777775,
-            "prefix": "Item:OSW62e04cd0df5c5ad4b76d5632fa7b47a0",
-            "main_symbol": "GJ/h"
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "9f5126b9-1d1d-5456-82b1-7c6685f9268c",
+            "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSW9f5126b91d1d545682b17c6685f9268c",
+            "conversion_factor_to_main_unit": 999999999.9999999,
+            "conversion_factor_from_si": 277777.77777777775,
+            "main_symbol": "GJ/h",
+            "ucum_codes": [
+                "GJ.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "b3b25b25-40cd-5acd-ba07-941a513e473b",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaJ-PER-HR"
-            ],
             "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSWb3b25b2540cd5acdba07941a513e473b",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 277.77777777777777,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MJ/h"
+            "main_symbol": "MJ/h",
+            "ucum_codes": [
+                "MJ.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

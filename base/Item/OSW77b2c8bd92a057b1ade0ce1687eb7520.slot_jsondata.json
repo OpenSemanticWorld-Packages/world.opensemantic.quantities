@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CD-PER-KiloLM"
+    ],
+    "uuid": "77b2c8bd-92a0-57b1-ade0-ce1687eb7520",
+    "name": "CandelaPerKilolumen",
+    "label": [
+        {
+            "text": "Candela per KiloLumen",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cd/klm",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "cd.klm-1",
+        "cd/klm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

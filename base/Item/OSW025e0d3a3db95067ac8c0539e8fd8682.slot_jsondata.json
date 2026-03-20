@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-GigaEV2"
+    ],
+    "uuid": "025e0d3a-3db9-5067-ac8c-0539e8fd8682",
+    "name": "ReciprocalSquareGigaElectronVoltUnit",
+    "label": [
+        {
+            "text": "Reciprocal Square Giga Electron Volt Unit",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Per Square Giga Electron Volt Unit is a denominator unit with dimensions $/GeV^2$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/GeV²",
+    "conversion_factor_from_si": 3.895643552657605e+19,
+    "ucum_codes": [
+        "GeV-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        }
+    ]
+}

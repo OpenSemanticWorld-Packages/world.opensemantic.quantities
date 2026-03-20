@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-DAY"
+    ],
+    "uuid": "d4efaa79-c6c9-5948-8eb3-dc916ba13c80",
+    "name": "DegreeCelsiusDay",
+    "label": [
+        {
+            "text": "Degree Celsius Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of measurement that represents the difference between a reference temperature (typically 18°C) and the actual outdoor temperature over one day, used to estimate heating or cooling energy needs for buildings.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C·d",
+    "conversion_factor_from_si": 86400.0,
+    "ucum_codes": [
+        "Cel.d"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

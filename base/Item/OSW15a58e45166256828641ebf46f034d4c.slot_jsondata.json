@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "15a58e45-1662-5682-8641-ebf46f034d4c",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Zetta",
         "https://si-digital-framework.org/SI/prefixes/zetta"
     ],
+    "uuid": "15a58e45-1662-5682-8641-ebf46f034d4c",
     "name": "zetta",
     "label": [
         {
-            "text": "zetta (unit prefix)",
+            "text": "zetta",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'zetta' is a decimal prefix for expressing a value with a scaling of \\(10^{21}\\).",
             "lang": "en"
         }
     ],

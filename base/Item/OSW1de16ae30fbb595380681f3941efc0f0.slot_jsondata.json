@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "1de16ae3-0fbb-5953-8068-1f3941efc0f0",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LuminousIntensity"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Luminous_intensity",
-        "https://si-digital-framework.org/SI/quantities/LUIN"
+        "http://qudt.org/vocab/quantitykind/LuminousIntensity",
+        "https://si-digital-framework.org/quantities/LUIN"
     ],
+    "uuid": "1de16ae3-0fbb-5953-8068-1f3941efc0f0",
     "name": "LuminousIntensity",
     "label": [
         {
@@ -28,6 +29,8 @@
         }
     ],
     "units": [
-        "Item:OSWf04f81ce6d6a53b98630967e75958e53"
+        "Item:OSWf04f81ce6d6a53b98630967e75958e53",
+        "Item:OSWf04f81ce6d6a53b98630967e75958e53#OSW303689572355510bbc89c9c3d26d164a",
+        "Item:OSWf04f81ce6d6a53b98630967e75958e53#OSWaafc38bda34b53ec953b191d1935ce8d"
     ]
 }

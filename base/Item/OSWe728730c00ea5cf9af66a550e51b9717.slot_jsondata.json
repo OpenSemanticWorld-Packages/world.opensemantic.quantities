@@ -2,16 +2,14 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "e728730c-00ea-5cf9-af66-a550e51b9717",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/K",
-        "http://dbpedia.org/resource/Kelvin",
-        "https://si-digital-framework.org/SI/units/kelvin"
+        "http://qudt.org/vocab/unit/K"
     ],
-    "name": "K",
+    "uuid": "e728730c-00ea-5cf9-af66-a550e51b9717",
+    "name": "Kelvin",
     "label": [
         {
-            "text": "kelvin",
+            "text": "Kelvin",
             "lang": "en"
         },
         {
@@ -21,10 +19,49 @@
     ],
     "description": [
         {
-            "text": "\n  The unit $\\textit{Kelvin}$ is the SI base unit of temperature, previously called the degree Kelvin. \n  One kelvin represents the same temperature difference as one degree Celsius. \n  In 1967 the General Conference on Weights and Measures defined the temperature of the triple point of water\n   (the temperature at which water exists simultaneously in the gaseous, liquid, and solid states) to be exactly 273.16 kelvins. \n  Since this temperature is also equal to 0.01 u00b0C, the temperature in kelvins is always equal to 273.15 plus the temperature in degrees Celsius. \n  The kelvin equals exactly 1.8 degrees Fahrenheit. \n  The unit is named for the British mathematician and physicist William Thomson (1824-1907),\n   later known as Lord Kelvin after he was named Baron Kelvin of Largs.\n  ",
+            "text": "The unit $\\textit{Kelvin}$ is the SI base unit of temperature, previously called the degree Kelvin. \n  One kelvin represents the same temperature difference as one degree Celsius. \n  In 1967 the General Conference on Weights and Measures defined the temperature of the triple point of water\n   (the temperature at which water exists simultaneously in the gaseous, liquid, and solid states) to be exactly 273.16 kelvins. \n  Since this temperature is also equal to 0.01 u00b0C, the temperature in kelvins is always equal to 273.15 plus the temperature in degrees Celsius. \n  The kelvin equals exactly 1.8 degrees Fahrenheit. \n  The unit is named for the British mathematician and physicist William Thomson (1824-1907),\n   later known as Lord Kelvin after he was named Baron Kelvin of Largs.",
             "lang": "en"
         }
     ],
     "main_symbol": "K",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "K"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "1c1f6dfe-de08-5433-b00f-28c4732a1aac",
+            "osw_id": "Item:OSWe728730c00ea5cf9af66a550e51b9717#OSW1c1f6dfede085433b00f28c4732a1aac",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "prefix_symbol": "m",
+            "main_symbol": "mK"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "85b3c104-4211-5362-9814-b3e80bfa074d",
+            "osw_id": "Item:OSWe728730c00ea5cf9af66a550e51b9717#OSW85b3c104421153629814b3e80bfa074d",
+            "conversion_factor_to_main_unit": 10.0,
+            "conversion_factor_from_si": 10.0,
+            "prefix_symbol": "da",
+            "main_symbol": "daK"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "aa5d744f-fc47-5e07-98b1-dfd92b9bd176",
+            "osw_id": "Item:OSWe728730c00ea5cf9af66a550e51b9717#OSWaa5d744ffc475e0798b1dfd92b9bd176",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "prefix_symbol": "M",
+            "main_symbol": "MK"
+        }
+    ]
 }

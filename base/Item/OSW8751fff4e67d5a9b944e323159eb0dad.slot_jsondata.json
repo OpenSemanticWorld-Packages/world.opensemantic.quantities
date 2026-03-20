@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "8751fff4-e67d-5a9b-944e-323159eb0dad",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/H-PER-OHM"
     ],
-    "name": "H-PER-OHM",
+    "uuid": "8751fff4-e67d-5a9b-944e-323159eb0dad",
+    "name": "HenryPerOhm",
     "label": [
         {
             "text": "Henry per Ohm",
@@ -21,45 +21,125 @@
     ],
     "main_symbol": "H/Ω",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "H.Ohm-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "6df92296-49a6-5017-8226-75d67c415c23",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliH-PER-OHM"
-            ],
-            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW6df9229649a65017822675d67c415c23",
-            "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mH/Ω"
+            "exponent": -1
         },
         {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "14b5b614-d6eb-5e94-9713-232e9d79b744",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroH-PER-OHM"
-            ],
             "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW14b5b614d6eb5e949713232e9d79b744",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "µH/Ω"
+            "main_symbol": "μH/Ω",
+            "ucum_codes": [
+                "uH.Ohm-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "6df92296-49a6-5017-8226-75d67c415c23",
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW6df9229649a65017822675d67c415c23",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mH/Ω",
+            "ucum_codes": [
+                "mH.Ohm-1",
+                "mH/Ohm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "91f2217a-1e5e-58bb-8464-4588308ec27b",
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW91f2217a1e5e58bb84644588308ec27b",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "mH/kΩ",
+            "ucum_codes": [
+                "mH.kOhm-1",
+                "mH/kOhm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "dd1328a6-f280-577c-866b-63c5e9eb7d53",
+            "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSWdd1328a6f280577c866b63c5e9eb7d53",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "μH/kΩ",
+            "ucum_codes": [
+                "uH.kOhm-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "f02ec247-3013-5b3c-84a2-8a362576cd24",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/H-PER-KiloOHM"
-            ],
             "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSWf02ec24730135b3c84a28a362576cd24",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "H/kΩ"
+            "main_symbol": "H/kΩ",
+            "ucum_codes": [
+                "H.kOhm-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

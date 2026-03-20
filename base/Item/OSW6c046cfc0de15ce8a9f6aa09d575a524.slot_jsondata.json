@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliS-PER-CentiM"
+    ],
+    "uuid": "6c046cfc-0de1-5ce8-a9f6-aa09d575a524",
+    "name": "MillisiemensPerCentimetre",
+    "label": [
+        {
+            "text": "MilliSiemens per CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.001-fold of the SI derived unit Siemens divided by the 0.01-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mS/cm",
+    "conversion_factor_from_si": 0.1,
+    "ucum_codes": [
+        "mS.cm-1",
+        "mS/cm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "830ed291-ed1e-5092-8be4-1ad485b68392",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MolarAbsorptionCoefficient"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MolarAbsorptionCoefficient"
+    ],
+    "uuid": "830ed291-ed1e-5092-8be4-1ad485b68392",
     "name": "MolarAbsorptionCoefficient",
     "label": [
         {

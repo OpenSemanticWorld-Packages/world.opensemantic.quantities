@@ -1,0 +1,44 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassBasedBloodGlucoseLevel"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassBasedBloodGlucoseLevel"
+    ],
+    "uuid": "590cb8ab-f8b9-55a8-acbd-e8919ec5ae42",
+    "name": "BloodGlucoseLevelByMass",
+    "label": [
+        {
+            "text": "Blood Glucose Level by Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Blood sugar level, blood sugar concentration, or blood glucose level is the amount of glucose present in the blood of humans and animals. \n  Glucose is a simple sugar and approximately 4 grams of glucose are present in the blood of humans at all times.  \n  Stored in skeletal muscle and liver cells in the form of glycogen, the body tightly regulates blood glucose levels as a part of metabolic homeostasis.\n  During fasting blood glucose is maintained at a constant level at the expense of the glycogen stores in the liver and skeletal muscle. \n  There are two main methods of describing concentrations: by weight, and by molecular count. \n  Weights are in grams and molecular counts in moles. \n  A mole is $6.022\\times 10^{23}$ molecules.\n  In both cases, the unit is usually modified by $milli-$ or $micro-$ or other prefix,\n   and is always $per$ some volume, often a litre. \n  Conversion factors depend on the molecular weight of the substance in question. \n  $mmol/L$ is millimoles/liter, and is the world standard unit for measuring glucose in blood. \n  Specifically, it is the designated SI (Systeme International) unit. \n  Some countries use $mg/dl$. \n  A mole is about $6\\times 10^{23}$ molecules.\n  $mg/dL$ (milligrams/deciliter) is the traditional unit for measuring $bG$ (blood glucose). \n  There is a trend toward using $mmol/L$ however $mg/dL$ is much in practice. \n  Some use is made of $mmol/L$ as the primary unit with $mg/dL$ quoted in parentheses. \n  This acknowledges the large base of health care providers, researchers and patients who are already familiar with $mg/dL$.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW194b197054bf5fa8a1be2c3174c45533",
+        "Item:OSW42fdef27c8ae5c8fbf1876c400f27101",
+        "Item:OSW449dc7494f3f5c0bbd9aff1d1fd2f591",
+        "Item:OSW4e40e8b30f7e538ea8e0d4f05b5d3902",
+        "Item:OSW5fa45224944c5acfab05391fe0148c20",
+        "Item:OSW66bb1b8350585aeda95c898810e3bb48",
+        "Item:OSW754b1a3564725113ac583f91ae2ea959",
+        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW1a48aea5dca45c34bbde02b0df02f6f8",
+        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW40c933269ec45fc1aeef04aefce2b374",
+        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW42db908953c75d6ab0be4b63a4328cbf",
+        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW457d0485a44c57cda788a583bf9ab4ff",
+        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSW99bbcff947e1508bad38d748ad6ff8e2",
+        "Item:OSW754b1a3564725113ac583f91ae2ea959#OSWe905ceb23b3b550489bed5baa6c9b466",
+        "Item:OSW7bff330db03c556682c16dc67a19e528",
+        "Item:OSW84ec459d4d135bf28a610cd00061d18c",
+        "Item:OSWca4043a385f25aa3a98122f2aefd0d2e",
+        "Item:OSWcfce86b4df4f59eaa882e2af54dd4bad"
+    ]
+}

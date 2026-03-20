@@ -1,18 +1,30 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "59354898-83d1-5f2f-b2ef-853f57c66f49",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/T-SEC"
     ],
-    "name": "T-SEC",
+    "uuid": "59354898-83d1-5f2f-b2ef-853f57c66f49",
+    "name": "TSec",
     "label": [
         {
-            "text": "T-SEC",
+            "text": "T-sec",
             "lang": "en"
         }
     ],
     "main_symbol": "T·s",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "T.s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

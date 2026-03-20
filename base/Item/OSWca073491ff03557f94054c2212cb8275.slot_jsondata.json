@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloTONNE-PER-YR"
+    ],
+    "uuid": "ca073491-ff03-557f-9405-4c2212cb8275",
+    "name": "KilotonnePerYear",
+    "label": [
+        {
+            "text": "KiloTonne per Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1000 metric tonne divided by the unit year with 365 days",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kt/a",
+    "conversion_factor_from_si": 0.03168808781402895,
+    "ucum_codes": [
+        "kt.a-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

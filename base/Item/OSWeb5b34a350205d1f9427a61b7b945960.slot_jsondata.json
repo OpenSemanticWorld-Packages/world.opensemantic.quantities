@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BatteryCapacity"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BatteryCapacity"
+    ],
+    "uuid": "eb5b34a3-5020-5d1f-9427-a61b7b945960",
+    "name": "BatteryCapacity",
+    "label": [
+        {
+            "text": "Battery capacity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Elektrizitätsmenge oder elektrische Ladung, die eine vollgeladenen Batterie unter festgelegten Bedingungen abgeben kann als Produkt aus Entladestrom und Entladezeit",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0f2851b9e0125b9392933d2723c88912",
+        "Item:OSW35d01b84f9fd58aeb65ab3bd19002e82",
+        "Item:OSW5705fe1e62ee57b3b67f335a31bc8e6e",
+        "Item:OSW5705fe1e62ee57b3b67f335a31bc8e6e#OSWb89c82dd9d915c8d9172bd71acae38f1",
+        "Item:OSWafebb36f7bb65377baeb39c5c782bc93"
+    ]
+}

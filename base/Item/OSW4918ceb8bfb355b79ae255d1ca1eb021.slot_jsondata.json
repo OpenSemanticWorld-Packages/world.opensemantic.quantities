@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-KiloGM"
+    ],
+    "uuid": "4918ceb8-bfb3-55b7-9ae2-55d1ca1eb021",
+    "name": "MilligramPerKilogram",
+    "label": [
+        {
+            "text": "MilliGram per KiloGram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the SI base unit kilogram divided by the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/kg",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "mg.kg-1",
+        "mg/kg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

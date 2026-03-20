@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroGM-PER-CentiM2-WK"
+    ],
+    "uuid": "24ab2716-3380-5b9b-846c-7138d3eab529",
+    "name": "MicrogramsPerSquareCentimetreWeek",
+    "label": [
+        {
+            "text": "MicroGrams per Square CentiMetre Week",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of 1e-9 of the SI unit of mass over 0.00001 of the SI unit of area in a period of one calendar week.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μg/(cm²·wk)",
+    "conversion_factor_from_si": 1.6534391534391535e-11,
+    "ucum_codes": [
+        "µg.cm-2.wk-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

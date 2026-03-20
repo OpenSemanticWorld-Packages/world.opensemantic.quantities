@@ -2,12 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "308ac27b-e52b-5fbe-85d6-47c7429f32f1",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/DEG",
-        "https://si-digital-framework.org/SI/units/degree"
+        "http://qudt.org/vocab/unit/DEG"
     ],
-    "name": "DEG",
+    "uuid": "308ac27b-e52b-5fbe-85d6-47c7429f32f1",
+    "name": "Degree",
     "label": [
         {
             "text": "Degree",
@@ -21,5 +20,9 @@
         }
     ],
     "main_symbol": "°",
-    "conversion_factor_from_si": 0.0174532925
+    "conversion_factor_from_si": 0.0174532925,
+    "ucum_codes": [
+        "deg"
+    ],
+    "factor_unit_scalar": 1
 }

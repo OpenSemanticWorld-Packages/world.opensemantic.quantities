@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MIL"
+    ],
+    "uuid": "1874dba9-5c26-5fe6-a72a-8f5cc601ae05",
+    "name": "MilAngleNato",
+    "label": [
+        {
+            "text": "Mil Angle (nato)",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Mil unit of plane angle, as defined by NATO to be 1/6400 of a circle.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mil{NATO}",
+    "conversion_factor_from_si": 0.0009817477042468104,
+    "factor_unit_scalar": 1
+}

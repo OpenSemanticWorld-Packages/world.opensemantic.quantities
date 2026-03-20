@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "06d38ecf-c760-5d43-b046-b6ff92020132",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticFluxPerLength"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticFluxPerLength"
+    ],
+    "uuid": "06d38ecf-c760-5d43-b046-b6ff92020132",
     "name": "MagneticFluxPerLength",
     "label": [
         {
@@ -20,8 +23,8 @@
         }
     ],
     "units": [
-        "Item:OSWefcd851d718352018f7355bf1594398e",
         "Item:OSWe180e39c49d7563ca3bb04314b1b3c90",
+        "Item:OSWefcd851d718352018f7355bf1594398e",
         "Item:OSWf63c15f03855534fabdc39bb5403d1ff"
     ]
 }

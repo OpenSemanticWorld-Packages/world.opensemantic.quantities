@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_EUR-PER-W-HR"
+    ],
+    "uuid": "3c97bbdd-02cf-5283-9cac-517b5db25755",
+    "name": "EuroPerWattHour",
+    "label": [
+        {
+            "text": "Euro per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "€/(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "d07d2737-c3de-5ffd-8e90-27505e8b44db",
+            "osw_id": "Item:OSW3c97bbdd02cf52839cac517b5db25755#OSWd07d2737c3de5ffd8e9027505e8b44db",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "€/(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

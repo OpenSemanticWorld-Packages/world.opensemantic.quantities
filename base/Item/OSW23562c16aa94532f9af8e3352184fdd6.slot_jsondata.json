@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "23562c16-aa94-532f-9af8-e3352184fdd6",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricChargePerArea"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricChargePerArea"
+    ],
+    "uuid": "23562c16-aa94-532f-9af8-e3352184fdd6",
     "name": "ElectricChargePerArea",
     "label": [
         {
@@ -20,6 +23,12 @@
         }
     ],
     "units": [
-        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239"
+        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239",
+        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW344d47f96cd55fe89e73f85cb1054450",
+        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW596e6e9224085a35b395fc84aa4edde8",
+        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW6314b9832a355b7cab3616f5d08c4165",
+        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWaace10bd10b5537299ad0548738e0b5e",
+        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWea3f16aa263f52dc941e62b9c510ade5",
+        "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWf6450e8adb145e3a8cc3104122cdc667"
     ]
 }

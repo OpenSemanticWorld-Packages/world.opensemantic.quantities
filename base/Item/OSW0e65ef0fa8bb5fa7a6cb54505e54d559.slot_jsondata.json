@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_GBP-PER-KiloW-HR"
+    ],
+    "uuid": "0e65ef0f-a8bb-5fa7-a6cb-54505e54d559",
+    "name": "PoundSterlingPerKilowattHour",
+    "label": [
+        {
+            "text": "Pound Sterling per KiloWatt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "£/(kW·h)",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

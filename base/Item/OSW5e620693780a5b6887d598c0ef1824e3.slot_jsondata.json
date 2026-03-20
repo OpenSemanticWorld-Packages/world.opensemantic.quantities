@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BurstFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BurstFactor"
+    ],
+    "uuid": "5e620693-780a-5b68-87d5-98c0ef1824e3",
+    "name": "BurstFactor",
+    "label": [
+        {
+            "text": "Burst factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Quotient Berstdruck dividiert durch die flächenbezogene Masse",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW2ff95fa06aa15090a73b82c969626568"
+    ]
+}

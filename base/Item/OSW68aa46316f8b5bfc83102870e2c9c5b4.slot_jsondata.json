@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V-PER-CentiM"
+    ],
+    "uuid": "68aa4631-6f8b-5bfc-8310-2870e2c9c5b4",
+    "name": "VoltPerCentimetre",
+    "label": [
+        {
+            "text": "Volt per CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "derived SI unit volt divided by the 0.01-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V/cm",
+    "conversion_factor_from_si": 100.0,
+    "ucum_codes": [
+        "V.cm-1",
+        "V/cm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

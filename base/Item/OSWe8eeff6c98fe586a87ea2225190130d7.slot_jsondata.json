@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "e8eeff6c-98fe-586a-87ea-2225190130d7",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Impedance"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/Electrical_impedance"
+        "http://dbpedia.org/resource/Electrical_impedance",
+        "http://qudt.org/vocab/quantitykind/Impedance"
     ],
+    "uuid": "e8eeff6c-98fe-586a-87ea-2225190130d7",
     "name": "Impedance",
     "label": [
         {
@@ -23,6 +24,13 @@
         }
     ],
     "units": [
-        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1"
+        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1",
+        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW14b14dd3c32d5ee199a67e3796734a4a",
+        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5196e38637c752e58c2b5be5521e4234",
+        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5e05beabf6935ae2b559c1cffc788110",
+        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW66dbbd77c6ca5d5684b223fdfcc7b773",
+        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWa8d17cb3f4255320af6052cbd471d716",
+        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWacd4090bd8335717b6eea6b8c1151b29",
+        "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSWd5baa3a9c73550c69a9c6ee769068975"
     ]
 }

@@ -1,18 +1,30 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "89a93ec7-1824-51c7-bb7c-49473c81bc2c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/K-DAY"
     ],
-    "name": "K-DAY",
+    "uuid": "89a93ec7-1824-51c7-bb7c-49473c81bc2c",
+    "name": "KelvinDay",
     "label": [
         {
-            "text": "Kelvin day",
+            "text": "Kelvin Day",
             "lang": "en"
         }
     ],
-    "main_symbol": "K·day",
-    "conversion_factor_from_si": 86400.0
+    "main_symbol": "K·d",
+    "conversion_factor_from_si": 86400.0,
+    "ucum_codes": [
+        "K.d"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

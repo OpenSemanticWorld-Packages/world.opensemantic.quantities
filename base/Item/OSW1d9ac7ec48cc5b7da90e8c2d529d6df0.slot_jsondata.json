@@ -1,17 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/T"
     ],
     "uuid": "1d9ac7ec-48cc-5b7d-a90e-8c2d529d6df0",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/T",
-        "http://dbpedia.org/resource/Tesla",
-        "https://si-digital-framework.org/SI/units/tesla"
-    ],
-    "name": "T",
+    "name": "Tesla",
     "label": [
         {
-            "text": "tesla",
+            "text": "Tesla",
             "lang": "en"
         },
         {
@@ -27,45 +25,67 @@
     ],
     "main_symbol": "T",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "T"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "490afd74-306a-568c-858e-46dd393110fe",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliT"
-            ],
-            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW490afd74306a568c858e46dd393110fe",
-            "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mT"
+            "exponent": 1
         },
         {
+            "exponent": -2
+        }
+    ],
+    "composed_units": [
+        {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "30a0158a-f544-5fbc-8b08-c843d0a84d5a",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroT"
-            ],
             "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW30a0158af5445fbc8b08c843d0a84d5a",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "µT"
+            "main_symbol": "μT",
+            "ucum_codes": [
+                "uT"
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "490afd74-306a-568c-858e-46dd393110fe",
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW490afd74306a568c858e46dd393110fe",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mT",
+            "ucum_codes": [
+                "mT"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "7b67d496-40c7-5e54-b490-6f4bd72b494b",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/NanoT"
-            ],
             "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW7b67d49640c75e54b4906f4bd72b494b",
+            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
-            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
-            "main_symbol": "nT"
+            "main_symbol": "nT",
+            "ucum_codes": [
+                "nT"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "895257ec-b53a-5cbd-914f-286afb05f9b2",
+            "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW895257ecb53a5cbd914f286afb05f9b2",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "kT"
         }
     ]
 }

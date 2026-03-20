@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "fa81836c-0a39-51e8-ac1f-4c6d0fba3e25",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Hecto",
         "https://si-digital-framework.org/SI/prefixes/hecto"
     ],
+    "uuid": "fa81836c-0a39-51e8-ac1f-4c6d0fba3e25",
     "name": "hecto",
     "label": [
         {
-            "text": "hecto (unit prefix)",
+            "text": "hecto",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'hecto' is a decimal prefix for expressing a value with a scaling of \\(10^{2}\\).",
             "lang": "en"
         }
     ],

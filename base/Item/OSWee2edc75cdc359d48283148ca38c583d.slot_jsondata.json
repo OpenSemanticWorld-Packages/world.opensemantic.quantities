@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-CentiM"
+    ],
+    "uuid": "ee2edc75-cdc3-59d4-8283-148ca38c583d",
+    "name": "DegreeCelsiusCentimetre",
+    "label": [
+        {
+            "text": "Degree Celsius CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Degree Celsius Centimeter}$ is a C.G.S System unit for 'Length Temperature' expressed as $cm-degC$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C·cm",
+    "conversion_factor_from_si": 0.01,
+    "ucum_codes": [
+        "Cel.cm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

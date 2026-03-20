@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "98372a3d-ae18-565f-8e4c-5863c7aaf33a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-SEC"
     ],
-    "name": "PER-SEC",
+    "uuid": "98372a3d-ae18-565f-8e4c-5863c7aaf33a",
+    "name": "ReciprocalSecond",
     "label": [
         {
             "text": "Reciprocal Second",
@@ -21,19 +21,34 @@
     ],
     "main_symbol": "/s",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "/s",
+        "s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "4e1dedc5-c7a6-585c-868f-f31ff7432d99",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/PER-MilliSEC"
-            ],
             "osw_id": "Item:OSW98372a3dae18565f8e4c5863c7aaf33a#OSW4e1dedc5c7a6585c868ff31ff7432d99",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "/ms"
+            "main_symbol": "/ms",
+            "ucum_codes": [
+                "ms-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

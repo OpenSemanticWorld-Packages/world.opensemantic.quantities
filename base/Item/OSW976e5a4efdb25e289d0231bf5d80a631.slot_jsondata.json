@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "976e5a4e-fdb2-5e28-9d02-31bf5d80a631",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PhotonRadiance"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PhotonRadiance"
+    ],
+    "uuid": "976e5a4e-fdb2-5e28-9d02-31bf5d80a631",
     "name": "PhotonRadiance",
     "label": [
         {

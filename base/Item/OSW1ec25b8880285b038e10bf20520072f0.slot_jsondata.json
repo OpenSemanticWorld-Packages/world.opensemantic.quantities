@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "1ec25b88-8028-5b03-8e10-bf20520072f0",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Zepto",
         "https://si-digital-framework.org/SI/prefixes/zepto"
     ],
+    "uuid": "1ec25b88-8028-5b03-8e10-bf20520072f0",
     "name": "zepto",
     "label": [
         {
-            "text": "zepto (unit prefix)",
+            "text": "zepto",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'zepto' is a decimal prefix for expressing a value with a scaling of \\(10^{-21}\\).",
             "lang": "en"
         }
     ],

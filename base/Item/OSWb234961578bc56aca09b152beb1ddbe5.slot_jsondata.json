@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-PER-MilliM2"
+    ],
+    "uuid": "b2349615-78bc-56ac-a09b-152beb1ddbe5",
+    "name": "NewtonPerSquareMillimetre",
+    "label": [
+        {
+            "text": "Newton per Square MilliMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit newton divided by the 0.000001-fold of the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N/mm²",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "N.mm-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

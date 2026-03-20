@@ -2,12 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "ca47b843-54ef-5eb1-947d-e297c89694a4",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/MIN",
-        "https://si-digital-framework.org/SI/units/minute"
+        "http://qudt.org/vocab/unit/MIN"
     ],
-    "name": "MIN",
+    "uuid": "ca47b843-54ef-5eb1-947d-e297c89694a4",
+    "name": "Minute",
     "label": [
         {
             "text": "Minute",
@@ -21,5 +20,9 @@
         }
     ],
     "main_symbol": "min",
-    "conversion_factor_from_si": 60.0
+    "conversion_factor_from_si": 60.0,
+    "ucum_codes": [
+        "min"
+    ],
+    "factor_unit_scalar": 1
 }

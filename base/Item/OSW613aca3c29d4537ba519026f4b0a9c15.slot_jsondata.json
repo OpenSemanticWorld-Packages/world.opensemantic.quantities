@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "613aca3c-29d4-537b-a519-026f4b0a9c15",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GRAIN-PER-M3"
     ],
-    "name": "GRAIN-PER-M3",
+    "uuid": "613aca3c-29d4-537b-a519-026f4b0a9c15",
+    "name": "GrainsPerCubicMetre",
     "label": [
         {
             "text": "Grains per Cubic Metre",
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "gr{UK}/m³",
-    "conversion_factor_from_si": 6.479891e-05
+    "conversion_factor_from_si": 6.479891e-05,
+    "ucum_codes": [
+        "[gr]/m3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

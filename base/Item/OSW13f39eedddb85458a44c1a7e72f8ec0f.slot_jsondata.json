@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MobilityRatio"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MobilityRatio"
+    ],
+    "uuid": "13f39eed-ddb8-5458-a44c-1a7e72f8ec0f",
+    "name": "MobilityRatio",
+    "label": [
+        {
+            "text": "Mobility Ratio",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"MobilityRatio\" describes permeability of a porous material to a given phase divided by the viscosity of that phase.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

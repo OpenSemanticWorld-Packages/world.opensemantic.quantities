@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "5705fe1e-62ee-57b3-b67f-335a31bc8e6e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/A-SEC"
     ],
-    "name": "A-SEC",
+    "uuid": "5705fe1e-62ee-57b3-b67f-335a31bc8e6e",
+    "name": "AmpereSecond",
     "label": [
         {
             "text": "Ampere Second",
@@ -20,5 +20,40 @@
         }
     ],
     "main_symbol": "A·s",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "A.s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "b89c82dd-9d91-5c8d-9172-bd71acae38f1",
+            "osw_id": "Item:OSW5705fe1e62ee57b3b67f335a31bc8e6e#OSWb89c82dd9d915c8d9172bd71acae38f1",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mA·s",
+            "ucum_codes": [
+                "mA.s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
 }

@@ -2,13 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "a58b950a-f5d6-58e7-b8bc-2e1736817e43",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/HR",
-        "http://dbpedia.org/resource/Hour",
-        "https://si-digital-framework.org/SI/units/hour"
+        "http://qudt.org/vocab/unit/HR"
     ],
-    "name": "HR",
+    "uuid": "a58b950a-f5d6-58e7-b8bc-2e1736817e43",
+    "name": "Hour",
     "label": [
         {
             "text": "Hour",
@@ -22,5 +20,9 @@
         }
     ],
     "main_symbol": "h",
-    "conversion_factor_from_si": 3600.0
+    "conversion_factor_from_si": 3600.0,
+    "ucum_codes": [
+        "h"
+    ],
+    "factor_unit_scalar": 1
 }

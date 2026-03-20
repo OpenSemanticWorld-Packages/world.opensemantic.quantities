@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerFactor"
+    ],
+    "uuid": "9ce751b7-6ef9-5820-9ed2-0487548a0f4b",
+    "name": "PowerFactor",
+    "label": [
+        {
+            "text": "Power factor",
+            "lang": "en"
+        },
+        {
+            "text": "Leistungsfaktor",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Power Factor\", under periodic conditions, is the ratio of the absolute value of the active power $P$ to the apparent power $S$.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

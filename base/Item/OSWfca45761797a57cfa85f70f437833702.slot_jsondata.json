@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "fca45761-797a-57cf-a85f-70f437833702",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/IsothermalCompressibility"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/IsothermalCompressibility"
+    ],
+    "uuid": "fca45761-797a-57cf-a85f-70f437833702",
     "name": "IsothermalCompressibility",
     "label": [
         {
@@ -24,6 +27,7 @@
         }
     ],
     "units": [
-        "Item:OSWf030abd4441d52a7a8c5f84950985ea4"
+        "Item:OSWf030abd4441d52a7a8c5f84950985ea4",
+        "Item:OSWf030abd4441d52a7a8c5f84950985ea4#OSW76c7de3066ca5349bd8e252ca3e3ee95"
     ]
 }

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "c805c669-9174-575b-93b7-a8c4d200943a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TotalMassStoppingPower"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalMassStoppingPower"
+    ],
+    "uuid": "c805c669-9174-575b-93b7-a8c4d200943a",
     "name": "TotalMassStoppingPower",
     "label": [
         {

@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "8537db11-7cdb-5a9a-b805-eacef1361bb0",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AngularMomentum"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/Angular_momentum"
+        "http://dbpedia.org/resource/Angular_momentum",
+        "http://qudt.org/vocab/quantitykind/AngularMomentum"
     ],
+    "uuid": "8537db11-7cdb-5a9a-b805-eacef1361bb0",
     "name": "AngularMomentum",
     "label": [
         {
@@ -23,8 +24,10 @@
         }
     ],
     "units": [
-        "Item:OSWf045a04750e15ea2b152fb3bfebf162a",
         "Item:OSW1dd1ded9a5705629b47aa64b3ac3deea",
-        "Item:OSW5e6ed82c68555dc2b37925babf728409"
+        "Item:OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
+        "Item:OSW5e6ed82c68555dc2b37925babf728409",
+        "Item:OSWc5e4d5b0a17f513ca13db454fc844fbc",
+        "Item:OSWf045a04750e15ea2b152fb3bfebf162a"
     ]
 }

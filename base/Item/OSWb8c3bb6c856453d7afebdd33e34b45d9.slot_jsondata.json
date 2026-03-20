@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "b8c3bb6c-8564-53d7-afeb-dd33e34b45d9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/V-A"
     ],
-    "name": "V-A",
+    "uuid": "b8c3bb6c-8564-53d7-afeb-dd33e34b45d9",
+    "name": "VoltAmpere",
     "label": [
         {
-            "text": "volt ampere",
+            "text": "Volt Ampere",
             "lang": "en"
         },
         {
@@ -25,32 +25,222 @@
     ],
     "main_symbol": "V·A",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "V.A"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "eb9947ee-8843-5595-b561-6391be7a8a60",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaV-A"
+            "uuid": "0ac87061-4f57-5520-b583-c101f8d73fdb",
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSW0ac870614f575520b583c101f8d73fdb",
+            "conversion_factor_to_main_unit": 1000000000000.0,
+            "conversion_factor_from_si": 1000000000000.0,
+            "main_symbol": "TV·A",
+            "ucum_codes": [
+                "TV.A"
             ],
-            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSWeb9947ee88435595b5616391be7a8a60",
-            "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MV·A"
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "389d9ec9-6c1e-5921-85fc-b154d73cc24c",
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSW389d9ec96c1e592185fcb154d73cc24c",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "nV·A",
+            "ucum_codes": [
+                "nV.A"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5b3e18f1-1bd3-5395-8a33-48938c356dca",
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSW5b3e18f11bd353958a3348938c356dca",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 1e-12,
+            "main_symbol": "pV·A",
+            "ucum_codes": [
+                "pV.A"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "7ddf5ea4-a775-5e40-b241-4d0bf657651b",
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSW7ddf5ea4a7755e40b2414d0bf657651b",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mV·A",
+            "ucum_codes": [
+                "mV.A"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "98a0bae9-20ed-52c3-9e48-7ff87a7a1968",
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSW98a0bae920ed52c39e487ff87a7a1968",
+            "conversion_factor_to_main_unit": 1e+18,
+            "conversion_factor_from_si": 1e+18,
+            "main_symbol": "EV·A",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "dd4255b2-973c-5db2-88d0-ec132ee15848",
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSWdd4255b2973c5db288d0ec132ee15848",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "main_symbol": "GV·A",
+            "ucum_codes": [
+                "GV.A"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "dd70086e-1454-51cc-8dd5-2ebc29684d6d",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloV-A"
-            ],
             "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSWdd70086e145451cc8dd52ebc29684d6d",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kV·A"
+            "main_symbol": "kV·A",
+            "ucum_codes": [
+                "kV.A"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e2aca9cd-af46-5fac-8a0f-92d259ebdd28",
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSWe2aca9cdaf465fac8a0f92d259ebdd28",
+            "conversion_factor_to_main_unit": 1000000000000000.0,
+            "conversion_factor_from_si": 1000000000000000.0,
+            "main_symbol": "PV·A",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ea406000-ce3c-579f-a6f4-081aa50ef799",
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSWea406000ce3c579fa6f4081aa50ef799",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "μV·A",
+            "ucum_codes": [
+                "uV.A"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "eb9947ee-8843-5595-b561-6391be7a8a60",
+            "osw_id": "Item:OSWb8c3bb6c856453d7afebdd33e34b45d9#OSWeb9947ee88435595b5616391be7a8a60",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "MV·A",
+            "ucum_codes": [
+                "MV.A"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "0c0cbde9-b3c7-5743-9e73-fb58a634b266",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Reluctance"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Reluctance"
+    ],
+    "uuid": "0c0cbde9-b3c7-5743-9e73-fb58a634b266",
     "name": "Reluctance",
     "label": [
         {

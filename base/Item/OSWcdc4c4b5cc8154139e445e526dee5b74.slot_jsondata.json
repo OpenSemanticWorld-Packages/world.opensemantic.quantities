@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "cdc4c4b5-cc81-5413-9e44-5e526dee5b74",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PhotosyntheticPhotonFlux"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PhotosyntheticPhotonFlux"
+    ],
+    "uuid": "cdc4c4b5-cc81-5413-9e44-5e526dee5b74",
     "name": "PhotosyntheticPhotonFlux",
     "label": [
         {
@@ -20,6 +23,8 @@
         }
     ],
     "units": [
-        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb"
+        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb",
+        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSW10e98cb9b70150158fc1544d9f094ad2",
+        "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17"
     ]
 }

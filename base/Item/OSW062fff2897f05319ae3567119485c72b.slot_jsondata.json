@@ -1,18 +1,33 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "062fff28-97f0-5319-ae35-67119485c72b",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-SEC-PER-M2"
     ],
-    "name": "W-SEC-PER-M2",
+    "uuid": "062fff28-97f0-5319-ae35-67119485c72b",
+    "name": "WattSecondsPerSquareMetre",
     "label": [
         {
-            "text": "Watt seconds per square metre",
+            "text": "Watt Seconds per Square Metre",
             "lang": "en"
         }
     ],
     "main_symbol": "W·s/m²",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "W.s.m-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

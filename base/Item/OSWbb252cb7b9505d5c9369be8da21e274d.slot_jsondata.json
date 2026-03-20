@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "bb252cb7-b950-5d5c-9369-be8da21e274d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/BQ-PER-L"
     ],
-    "name": "BQ-PER-L",
+    "uuid": "bb252cb7-b950-5d5c-9369-be8da21e274d",
+    "name": "BecquerelsPerLitre",
     "label": [
         {
-            "text": "Becquerels per litre",
+            "text": "Becquerels per Litre",
             "lang": "en"
         }
     ],
@@ -21,45 +21,85 @@
     ],
     "main_symbol": "Bq/L",
     "conversion_factor_from_si": 1000.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "Bq.L-1",
+        "Bq/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "5ca6e9dc-c49f-53d6-921d-b368597bdc2a",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliBQ-PER-L"
-            ],
-            "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSW5ca6e9dcc49f53d6921db368597bdc2a",
-            "conversion_factor_from_si": 1.0,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mBq/L"
+            "exponent": 1
         },
         {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "0ac5a24d-6907-5e45-80b8-8126796660ea",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/NanoBQ-PER-L"
-            ],
             "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSW0ac5a24d69075e4580b88126796660ea",
+            "conversion_factor_to_main_unit": 9.999999999999999e-10,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
-            "main_symbol": "nBq/L"
+            "main_symbol": "nBq/L",
+            "ucum_codes": [
+                "nBq.L-1",
+                "nBq/L"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5ca6e9dc-c49f-53d6-921d-b368597bdc2a",
+            "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSW5ca6e9dcc49f53d6921db368597bdc2a",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "mBq/L",
+            "ucum_codes": [
+                "mBq.L-1",
+                "mBq/L"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "ea37c502-2a28-5510-8938-0a9351fb06a6",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroBQ-PER-L"
-            ],
             "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSWea37c5022a28551089380a9351fb06a6",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "μBq/L"
+            "main_symbol": "μBq/L",
+            "ucum_codes": [
+                "uBq.L-1",
+                "uBq/L"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

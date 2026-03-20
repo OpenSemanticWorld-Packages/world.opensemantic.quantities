@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "448373b5-07f6-5126-a22e-bb2c0112b94e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/HallCoefficient"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/HallCoefficient"
+    ],
+    "uuid": "448373b5-07f6-5126-a22e-bb2c0112b94e",
     "name": "HallCoefficient",
     "label": [
         {

@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DecaM3"
+    ],
+    "uuid": "5024fe1a-0236-5460-bbc2-3fa2e8a46a7b",
+    "name": "CubicDecametre",
+    "label": [
+        {
+            "text": "Cubic DecaMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1 000-fold of the power of the SI base unit metre by exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "dam³",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "dam3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        }
+    ]
+}

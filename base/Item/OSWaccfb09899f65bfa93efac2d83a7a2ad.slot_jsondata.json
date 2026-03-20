@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "accfb098-99f6-5bfa-93ef-ac2d83a7a2ad",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-WK"
     ],
-    "name": "PER-WK",
+    "uuid": "accfb098-99f6-5bfa-93ef-ac2d83a7a2ad",
+    "name": "ReciprocalWeek",
     "label": [
         {
             "text": "Reciprocal Week",
@@ -20,5 +20,15 @@
         }
     ],
     "main_symbol": "/wk",
-    "conversion_factor_from_si": 1.653439e-06
+    "conversion_factor_from_si": 1.6534391534391535e-06,
+    "ucum_codes": [
+        "/wk",
+        "wk-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        }
+    ]
 }

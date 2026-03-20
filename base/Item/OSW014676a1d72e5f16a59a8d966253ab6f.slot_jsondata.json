@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM-PER-SEC2"
+    ],
+    "uuid": "014676a1-d72e-5f16-a59a-8d966253ab6f",
+    "name": "CentimetrePerSquareSecond",
+    "label": [
+        {
+            "text": "CentiMetre per Square Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "$\\textit{Centimeter per Square Second}$ is a C.G.S System unit for  $\\textit{Linear Acceleration}$ expressed as $cm/s^2$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm/s²",
+    "conversion_factor_from_si": 0.01,
+    "ucum_codes": [
+        "cm.s-2",
+        "cm/s2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

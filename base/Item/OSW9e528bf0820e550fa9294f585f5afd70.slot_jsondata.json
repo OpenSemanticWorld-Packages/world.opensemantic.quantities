@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DeciM3-PER-HR"
+    ],
+    "uuid": "9e528bf0-820e-550f-a929-4f585f5afd70",
+    "name": "CubicDecimetrePerHour",
+    "label": [
+        {
+            "text": "Cubic DeciMetre per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the power of the SI base unit metre with the exponent 3 divided by the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "dm³/h",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "ucum_codes": [
+        "dm3.h-1",
+        "dm3/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

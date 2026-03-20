@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "0ab2af45-d05c-527d-8fe2-0509629f9ae3",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/KiloGM-PER-J"
     ],
-    "name": "KiloGM-PER-J",
+    "uuid": "0ab2af45-d05c-527d-8fe2-0509629f9ae3",
+    "name": "KilogramPerJoule",
     "label": [
         {
-            "text": "Kilogram per Joule",
+            "text": "KiloGram per Joule",
             "lang": "en"
         }
     ],
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "kg/J",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "kg.J-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

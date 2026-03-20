@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "aab93f08-5a07-56d9-af6f-ebf8bf1a94a8",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/L-PER-HR"
     ],
-    "name": "L-PER-HR",
+    "uuid": "aab93f08-5a07-56d9-af6f-ebf8bf1a94a8",
+    "name": "LitrePerHour",
     "label": [
         {
             "text": "Litre per Hour",
@@ -20,33 +20,64 @@
         }
     ],
     "main_symbol": "L/h",
-    "conversion_factor_from_si": 2.777778e-07,
-    "prefix_units": [
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "ucum_codes": [
+        "L.h-1",
+        "L/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "6bfe28b9-646e-544b-af7f-7165cdedc06e",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloL-PER-HR"
+            "uuid": "1f6d23c6-23e7-57bf-91dc-fbf00a1aa4dc",
+            "osw_id": "Item:OSWaab93f085a0756d9af6febf8bf1a94a8#OSW1f6d23c623e757bf91dcfbf00a1aa4dc",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "mL/h",
+            "ucum_codes": [
+                "mL.h-1",
+                "mL/h"
             ],
-            "osw_id": "Item:OSWaab93f085a0756d9af6febf8bf1a94a8#OSW6bfe28b9646e544baf7f7165cdedc06e",
-            "conversion_factor_from_si": 0.0002777777777777778,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kL/h"
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "1f6d23c6-23e7-57bf-91dc-fbf00a1aa4dc",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliL-PER-HR"
+            "uuid": "6bfe28b9-646e-544b-af7f-7165cdedc06e",
+            "osw_id": "Item:OSWaab93f085a0756d9af6febf8bf1a94a8#OSW6bfe28b9646e544baf7f7165cdedc06e",
+            "conversion_factor_to_main_unit": 1000.0000000000001,
+            "conversion_factor_from_si": 0.0002777777777777778,
+            "main_symbol": "kL/h",
+            "ucum_codes": [
+                "kL.h-1",
+                "kL/h"
             ],
-            "osw_id": "Item:OSWaab93f085a0756d9af6febf8bf1a94a8#OSW1f6d23c623e757bf91dcfbf00a1aa4dc",
-            "conversion_factor_from_si": 2.777778e-10,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mL/h"
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

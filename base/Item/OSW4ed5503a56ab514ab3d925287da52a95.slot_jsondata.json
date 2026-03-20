@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "4ed5503a-56ab-514a-b3d9-25287da52a95",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-SEC"
     ],
-    "name": "M3-PER-SEC",
+    "uuid": "4ed5503a-56ab-514a-b3d9-25287da52a95",
+    "name": "CubicMetrePerSecond",
     "label": [
         {
             "text": "Cubic Metre per Second",
@@ -21,32 +21,63 @@
     ],
     "main_symbol": "m³/s",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "m3.s-1",
+        "m3/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 3
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "acda1333-cb69-5806-9dc8-3172f3a047db",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/CentiM3-PER-SEC"
+            "uuid": "58c067fb-208b-5294-8995-99809141c3ff",
+            "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSW58c067fb208b5294899599809141c3ff",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "dm³/s",
+            "ucum_codes": [
+                "dm3.s-1",
+                "dm3/s"
             ],
-            "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSWacda1333cb6958069dc83172f3a047db",
-            "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "cm³/s"
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 3
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "58c067fb-208b-5294-8995-99809141c3ff",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/DeciM3-PER-SEC"
+            "uuid": "acda1333-cb69-5806-9dc8-3172f3a047db",
+            "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSWacda1333cb6958069dc83172f3a047db",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "cm³/s",
+            "ucum_codes": [
+                "cm3.s-1",
+                "cm3/s"
             ],
-            "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSW58c067fb208b5294899599809141c3ff",
-            "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
-            "main_symbol": "dm³/s"
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 3
+                }
+            ]
         }
     ]
 }

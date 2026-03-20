@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroGM-PER-KiloGM"
+    ],
+    "uuid": "489e9a9e-15db-5cdb-8c5e-19af8453080d",
+    "name": "MicrogramPerKilogram",
+    "label": [
+        {
+            "text": "MicroGram per KiloGram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "mass ratio as 0.000000001-fold of the SI base unit kilogram divided by the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μg/kg",
+    "conversion_factor_from_si": 1e-09,
+    "ucum_codes": [
+        "ug.kg-1",
+        "ug/kg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

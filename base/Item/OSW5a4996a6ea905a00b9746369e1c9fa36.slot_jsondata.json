@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "5a4996a6-ea90-5a00-b974-6369e1c9fa36",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/L-PER-DAY"
     ],
-    "name": "L-PER-DAY",
+    "uuid": "5a4996a6-ea90-5a00-b974-6369e1c9fa36",
+    "name": "LitrePerDay",
     "label": [
         {
             "text": "Litre per Day",
@@ -19,21 +19,43 @@
             "lang": "en"
         }
     ],
-    "main_symbol": "L/day",
-    "conversion_factor_from_si": 1.157407e-08,
-    "prefix_units": [
+    "main_symbol": "L/d",
+    "conversion_factor_from_si": 1.1574074074074074e-08,
+    "ucum_codes": [
+        "L.d-1",
+        "L/d"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "da34b5bb-0a15-516f-ba29-781df0096e7f",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliL-PER-DAY"
-            ],
             "osw_id": "Item:OSW5a4996a6ea905a00b9746369e1c9fa36#OSWda34b5bb0a15516fba29781df0096e7f",
-            "conversion_factor_from_si": 1.157407e-11,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mL/day"
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.1574074074074074e-11,
+            "main_symbol": "mL/d",
+            "ucum_codes": [
+                "mL.d-1",
+                "mL/d"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

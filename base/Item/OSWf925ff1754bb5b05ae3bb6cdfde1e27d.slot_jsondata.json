@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "f925ff17-54bb-5b05-ae3b-b6cdfde1e27d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/K-PER-MIN"
     ],
-    "name": "K-PER-MIN",
+    "uuid": "f925ff17-54bb-5b05-ae3b-b6cdfde1e27d",
+    "name": "KelvinPerMinute",
     "label": [
         {
             "text": "Kelvin per Minute",
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "K/min",
-    "conversion_factor_from_si": 0.01666667
+    "conversion_factor_from_si": 0.016666666666666666,
+    "ucum_codes": [
+        "K.min-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

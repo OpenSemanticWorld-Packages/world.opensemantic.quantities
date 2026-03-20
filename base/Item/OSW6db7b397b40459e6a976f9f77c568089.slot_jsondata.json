@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "6db7b397-b404-59e6-a976-f9f77c568089",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/TONNE-PER-YR"
     ],
-    "name": "TONNE-PER-YR",
+    "uuid": "6db7b397-b404-59e6-a976-f9f77c568089",
+    "name": "TonnePerYear",
     "label": [
         {
             "text": "Tonne per Year",
@@ -19,21 +19,63 @@
             "lang": "en"
         }
     ],
-    "main_symbol": "t/y",
-    "conversion_factor_from_si": 3.168808781e-05,
-    "prefix_units": [
+    "main_symbol": "t/a",
+    "conversion_factor_from_si": 3.168808781402895e-05,
+    "ucum_codes": [
+        "t.a-1",
+        "t/a"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "ca073491-ff03-557f-9405-4c2212cb8275",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloTONNE-PER-YR"
-            ],
             "osw_id": "Item:OSW6db7b397b40459e6a976f9f77c568089#OSWca073491ff03557f94054c2212cb8275",
-            "conversion_factor_from_si": 0.03168808781,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kt/year"
+            "conversion_factor_to_main_unit": 1000.0000000000001,
+            "conversion_factor_from_si": 0.03168808781402895,
+            "main_symbol": "kt/a",
+            "ucum_codes": [
+                "kt.a-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "d3f15570-8933-55cd-8d56-d0f7b5cc31a5",
+            "osw_id": "Item:OSW6db7b397b40459e6a976f9f77c568089#OSWd3f15570893355cd8d56d0f7b5cc31a5",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 31.68808781402895,
+            "main_symbol": "Mt/a",
+            "ucum_codes": [
+                "Mt/a"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

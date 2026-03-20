@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "0ecff962-cc2a-5c2f-9719-fd1b9d85bf4f",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Coercivity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Coercivity"
+    ],
+    "uuid": "0ecff962-cc2a-5c2f-9719-fd1b9d85bf4f",
     "name": "Coercivity",
     "label": [
         {
@@ -20,6 +23,10 @@
         }
     ],
     "units": [
-        "Item:OSW21e01a5082e35d5cbcf741df0a054cee"
+        "Item:OSW21e01a5082e35d5cbcf741df0a054cee",
+        "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSW81d243ef653b5b6b890b1102d37d6d78",
+        "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSW8d315234960451fa895c98b88e9f1b28",
+        "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSWe299bb79004b52b3a4c9f8a739b881bf",
+        "Item:OSW21e01a5082e35d5cbcf741df0a054cee#OSWe385b197cb0e581d8e25ce1ec9a73c7a"
     ]
 }

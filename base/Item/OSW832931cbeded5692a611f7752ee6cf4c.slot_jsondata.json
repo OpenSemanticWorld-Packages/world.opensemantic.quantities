@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "832931cb-eded-5692-a611-f7752ee6cf4c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MilliL-PER-CentiM2-MIN"
     ],
-    "name": "MilliL-PER-CentiM2-MIN",
+    "uuid": "832931cb-eded-5692-a611-f7752ee6cf4c",
+    "name": "MillilitrePerSquareCentimetreMinute",
     "label": [
         {
-            "text": "Millilitre per Square Centimetre Minute",
+            "text": "MilliLitre per Square CentiMetre Minute",
             "lang": "en"
         }
     ],
@@ -20,5 +20,20 @@
         }
     ],
     "main_symbol": "mL/(cm²·min)",
-    "conversion_factor_from_si": 0.00016666667
+    "conversion_factor_from_si": 0.00016666666666666666,
+    "ucum_codes": [
+        "mL.cm-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

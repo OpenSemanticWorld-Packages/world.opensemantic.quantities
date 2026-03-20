@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "63479217-569d-502c-8891-bf4cdc547334",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificOpticalRotatoryPower"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificOpticalRotatoryPower"
+    ],
+    "uuid": "63479217-569d-502c-8891-bf4cdc547334",
     "name": "SpecificOpticalRotatoryPower",
     "label": [
         {

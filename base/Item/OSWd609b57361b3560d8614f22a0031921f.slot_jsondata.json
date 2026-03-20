@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliS-PER-M"
+    ],
+    "uuid": "d609b573-61b3-560d-8614-f22a0031921f",
+    "name": "MillisiemensPerMetre",
+    "label": [
+        {
+            "text": "MilliSiemens per Metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mS/m",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "mS.m-1",
+        "mS/m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

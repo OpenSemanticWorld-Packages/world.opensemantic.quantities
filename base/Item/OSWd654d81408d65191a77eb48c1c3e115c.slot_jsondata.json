@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerMass"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerMass"
+    ],
+    "uuid": "d654d814-08d6-5191-a77e-b48c1c3e115c",
+    "name": "CostPerMass",
+    "label": [
+        {
+            "text": "Cost per mass",
+            "lang": "en"
+        },
+        {
+            "text": "Kosten pro Masse",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Represents the cost associated with a unit mass of a substance or material. It is typically used in economic and engineering contexts to evaluate the expense incurred per kilogram, gram, or other units of mass. This measure helps in comparing the economic efficiency of different materials or substances based on their mass.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWf10448747b8c5e55b9978254a88240a0"
+    ]
+}

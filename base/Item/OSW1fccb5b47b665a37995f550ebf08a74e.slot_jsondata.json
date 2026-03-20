@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "1fccb5b4-7b66-5a37-995f-550ebf08a74e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MagneticMoment"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MagneticMoment"
+    ],
+    "uuid": "1fccb5b4-7b66-5a37-995f-550ebf08a74e",
     "name": "MagneticMoment",
     "label": [
         {
@@ -24,8 +27,8 @@
         }
     ],
     "units": [
-        "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2",
         "Item:OSW6b16cd3ce2b25599a88b1b7d4f645604",
-        "Item:OSWa0a0662b7e5b53f79c6d8bef841dd415"
+        "Item:OSWa0a0662b7e5b53f79c6d8bef841dd415",
+        "Item:OSWd99c0ceb8ce951b6a513cd58955b69d2"
     ]
 }

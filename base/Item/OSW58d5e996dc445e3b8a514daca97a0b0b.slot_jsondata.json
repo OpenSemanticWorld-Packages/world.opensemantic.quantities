@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliM-PER-HR"
+    ],
+    "uuid": "58d5e996-dc44-5e3b-8a51-4daca97a0b0b",
+    "name": "MillimetrePerHour",
+    "label": [
+        {
+            "text": "MilliMetre per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0001-fold of the SI base unit metre divided by the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mm/h",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "ucum_codes": [
+        "mm.h-1",
+        "mm/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

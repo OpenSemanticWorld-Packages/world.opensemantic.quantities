@@ -1,33 +1,104 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "c6f784a6-9e07-5f0f-accd-43e108a28bc2",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-PER-M2-M"
     ],
-    "name": "W-PER-M2-M",
+    "uuid": "c6f784a6-9e07-5f0f-accd-43e108a28bc2",
+    "name": "WattsPerSquareMetreMetre",
     "label": [
         {
-            "text": "Watts per square metre metre",
+            "text": "Watts per Square Metre Metre",
             "lang": "en"
         }
     ],
     "main_symbol": "W/(m²·m)",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "W.m-2.m-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "31006953-e02f-5b80-82df-f2b9bfa1c683",
+            "osw_id": "Item:OSWc6f784a69e075f0faccd43e108a28bc2#OSW31006953e02f5b8082dff2b9bfa1c683",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "mW/(m²·nm)",
+            "ucum_codes": [
+                "mW.m-2.nm-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "56c5e9f9-5d03-5851-bf91-66fe99d6ebda",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/W-PER-M2-NanoM"
-            ],
             "osw_id": "Item:OSWc6f784a69e075f0faccd43e108a28bc2#OSW56c5e9f95d035851bf9166fe99d6ebda",
+            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
-            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
-            "main_symbol": "W/(m²·nm)"
+            "main_symbol": "W/(m²·nm)",
+            "ucum_codes": [
+                "W.m-2.nm-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "af6a2d84-fff9-582f-b046-4a15b1cfe4b5",
+            "osw_id": "Item:OSWc6f784a69e075f0faccd43e108a28bc2#OSWaf6a2d84fff9582fb0464a15b1cfe4b5",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "W/(m²·μm)",
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-GM"
+    ],
+    "uuid": "31fbfb51-bd3f-59f8-ad07-21cb4d285ad3",
+    "name": "MilligramPerGram",
+    "label": [
+        {
+            "text": "MilliGram per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the SI base unit kilogram divided by the 0.001-fold of the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/g",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "mg.g-1",
+        "mg/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

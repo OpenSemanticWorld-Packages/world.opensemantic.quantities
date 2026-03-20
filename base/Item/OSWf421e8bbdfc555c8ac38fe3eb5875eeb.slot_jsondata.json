@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DARCY"
+    ],
+    "uuid": "f421e8bb-dfc5-55c8-ac38-fe3eb5875eeb",
+    "name": "Darcy",
+    "label": [
+        {
+            "text": "Darcy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The darcy (d) is a unit of permeability named after Henry Darcy. It is not an SI unit, but it is widely used in petroleum engineering and geology. The unit has also been used in biophysics and biomechanics, where the flow of fluids such as blood through capillary beds and cerebrospinal fluid through the brain interstitial space is being examined. A darcy has dimensional units of length².",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "d",
+    "conversion_factor_from_si": 9.869233e-13,
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "7362b06e-ed9c-5429-b692-57989803d53d",
+            "osw_id": "Item:OSWf421e8bbdfc555c8ac38fe3eb5875eeb#OSW7362b06eed9c5429b69257989803d53d",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 9.869233e-16,
+            "prefix_symbol": "m",
+            "main_symbol": "md"
+        }
+    ]
+}

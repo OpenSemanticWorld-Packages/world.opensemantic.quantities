@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/QualityFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/QualityFactor"
+    ],
+    "uuid": "0e7da31c-f467-508b-8397-fdfc54863557",
+    "name": "QualityFactor",
+    "label": [
+        {
+            "text": "Quality Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Quality Factor\", of a resonant circuit, is a measure of the \"goodness\" or quality of a resonant circuit. A higher value for this figure of merit correspondes to a more narrow bandwith, which is desirable in many applications. More formally, $Q$ is the ratio of power stored to power dissipated in the circuit reactance and resistance, respectively",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

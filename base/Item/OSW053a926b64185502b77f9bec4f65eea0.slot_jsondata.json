@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-HA"
+    ],
+    "uuid": "053a926b-6418-5502-b77f-9bec4f65eea0",
+    "name": "MetresPerHectare",
+    "label": [
+        {
+            "text": "Metres per Hectare",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of SI standard unit length per hectare (squared hectometer) area.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/ha",
+    "conversion_factor_from_si": 0.0001,
+    "ucum_codes": [
+        "m.hm-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

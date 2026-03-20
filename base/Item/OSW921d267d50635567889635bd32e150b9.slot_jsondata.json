@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "921d267d-5063-5567-8896-35bd32e150b9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PressureInRelationToVolumeFlowRate"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PressureInRelationToVolumeFlowRate"
+    ],
+    "uuid": "921d267d-5063-5567-8896-35bd32e150b9",
     "name": "PressureInRelationToVolumeFlowRate",
     "label": [
         {

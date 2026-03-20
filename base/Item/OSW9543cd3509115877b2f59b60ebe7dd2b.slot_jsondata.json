@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BILLION_Short"
+    ],
+    "uuid": "9543cd35-0911-5877-b2f5-9b60ebe7dd2b",
+    "name": "BillionShortScale",
+    "label": [
+        {
+            "text": "Billion (short Scale)",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Counting unit for a count of one billion according to the short scale, defined as one thousand million on the short scale. This is now the most common sense of the word in all varieties of English.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "1000000000",
+    "conversion_factor_from_si": 1000000000.0,
+    "factor_unit_scalar": 1
+}

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "aed77452-d949-55e9-95fa-902b71b85235",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ScalarMagneticPotential"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ScalarMagneticPotential"
+    ],
+    "uuid": "aed77452-d949-55e9-95fa-902b71b85235",
     "name": "ScalarMagneticPotential",
     "label": [
         {

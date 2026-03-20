@@ -2,12 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "d2cd9a19-e725-5fc0-8130-7b69e3384e2e",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/TON_Metric",
-        "http://dbpedia.org/resource/Tonne"
+        "http://qudt.org/vocab/unit/TON_Metric"
     ],
-    "name": "TON_Metric",
+    "uuid": "d2cd9a19-e725-5fc0-8130-7b69e3384e2e",
+    "name": "MetricTon",
     "label": [
         {
             "text": "Metric Ton",
@@ -22,32 +21,38 @@
     ],
     "main_symbol": "t",
     "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "t"
+    ],
+    "factor_unit_scalar": 1,
     "prefix_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "9931691b-6a82-58b7-9d27-9550cb8385ca",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/DeciTON_Metric"
-            ],
-            "osw_id": "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW9931691b6a8258b79d279550cb8385ca",
-            "conversion_factor_from_si": 100.0,
-            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
-            "main_symbol": "dt"
+            "uuid": "4acf7877-394a-57c5-9b6b-8bea588ceedf",
+            "osw_id": "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW4acf7877394a57c59b6b8bea588ceedf",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "prefix_symbol": "k",
+            "main_symbol": "kt",
+            "ucum_codes": [
+                "kt"
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "4acf7877-394a-57c5-9b6b-8bea588ceedf",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloTON_Metric"
-            ],
-            "osw_id": "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW4acf7877394a57c59b6b8bea588ceedf",
-            "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kt"
+            "uuid": "9931691b-6a82-58b7-9d27-9550cb8385ca",
+            "osw_id": "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW9931691b6a8258b79d279550cb8385ca",
+            "conversion_factor_to_main_unit": 0.1,
+            "conversion_factor_from_si": 100.0,
+            "prefix_symbol": "d",
+            "main_symbol": "dt",
+            "ucum_codes": [
+                "dt"
+            ]
         }
     ]
 }

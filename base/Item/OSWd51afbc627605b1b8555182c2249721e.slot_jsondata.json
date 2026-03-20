@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "d51afbc6-2760-5b1b-8555-182c2249721e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-PER-A"
     ],
-    "name": "N-M-PER-A",
+    "uuid": "d51afbc6-2760-5b1b-8555-182c2249721e",
+    "name": "NewtonMetrePerAmpere",
     "label": [
         {
             "text": "Newton Metre per Ampere",
@@ -20,5 +20,21 @@
         }
     ],
     "main_symbol": "N·m/A",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "N.m.A-1",
+        "N.m/A"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

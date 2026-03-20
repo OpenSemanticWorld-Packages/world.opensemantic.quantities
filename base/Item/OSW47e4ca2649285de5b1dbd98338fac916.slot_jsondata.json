@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FARAD-PER-KiloM"
+    ],
+    "uuid": "47e4ca26-4928-5de5-b1db-d98338fac916",
+    "name": "FaradPerKilometre",
+    "label": [
+        {
+            "text": "Farad per KiloMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit farad divided by the 1 000-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "F/km",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "F.km-1",
+        "F/km"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

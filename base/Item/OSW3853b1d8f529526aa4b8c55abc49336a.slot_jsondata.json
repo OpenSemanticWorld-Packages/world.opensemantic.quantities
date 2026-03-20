@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/ONE"
+    ],
+    "uuid": "3853b1d8-f529-526a-a4b8-c55abc49336a",
+    "name": "One",
+    "label": [
+        {
+            "text": "One",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Counting unit for a count of one",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "one",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1
+}

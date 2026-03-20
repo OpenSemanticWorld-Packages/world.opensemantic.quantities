@@ -2,12 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "e2b466af-b5dc-5846-b221-55cd2201b7df",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/GON",
-        "http://dbpedia.org/resource/Gon"
+        "http://qudt.org/vocab/unit/GON"
     ],
-    "name": "GON",
+    "uuid": "e2b466af-b5dc-5846-b221-55cd2201b7df",
+    "name": "Gon",
     "label": [
         {
             "text": "Gon",
@@ -21,5 +20,9 @@
         }
     ],
     "main_symbol": "gon",
-    "conversion_factor_from_si": 0.015707963267949
+    "conversion_factor_from_si": 0.015707963267949,
+    "ucum_codes": [
+        "gon"
+    ],
+    "factor_unit_scalar": 1
 }

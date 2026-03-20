@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "e4638a78-ef83-54ed-9c89-f0464de1aaa0",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassicActivity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassicActivity"
+    ],
+    "uuid": "e4638a78-ef83-54ed-9c89-f0464de1aaa0",
     "name": "MassicActivity",
     "label": [
         {
@@ -20,6 +23,9 @@
         }
     ],
     "units": [
-        "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3"
+        "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3",
+        "Item:OSW23b3668ed7d3501da40aaa0a4e9f765e",
+        "Item:OSW61b56e415cbf5e3a8db61be70c246153",
+        "Item:OSWc896c96c6de8521181daee0118de2c5b"
     ]
 }

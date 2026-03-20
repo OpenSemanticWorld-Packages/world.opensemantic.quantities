@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/SUSCEPTIBILITY_ELEC"
+    ],
+    "uuid": "eaf4fef0-eec2-5f09-b6d8-51cd90f571a3",
+    "name": "ElectricSusceptibilityUnit",
+    "label": [
+        {
+            "text": "Electric Susceptibility Unit",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Electric susceptibility is a dimensionless proportionality constant that indicates the degree of polarization of a dielectric material in response to an applied electric field. Here P = epsilon_0 * chi_e * E. Where epsilon_0 is the electric permittivity of free space (electric constant), P is the polarization density of the material chi_e is the electric susceptibility and E is the electric field.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "χ",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1
+}

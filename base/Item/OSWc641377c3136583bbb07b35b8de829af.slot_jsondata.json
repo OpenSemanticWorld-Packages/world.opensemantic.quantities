@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KAT-PER-MicroL"
+    ],
+    "uuid": "c641377c-3136-583b-bb07-b35b8de829af",
+    "name": "KatalPerMicrolitre",
+    "label": [
+        {
+            "text": "Katal per MicroLitre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of catalytic activity used especially in the chemistry of enzymes. A catalyst is a substance that starts or speeds a chemical reaction. Enzymes are proteins that act as catalysts within the bodies of living plants and animals. A catalyst has an activity of one katal if it enables a reaction to proceed at the rate of one mole per second.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kat/μL",
+    "conversion_factor_from_si": 1000000000.0,
+    "ucum_codes": [
+        "kat/uL"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

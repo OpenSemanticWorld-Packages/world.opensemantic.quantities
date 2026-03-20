@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "9f81b80e-2dfd-530c-9857-9b65285d4f20",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-SR"
     ],
-    "name": "M2-SR",
+    "uuid": "9f81b80e-2dfd-530c-9857-9b65285d4f20",
+    "name": "SquareMetreSteradian",
     "label": [
         {
             "text": "Square Metre Steradian",
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "m²·sr",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m2.sr"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

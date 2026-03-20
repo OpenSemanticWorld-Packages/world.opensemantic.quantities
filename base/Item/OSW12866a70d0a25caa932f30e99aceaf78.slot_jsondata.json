@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "12866a70-d0a2-5caa-932f-30e99aceaf78",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/H-PER-M"
     ],
-    "name": "H-PER-M",
+    "uuid": "12866a70-d0a2-5caa-932f-30e99aceaf78",
+    "name": "HenryPerMetre",
     "label": [
         {
             "text": "Henry per Metre",
@@ -21,32 +21,61 @@
     ],
     "main_symbol": "H/m",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "H.m-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "4c3c9d58-90b9-500c-91bb-519b11dbdd34",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroH-PER-M"
-            ],
             "osw_id": "Item:OSW12866a70d0a25caa932f30e99aceaf78#OSW4c3c9d5890b9500c91bb519b11dbdd34",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "µH/m"
+            "main_symbol": "μH/m",
+            "ucum_codes": [
+                "uH.m-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "4c9c95ef-060e-5f40-a916-9574264d38b1",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/NanoH-PER-M"
-            ],
             "osw_id": "Item:OSW12866a70d0a25caa932f30e99aceaf78#OSW4c9c95ef060e5f40a9169574264d38b1",
+            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
-            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
-            "main_symbol": "nH/m"
+            "main_symbol": "nH/m",
+            "ucum_codes": [
+                "nH.m-1",
+                "nH/m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

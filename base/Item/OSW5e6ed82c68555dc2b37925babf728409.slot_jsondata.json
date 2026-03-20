@@ -1,16 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-M-SEC"
     ],
     "uuid": "5e6ed82c-6855-5dc2-b379-25babf728409",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/N-M-SEC",
-        "http://dbpedia.org/resource/Newton_metre"
-    ],
-    "name": "N-M-SEC",
+    "name": "NewtonMetreSecond",
     "label": [
         {
-            "text": "newton metre second",
+            "text": "Newton Metre Second",
             "lang": "en"
         },
         {
@@ -20,10 +19,25 @@
     ],
     "description": [
         {
-            "text": "The SI derived unit of angular momentum. ",
+            "text": "The SI derived unit of angular momentum.",
             "lang": "en"
         }
     ],
     "main_symbol": "N·m·s",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "N.m.s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

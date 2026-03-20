@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "ac0e8132-4fac-5c58-9498-126973e6b753",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectromagneticEnergyDensity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectromagneticEnergyDensity"
+    ],
+    "uuid": "ac0e8132-4fac-5c58-9498-126973e6b753",
     "name": "ElectromagneticEnergyDensity",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
+        "Item:OSW7044da5ba4b45554b3acc6c6f3fc3624",
         "Item:OSW9ea4bf89c42b56728392f1c55639ac18"
     ]
 }

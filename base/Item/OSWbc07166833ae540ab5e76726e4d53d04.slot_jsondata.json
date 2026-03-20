@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseSquareEnergy"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseSquareEnergy"
+    ],
+    "uuid": "bc071668-33ae-540a-b5e7-6726e4d53d04",
+    "name": "InverseSquareEnergy",
+    "label": [
+        {
+            "text": "Inverse Square Energy",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0dddefef8d455a10adeaafa69cd3afd7",
+        "Item:OSW864f459cac8757098e620280f19c506f",
+        "Item:OSW864f459cac8757098e620280f19c506f#OSW025e0d3a3db95067ac8c0539e8fd8682"
+    ]
+}

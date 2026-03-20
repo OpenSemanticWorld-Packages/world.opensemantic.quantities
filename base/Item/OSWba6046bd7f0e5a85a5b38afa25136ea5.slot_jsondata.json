@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/OrderOfReflection"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/OrderOfReflection"
+    ],
+    "uuid": "ba6046bd-7f0e-5a85-a5b3-8afa25136ea5",
+    "name": "OrderOfReflection",
+    "label": [
+        {
+            "text": "Order of Reflection",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Order of Reflection\" is $n$ in the Bragg's Law equation.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

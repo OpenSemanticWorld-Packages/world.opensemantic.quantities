@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-CentiM"
+    ],
+    "uuid": "0dcebe41-4770-56ab-a0e7-06c148970688",
+    "name": "ReciprocalCentimetre",
+    "label": [
+        {
+            "text": "Reciprocal CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the 0.01-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/cm",
+    "conversion_factor_from_si": 100.0,
+    "ucum_codes": [
+        "/cm",
+        "cm-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        }
+    ]
+}

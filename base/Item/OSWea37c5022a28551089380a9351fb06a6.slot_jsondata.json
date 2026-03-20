@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroBQ-PER-L"
+    ],
+    "uuid": "ea37c502-2a28-5510-8938-0a9351fb06a6",
+    "name": "MicrobecquerelsPerLitre",
+    "label": [
+        {
+            "text": "MicroBecquerels per Litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μBq/L",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "uBq.L-1",
+        "uBq/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

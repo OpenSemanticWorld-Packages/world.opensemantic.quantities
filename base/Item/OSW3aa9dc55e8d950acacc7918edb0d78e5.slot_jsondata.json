@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_EUR-PER-M2"
+    ],
+    "uuid": "3aa9dc55-e8d9-50ac-acc7-918edb0d78e5",
+    "name": "EuroPerSquareMetre",
+    "label": [
+        {
+            "text": "Euro per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for expressing cost per square metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "€/m²",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

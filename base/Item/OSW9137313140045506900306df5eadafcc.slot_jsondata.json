@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "91373131-4004-5506-9003-06df5eadafcc",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-PER-M"
     ],
-    "name": "N-PER-M",
+    "uuid": "91373131-4004-5506-9003-06df5eadafcc",
+    "name": "NewtonPerMetre",
     "label": [
         {
-            "text": "newton per metre",
+            "text": "Newton per Metre",
             "lang": "en"
         },
         {
-            "text": "Newton je Meter",
+            "text": "Newton Je Meter",
             "lang": "de"
         }
     ],
@@ -25,58 +25,106 @@
     ],
     "main_symbol": "N/m",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "N.m-1",
+        "N/m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "2787316a-c73a-5365-b863-fb379f6a800c",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliN-PER-M"
-            ],
-            "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW2787316ac73a5365b863fb379f6a800c",
-            "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mN/m"
+            "exponent": 1
         },
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "58f75b5f-8d43-5f56-805e-7a3e4e1b6236",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/N-PER-MilliM"
-            ],
-            "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW58f75b5f8d435f56805e7a3e4e1b6236",
-            "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "N/mm"
-        },
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "19ad3782-7237-5e53-b1ce-5a4a6c220387",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloN-PER-M"
-            ],
             "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW19ad378272375e53b1ce5a4a6c220387",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kN/m"
+            "main_symbol": "kN/m",
+            "ucum_codes": [
+                "kN.m-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "2787316a-c73a-5365-b863-fb379f6a800c",
+            "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW2787316ac73a5365b863fb379f6a800c",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mN/m",
+            "ucum_codes": [
+                "mN.m-1",
+                "mN/m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "58f75b5f-8d43-5f56-805e-7a3e4e1b6236",
+            "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW58f75b5f8d435f56805e7a3e4e1b6236",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "N/mm",
+            "ucum_codes": [
+                "N.mm-1",
+                "N/mm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "7af17659-12d4-53d4-9508-4e069c796538",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/N-PER-CentiM"
-            ],
             "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW7af1765912d453d495084e069c796538",
+            "conversion_factor_to_main_unit": 100.0,
             "conversion_factor_from_si": 100.0,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "N/cm"
+            "main_symbol": "N/cm",
+            "ucum_codes": [
+                "N.cm-1",
+                "N/cm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

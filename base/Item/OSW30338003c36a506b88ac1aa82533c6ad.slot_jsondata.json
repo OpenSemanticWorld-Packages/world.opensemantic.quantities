@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PicoKAT-PER-L"
+    ],
+    "uuid": "30338003-c36a-506b-88ac-1aa82533c6ad",
+    "name": "PicokatalPerLitre",
+    "label": [
+        {
+            "text": "PicoKatal per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of catalytic activity used especially in the chemistry of enzymes. A catalyst is a substance that starts or speeds a chemical reaction. Enzymes are proteins that act as catalysts within the bodies of living plants and animals. A catalyst has an activity of one katal if it enables a reaction to proceed at the rate of one mole per second.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "pkat/L",
+    "conversion_factor_from_si": 1e-09,
+    "ucum_codes": [
+        "pkat/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-PER-YR"
+    ],
+    "uuid": "4ece1fb1-eec9-514d-b192-a479fb617b8a",
+    "name": "KilogramPerYear",
+    "label": [
+        {
+            "text": "KiloGram per Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "kilogram divided by the unit year with 365 days",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/a",
+    "conversion_factor_from_si": 3.168808781402895e-08,
+    "ucum_codes": [
+        "kg.a-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

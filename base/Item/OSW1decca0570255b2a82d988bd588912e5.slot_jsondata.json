@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "1decca05-7025-5b2a-82d9-88bd588912e5",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricField"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/Electric_field"
+        "http://dbpedia.org/resource/Electric_field",
+        "http://qudt.org/vocab/quantitykind/ElectricField"
     ],
+    "uuid": "1decca05-7025-5b2a-82d9-88bd588912e5",
     "name": "ElectricField",
     "label": [
         {
@@ -23,6 +24,12 @@
         }
     ],
     "units": [
-        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb"
+        "Item:OSW68aa46316f8b5bfc83102870e2c9c5b4",
+        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb",
+        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW5503cb893f635d3a955c6be99f588596",
+        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSW9315a6f234fa567497c5344f4360ac89",
+        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWac4536de9cb25c1db8f0eb9f66e3fa25",
+        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWe9e5b5d155c95fc9b3bc6f1ef6a63fa0",
+        "Item:OSWd855ce693a6d5d3d8bdf5846093ae4fb#OSWed56aa34d47a55a5bb40bc28cd4b1533"
     ]
 }

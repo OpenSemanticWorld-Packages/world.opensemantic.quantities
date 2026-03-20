@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-KiloW"
+    ],
+    "uuid": "1e8006cf-8349-52ab-8673-3cd87ed7be1c",
+    "name": "SquareMetrePerKilowatt",
+    "label": [
+        {
+            "text": "Square Metre per KiloWatt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A common unit for measuring area per power",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/kW",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "m2.kW-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

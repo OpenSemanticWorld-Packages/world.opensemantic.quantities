@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ConductivityVariance"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ConductivityVariance"
+    ],
+    "uuid": "13fc03e7-90a4-52ad-8e94-23aa9cef3d05",
+    "name": "ConductivityVariance",
+    "label": [
+        {
+            "text": "Conductivity Variance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Variance for conductivity data.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW89e525be6d675802a9d695d2d6655505"
+    ]
+}

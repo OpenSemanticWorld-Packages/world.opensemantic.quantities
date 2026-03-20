@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "5f8f9460-1be0-5a07-8108-b2be4d74e461",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Pico",
         "https://si-digital-framework.org/SI/prefixes/pico"
     ],
+    "uuid": "5f8f9460-1be0-5a07-8108-b2be4d74e461",
     "name": "pico",
     "label": [
         {
-            "text": "pico (unit prefix)",
+            "text": "pico",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'pico' is a decimal prefix for expressing a value with a scaling of \\(10^{-12}\\).",
             "lang": "en"
         }
     ],

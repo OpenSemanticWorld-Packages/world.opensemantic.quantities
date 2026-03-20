@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NeutronYieldPerAbsorption"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NeutronYieldPerAbsorption"
+    ],
+    "uuid": "febe9bfa-263c-57c3-9ff7-a140d21fb619",
+    "name": "NeutronYieldPerAbsorption",
+    "label": [
+        {
+            "text": "Neutron Yield per Absorption",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Neutron Yield per Absorption\" is the average number of fission neutrons, both prompt and delayed, emitted per neutron absorbed in a fissionable nuclide or in a nuclear fuel, as specified.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

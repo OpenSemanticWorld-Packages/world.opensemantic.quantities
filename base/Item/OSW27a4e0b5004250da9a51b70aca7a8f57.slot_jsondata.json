@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroM-PER-MIN"
+    ],
+    "uuid": "27a4e0b5-0042-50da-9a51-b70aca7a8f57",
+    "name": "MicrometrePerMinute",
+    "label": [
+        {
+            "text": "MicroMetre per Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Micrometre per minute is a derived unit of both speed (scalar) and velocity (vector quantity which specifies both magnitude and a specific direction), defined by distance in micronmeters divided by time in minutes.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μm/min",
+    "conversion_factor_from_si": 1.6666666666666667e-08,
+    "ucum_codes": [
+        "um.min-1",
+        "um/min"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

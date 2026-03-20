@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "9dfac70a-65b7-5370-9e52-cb3591dd8547",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M2"
     ],
-    "name": "N-M2",
+    "uuid": "9dfac70a-65b7-5370-9e52-cb3591dd8547",
+    "name": "NewtonSquareMetre",
     "label": [
         {
             "text": "Newton Square Metre",
@@ -15,19 +15,39 @@
     ],
     "main_symbol": "N·m²",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "N.m2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 2
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "54ba1a65-b3a7-5b70-8a5d-db4089c205b1",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloN-M2"
-            ],
             "osw_id": "Item:OSW9dfac70a65b753709e52cb3591dd8547#OSW54ba1a65b3a75b708a5ddb4089c205b1",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kN·m²"
+            "main_symbol": "kN·m²",
+            "ucum_codes": [
+                "kN.m2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

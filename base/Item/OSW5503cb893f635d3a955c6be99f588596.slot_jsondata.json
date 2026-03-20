@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V-PER-MilliM"
+    ],
+    "uuid": "5503cb89-3f63-5d3a-955c-6be99f588596",
+    "name": "VoltPerMillimetre",
+    "label": [
+        {
+            "text": "Volt per MilliMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit volt divided by the 0.001-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "V/mm",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "V.mm-1",
+        "V/mm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

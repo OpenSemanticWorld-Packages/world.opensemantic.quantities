@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_EUR-PER-KiloW"
+    ],
+    "uuid": "c747a38c-7cb8-54b9-8353-05d554c85020",
+    "name": "EuroPerKilowatt",
+    "label": [
+        {
+            "text": "Euro per KiloWatt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the hardware cost of a power generation unit relative to the generated power",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "€/kW",
+    "conversion_factor_from_si": 0.001,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloEV-PER-MicroM"
+    ],
+    "uuid": "c13242c5-75bb-5a00-9b61-e4efc319effa",
+    "name": "KiloElectronVoltPerMicrometre",
+    "label": [
+        {
+            "text": "Kilo Electron Volt per MicroMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Kilo Electron Volt per Micrometer\" is a unit for  'Linear Energy Transfer' expressed as $keV/microM$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "keV/μm",
+    "conversion_factor_from_si": 1.602176634e-10,
+    "ucum_codes": [
+        "keV.um-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

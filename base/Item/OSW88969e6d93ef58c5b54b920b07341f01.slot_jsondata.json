@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroMOL-PER-M2-SEC2"
+    ],
+    "uuid": "88969e6d-93ef-58c5-b54b-920b07341f01",
+    "name": "MicromolePerSquareMetrePerSquareSecond",
+    "label": [
+        {
+            "text": "MicroMole per Square Metre per Square Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One part per 10**6 (million) of the SI unit of quantity of matter (the mole) per SI unit area per SI unit of time squared.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μmol/(m²·s²)",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "umol.m-2.s-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

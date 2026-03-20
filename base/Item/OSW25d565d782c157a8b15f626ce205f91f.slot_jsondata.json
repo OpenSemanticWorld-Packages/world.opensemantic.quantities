@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Short-RangeOrderParameter"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Short-RangeOrderParameter"
+    ],
+    "uuid": "25d565d7-82c1-57a8-b15f-626ce205f91f",
+    "name": "ShortRangeOrderParameter",
+    "label": [
+        {
+            "text": "Short-Range Order Parameter",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Short-Range Order Parameter\" is the fraction of the nearest-neighbor atom pairs in an Ising ferromagnet having magnetic moments in one direction, minus the fraction having magnetic moments in the opposite direction.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

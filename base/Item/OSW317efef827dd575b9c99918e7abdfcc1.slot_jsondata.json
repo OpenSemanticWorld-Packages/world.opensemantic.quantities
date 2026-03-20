@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "317efef8-27dd-575b-9c99-918e7abdfcc1",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LinearThermalExpansion"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearThermalExpansion"
+    ],
+    "uuid": "317efef8-27dd-575b-9c99-918e7abdfcc1",
     "name": "LinearThermalExpansion",
     "label": [
         {
@@ -20,6 +23,9 @@
         }
     ],
     "units": [
-        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9"
+        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9",
+        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW023c203283725c8b814a69dd13cfcb92",
+        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW3585b69d1b325a36918e362b36dcd2b9",
+        "Item:OSWb2550b7d752e505bb62ecc632d6c20f9#OSW8aabb581b81c50b688909bbc187a92d1"
     ]
 }

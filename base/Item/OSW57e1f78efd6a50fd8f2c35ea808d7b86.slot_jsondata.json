@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "57e1f78e-fd6a-50fd-8f2c-35ea808d7b86",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/A-M2-PER-J-SEC"
     ],
-    "name": "A-M2-PER-J-SEC",
+    "uuid": "57e1f78e-fd6a-50fd-8f2c-35ea808d7b86",
+    "name": "AmpereSquareMetrePerJouleSecond",
     "label": [
         {
             "text": "Ampere Square Metre per Joule Second",
@@ -20,5 +20,24 @@
         }
     ],
     "main_symbol": "A·m²/(J·s)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "A.m2.J-1.s-1",
+        "A.m2/(J.s)"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        }
+    ]
 }

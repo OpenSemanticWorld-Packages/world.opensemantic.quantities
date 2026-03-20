@@ -1,82 +1,129 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "2b1e97f1-edd6-50c0-88ab-be8896fe0333",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/A-PER-M2"
     ],
-    "name": "A-PER-M2",
+    "uuid": "2b1e97f1-edd6-50c0-88ab-be8896fe0333",
+    "name": "AmperePerSquareMetre",
     "label": [
         {
-            "text": "ampere per square metre",
+            "text": "Ampere per Square Metre",
             "lang": "en"
         },
         {
-            "text": "Ampere je Quadratmeter",
+            "text": "Ampere Je Quadratmeter",
             "lang": "de"
         }
     ],
     "description": [
         {
-            "text": "$\\textit{Ampere Per Square Meter}$ is a unit in the category of electric current density. \nThis unit is commonly used in the SI unit system.\n",
+            "text": "$\\textit{Ampere Per Square Meter}$ is a unit in the category of electric current density. \nThis unit is commonly used in the SI unit system.",
             "lang": "en"
         }
     ],
     "main_symbol": "A/m²",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "A.m-2",
+        "A/m2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "ec1a540d-0374-5760-af1d-26077e9d762e",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/A-PER-CentiM2"
-            ],
-            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWec1a540d03745760af1d26077e9d762e",
-            "conversion_factor_from_si": 10000.0,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "A/cm²"
+            "exponent": -2
         },
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "d0a4ce0c-c105-550b-9bcb-c416589a1b85",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaA-PER-M2"
-            ],
-            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWd0a4ce0cc105550b9bcbc416589a1b85",
-            "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MA/m²"
-        },
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "8d7d0b57-aaba-5f8a-8f40-e8bacc5cb2f6",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/A-PER-MilliM2"
-            ],
             "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSW8d7d0b57aaba5f8a8f40e8bacc5cb2f6",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "A/mm²"
+            "main_symbol": "A/mm²",
+            "ucum_codes": [
+                "A.mm-2",
+                "A/mm2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "a80d9ac2-c045-5902-ab95-31512c9b7667",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloA-PER-M2"
-            ],
             "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWa80d9ac2c0455902ab9531512c9b7667",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kA/m²"
+            "main_symbol": "kA/m²",
+            "ucum_codes": [
+                "kA.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "d0a4ce0c-c105-550b-9bcb-c416589a1b85",
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWd0a4ce0cc105550b9bcbc416589a1b85",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "MA/m²",
+            "ucum_codes": [
+                "MA.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ec1a540d-0374-5760-af1d-26077e9d762e",
+            "osw_id": "Item:OSW2b1e97f1edd650c088abbe8896fe0333#OSWec1a540d03745760af1d26077e9d762e",
+            "conversion_factor_to_main_unit": 10000.0,
+            "conversion_factor_from_si": 10000.0,
+            "main_symbol": "A/cm²",
+            "ucum_codes": [
+                "A.cm-2",
+                "A/cm2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

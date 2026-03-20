@@ -2,12 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "8db8e99f-c1ce-5914-bdb7-f42fa21afe1f",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/BIT",
-        "http://dbpedia.org/resource/Bit"
+        "http://qudt.org/vocab/unit/BIT"
     ],
-    "name": "BIT",
+    "uuid": "8db8e99f-c1ce-5914-bdb7-f42fa21afe1f",
+    "name": "Bit",
     "label": [
         {
             "text": "Bit",
@@ -21,5 +20,143 @@
         }
     ],
     "main_symbol": "b",
-    "conversion_factor_from_si": 0.6931471805599453
+    "conversion_factor_from_si": 0.6931471805599453,
+    "ucum_codes": [
+        "bit"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "29829be3-cfe1-5b41-872f-17c8d6a6703f",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW29829be3cfe15b41872f17c8d6a6703f",
+            "conversion_factor_to_main_unit": 1000000000000000.0,
+            "conversion_factor_from_si": 693147180559945.2,
+            "prefix_symbol": "P",
+            "main_symbol": "Pb"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3e10c0ec-91b9-5dcd-8759-80c5570caa32",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW3e10c0ec91b95dcd875980c5570caa32",
+            "conversion_factor_to_main_unit": 1.5292150460684698e+17,
+            "conversion_factor_from_si": 1.0599710976522067e+17,
+            "prefix_symbol": "Ei",
+            "main_symbol": "Eib"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "52d866ae-576c-5ea1-a642-c3a62bc07d36",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW52d866ae576c5ea1a642c3a62bc07d36",
+            "conversion_factor_to_main_unit": 1099511627776.0,
+            "conversion_factor_from_si": 762123384785.8104,
+            "prefix_symbol": "Ti",
+            "main_symbol": "Tib"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5cea3c72-bbce-533b-9a53-9e20bc5b888b",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW5cea3c72bbce533b9a539e20bc5b888b",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 693147.1805599453,
+            "prefix_symbol": "M",
+            "main_symbol": "Mb"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5f2dc668-2bff-5c29-ba35-8c256f76dbdd",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW5f2dc6682bff5c29ba358c256f76dbdd",
+            "conversion_factor_to_main_unit": 1024.0,
+            "conversion_factor_from_si": 709.782712893384,
+            "prefix_symbol": "Ki",
+            "main_symbol": "Kib"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "9bfb1f56-3c79-5551-b120-b81aee334a1c",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW9bfb1f563c795551b120b81aee334a1c",
+            "conversion_factor_to_main_unit": 1000.0000000000001,
+            "conversion_factor_from_si": 693.1471805599454,
+            "prefix_symbol": "k",
+            "main_symbol": "kb"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "bb65f772-7d57-539d-a582-98d206e81536",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWbb65f7727d57539da58298d206e81536",
+            "conversion_factor_to_main_unit": 1.0000000000000001e+18,
+            "conversion_factor_from_si": 6.931471805599453e+17,
+            "prefix_symbol": "E",
+            "main_symbol": "Eb"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c75fce79-9248-5963-b57e-f0cfac41629d",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWc75fce7992485963b57ef0cfac41629d",
+            "conversion_factor_to_main_unit": 1000000000.0000001,
+            "conversion_factor_from_si": 693147180.5599453,
+            "prefix_symbol": "G",
+            "main_symbol": "Gb"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "cee86d4c-2c9d-5dc5-8996-ffffdd61574d",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWcee86d4c2c9d5dc58996ffffdd61574d",
+            "conversion_factor_to_main_unit": 125899906842624.0,
+            "conversion_factor_from_si": 87267165460724.6,
+            "prefix_symbol": "Pi",
+            "main_symbol": "Pib"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e1e9720f-b8a7-555a-93f1-42fdba50bda8",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWe1e9720fb8a7555a93f142fdba50bda8",
+            "conversion_factor_to_main_unit": 1073741824.0,
+            "conversion_factor_from_si": 744261117.954893,
+            "prefix_symbol": "Gi",
+            "main_symbol": "Gib"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f5016b25-4a37-592b-8ea1-acfc4a340303",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWf5016b254a37592b8ea1acfc4a340303",
+            "conversion_factor_to_main_unit": 1000000000000.0,
+            "conversion_factor_from_si": 693147180559.9453,
+            "prefix_symbol": "T",
+            "main_symbol": "Tb"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "fabc6224-737a-5f35-b831-471cf367fc1d",
+            "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWfabc6224737a5f35b831471cf367fc1d",
+            "conversion_factor_to_main_unit": 1048576.0,
+            "conversion_factor_from_si": 726817.4980028252,
+            "prefix_symbol": "Mi",
+            "main_symbol": "Mib"
+        }
+    ]
 }

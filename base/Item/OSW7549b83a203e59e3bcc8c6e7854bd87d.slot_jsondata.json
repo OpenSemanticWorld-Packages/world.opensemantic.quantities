@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "7549b83a-203e-59e3-bcc8-c6e7854bd87d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaTemperature"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaTemperature"
+    ],
+    "uuid": "7549b83a-203e-59e3-bcc8-c6e7854bd87d",
     "name": "AreaTemperature",
     "label": [
         {

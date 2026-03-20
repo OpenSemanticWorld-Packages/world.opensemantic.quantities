@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PicoGM-PER-GM"
+    ],
+    "uuid": "0e151b86-9b43-58e0-9c5b-e62ba332b9e2",
+    "name": "PicogramsPerGram",
+    "label": [
+        {
+            "text": "PicoGrams per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One part per 10**12 (trillion) by mass of the measurand in the matrix.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "pg/g",
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "pg.g-1",
+        "pg/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

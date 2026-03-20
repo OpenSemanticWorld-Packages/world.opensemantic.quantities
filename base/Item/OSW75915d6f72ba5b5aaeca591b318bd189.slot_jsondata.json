@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "75915d6f-72ba-5b5a-aeca-591b318bd189",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/WaterVaporDiffusionCoefficient"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/WaterVaporDiffusionCoefficient"
+    ],
+    "uuid": "75915d6f-72ba-5b5a-aeca-591b318bd189",
     "name": "WaterVapourDiffusionCoefficient",
     "label": [
         {

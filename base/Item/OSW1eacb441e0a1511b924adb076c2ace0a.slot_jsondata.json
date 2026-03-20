@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "1eacb441-e0a1-511b-924a-db076c2ace0a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ThomsonCoefficient"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ThomsonCoefficient"
+    ],
+    "uuid": "1eacb441-e0a1-511b-924a-db076c2ace0a",
     "name": "ThomsonCoefficient",
     "label": [
         {

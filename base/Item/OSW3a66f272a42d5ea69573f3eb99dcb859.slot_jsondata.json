@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "3a66f272-a42d-5ea6-9573-f3eb99dcb859",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Admittance"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Admittance"
+    ],
+    "uuid": "3a66f272-a42d-5ea6-9573-f3eb99dcb859",
     "name": "Admittance",
     "label": [
         {
@@ -20,6 +23,13 @@
         }
     ],
     "units": [
-        "Item:OSW46249e4c237d546198d98bff0b9d5e93"
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93",
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW00d5ab4581fb51bebe243be341733c51",
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW335afa8f1aa25135b30b1691b7ebfa4a",
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW35746906e9d051c39bdeebdf5736c2ba",
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSW8253047fc4835d79b0f31baf3b96182d",
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWd41a264449b852b4807e7e08ab790cc7",
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWf52320000c645b64a4e9dcb8dd131254",
+        "Item:OSW46249e4c237d546198d98bff0b9d5e93#OSWfd5a12b202d2534c9cb0844fb6c4f15e"
     ]
 }

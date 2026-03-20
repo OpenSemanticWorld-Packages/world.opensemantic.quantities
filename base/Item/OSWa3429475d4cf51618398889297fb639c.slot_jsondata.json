@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "a3429475-d4cf-5161-8398-889297fb639c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SecondAxialMomentOfArea"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SecondAxialMomentOfArea"
+    ],
+    "uuid": "a3429475-d4cf-5161-8398-889297fb639c",
     "name": "SecondAxialMomentOfArea",
     "label": [
         {
@@ -20,6 +23,8 @@
         }
     ],
     "units": [
+        "Item:OSW568d0d17db6551c1993de3d51c6051cc",
+        "Item:OSW73b630d93619585bbc7f4a3a4a3be104",
         "Item:OSWe4f01fe00389574e905718a14481ed36"
     ]
 }

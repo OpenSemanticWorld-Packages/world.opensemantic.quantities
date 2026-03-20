@@ -2,14 +2,14 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "4c06f33f-c30f-5ba3-af99-3440b9a15c0b",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PPT"
     ],
-    "name": "PPT",
+    "uuid": "4c06f33f-c30f-5ba3-af99-3440b9a15c0b",
+    "name": "PartPerTrillion",
     "label": [
         {
-            "text": "part per trillion",
+            "text": "Part per Trillion",
             "lang": "en"
         }
     ],
@@ -20,5 +20,9 @@
         }
     ],
     "main_symbol": "ppt",
-    "conversion_factor_from_si": 1e-12
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "[ppt]"
+    ],
+    "factor_unit_scalar": 1
 }

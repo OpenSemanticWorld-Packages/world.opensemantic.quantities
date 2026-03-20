@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-DAY"
+    ],
+    "uuid": "5b7b7315-2833-524e-a13c-5a7fd74fe998",
+    "name": "MilligramPerDay",
+    "label": [
+        {
+            "text": "MilliGram per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the SI base unit kilogram divided by the unit day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/d",
+    "conversion_factor_from_si": 1.1574074074074074e-11,
+    "ucum_codes": [
+        "mg.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

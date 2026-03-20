@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "3c2c63a1-2066-5491-8a58-0fdd4536a451",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Length"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Length",
-        "https://si-digital-framework.org/SI/quantities/LENG"
+        "http://qudt.org/vocab/quantitykind/Length",
+        "https://si-digital-framework.org/quantities/LENG"
     ],
+    "uuid": "3c2c63a1-2066-5491-8a58-0fdd4536a451",
     "name": "Length",
     "label": [
         {
@@ -28,7 +29,18 @@
         }
     ],
     "units": [
+        "Item:OSWa002ca4dbb715de4abb4c9e6ff9b7cd7",
+        "Item:OSWc589f456dfad5c85a971c1d393030cb5",
         "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
-        "Item:OSWc589f456dfad5c85a971c1d393030cb5"
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW419e951a0df45ae8a8a27806200814b7",
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW53a491fdba4d52428769e4bd5c447906",
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW53d6030c99a152d28ce56e57b5376f95",
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW60a0f8bd28955fd6ae61177af381696c",
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb1de8f91f1275572b37c2edfe40d5de6",
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb2830572baec5cca970dde12bf0f5a2a",
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf488c3090a5c542aa45dd20b7d37a8ec",
+        "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf89b36f291825b78b2e376b41104ed80"
     ]
 }

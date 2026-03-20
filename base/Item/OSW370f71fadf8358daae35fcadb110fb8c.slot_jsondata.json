@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "370f71fa-df83-58da-ae35-fcadb110fb8c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VentilationRatePerFloorArea"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/VentilationRatePerFloorArea"
+    ],
+    "uuid": "370f71fa-df83-58da-ae35-fcadb110fb8c",
     "name": "VentilationRatePerFloorArea",
     "label": [
         {

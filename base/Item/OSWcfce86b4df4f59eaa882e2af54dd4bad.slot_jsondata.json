@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroGM-PER-MilliL"
+    ],
+    "uuid": "cfce86b4-df4f-59ea-a882-e2af54dd4bad",
+    "name": "MicrogramPerMillilitre",
+    "label": [
+        {
+            "text": "MicroGram per MilliLitre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000000000001-fold of the SI base unit kilogram divided by the unit microlitre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μg/mL",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "ug.mL-1",
+        "ug/mL"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-PER-SEC3-K"
+    ],
+    "uuid": "f402befb-bafe-507a-a45f-dadbf0c635c0",
+    "name": "KilogramPerCubicSecondKelvin",
+    "label": [
+        {
+            "text": "KiloGram per Cubic Second Kelvin",
+            "lang": "en"
+        },
+        {
+            "text": "KiloGramm Je Kubiksekunde Kelvin",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit commonly used for the coefficient of heat transfer",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/(s³·K)",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "kg.s-3.K-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -3
+        }
+    ]
+}

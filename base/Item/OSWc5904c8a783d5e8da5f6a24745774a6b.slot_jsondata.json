@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "c5904c8a-783d-5e8d-a5f6-a24745774a6b",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M6"
     ],
-    "name": "M6",
+    "uuid": "c5904c8a-783d-5e8d-a5f6-a24745774a6b",
+    "name": "SexticMetre",
     "label": [
         {
             "text": "Sextic Metre",
@@ -15,19 +15,33 @@
     ],
     "main_symbol": "m⁶",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "m6"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 6
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "ffc05759-2b94-5f8a-aad8-ef5e3e1903a4",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/CentiM6"
-            ],
             "osw_id": "Item:OSWc5904c8a783d5e8da5f6a24745774a6b#OSWffc057592b945f8aaad8ef5e3e1903a4",
+            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "cm⁶"
+            "main_symbol": "cm⁶",
+            "ucum_codes": [
+                "cm6"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 6
+                }
+            ]
         }
     ]
 }

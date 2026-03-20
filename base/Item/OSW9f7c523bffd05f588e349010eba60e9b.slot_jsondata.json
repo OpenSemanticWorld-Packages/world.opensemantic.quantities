@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Non-LeakageProbability"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Non-LeakageProbability"
+    ],
+    "uuid": "9f7c523b-ffd0-5f58-8e34-9010eba60e9b",
+    "name": "NonLeakageProbability",
+    "label": [
+        {
+            "text": "Non-Leakage Probability",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Non-Leakage Probability\" is the probability that a neutron will not escape from the reactor during the slowing-down process or while it diffuses as a thermal neutron",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

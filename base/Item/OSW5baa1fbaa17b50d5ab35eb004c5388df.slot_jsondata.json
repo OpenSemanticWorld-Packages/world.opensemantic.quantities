@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "5baa1fba-a17b-50d5-ab35-eb004c5388df",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-MilliM"
     ],
-    "name": "GM-MilliM",
+    "uuid": "5baa1fba-a17b-50d5-ab35-eb004c5388df",
+    "name": "GramMillimetre",
     "label": [
         {
-            "text": "Gram Millimetre",
+            "text": "Gram MilliMetre",
             "lang": "en"
         }
     ],
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "g·mm",
-    "conversion_factor_from_si": 1e-06
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "g.mm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

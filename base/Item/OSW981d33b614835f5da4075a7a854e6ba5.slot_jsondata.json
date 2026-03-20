@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "981d33b6-1483-5f5d-a407-5a7a854e6ba5",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SectionAreaIntegral"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SectionAreaIntegral"
+    ],
+    "uuid": "981d33b6-1483-5f5d-a407-5a7a854e6ba5",
     "name": "SectionAreaIntegral",
     "label": [
         {

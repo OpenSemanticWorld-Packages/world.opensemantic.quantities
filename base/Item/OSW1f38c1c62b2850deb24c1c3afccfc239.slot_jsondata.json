@@ -1,108 +1,171 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "1f38c1c6-2b28-50de-b24c-1c3afccfc239",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/C-PER-M2"
     ],
-    "name": "C-PER-M2",
+    "uuid": "1f38c1c6-2b28-50de-b24c-1c3afccfc239",
+    "name": "CoulombPerSquareMetre",
     "label": [
         {
-            "text": "coulomb per square metre",
+            "text": "Coulomb per Square Metre",
             "lang": "en"
         },
         {
-            "text": "Coulomb je Quadratmeter",
+            "text": "Coulomb Je Quadratmeter",
             "lang": "de"
         }
     ],
     "description": [
         {
-            "text": "Coulomb Per Square Meter ($C/m^2$) is a unit in the category of Electric charge surface density. It is also known as coulombs per square meter, coulomb per square metre, coulombs per square metre, coulomb/square meter, coulomb/square metre. This unit is commonly used in the SI unit system. Coulomb Per Square Meter (C/m2) has a dimension of $L^{-2}TI$ where $L$ is length, $T$ is time, and $I$ is electric current. This unit is the standard SI unit in this category. ",
+            "text": "Coulomb Per Square Meter ($C/m^2$) is a unit in the category of Electric charge surface density. It is also known as coulombs per square meter, coulomb per square metre, coulombs per square metre, coulomb/square meter, coulomb/square metre. This unit is commonly used in the SI unit system. Coulomb Per Square Meter (C/m2) has a dimension of $L^{-2}TI$ where $L$ is length, $T$ is time, and $I$ is electric current. This unit is the standard SI unit in this category.",
             "lang": "en"
         }
     ],
     "main_symbol": "C/m²",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "C.m-2",
+        "C/m2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "aace10bd-10b5-5372-99ad-0548738e0b5e",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliC-PER-M2"
-            ],
-            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWaace10bd10b5537299ad0548738e0b5e",
-            "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mC/m²"
+            "exponent": 1
         },
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "6314b983-2a35-5b7c-ab36-16f5d08c4165",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloC-PER-M2"
-            ],
-            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW6314b9832a355b7cab3616f5d08c4165",
-            "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kC/m²"
-        },
+            "exponent": -2
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "f6450e8a-db14-5e3a-8cc3-104122cdc667",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/C-PER-CentiM2"
-            ],
-            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWf6450e8adb145e3a8cc3104122cdc667",
-            "conversion_factor_from_si": 10000.0,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "C/cm²"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "344d47f9-6cd5-5fe8-9e73-f85cb1054450",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaC-PER-M2"
-            ],
             "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW344d47f96cd55fe89e73f85cb1054450",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MC/m²"
+            "main_symbol": "MC/m²",
+            "ucum_codes": [
+                "MC.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "596e6e92-2408-5a35-b395-fc84aa4edde8",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/C-PER-MilliM2"
-            ],
             "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW596e6e9224085a35b395fc84aa4edde8",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "C/mm²"
+            "main_symbol": "C/mm²",
+            "ucum_codes": [
+                "C.mm-2",
+                "C/mm2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "6314b983-2a35-5b7c-ab36-16f5d08c4165",
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSW6314b9832a355b7cab3616f5d08c4165",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "kC/m²",
+            "ucum_codes": [
+                "kC.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "aace10bd-10b5-5372-99ad-0548738e0b5e",
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWaace10bd10b5537299ad0548738e0b5e",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mC/m²",
+            "ucum_codes": [
+                "mC.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "ea3f16aa-263f-52dc-941e-62b9c510ade5",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroC-PER-M2"
-            ],
             "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWea3f16aa263f52dc941e62b9c510ade5",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "µC/m²"
+            "main_symbol": "μC/m²",
+            "ucum_codes": [
+                "uC.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f6450e8a-db14-5e3a-8cc3-104122cdc667",
+            "osw_id": "Item:OSW1f38c1c62b2850deb24c1c3afccfc239#OSWf6450e8adb145e3a8cc3104122cdc667",
+            "conversion_factor_to_main_unit": 10000.0,
+            "conversion_factor_from_si": 10000.0,
+            "main_symbol": "C/cm²",
+            "ucum_codes": [
+                "C.cm-2",
+                "C/cm2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

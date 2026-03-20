@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaN-M"
+    ],
+    "uuid": "48e50fcb-919e-57d9-9158-eb2308baed11",
+    "name": "MeganewtonMetre",
+    "label": [
+        {
+            "text": "MegaNewton Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1,000,000-fold of the product of the SI derived unit newton and the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "MN·m",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "MN.m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

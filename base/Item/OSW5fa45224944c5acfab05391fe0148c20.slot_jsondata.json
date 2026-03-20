@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-DeciL"
+    ],
+    "uuid": "5fa45224-944c-5acf-ab05-391fe0148c20",
+    "name": "MilligramsPerDecilitre",
+    "label": [
+        {
+            "text": "MilliGrams per DeciLitre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A derived unit for amount-of-substance concentration measured in mg/dL.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/dL",
+    "conversion_factor_from_si": 0.01,
+    "ucum_codes": [
+        "mg.dL-1",
+        "mg/dL"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

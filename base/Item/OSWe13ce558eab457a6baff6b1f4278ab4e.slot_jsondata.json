@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "e13ce558-eab4-57a6-baff-6b1f4278ab4e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ParticleSourceDensity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ParticleSourceDensity"
+    ],
+    "uuid": "e13ce558-eab4-57a6-baff-6b1f4278ab4e",
     "name": "ParticleSourceDensity",
     "label": [
         {

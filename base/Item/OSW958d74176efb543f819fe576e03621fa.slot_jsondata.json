@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "958d7417-6efb-543f-819f-e576e03621fa",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/A-PER-M2-K2"
     ],
-    "name": "A-PER-M2-K2",
+    "uuid": "958d7417-6efb-543f-819f-e576e03621fa",
+    "name": "AmperePerSquareMetreSquareKelvin",
     "label": [
         {
             "text": "Ampere per Square Metre Square Kelvin",
@@ -14,5 +14,21 @@
         }
     ],
     "main_symbol": "A/(m²·K²)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "A.m-2.K-2",
+        "A/(m2.K2)"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

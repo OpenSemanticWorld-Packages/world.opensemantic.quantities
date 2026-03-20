@@ -1,0 +1,36 @@
+{
+    "@context": [
+        {
+            "qudt": "http://qudt.org/schema/qudt/"
+        },
+        "/wiki/Category:Item?action=raw&slot=jsonschema",
+        "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+    ],
+    "allOf": [
+        {
+            "$ref": "/wiki/Category:Item?action=raw&slot=jsonschema"
+        },
+        {
+            "$ref": "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+        }
+    ],
+    "type": "object",
+    "uuid": "27782669-526d-4d9a-8de8-3659c03c64d5",
+    "title": "SystemOfQuantitiesAndUnits",
+    "title*": {
+        "en": "System Of Quantities And Units",
+        "de": "System von Größen und Einheiten"
+    },
+    "description": "",
+    "description*": {},
+    "required": [
+        "type"
+    ],
+    "properties": {
+        "type": {
+            "default": [
+                "Category:OSW27782669526d4d9a8de83659c03c64d5"
+            ]
+        }
+    }
+}

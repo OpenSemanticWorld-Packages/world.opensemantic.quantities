@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "1db4ecd0-ff69-55a5-b089-3ad0e00d1290",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-M2"
     ],
-    "name": "M2-PER-M2",
+    "uuid": "1db4ecd0-ff69-55a5-b089-3ad0e00d1290",
+    "name": "SquareMetrePerSquareMetre",
     "label": [
         {
-            "text": "square metre per square metre",
+            "text": "Square Metre per Square Metre",
             "lang": "en"
         }
     ],
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "m²/m²",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m2.m-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 2
+        }
+    ]
 }

@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "7e66beee-f6b0-5637-a554-d3506d689000",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-MOL"
     ],
-    "name": "J-PER-MOL",
+    "uuid": "7e66beee-f6b0-5637-a554-d3506d689000",
+    "name": "JoulePerMole",
     "label": [
         {
-            "text": "joule per mole",
+            "text": "Joule per Mole",
             "lang": "en"
         },
         {
-            "text": "Joule je Mol",
+            "text": "Joule Je Mol",
             "lang": "de"
         }
     ],
@@ -25,19 +25,41 @@
     ],
     "main_symbol": "J/mol",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "J.mol-1",
+        "J/mol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "23b10a54-3269-55ad-b186-2933713551f9",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloJ-PER-MOL"
-            ],
             "osw_id": "Item:OSW7e66beeef6b05637a554d3506d689000#OSW23b10a54326955adb1862933713551f9",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kJ/mol"
+            "main_symbol": "kJ/mol",
+            "ucum_codes": [
+                "kJ.mol-1",
+                "kJ/mol"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

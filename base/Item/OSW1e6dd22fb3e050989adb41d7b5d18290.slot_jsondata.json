@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "1e6dd22f-b3e0-5098-9adb-41d7b5d18290",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-PER-HR"
     ],
-    "name": "PA-PER-HR",
+    "uuid": "1e6dd22f-b3e0-5098-9adb-41d7b5d18290",
+    "name": "PascalPerHour",
     "label": [
         {
             "text": "Pascal per Hour",
@@ -20,20 +20,41 @@
         }
     ],
     "main_symbol": "Pa/h",
-    "conversion_factor_from_si": 0.000277777778,
-    "prefix_units": [
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "Pa.h-1",
+        "Pa/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "a2065930-0e43-557d-b5c3-7f3b8e8532b5",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/HectoPA-PER-HR"
-            ],
             "osw_id": "Item:OSW1e6dd22fb3e050989adb41d7b5d18290#OSWa20659300e43557db5c37f3b8e8532b5",
-            "conversion_factor_from_si": 0.0277777777777778,
-            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
-            "main_symbol": "hPa/h"
+            "conversion_factor_to_main_unit": 100.0,
+            "conversion_factor_from_si": 0.027777777777777776,
+            "main_symbol": "hPa/h",
+            "ucum_codes": [
+                "hPa.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

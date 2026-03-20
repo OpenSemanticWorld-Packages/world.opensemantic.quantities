@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-M-NanoM-SR"
+    ],
+    "uuid": "906e4cbe-7d24-532a-a0e9-f9ca97622372",
+    "name": "ReciprocalMetreNanometreSteradian",
+    "label": [
+        {
+            "text": "Reciprocal Metre NanoMetre Steradian",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(m·nm·sr)",
+    "conversion_factor_from_si": 1000000000.0,
+    "ucum_codes": [
+        "m-1.nm-1.sr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

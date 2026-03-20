@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Yobi"
+    ],
+    "uuid": "abe4882b-d580-558c-8cd2-6e60f2081378",
+    "name": "yobi",
+    "label": [
+        {
+            "text": "yobi",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A binary prefix for expressing a value with a scaling of $1024^{8}$, or $2^{80}$.",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Yi",
+    "factor": 1.2089258196146292e+24
+}

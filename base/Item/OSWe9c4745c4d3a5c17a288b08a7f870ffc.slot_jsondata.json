@@ -1,13 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-SR"
     ],
     "uuid": "e9c4745c-4d3a-5c17-a288-b08a7f870ffc",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/M2-PER-SR",
-        "http://dbpedia.org/resource/Steradian"
-    ],
-    "name": "M2-PER-SR",
+    "name": "SquareMetrePerSteradian",
     "label": [
         {
             "text": "Square Metre per Steradian",
@@ -15,5 +14,17 @@
         }
     ],
     "main_symbol": "m²/sr",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m2.sr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        }
+    ]
 }

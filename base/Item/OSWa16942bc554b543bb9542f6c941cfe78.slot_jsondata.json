@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "a16942bc-554b-543b-b954-2f6c941cfe78",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-SEC-PER-M"
     ],
-    "name": "PA-SEC-PER-M",
+    "uuid": "a16942bc-554b-543b-b954-2f6c941cfe78",
+    "name": "PascalSecondPerMetre",
     "label": [
         {
             "text": "Pascal Second per Metre",
@@ -20,5 +20,21 @@
         }
     ],
     "main_symbol": "Pa·s/m",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "Pa.s.m-1",
+        "Pa.s/m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "cbe5ef4b-89d5-5bed-8b09-a354806c2b4a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RelativePressureCoefficient"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RelativePressureCoefficient"
+    ],
+    "uuid": "cbe5ef4b-89d5-5bed-8b09-a354806c2b4a",
     "name": "RelativePressureCoefficient",
     "label": [
         {
@@ -14,6 +17,7 @@
         }
     ],
     "units": [
-        "Item:OSW33dfda3d4dea57d192d02eecdbc09b86"
+        "Item:OSW33dfda3d4dea57d192d02eecdbc09b86",
+        "Item:OSW33dfda3d4dea57d192d02eecdbc09b86#OSWd07bed05663858c08eb760bc560b620c"
     ]
 }

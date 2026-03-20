@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearMass"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LinearMass"
+    ],
+    "uuid": "fec14f5e-9f19-5b2b-87cf-a7b89626d544",
+    "name": "LineicMass",
+    "label": [
+        {
+            "text": "Lineic mass",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW0429f89d17e6572fac6630caa443c336",
+        "Item:OSW0429f89d17e6572fac6630caa443c336#OSW194a4a498f1e582e87f6a0a6001aab1f",
+        "Item:OSW0429f89d17e6572fac6630caa443c336#OSW1e1793e6b72454f1a81b08eabc8272b7",
+        "Item:OSW0429f89d17e6572fac6630caa443c336#OSW78d4dd32fca8531cad7272b3f6961f8e",
+        "Item:OSW0429f89d17e6572fac6630caa443c336#OSWd82843dc68c8505a94349a0d7ce152e6",
+        "Item:OSW0429f89d17e6572fac6630caa443c336#OSWfdc0ce8d7bb15042a381bec3f3949c23",
+        "Item:OSW98356a7e8083515b8b8cbd389998555e"
+    ]
+}

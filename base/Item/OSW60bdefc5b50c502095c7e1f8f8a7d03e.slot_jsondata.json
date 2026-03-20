@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "60bdefc5-b50c-5020-95c7-e1f8f8a7d03e",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/KiloGM-PER-M2-PA-SEC"
     ],
-    "name": "KiloGM-PER-M2-PA-SEC",
+    "uuid": "60bdefc5-b50c-5020-95c7-e1f8f8a7d03e",
+    "name": "KilogramsPerSquareMetrePascalSecond",
     "label": [
         {
-            "text": "Kilograms per square metre Pascal second",
+            "text": "KiloGrams per Square Metre Pascal Second",
             "lang": "en"
         }
     ],
@@ -20,5 +20,23 @@
         }
     ],
     "main_symbol": "kg/(m²·Pa·s)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "kg.m-2.Pa-1.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

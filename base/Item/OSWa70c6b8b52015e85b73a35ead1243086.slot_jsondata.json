@@ -1,0 +1,27 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaDOLLAR_US-PER-FLIGHT"
+    ],
+    "uuid": "a70c6b8b-5201-5e85-b73a-35ead1243086",
+    "name": "MillionUsDollarsPerFlight",
+    "label": [
+        {
+            "text": "MilliOn Us Dollars per Flight",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "$M/flight",
+    "conversion_factor_from_si": 0.0,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

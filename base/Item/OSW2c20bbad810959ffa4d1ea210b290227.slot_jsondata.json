@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-DeciM3"
+    ],
+    "uuid": "2c20bbad-8109-59ff-a4d1-ea210b290227",
+    "name": "MolePerCubicDecimetre",
+    "label": [
+        {
+            "text": "Mole per Cubic DeciMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit mol divided by the 0.001-fold of the power of the SI base unit metre with the exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/dm³",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "mol.dm-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

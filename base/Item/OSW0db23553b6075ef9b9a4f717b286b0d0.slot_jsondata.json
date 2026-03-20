@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_BGN-PER-KiloW-HR"
+    ],
+    "uuid": "0db23553-b607-5ef9-b9a4-f717b286b0d0",
+    "name": "BulgarianLevPerKilowattHour",
+    "label": [
+        {
+            "text": "Bulgarian Lev per KiloWatt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "лв./(kW·h)",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

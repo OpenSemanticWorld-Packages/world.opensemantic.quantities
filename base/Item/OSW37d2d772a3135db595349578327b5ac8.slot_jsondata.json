@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PicoMOL-PER-L"
+    ],
+    "uuid": "37d2d772-a313-5db5-9534-9578327b5ac8",
+    "name": "PicomolesPerLitre",
+    "label": [
+        {
+            "text": "PicoMoles per Litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "pmol/L",
+    "conversion_factor_from_si": 1e-09,
+    "ucum_codes": [
+        "pmol.L-1",
+        "pmol/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "8c198dbb-96df-555a-ac74-4013a50dce1f",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-CentiM2-DAY"
     ],
-    "name": "J-PER-CentiM2-DAY",
+    "uuid": "8c198dbb-96df-555a-ac74-4013a50dce1f",
+    "name": "JoulesPerSquareCentimetreDay",
     "label": [
         {
-            "text": "Joules per square centimetre day",
+            "text": "Joules per Square CentiMetre Day",
             "lang": "en"
         }
     ],
@@ -19,6 +19,21 @@
             "lang": "en"
         }
     ],
-    "main_symbol": "J/(cm²·day)",
-    "conversion_factor_from_si": 0.115740740740741
+    "main_symbol": "J/(cm²·d)",
+    "conversion_factor_from_si": 0.11574074074074074,
+    "ucum_codes": [
+        "J.cm-2.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

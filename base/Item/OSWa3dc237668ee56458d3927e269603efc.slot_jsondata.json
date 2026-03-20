@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "a3dc2376-68ee-5645-8d39-27e269603efc",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Action"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Action"
+    ],
+    "uuid": "a3dc2376-68ee-5645-8d39-27e269603efc",
     "name": "Action",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
+        "Item:OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
         "Item:OSWf045a04750e15ea2b152fb3bfebf162a"
     ]
 }

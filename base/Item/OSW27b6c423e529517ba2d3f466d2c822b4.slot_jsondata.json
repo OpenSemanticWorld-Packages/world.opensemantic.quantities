@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaS-PER-M"
+    ],
+    "uuid": "27b6c423-e529-517b-a2d3-f466d2c822b4",
+    "name": "MegasiemensPerMetre",
+    "label": [
+        {
+            "text": "MegaSiemens per Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1,000,000-fold of the SI derived unit siemens divided by the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "MS/m",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "MS.m-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

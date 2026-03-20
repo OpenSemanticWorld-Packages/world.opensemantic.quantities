@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "f63c15f0-3855-534f-abdc-39bb5403d1ff",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/V-SEC-PER-M"
     ],
-    "name": "V-SEC-PER-M",
+    "uuid": "f63c15f0-3855-534f-abdc-39bb5403d1ff",
+    "name": "VoltSecondPerMetre",
     "label": [
         {
             "text": "Volt Second per Metre",
@@ -20,5 +20,21 @@
         }
     ],
     "main_symbol": "V·s/m",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "V.s.m-1",
+        "V.s/m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "b175d26e-736c-5603-bcaa-1060f2afddff",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CD-PER-LM"
     ],
-    "name": "CD-PER-LM",
+    "uuid": "b175d26e-736c-5603-bcaa-1060f2afddff",
+    "name": "CandelaPerLumen",
     "label": [
         {
             "text": "Candela per Lumen",
@@ -15,19 +15,41 @@
     ],
     "main_symbol": "cd/lm",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "cd.lm-1",
+        "cd/lm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "77b2c8bd-92a0-57b1-ade0-ce1687eb7520",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/CD-PER-KiloLM"
-            ],
             "osw_id": "Item:OSWb175d26e736c5603bcaa1060f2afddff#OSW77b2c8bd92a057b1ade0ce1687eb7520",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "cd/klm"
+            "main_symbol": "cd/klm",
+            "ucum_codes": [
+                "cd.klm-1",
+                "cd/klm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

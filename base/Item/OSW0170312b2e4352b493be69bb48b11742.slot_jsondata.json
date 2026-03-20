@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/THOUSAND"
+    ],
+    "uuid": "0170312b-2e43-52b4-93be-69bb48b11742",
+    "name": "Thousand",
+    "label": [
+        {
+            "text": "Thousand",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Counting unit for a count of one thousand",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "1000",
+    "conversion_factor_from_si": 1000.0,
+    "factor_unit_scalar": 1
+}

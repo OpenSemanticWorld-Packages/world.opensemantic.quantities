@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "5d0cca2f-4ce0-59ab-b280-6e91ede1d53d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EnergyPerAreaElectricCharge"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyPerAreaElectricCharge"
+    ],
+    "uuid": "5d0cca2f-4ce0-59ab-b280-6e91ede1d53d",
     "name": "EnergyPerAreaElectricCharge",
     "label": [
         {

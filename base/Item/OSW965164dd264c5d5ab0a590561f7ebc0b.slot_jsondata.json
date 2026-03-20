@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ReflectanceFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ReflectanceFactor"
+    ],
+    "uuid": "965164dd-264c-5d5a-b0a5-90561f7ebc0b",
+    "name": "ReflectanceFactor",
+    "label": [
+        {
+            "text": "Reflectance Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Reflectance Factor is the measure of the ability of a surface to reflect light or other electromagnetic radiation, equal to the ratio of the reflected flux to the incident flux.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

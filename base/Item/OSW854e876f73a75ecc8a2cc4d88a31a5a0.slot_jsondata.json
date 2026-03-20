@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "854e876f-73a7-5ecc-8a2c-c4d88a31a5a0",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/TON_Metric-PER-HA"
     ],
-    "name": "TON_Metric-PER-HA",
+    "uuid": "854e876f-73a7-5ecc-8a2c-c4d88a31a5a0",
+    "name": "MetricTonnePerHectare",
     "label": [
         {
-            "text": "metric tonne per hectare",
+            "text": "Metric Tonne per Hectare",
             "lang": "en"
         }
     ],
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "t/ha",
-    "conversion_factor_from_si": 0.1
+    "conversion_factor_from_si": 0.1,
+    "ucum_codes": [
+        "t.har-1",
+        "t/har"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

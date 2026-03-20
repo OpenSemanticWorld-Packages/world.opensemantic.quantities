@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-MicroMOL-L"
+    ],
+    "uuid": "86515931-97ea-5db5-aa85-0d0faf8860f0",
+    "name": "ReciprocalMicromolePerLitre",
+    "label": [
+        {
+            "text": "Reciprocal MicroMole per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Units used to describe the sensitivity of detection of a spectrophotometer.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(μmol·L)",
+    "conversion_factor_from_si": 1000000000.0,
+    "ucum_codes": [
+        "umol-1.L-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

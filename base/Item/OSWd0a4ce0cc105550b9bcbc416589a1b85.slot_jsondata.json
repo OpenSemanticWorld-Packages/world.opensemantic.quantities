@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaA-PER-M2"
+    ],
+    "uuid": "d0a4ce0c-c105-550b-9bcb-c416589a1b85",
+    "name": "MegaamperePerSquareMetre",
+    "label": [
+        {
+            "text": "MegaAmpere per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1,000,000-fold of the SI base unit ampere divided by the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "MA/m²",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "MA.m-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

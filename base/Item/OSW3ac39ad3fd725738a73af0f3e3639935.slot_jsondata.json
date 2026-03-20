@@ -1,0 +1,57 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/Frequency"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Frequency",
+        "http://qudt.org/vocab/quantitykind/Frequency",
+        "https://si-digital-framework.org/quantities/FREQ"
+    ],
+    "uuid": "3ac39ad3-fd72-5738-a73a-f0f3e3639935",
+    "name": "Frequency",
+    "label": [
+        {
+            "text": "Frequency",
+            "lang": "en"
+        },
+        {
+            "text": "Frequenz",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Frequency\" is the number of occurrences of a repeating event per unit time. The repetition of the events may be periodic (that is. the length of time between event repetitions is fixed) or aperiodic (i.e. the length of time between event repetitions varies). Therefore, we distinguish between periodic and aperiodic frequencies. In the SI system, periodic frequency is measured in hertz (Hz) or multiples of hertz, while aperiodic frequency is measured in becquerel (Bq).  In spectroscopy, $\\nu$ is mostly used. Light passing through different media keeps its frequency, but not its wavelength or wavenumber.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW06027f437dd357449795ec4d0e001467",
+        "Item:OSW06027f437dd357449795ec4d0e001467#OSW133cc94ec8375000abf7ff60018449ae",
+        "Item:OSW06027f437dd357449795ec4d0e001467#OSW7005d44ef1dd51acbe20cb145041606a",
+        "Item:OSW06027f437dd357449795ec4d0e001467#OSW7acd61611e90570789a0c17bd89a0332",
+        "Item:OSW06027f437dd357449795ec4d0e001467#OSW9607f6e5f4b15b59a05bfea6168d375e",
+        "Item:OSW06027f437dd357449795ec4d0e001467#OSW99f5ef542438535da66f86b2f237ad6c",
+        "Item:OSW06027f437dd357449795ec4d0e001467#OSWa7085a17a3595929beed2cd9978fe734",
+        "Item:OSW06027f437dd357449795ec4d0e001467#OSWb3a8a39c00505c75a3993bb11241fdb9",
+        "Item:OSW06027f437dd357449795ec4d0e001467#OSWef0f2e23f0715f4ba318816bc556b062",
+        "Item:OSW4bd500e7dccd574ca2b86fdb915507fe",
+        "Item:OSW66fe6ce97e5158609e118ef904c8eff6",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW077a52d68b86560a897183598a476b41",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW37c66b2e350050d891107e427a1c0210",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW5860049cdfae5d64abcd7bb8ace55540",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWd1cfeefa4862510399a624711178435a",
+        "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWfbbfa62ac8095c5bb37ea9f22ab121dd",
+        "Item:OSW98372a3dae18565f8e4c5863c7aaf33a",
+        "Item:OSW98372a3dae18565f8e4c5863c7aaf33a#OSW4e1dedc5c7a6585c868ff31ff7432d99",
+        "Item:OSWaccfb09899f65bfa93efac2d83a7a2ad",
+        "Item:OSWb07c39d8e66b5b069b953cddad34eb1c",
+        "Item:OSWd2434a78e02852fc9426025f9a4e50ba",
+        "Item:OSWdeb1214b8f475f71b338cd500825426f"
+    ]
+}

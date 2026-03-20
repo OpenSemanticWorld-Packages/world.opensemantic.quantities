@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "0003c110-9b64-5575-b70f-007360b49fa2",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-PER-M"
     ],
-    "name": "PA-PER-M",
+    "uuid": "0003c110-9b64-5575-b70f-007360b49fa2",
+    "name": "PascalPerMetre",
     "label": [
         {
             "text": "Pascal per Metre",
@@ -20,5 +20,127 @@
         }
     ],
     "main_symbol": "Pa/m",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "Pa.m-1",
+        "Pa/m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "99601f47-0fd4-5cfd-b121-2116828089a1",
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSW99601f470fd45cfdb1212116828089a1",
+            "conversion_factor_to_main_unit": 1e-15,
+            "conversion_factor_from_si": 1e-15,
+            "main_symbol": "pPa/km",
+            "ucum_codes": [
+                "pPa.km-1",
+                "pPa/km"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a1f0f30c-dd0c-5e6a-898e-05fc76e109ad",
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWa1f0f30cdd0c5e6a898e05fc76e109ad",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "kPa/mm",
+            "ucum_codes": [
+                "kPa.mm-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "d4588382-274f-5562-bb8a-e501d79a9a7b",
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWd4588382274f5562bb8ae501d79a9a7b",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mPa/m",
+            "ucum_codes": [
+                "mPa.m-1",
+                "mPa/m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "dbc16d30-4ae0-5714-ba10-f091cf23016f",
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWdbc16d304ae05714ba10f091cf23016f",
+            "conversion_factor_to_main_unit": 100.0,
+            "conversion_factor_from_si": 100.0,
+            "main_symbol": "hPa/m",
+            "ucum_codes": [
+                "hPa.m-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "de57b565-a8ad-5f50-8b6f-7c24f3f98db6",
+            "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWde57b565a8ad5f508b6f7c24f3f98db6",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "kPa/m",
+            "ucum_codes": [
+                "kPa.m-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
 }

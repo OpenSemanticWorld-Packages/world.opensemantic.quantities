@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "c766e20c-b7ff-511c-97a2-4fe36f363e05",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AreaThermalExpansion"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AreaThermalExpansion"
+    ],
+    "uuid": "c766e20c-b7ff-511c-97a2-4fe36f363e05",
     "name": "AreaThermalExpansion",
     "label": [
         {

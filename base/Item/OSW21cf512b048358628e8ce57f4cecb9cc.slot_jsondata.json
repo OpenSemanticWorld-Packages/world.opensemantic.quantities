@@ -1,18 +1,33 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "21cf512b-0483-5862-8e8c-e57f4cecb9cc",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-M2-PER-SR"
     ],
-    "name": "W-M2-PER-SR",
+    "uuid": "21cf512b-0483-5862-8e8c-e57f4cecb9cc",
+    "name": "WM2PerSr",
     "label": [
         {
-            "text": "W-M2-PER-SR",
+            "text": "W-m2-per-sr",
             "lang": "en"
         }
     ],
     "main_symbol": "W·m²/sr",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "W.m2.sr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliM4"
+    ],
+    "uuid": "568d0d17-db65-51c1-993d-e3d51c6051cc",
+    "name": "QuarticMillimetre",
+    "label": [
+        {
+            "text": "Quartic MilliMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.001-fold of the power of the SI base unit metre with the exponent 4",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mm⁴",
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "mm4"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 4
+        }
+    ]
+}

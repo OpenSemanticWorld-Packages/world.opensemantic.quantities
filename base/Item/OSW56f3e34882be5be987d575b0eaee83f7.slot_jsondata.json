@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "56f3e348-82be-5be9-87d5-75b0eaee83f7",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LuminousEfficacy"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LuminousEfficacy"
+    ],
+    "uuid": "56f3e348-82be-5be9-87d5-75b0eaee83f7",
     "name": "LuminousEfficacy",
     "label": [
         {

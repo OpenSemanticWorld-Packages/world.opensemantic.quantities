@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "46fa6db2-98ce-5915-a829-32c6e4b72085",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/C-M2"
     ],
-    "name": "C-M2",
+    "uuid": "46fa6db2-98ce-5915-a829-32c6e4b72085",
+    "name": "CoulombSquareMetre",
     "label": [
         {
-            "text": "coulomb square metre",
+            "text": "Coulomb Square Metre",
             "lang": "en"
         },
         {
-            "text": "Coulomb mal Quadratmeter",
+            "text": "Coulomb Mal Quadratmeter",
             "lang": "de"
         }
     ],
@@ -24,5 +24,17 @@
         }
     ],
     "main_symbol": "C·m²",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "C.m2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

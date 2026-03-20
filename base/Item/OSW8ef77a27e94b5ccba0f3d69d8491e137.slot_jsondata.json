@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "8ef77a27-e94b-5ccb-a0f3-d69d8491e137",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-PER-KiloGM"
     ],
-    "name": "N-PER-KiloGM",
+    "uuid": "8ef77a27-e94b-5ccb-a0f3-d69d8491e137",
+    "name": "NewtonPerKilogram",
     "label": [
         {
-            "text": "Newton per Kilogram",
+            "text": "Newton per KiloGram",
             "lang": "en"
         }
     ],
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "N/kg",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "N.kg-1",
+        "N/kg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

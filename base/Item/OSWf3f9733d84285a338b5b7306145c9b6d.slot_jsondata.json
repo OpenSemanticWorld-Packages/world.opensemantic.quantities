@@ -1,33 +1,53 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "f3f9733d-8428-5a33-8b5b-7306145c9b6d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-PER-M3"
     ],
-    "name": "N-PER-M3",
+    "uuid": "f3f9733d-8428-5a33-8b5b-7306145c9b6d",
+    "name": "NewtonsPerCubicMetre",
     "label": [
         {
-            "text": "Newtons per cubic metre",
+            "text": "Newtons per Cubic Metre",
             "lang": "en"
         }
     ],
     "main_symbol": "N/m³",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "N.m-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -3
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "fe42a11d-e599-5fa3-80fb-de579c89484c",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloN-PER-M3"
-            ],
             "osw_id": "Item:OSWf3f9733d84285a338b5b7306145c9b6d#OSWfe42a11de5995fa380fbde579c89484c",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kN/m³"
+            "main_symbol": "kN/m³",
+            "ucum_codes": [
+                "kN.m-3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -3
+                }
+            ]
         }
     ]
 }

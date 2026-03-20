@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "04312c91-96a4-543d-9c82-7a28f37878d9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Temperature"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/Temperature"
+        "http://dbpedia.org/resource/Temperature",
+        "http://qudt.org/vocab/quantitykind/Temperature"
     ],
+    "uuid": "04312c91-96a4-543d-9c82-7a28f37878d9",
     "name": "Temperature",
     "label": [
         {
@@ -23,7 +24,11 @@
         }
     ],
     "units": [
+        "Item:OSWad04992cecb75af4be6f2205e791b42e",
+        "Item:OSWad04992cecb75af4be6f2205e791b42e#OSW883731d442e852778ae00df071dd0719",
         "Item:OSWe728730c00ea5cf9af66a550e51b9717",
-        "Item:OSWad04992cecb75af4be6f2205e791b42e"
+        "Item:OSWe728730c00ea5cf9af66a550e51b9717#OSW1c1f6dfede085433b00f28c4732a1aac",
+        "Item:OSWe728730c00ea5cf9af66a550e51b9717#OSW85b3c104421153629814b3e80bfa074d",
+        "Item:OSWe728730c00ea5cf9af66a550e51b9717#OSWaa5d744ffc475e0798b1dfd92b9bd176"
     ]
 }

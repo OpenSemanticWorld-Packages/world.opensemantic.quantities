@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstanceFraction"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstanceFraction"
+    ],
+    "uuid": "326f7aac-ca3e-5392-a347-036864b7baea",
+    "name": "FractionalAmountOfSubstance",
+    "label": [
+        {
+            "text": "Fractional Amount of Substance",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Fractional Amount of Substance\" is defined as tthe amount of a constituent divided by the total amount of all constituents in a mixture.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW216f440f98d55af992c3922232717874",
+        "Item:OSW321f737a4c785e4e8d9cb025341d049c",
+        "Item:OSW36b5094b7e5654ac9d6200d59ebe8aa4",
+        "Item:OSW4c06f33fc30f5ba3af993440b9a15c0b",
+        "Item:OSW5d3fe58ebbac5483bad8904ff8811366",
+        "Item:OSW9f9bee3d72225991bfca8c6dd3f273d8",
+        "Item:OSWce05bcf9ee7d5ba5aef48ae97a22540d"
+    ]
+}

@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "f4452162-e575-5f7c-9712-6a47cf4761f9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-PER-MIN"
     ],
-    "name": "PA-PER-MIN",
+    "uuid": "f4452162-e575-5f7c-9712-6a47cf4761f9",
+    "name": "PascalPerMinute",
     "label": [
         {
             "text": "Pascal per Minute",
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "Pa/min",
-    "conversion_factor_from_si": 0.0166666667
+    "conversion_factor_from_si": 0.016666666666666666,
+    "ucum_codes": [
+        "Pa.min-1",
+        "Pa/min"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

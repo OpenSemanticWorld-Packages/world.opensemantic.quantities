@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoMOL-PER-L"
+    ],
+    "uuid": "040f32fc-f76d-545a-a5d4-c002e316f98b",
+    "name": "NanomolesPerLitre",
+    "label": [
+        {
+            "text": "NanoMoles per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A scaled unit of amount-of-substance concentration.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "nmol/L",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "nmol.L-1",
+        "nmol/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

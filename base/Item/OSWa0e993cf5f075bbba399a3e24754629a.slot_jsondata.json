@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "a0e993cf-5f07-5bbb-a399-a3e24754629a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificActivity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificActivity"
+    ],
+    "uuid": "a0e993cf-5f07-5bbb-a399-a3e24754629a",
     "name": "SpecificActivity",
     "label": [
         {
@@ -21,6 +24,8 @@
     ],
     "units": [
         "Item:OSW03b25e9a7cef5adeb7f3d5f82115dfc3",
-        "Item:OSW61b56e415cbf5e3a8db61be70c246153"
+        "Item:OSW23b3668ed7d3501da40aaa0a4e9f765e",
+        "Item:OSW61b56e415cbf5e3a8db61be70c246153",
+        "Item:OSWc896c96c6de8521181daee0118de2c5b"
     ]
 }

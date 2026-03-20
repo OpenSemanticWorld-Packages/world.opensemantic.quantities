@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoBQ-PER-L"
+    ],
+    "uuid": "0ac5a24d-6907-5e45-80b8-8126796660ea",
+    "name": "NanobecquerelsPerLitre",
+    "label": [
+        {
+            "text": "NanoBecquerels per Litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "nBq/L",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "nBq.L-1",
+        "nBq/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

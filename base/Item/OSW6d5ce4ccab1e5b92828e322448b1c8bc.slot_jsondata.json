@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaV-A-HR"
+    ],
+    "uuid": "6d5ce4cc-ab1e-5b92-828e-322448b1c8bc",
+    "name": "MegavoltAmpereHour",
+    "label": [
+        {
+            "text": "MegaVolt Ampere Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the 1,000,000-fold of the unit for apparent by ampere and the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "MV·A·h",
+    "conversion_factor_from_si": 3600000000.0,
+    "ucum_codes": [
+        "MV.A.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "eb87bb7f-153d-5a95-b371-b23a00e1d84c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Mass"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Mass",
-        "https://si-digital-framework.org/SI/quantities/MASS"
+        "http://qudt.org/vocab/quantitykind/Mass",
+        "https://si-digital-framework.org/quantities/MASS"
     ],
+    "uuid": "eb87bb7f-153d-5a95-b371-b23a00e1d84c",
     "name": "Mass",
     "label": [
         {
@@ -28,8 +29,25 @@
         }
     ],
     "units": [
-        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
         "Item:OSW12c412031b9556848d70154dca0e1d13",
-        "Item:OSWd2cd9a19e7255fc081307b69e3384e2e"
+        "Item:OSW12c412031b9556848d70154dca0e1d13#OSW12ce0e9d7fda5bb3934f109d4d332d68",
+        "Item:OSW12c412031b9556848d70154dca0e1d13#OSW3c968aef59905569bee1a089ac35fe04",
+        "Item:OSW12c412031b9556848d70154dca0e1d13#OSW91cff6030e175ccc8d30cd02e0354fa9",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW046adde698335d9daded9fe04946e8fb",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW203cd6c3e616540cb3c6dad0ff389725",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW669f0616140d59fc987c6e5be8b70715",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW74be15fb3c2550a89b30c9f978c4a96d",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW88dc7f02bedd5111a34ed02756f37892",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW94feade03c695735a9f42bfa58913427",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW9b69b8d24e745d38a5bfff237c0f075d",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW9f45555655d054a18cfc956f56720b4a",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc82356a0512e545fa594c0454498cd0a",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc9a377f2fa5d5e16bcf2404f8a7a3645",
+        "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
+        "Item:OSW54afa4358b8655338e8e82e2ea7fac65",
+        "Item:OSWd2cd9a19e7255fc081307b69e3384e2e",
+        "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW4acf7877394a57c59b6b8bea588ceedf",
+        "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW9931691b6a8258b79d279550cb8385ca"
     ]
 }

@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "7bc2ff12-a164-55b3-921e-012268eede5d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-HR"
     ],
-    "name": "GM-PER-HR",
+    "uuid": "7bc2ff12-a164-55b3-921e-012268eede5d",
+    "name": "GramPerHour",
     "label": [
         {
             "text": "Gram per Hour",
@@ -20,33 +20,63 @@
         }
     ],
     "main_symbol": "g/h",
-    "conversion_factor_from_si": 2.777778e-07,
-    "prefix_units": [
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "ucum_codes": [
+        "g.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "413aa7e8-8ce6-5396-8b05-87f53d191c08",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloGM-PER-HR"
+            "uuid": "0495cb74-0afb-5527-ad15-32b7b4bec0e2",
+            "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW0495cb740afb5527ad1532b7b4bec0e2",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "mg/h",
+            "ucum_codes": [
+                "mg.h-1",
+                "mg/h"
             ],
-            "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW413aa7e88ce653968b0587f53d191c08",
-            "conversion_factor_from_si": 0.000277777778,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kg/h"
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "0495cb74-0afb-5527-ad15-32b7b4bec0e2",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliGM-PER-HR"
+            "uuid": "413aa7e8-8ce6-5396-8b05-87f53d191c08",
+            "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW413aa7e88ce653968b0587f53d191c08",
+            "conversion_factor_to_main_unit": 1000.0000000000001,
+            "conversion_factor_from_si": 0.0002777777777777778,
+            "main_symbol": "kg/h",
+            "ucum_codes": [
+                "kg.h-1",
+                "kg/h"
             ],
-            "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW0495cb740afb5527ad1532b7b4bec0e2",
-            "conversion_factor_from_si": 2.777778e-10,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mg/h"
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

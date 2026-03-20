@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerArea"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/CostPerArea"
+    ],
+    "uuid": "172888f0-c9fd-5cba-bf84-ba99f064be89",
+    "name": "CostPerArea",
+    "label": [
+        {
+            "text": "Cost per area",
+            "lang": "en"
+        },
+        {
+            "text": "Kosten pro Fläche",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "In the construction industry, cost per area is the unit rate which, when multiplied by the gross internal floor area (GIFA), gives the total building works estimate (i.e.works cost estimate less main contractor’s preliminaries and main contractor’s overheads and profit).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW3aa9dc55e8d950acacc7918edb0d78e5",
+        "Item:OSWecd411eb9f235453952e5e547170e665"
+    ]
+}

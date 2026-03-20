@@ -1,17 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KAT"
     ],
     "uuid": "73fc60d9-e1dd-5337-a5f4-befdc3646012",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/KAT",
-        "http://dbpedia.org/resource/Katal",
-        "https://si-digital-framework.org/SI/units/katal"
-    ],
-    "name": "KAT",
+    "name": "Katal",
     "label": [
         {
-            "text": "katal",
+            "text": "Katal",
             "lang": "en"
         },
         {
@@ -21,10 +19,64 @@
     ],
     "description": [
         {
-            "text": "A unit of catalytic activity used especially in the chemistry of enzymes. A catalyst is a substance that starts or speeds a chemical reaction. Enzymes are proteins that act as catalysts within the bodies of living plants and animals. A catalyst has an activity of one katal if it enables a reaction to proceed at the rate of one mole per second. ",
+            "text": "A unit of catalytic activity used especially in the chemistry of enzymes. A catalyst is a substance that starts or speeds a chemical reaction. Enzymes are proteins that act as catalysts within the bodies of living plants and animals. A catalyst has an activity of one katal if it enables a reaction to proceed at the rate of one mole per second.",
             "lang": "en"
         }
     ],
     "main_symbol": "kat",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "kat"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "04d4b8bf-4352-570e-91c6-7ca0183549c3",
+            "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSW04d4b8bf4352570e91c67ca0183549c3",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 1e-12,
+            "main_symbol": "pkat"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "68b0210c-657c-5820-aa68-63c86452bef7",
+            "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSW68b0210c657c5820aa6863c86452bef7",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "μkat"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a7286c9b-7693-5cb0-9740-66b843882f91",
+            "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSWa7286c9b76935cb0974066b843882f91",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "nkat"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "b8cdfc20-a6a8-55a2-9fd8-efb58c127e77",
+            "osw_id": "Item:OSW73fc60d9e1dd5337a5f4befdc3646012#OSWb8cdfc20a6a855a29fd8efb58c127e77",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mkat"
+        }
+    ]
 }

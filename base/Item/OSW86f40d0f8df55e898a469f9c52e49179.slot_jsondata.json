@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "86f40d0f-8df5-5e89-8a46-9f9c52e49179",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseEnergy"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseEnergy"
+    ],
+    "uuid": "86f40d0f-8df5-5e89-8a46-9f9c52e49179",
     "name": "InverseEnergy",
     "label": [
         {
@@ -14,6 +17,6 @@
         }
     ],
     "units": [
-        "Item:OSW5436b8bbfc155373a692e534024bc0b8"
+        "Item:OSW98c14d48aecc52fdab52023fb924debd"
     ]
 }

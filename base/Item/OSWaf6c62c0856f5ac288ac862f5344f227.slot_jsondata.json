@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "af6c62c0-856f-5ac2-88ac-862f5344f227",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-SEC-SR"
     ],
-    "name": "PER-SEC-SR",
+    "uuid": "af6c62c0-856f-5ac2-88ac-862f5344f227",
+    "name": "ReciprocalSecondSteradian",
     "label": [
         {
             "text": "Reciprocal Second Steradian",
@@ -19,6 +19,19 @@
             "lang": "en"
         }
     ],
-    "main_symbol": "/s·sr",
-    "conversion_factor_from_si": 1.0
+    "main_symbol": "/(s·sr)",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "/(s.sr)",
+        "s-1.sr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

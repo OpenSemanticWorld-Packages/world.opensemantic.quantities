@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "acf92a3a-0e8d-5980-b482-7fe8a60bea1a",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Quecto",
         "https://si-digital-framework.org/SI/prefixes/quecto"
     ],
+    "uuid": "acf92a3a-0e8d-5980-b482-7fe8a60bea1a",
     "name": "quecto",
     "label": [
         {
-            "text": "quecto (unit prefix)",
+            "text": "quecto",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'quecto' is a decimal prefix for expressing a value with a scaling of \\(10^{-30}\\).",
             "lang": "en"
         }
     ],

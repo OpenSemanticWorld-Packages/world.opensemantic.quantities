@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "a2132686-f113-583f-9009-55bcae6fbcce",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LinearEnergyTransfer"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/Linear_energy_transfer"
+        "http://dbpedia.org/resource/Linear_energy_transfer",
+        "http://qudt.org/vocab/quantitykind/LinearEnergyTransfer"
     ],
+    "uuid": "a2132686-f113-583f-9009-55bcae6fbcce",
     "name": "LinearEnergyTransfer",
     "label": [
         {
@@ -23,6 +24,9 @@
         }
     ],
     "units": [
-        "Item:OSW0505357de255592eb766bdfce883acb3"
+        "Item:OSW0505357de255592eb766bdfce883acb3",
+        "Item:OSW733704eab7325274b2f16fc8e7297c6d",
+        "Item:OSWc13242c575bb5a009b61e4efc319effa",
+        "Item:OSWc9208b4ec12d50e5a4657a1c18295b3d"
     ]
 }

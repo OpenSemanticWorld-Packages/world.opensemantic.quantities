@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FM"
+    ],
+    "uuid": "a002ca4d-bb71-5de4-abb4-c9e6ff9b7cd7",
+    "name": "Fermi",
+    "label": [
+        {
+            "text": "Fermi",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $\\textit{fermi}$, or $\\textit{femtometer}$ (other spelling $femtometre$, symbol $fm$) is an SI unit of length equal to $10^{-15} metre$. This distance is often encountered in nuclear physics as a characteristic of this scale. The symbol for the fermi is also $fm$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "fm",
+    "conversion_factor_from_si": 1e-15,
+    "factor_unit_scalar": 1
+}

@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoMOL-PER-MicroGM-HR"
+    ],
+    "uuid": "6491d1b5-a4cb-57ec-9e44-87606ca7ebe4",
+    "name": "NanomolesPerMicrogramHour",
+    "label": [
+        {
+            "text": "NanoMoles per MicroGram Hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "nmol/(μg·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "nmol.ug-1.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

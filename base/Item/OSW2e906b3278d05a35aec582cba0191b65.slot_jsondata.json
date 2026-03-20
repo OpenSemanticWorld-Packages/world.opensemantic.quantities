@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "2e906b32-78d0-5a35-aec5-82cba0191b65",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/DEG_C-WK"
     ],
-    "name": "DEG_C-WK",
+    "uuid": "2e906b32-78d0-5a35-aec5-82cba0191b65",
+    "name": "DegreeCelsiusWeek",
     "label": [
         {
-            "text": "Degree Celsius week",
+            "text": "Degree Celsius Week",
             "lang": "en"
         }
     ],
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "°C·wk",
-    "conversion_factor_from_si": 604800.0
+    "conversion_factor_from_si": 604800.0,
+    "ucum_codes": [
+        "Cel.wk"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GigaPA-CentiM3-PER-GM"
+    ],
+    "uuid": "f3093f86-7b3e-5a7e-9955-befd1748ff78",
+    "name": "GigapascalCubedCentimetrePerGram",
+    "label": [
+        {
+            "text": "GigaPascal Cubed CentiMetre per Gram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "GPa·cm³/g",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "GPa.cm3.g-1",
+        "GPa.cm3/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

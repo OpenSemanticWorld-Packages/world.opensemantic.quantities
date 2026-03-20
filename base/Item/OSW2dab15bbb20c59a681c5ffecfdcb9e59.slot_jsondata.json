@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-KiloGM-K"
+    ],
+    "uuid": "2dab15bb-b20c-59a6-81c5-ffecfdcb9e59",
+    "name": "JoulePerKilogramKelvin",
+    "label": [
+        {
+            "text": "Joule per KiloGram Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Specific heat capacity - The heat required to raise unit mass of a substance by unit temperature interval under specified conditions,\n   such as constant pressure: usually measured in joules per kelvin per kilogram. \n  Symbol $c_p$ (for constant pressure).\n  Also called specific heat.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(kg·K)",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "J.kg-1.K-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

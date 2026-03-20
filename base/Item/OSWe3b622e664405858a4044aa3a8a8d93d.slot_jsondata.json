@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HUNDRED"
+    ],
+    "uuid": "e3b622e6-6440-5858-a404-4aa3a8a8d93d",
+    "name": "Hundred",
+    "label": [
+        {
+            "text": "Hundred",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Counting unit for a count of one hundred",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "100",
+    "conversion_factor_from_si": 100.0,
+    "factor_unit_scalar": 1
+}

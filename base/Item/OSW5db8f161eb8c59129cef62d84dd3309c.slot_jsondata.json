@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliM2-PER-SEC"
+    ],
+    "uuid": "5db8f161-eb8c-5912-9cef-62d84dd3309c",
+    "name": "SquareMillimetrePerSecond",
+    "label": [
+        {
+            "text": "Square MilliMetre per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the power of the SI base unit metre with the exponent 2 divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mm²/s",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "mm2.s-1",
+        "mm2/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        }
+    ]
+}

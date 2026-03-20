@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliN-M"
+    ],
+    "uuid": "62f79072-22b8-55ff-b192-0944af234145",
+    "name": "MillinewtonMetre",
+    "label": [
+        {
+            "text": "MilliNewton Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.001-fold of the product of the SI derived unit newton and the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mN·m",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "mN.m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

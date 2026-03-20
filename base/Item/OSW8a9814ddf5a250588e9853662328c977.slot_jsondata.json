@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroSV-PER-HR"
+    ],
+    "uuid": "8a9814dd-f5a2-5058-8e98-53662328c977",
+    "name": "MicrosievertPerHour",
+    "label": [
+        {
+            "text": "MicroSievert per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the derived SI unit sievert divided by the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μSv/h",
+    "conversion_factor_from_si": 2.7777777777777777e-10,
+    "ucum_codes": [
+        "uSv.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GeneralizedVelocity"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GeneralizedVelocity"
+    ],
+    "uuid": "0a855f94-b0f2-5002-beb7-b8fbf0285505",
+    "name": "GeneralizedVelocity",
+    "label": [
+        {
+            "text": "Generalized Velocity",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Generalized Velocities are the time derivatives of the generalized coordinates of the system.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "6236c367-865d-5968-87f6-8c615b7cf531",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ActivityConcentration"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ActivityConcentration"
+    ],
+    "uuid": "6236c367-865d-5968-87f6-8c615b7cf531",
     "name": "ActivityConcentration",
     "label": [
         {
@@ -20,7 +23,10 @@
         }
     ],
     "units": [
+        "Item:OSW0ac5a24d69075e4580b88126796660ea",
+        "Item:OSW5ca6e9dcc49f53d6921db368597bdc2a",
         "Item:OSWbb252cb7b9505d5c9369be8da21e274d",
-        "Item:OSWd3720cbbb37c5c1698a8570b837b5af9"
+        "Item:OSWd3720cbbb37c5c1698a8570b837b5af9",
+        "Item:OSWea37c5022a28551089380a9351fb06a6"
     ]
 }

@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "404a6456-c6e8-5787-a64b-a84779ef3d70",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-SEC-PER-RAD"
     ],
-    "name": "N-M-SEC-PER-RAD",
+    "uuid": "404a6456-c6e8-5787-a64b-a84779ef3d70",
+    "name": "NewtonMetreSecondsPerRadian",
     "label": [
         {
-            "text": "Newton metre seconds per radian",
+            "text": "Newton Metre Seconds per Radian",
             "lang": "en"
         },
         {
-            "text": "Newtonmetersekunden pro Radian",
+            "text": "Newtonmetersekunden Pro Radian",
             "lang": "de"
         }
     ],
@@ -24,5 +24,24 @@
         }
     ],
     "main_symbol": "N·m·s/rad",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "N.m.s.rad-1",
+        "N.m.s/rad"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

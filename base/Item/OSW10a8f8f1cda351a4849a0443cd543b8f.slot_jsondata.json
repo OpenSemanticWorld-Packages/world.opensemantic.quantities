@@ -1,0 +1,60 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-M2"
+    ],
+    "uuid": "10a8f8f1-cda3-51a4-849a-0443cd543b8f",
+    "name": "MetresPerSquareMetre",
+    "label": [
+        {
+            "text": "Metres per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of SI standard unit length per squared meter area.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/m²",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m.m-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "079141f2-088b-5510-b6bd-492dcff66ed5",
+            "osw_id": "Item:OSW10a8f8f1cda351a4849a0443cd543b8f#OSW079141f2088b5510b6bd492dcff66ed5",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mm/m²",
+            "ucum_codes": [
+                "mm.m-2",
+                "mm/m2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

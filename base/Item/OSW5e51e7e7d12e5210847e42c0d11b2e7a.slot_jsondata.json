@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/SHANNON"
+    ],
+    "uuid": "5e51e7e7-d12e-5210-847e-42c0d11b2e7a",
+    "name": "Shannon",
+    "label": [
+        {
+            "text": "Shannon",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Shannon\" is a unit of information.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Sh",
+    "conversion_factor_from_si": 0.6931471805599453,
+    "factor_unit_scalar": 1
+}

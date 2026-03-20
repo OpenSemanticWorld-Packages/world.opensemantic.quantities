@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "bf685bb2-8c9b-5d15-ab98-238af18f1f74",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/C3-M-PER-J2"
     ],
-    "name": "C3-M-PER-J2",
+    "uuid": "bf685bb2-8c9b-5d15-ab98-238af18f1f74",
+    "name": "CubicCoulombMetrePerSquareJoule",
     "label": [
         {
             "text": "Cubic Coulomb Metre per Square Joule",
@@ -20,5 +20,21 @@
         }
     ],
     "main_symbol": "C³·m/J²",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "C3.m.J-2",
+        "C3.m/J2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -2
+        }
+    ]
 }

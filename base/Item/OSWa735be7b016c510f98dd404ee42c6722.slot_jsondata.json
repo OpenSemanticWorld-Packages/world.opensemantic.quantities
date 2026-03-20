@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-CentiM2"
+    ],
+    "uuid": "a735be7b-016c-510f-98dd-404ee42c6722",
+    "name": "WattPerSquareCentimetre",
+    "label": [
+        {
+            "text": "Watt per Square CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Watt Per Square Centimeter is a unit of heat flux or thermal flux, the rate of heat energy transfer through a given surface.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/cm²",
+    "conversion_factor_from_si": 10000.0,
+    "ucum_codes": [
+        "W.cm-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

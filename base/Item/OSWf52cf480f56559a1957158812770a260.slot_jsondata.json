@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DoseEquivalentQualityFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/DoseEquivalentQualityFactor"
+    ],
+    "uuid": "f52cf480-f565-59a1-9571-58812770a260",
+    "name": "DoseEquivalentQualityFactor",
+    "label": [
+        {
+            "text": "Dose Equivalent Quality Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Dose Equivalent Quality Factor\" is a factor in the caculation and measurement of dose equivalent, by which the absorbed dose is to be weighted in order to account for different biological effectiveness of radiations, for radiation protection purposes.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

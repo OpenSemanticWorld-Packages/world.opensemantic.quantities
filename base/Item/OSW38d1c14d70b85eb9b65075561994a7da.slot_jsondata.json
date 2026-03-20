@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M2-YR"
+    ],
+    "uuid": "38d1c14d-70b8-5eb9-b650-75561994a7da",
+    "name": "GramsPerSquareMetrePerYear",
+    "label": [
+        {
+            "text": "Grams per Square Metre per Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A metric unit of volume over time indicating the amount generated across one square meter over a year.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(m²·a)",
+    "conversion_factor_from_si": 3.168808781402895e-11,
+    "ucum_codes": [
+        "g.m-2.a-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f29a6175-a21e-58c4-96fd-82b912c8610c",
+            "osw_id": "Item:OSW38d1c14d70b85eb9b65075561994a7da#OSWf29a6175a21e58c496fd82b912c8610c",
+            "conversion_factor_to_main_unit": 10000.0,
+            "conversion_factor_from_si": 3.168808781402895e-07,
+            "main_symbol": "g/(cm²·a)",
+            "ucum_codes": [
+                "g.cm-2.a-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        }
+    ]
+}

@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "e5c19940-90f5-56e1-be38-b7c77c73b35b",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/DEG2"
     ],
-    "name": "DEG2",
+    "uuid": "e5c19940-90f5-56e1-be38-b7c77c73b35b",
+    "name": "SquareDegree",
     "label": [
         {
-            "text": "Square degree",
+            "text": "Square Degree",
             "lang": "en"
         }
     ],
@@ -20,5 +20,14 @@
         }
     ],
     "main_symbol": "°²",
-    "conversion_factor_from_si": 0.00030461742
+    "conversion_factor_from_si": 0.00030461741909055623,
+    "ucum_codes": [
+        "deg2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        }
+    ]
 }

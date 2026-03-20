@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "7ac78cc4-91fd-52ed-a213-e8afbfda8300",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/InverseLength"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/InverseLength"
+    ],
+    "uuid": "7ac78cc4-91fd-52ed-a213-e8afbfda8300",
     "name": "InverseLength",
     "label": [
         {
@@ -20,6 +23,15 @@
         }
     ],
     "units": [
-        "Item:OSW28e75b089e145904998a54f1c4125bf3"
+        "Item:OSW053a926b64185502b77f9bec4f65eea0",
+        "Item:OSW0dcebe41477056aba0e706c148970688",
+        "Item:OSW10a8f8f1cda351a4849a0443cd543b8f",
+        "Item:OSW10a8f8f1cda351a4849a0443cd543b8f#OSW079141f2088b5510b6bd492dcff66ed5",
+        "Item:OSW124eebfb89dc54bc9cc223fd49c40480",
+        "Item:OSW28e75b089e145904998a54f1c4125bf3",
+        "Item:OSW45c24d8b68485accbdd684f05231c74c",
+        "Item:OSWd0475e49e0715ec488fba3fe0fdd9b02",
+        "Item:OSWdc9edf9277ed57cdb7a6f218551afa8d",
+        "Item:OSWe77bc3c1bd7a566eadb55f3b68d351f2"
     ]
 }

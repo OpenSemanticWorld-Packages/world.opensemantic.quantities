@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "8c95fb55-3826-551f-b7c0-294a7c0ada41",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Tera",
         "https://si-digital-framework.org/SI/prefixes/tera"
     ],
+    "uuid": "8c95fb55-3826-551f-b7c0-294a7c0ada41",
     "name": "tera",
     "label": [
         {
-            "text": "tera (unit prefix)",
+            "text": "tera",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'tera' is a decimal prefix for expressing a value with a scaling of \\(10^{12}\\).",
             "lang": "en"
         }
     ],

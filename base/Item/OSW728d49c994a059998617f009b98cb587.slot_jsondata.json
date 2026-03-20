@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "728d49c9-94a0-5999-8617-f009b98cb587",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricQuadrupoleMoment"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricQuadrupoleMoment"
+    ],
+    "uuid": "728d49c9-94a0-5999-8617-f009b98cb587",
     "name": "ElectricQuadrupoleMoment",
     "label": [
         {

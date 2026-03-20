@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MadelungConstant"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MadelungConstant"
+    ],
+    "uuid": "4394f852-d713-5a5d-b500-f3580815efb2",
+    "name": "MadelungConstant",
+    "label": [
+        {
+            "text": "Madelung constant",
+            "lang": "en"
+        },
+        {
+            "text": "Madelung-Konstante",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Madelung Constant\" is used in determining the electrostatic potential of a single ion in a crystal by approximating the ions by point charges. It is named after Erwin Madelung, a German physicist.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

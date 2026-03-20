@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-PER-KiloM2"
+    ],
+    "uuid": "2e2a377b-f14c-5943-9e62-290c987ba4ac",
+    "name": "KilogramsPerSquareKilometre",
+    "label": [
+        {
+            "text": "KiloGrams per Square KiloMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One SI standard unit of mass over the square of one thousand standard unit of length.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/km²",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "kg.km-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

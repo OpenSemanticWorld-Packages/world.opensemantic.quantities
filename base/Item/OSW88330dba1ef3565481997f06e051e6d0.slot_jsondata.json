@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliW-PER-M2-NanoM-SR"
+    ],
+    "uuid": "88330dba-1ef3-5654-8199-7f06e051e6d0",
+    "name": "MilliwattsPerSquareMetreNanometreSteradian",
+    "label": [
+        {
+            "text": "MilliWatts per Square Metre NanoMetre Steradian",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mW/(m²·nm·sr)",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "mW.m-2.nm-1.sr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

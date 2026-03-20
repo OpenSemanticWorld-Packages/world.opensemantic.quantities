@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "f84723a0-4811-59ad-bf37-a2e215d45742",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/EV-PER-K"
     ],
-    "name": "EV-PER-K",
+    "uuid": "f84723a0-4811-59ad-bf37-a2e215d45742",
+    "name": "ElectronVoltPerKelvin",
     "label": [
         {
             "text": "Electron Volt per Kelvin",
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "eV/K",
-    "conversion_factor_from_si": 1.602176634e-19
+    "conversion_factor_from_si": 1.602176634e-19,
+    "ucum_codes": [
+        "eV.K-1",
+        "eV/K"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

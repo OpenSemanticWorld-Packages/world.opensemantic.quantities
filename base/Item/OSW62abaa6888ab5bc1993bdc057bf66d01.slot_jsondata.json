@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_EUR-PER-W-SEC"
+    ],
+    "uuid": "62abaa68-88ab-5bc1-993b-dc057bf66d01",
+    "name": "EuroPerWattSecond",
+    "label": [
+        {
+            "text": "Euro per Watt Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "€/(W·s)",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

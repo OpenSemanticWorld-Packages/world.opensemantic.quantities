@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "da81752d-a4a7-532f-b7d5-790cd2e41a1c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-PER-SEC"
     ],
-    "name": "PA-PER-SEC",
+    "uuid": "da81752d-a4a7-532f-b7d5-790cd2e41a1c",
+    "name": "PascalPerSecond",
     "label": [
         {
             "text": "Pascal per Second",
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "Pa/s",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "Pa.s-1",
+        "Pa/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

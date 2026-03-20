@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM3-PER-DAY"
+    ],
+    "uuid": "b7fd7c05-c535-5fcc-aec6-05b426f8e1c7",
+    "name": "CubicCentimetrePerDay",
+    "label": [
+        {
+            "text": "Cubic CentiMetre per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the power of the SI base unit metre with the exponent 3 divided by the unit day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm³/d",
+    "conversion_factor_from_si": 1.1574074074074074e-11,
+    "ucum_codes": [
+        "cm3.d-1",
+        "cm3/d"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 3
+        }
+    ]
+}

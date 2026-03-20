@@ -1,13 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-J"
     ],
     "uuid": "06fd6479-544b-5a6d-b542-7ff73da63ee9",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/M2-PER-J",
-        "http://dbpedia.org/resource/Steradian"
-    ],
-    "name": "M2-PER-J",
+    "name": "SquareMetrePerJoule",
     "label": [
         {
             "text": "Square Metre per Joule",
@@ -15,5 +14,17 @@
         }
     ],
     "main_symbol": "m²/J",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m2.J-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        }
+    ]
 }

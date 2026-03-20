@@ -1,0 +1,53 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_EUR-PER-W"
+    ],
+    "uuid": "25f15974-fe09-5c2d-8f24-69a96915102c",
+    "name": "EuroPerWatt",
+    "label": [
+        {
+            "text": "Euro per Watt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the hardware cost of a power generation unit relative to the generated power",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "€/W",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c747a38c-7cb8-54b9-8353-05d554c85020",
+            "osw_id": "Item:OSW25f15974fe095c2d8f2469a96915102c#OSWc747a38c7cb854b9835305d554c85020",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "€/kW",
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

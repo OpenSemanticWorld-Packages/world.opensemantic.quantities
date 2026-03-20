@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliM-PER-YR"
+    ],
+    "uuid": "20b5887d-96c5-5d85-a5a1-b2753499fc19",
+    "name": "MillimetrePerYear",
+    "label": [
+        {
+            "text": "MilliMetre per Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.001-fold of the SI base unit metre divided by the unit year",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mm/a",
+    "conversion_factor_from_si": 3.168808781402895e-11,
+    "ucum_codes": [
+        "mm.a-1",
+        "mm/a"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

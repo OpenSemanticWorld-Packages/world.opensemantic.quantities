@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-CentiM2"
+    ],
+    "uuid": "0ac392f5-beaf-59ab-807d-2e0de0da85c9",
+    "name": "GramPerSquareCentimetre",
+    "label": [
+        {
+            "text": "Gram per Square CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the 0.0001-fold of the power of the SI base unit metre and exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/cm²",
+    "conversion_factor_from_si": 10.0,
+    "ucum_codes": [
+        "g.cm-2",
+        "g/cm2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

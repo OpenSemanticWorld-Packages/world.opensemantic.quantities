@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "5c2c8fcc-294d-5987-ac40-b565a59096ca",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/WarpingMoment"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/WarpingMoment"
+    ],
+    "uuid": "5c2c8fcc-294d-5987-ac40-b565a59096ca",
     "name": "WarpingMoment",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
-        "Item:OSW9dfac70a65b753709e52cb3591dd8547"
+        "Item:OSW9dfac70a65b753709e52cb3591dd8547",
+        "Item:OSW9dfac70a65b753709e52cb3591dd8547#OSW54ba1a65b3a75b708a5ddb4089c205b1"
     ]
 }

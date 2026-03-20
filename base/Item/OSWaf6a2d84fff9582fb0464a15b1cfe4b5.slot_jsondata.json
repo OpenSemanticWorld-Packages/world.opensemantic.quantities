@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-PER-M2-MicroM"
+    ],
+    "uuid": "af6a2d84-fff9-582f-b046-4a15b1cfe4b5",
+    "name": "WattsPerMeterSquaredMicrometer",
+    "label": [
+        {
+            "text": "Watts per Meter Squared MicroMeter",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of spectral radiance, which is the radiance per unit of wavelength. It is watts per square meter per micrometer",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(m²·μm)",
+    "conversion_factor_from_si": 1000000.0,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

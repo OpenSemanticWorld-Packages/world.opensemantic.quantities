@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroGM-PER-L-DAY"
+    ],
+    "uuid": "9108816e-3346-5625-bcd9-b4850d64cf9a",
+    "name": "MicrogramsPerLitrePerHour",
+    "label": [
+        {
+            "text": "MicroGrams per Litre per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of mass of a measurand equivalent to 10^-9 kilogram (the SI unit of mass) per litre volume of matrix over a period of 1 day.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μg/(L·d)",
+    "conversion_factor_from_si": 1.1574074074074074e-11,
+    "ucum_codes": [
+        "ug.L-1.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

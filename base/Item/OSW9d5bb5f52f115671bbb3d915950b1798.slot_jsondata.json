@@ -1,0 +1,19 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FLIGHT"
+    ],
+    "uuid": "9d5bb5f5-2f11-5671-bbb3-d915950b1798",
+    "name": "Flight",
+    "label": [
+        {
+            "text": "Flight",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "flight",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1
+}

@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "e0b09824-8f75-57aa-a6a8-92a6ecbd32b8",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/C4-M4-PER-J3"
     ],
-    "name": "C4-M4-PER-J3",
+    "uuid": "e0b09824-8f75-57aa-a6a8-92a6ecbd32b8",
+    "name": "QuarticCoulombMetrePerCubicEnergy",
     "label": [
         {
             "text": "Quartic Coulomb Metre per Cubic Energy",
@@ -20,5 +20,21 @@
         }
     ],
     "main_symbol": "C⁴·m⁴/J³",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "C4.m4.J-3",
+        "C4.m4/J3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": 4
+        },
+        {
+            "exponent": 4
+        }
+    ]
 }

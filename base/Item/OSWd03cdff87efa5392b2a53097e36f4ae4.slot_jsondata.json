@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "d03cdff8-7efa-5392-b2a5-3097e36f4ae4",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Yotta",
         "https://si-digital-framework.org/SI/prefixes/yotta"
     ],
+    "uuid": "d03cdff8-7efa-5392-b2a5-3097e36f4ae4",
     "name": "yotta",
     "label": [
         {
-            "text": "yotta (unit prefix)",
+            "text": "yotta",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'yotta' is a decimal prefix for expressing a value with a scaling of \\(10^{24}\\).",
             "lang": "en"
         }
     ],

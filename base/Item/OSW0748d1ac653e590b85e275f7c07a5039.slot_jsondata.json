@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-M3-HR"
+    ],
+    "uuid": "0748d1ac-653e-590b-85e2-75f7c07a5039",
+    "name": "MilligramsPerCubicMetreHour",
+    "label": [
+        {
+            "text": "MilliGrams per Cubic Metre Hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/(m³·h)",
+    "conversion_factor_from_si": 2.7777777777777777e-10,
+    "ucum_codes": [
+        "mg.m-3.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

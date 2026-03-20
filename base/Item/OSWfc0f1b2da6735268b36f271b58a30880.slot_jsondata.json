@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_HUF-PER-KiloW-HR"
+    ],
+    "uuid": "fc0f1b2d-a673-5268-b36f-271b58a30880",
+    "name": "ForintPerKilowattHour",
+    "label": [
+        {
+            "text": "Forint per KiloWatt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Ft/(kW·h)",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

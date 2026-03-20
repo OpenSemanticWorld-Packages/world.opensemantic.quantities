@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroH-PER-OHM"
+    ],
+    "uuid": "14b5b614-d6eb-5e94-9713-232e9d79b744",
+    "name": "MicrohenryPerOhm",
+    "label": [
+        {
+            "text": "MicroHenry per Ohm",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000001-fold of the SI derived unit henry divided by the SI derived unit ohm",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μH/Ω",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "uH.Ohm-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

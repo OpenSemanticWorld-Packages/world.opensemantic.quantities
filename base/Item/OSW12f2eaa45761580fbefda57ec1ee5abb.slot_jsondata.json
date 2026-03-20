@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StressIntensityFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/StressIntensityFactor"
+    ],
+    "uuid": "12f2eaa4-5761-580f-befd-a57ec1ee5abb",
+    "name": "StressIntensityFactor",
+    "label": [
+        {
+            "text": "Stress Intensity Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In fracture mechanics, the stress intensity factor (K) is used to predict the stress state (\"stress intensity\") near the tip of a crack or notch caused by a remote load or residual stresses. It is a theoretical construct usually applied to a homogeneous, linear elastic material and is useful for providing a failure criterion for brittle materials, and is a critical technique in the discipline of damage tolerance. The concept can also be applied to materials that exhibit small-scale yielding at a crack tip.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW1b9e705844d956c69223b2e67c3ca823",
+        "Item:OSW1b9e705844d956c69223b2e67c3ca823#OSW853eeac5232e542f9412c0b9cd666ab6"
+    ]
+}

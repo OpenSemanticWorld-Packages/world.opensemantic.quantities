@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "746caaa3-29d7-5ce2-ad00-a09d0a347796",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SoundPowerLevel"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SoundPowerLevel"
+    ],
+    "uuid": "746caaa3-29d7-5ce2-ad00-a09d0a347796",
     "name": "SoundPowerLevel",
     "label": [
         {
@@ -20,6 +23,8 @@
         }
     ],
     "units": [
-        "Item:OSW20ac6724f1a05ee884222d546955e78f"
+        "Item:OSW07ca63bf7dc757298a3f4e0d372dfe73",
+        "Item:OSW20ac6724f1a05ee884222d546955e78f",
+        "Item:OSW8ab36cb872275d14ac24784b4b0405a0"
     ]
 }

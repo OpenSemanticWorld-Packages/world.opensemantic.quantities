@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-PER-MilliM"
+    ],
+    "uuid": "58f75b5f-8d43-5f56-805e-7a3e4e1b6236",
+    "name": "NewtonPerMillimetre",
+    "label": [
+        {
+            "text": "Newton per MilliMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit newton divided by the 0.001-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N/mm",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "N.mm-1",
+        "N/mm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

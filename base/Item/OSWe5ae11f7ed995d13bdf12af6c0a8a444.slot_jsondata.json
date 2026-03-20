@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "e5ae11f7-ed99-5d13-bdf1-2af6c0a8a444",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M-K"
     ],
-    "name": "M-K",
+    "uuid": "e5ae11f7-ed99-5d13-bdf1-2af6c0a8a444",
+    "name": "MetreKelvin",
     "label": [
         {
-            "text": "metre kelvin",
+            "text": "Metre Kelvin",
             "lang": "en"
         },
         {
-            "text": "Meter mal Kelvin",
+            "text": "Meter Mal Kelvin",
             "lang": "de"
         }
     ],
@@ -24,5 +24,17 @@
         }
     ],
     "main_symbol": "m·K",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m.K"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

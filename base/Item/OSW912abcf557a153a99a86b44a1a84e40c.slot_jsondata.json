@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HectoPA-L-PER-SEC"
+    ],
+    "uuid": "912abcf5-57a1-53a9-9a86-b44a1a84e40c",
+    "name": "HectopascalLitrePerSecond",
+    "label": [
+        {
+            "text": "HectoPascal Litre per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product out of the 100-fold of the SI derived unit pascal and the unit litre divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "hPa·L/s",
+    "conversion_factor_from_si": 0.1,
+    "ucum_codes": [
+        "hPa.L.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

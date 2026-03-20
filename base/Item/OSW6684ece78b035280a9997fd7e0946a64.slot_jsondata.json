@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C-PER-MilliM3"
+    ],
+    "uuid": "6684ece7-8b03-5280-a999-7fd7e0946a64",
+    "name": "CoulombPerCubicMillimetre",
+    "label": [
+        {
+            "text": "Coulomb per Cubic MilliMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "derived SI unit coulomb divided by the 0.000 000 001-fold of the power of the SI base unit metre by exponent 3",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C/mm³",
+    "conversion_factor_from_si": 1000000000.0,
+    "ucum_codes": [
+        "C.mm-3",
+        "C/mm3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -3
+        }
+    ]
+}

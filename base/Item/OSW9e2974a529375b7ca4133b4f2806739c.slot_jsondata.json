@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-M-NanoM"
+    ],
+    "uuid": "9e2974a5-2937-5b7c-a413-3b4f2806739c",
+    "name": "ReciprocalMetrePerNanometre",
+    "label": [
+        {
+            "text": "Reciprocal Metre per NanoMetre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(m·nm)",
+    "conversion_factor_from_si": 1000000000.0,
+    "ucum_codes": [
+        "m-1.nm-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

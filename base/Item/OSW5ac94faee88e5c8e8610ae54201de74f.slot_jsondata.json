@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroM-PER-MilliL"
+    ],
+    "uuid": "5ac94fae-e88e-5c8e-8610-ae54201de74f",
+    "name": "SquareMicronsPerMillilitre",
+    "label": [
+        {
+            "text": "Square MicroNs per MilliLitre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μm/mL",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "um2.mL-1",
+        "um2/mL"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

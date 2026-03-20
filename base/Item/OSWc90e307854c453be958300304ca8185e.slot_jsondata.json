@@ -2,13 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "c90e3078-54c4-53be-9583-00304ca8185e",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/DAY",
-        "http://dbpedia.org/resource/Day",
-        "https://si-digital-framework.org/SI/units/day"
+        "http://qudt.org/vocab/unit/DAY"
     ],
-    "name": "DAY",
+    "uuid": "c90e3078-54c4-53be-9583-00304ca8185e",
+    "name": "Day",
     "label": [
         {
             "text": "Day",
@@ -22,5 +20,9 @@
         }
     ],
     "main_symbol": "d",
-    "conversion_factor_from_si": 86400.0
+    "conversion_factor_from_si": 86400.0,
+    "ucum_codes": [
+        "d"
+    ],
+    "factor_unit_scalar": 1
 }

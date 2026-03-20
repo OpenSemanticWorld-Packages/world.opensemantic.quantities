@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroM2"
+    ],
+    "uuid": "d45e991f-8e66-58dc-b6c8-91c9c0ea094f",
+    "name": "SquareMicrometre",
+    "label": [
+        {
+            "text": "Square MicroMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.000000000001-fold of the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μm²",
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "um2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        }
+    ]
+}

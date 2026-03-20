@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "c4871546-13c2-5f51-813a-e4f4de2c7802",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/HZ-PER-T"
     ],
-    "name": "HZ-PER-T",
+    "uuid": "c4871546-13c2-5f51-813a-e4f4de2c7802",
+    "name": "HertzPerTesla",
     "label": [
         {
             "text": "Hertz per Tesla",
@@ -21,19 +21,39 @@
     ],
     "main_symbol": "Hz/T",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "Hz.T-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "9281c508-7fb4-5cd3-b075-07b940231330",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaHZ-PER-T"
-            ],
             "osw_id": "Item:OSWc487154613c25f51813ae4f4de2c7802#OSW9281c5087fb45cd3b07507b940231330",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MHz/T"
+            "main_symbol": "MHz/T",
+            "ucum_codes": [
+                "MHz.T-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

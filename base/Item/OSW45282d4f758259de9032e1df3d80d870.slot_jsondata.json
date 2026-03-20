@@ -1,18 +1,30 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "45282d4f-7582-59de-9032-e1df3d80d870",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/V-M"
     ],
-    "name": "V-M",
+    "uuid": "45282d4f-7582-59de-9032-e1df3d80d870",
+    "name": "VM",
     "label": [
         {
-            "text": "V-M",
+            "text": "V-m",
             "lang": "en"
         }
     ],
     "main_symbol": "V·m",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "V.m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

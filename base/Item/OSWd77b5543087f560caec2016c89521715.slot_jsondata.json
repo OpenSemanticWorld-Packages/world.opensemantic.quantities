@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PicoMOL-PER-KiloGM"
+    ],
+    "uuid": "d77b5543-087f-560c-aec2-016c89521715",
+    "name": "PicomolesPerKilogram",
+    "label": [
+        {
+            "text": "PicoMoles per KiloGram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "pmol/kg",
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "pmol.kg-1",
+        "pmol/kg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

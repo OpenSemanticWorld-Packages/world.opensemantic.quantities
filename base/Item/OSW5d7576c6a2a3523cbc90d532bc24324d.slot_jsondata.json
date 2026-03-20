@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LeakageFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LeakageFactor"
+    ],
+    "uuid": "5d7576c6-a2a3-523c-bc90-d532bc24324d",
+    "name": "LeakageFactor",
+    "label": [
+        {
+            "text": "Leakage Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Leakage Factor\" is the ratio of the total magnetic flux to the useful magnetic flux of a magnetic circuit.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaPA-L-PER-SEC"
+    ],
+    "uuid": "a7521ddb-593e-5787-b175-fbb020f39ac2",
+    "name": "MegapascalLitrePerSecond",
+    "label": [
+        {
+            "text": "MegaPascal Litre per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product out of the 1,000,000-fold of the SI derived unit pascal and the unit litre divided by the SI base unit second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "MPa·L/s",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "MPa.L.s-1",
+        "MPa.L/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

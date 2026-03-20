@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "70d2cca5-a9c7-5bec-807d-755997acbf8c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-SEC2"
     ],
-    "name": "M3-PER-SEC2",
+    "uuid": "70d2cca5-a9c7-5bec-807d-755997acbf8c",
+    "name": "CubicMetrePerSquareSecond",
     "label": [
         {
             "text": "Cubic Metre per Square Second",
@@ -21,19 +21,41 @@
     ],
     "main_symbol": "m³/s²",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "m3.s-2",
+        "m3/s2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -2
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "111bef40-f181-5809-9e03-d15fcd4af1fe",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloM3-PER-SEC2"
-            ],
             "osw_id": "Item:OSW70d2cca5a9c75bec807d755997acbf8c#OSW111bef40f18158099e03d15fcd4af1fe",
+            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "km³/s²"
+            "main_symbol": "km³/s²",
+            "ucum_codes": [
+                "km3.s-2",
+                "km3/s2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 3
+                }
+            ]
         }
     ]
 }

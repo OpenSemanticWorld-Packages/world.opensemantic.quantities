@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "42fb0234-fd0f-5186-9be4-df807b2dde2a",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TemperaturePerMagneticFluxDensity"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemperaturePerMagneticFluxDensity"
+    ],
+    "uuid": "42fb0234-fd0f-5186-9be4-df807b2dde2a",
     "name": "TemperaturePerMagneticFluxDensity",
     "label": [
         {

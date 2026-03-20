@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HeartBeat"
+    ],
+    "uuid": "0be74cae-fba4-56f5-9dd6-a5dd26d5b71d",
+    "name": "HeartBeat",
+    "label": [
+        {
+            "text": "Heart Beat",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A heart beat is a single contraction of the heart muscle,\n  which pumps blood through the circulatory system. The heart rate is the number of heart beats\n  per unit of time, typically measured in beats per minute (bpm). A normal resting \n  heart rate for adults ranges from 60 to 100 beats per minute.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "heartbeat",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1
+}

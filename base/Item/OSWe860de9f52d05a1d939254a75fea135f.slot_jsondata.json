@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RelativeMassExcess"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RelativeMassExcess"
+    ],
+    "uuid": "e860de9f-52d0-5a1d-9392-54a75fea135f",
+    "name": "RelativeMassExcess",
+    "label": [
+        {
+            "text": "Relative Mass Excess",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Relative Mass Excess\" is the mass excess between the monoisotopic mass of an element and the mass of its A + 1 or its A + 2 isotopic cluster (extrapolated from relative mass defect).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

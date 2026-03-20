@@ -2,16 +2,14 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "0846b0db-cf49-5d5a-ab11-72e4fb3bddec",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/A",
-        "http://dbpedia.org/resource/Ampere",
-        "https://si-digital-framework.org/SI/units/ampere"
+        "http://qudt.org/vocab/unit/A"
     ],
-    "name": "A",
+    "uuid": "0846b0db-cf49-5d5a-ab11-72e4fb3bddec",
+    "name": "Ampere",
     "label": [
         {
-            "text": "ampere",
+            "text": "Ampere",
             "lang": "en"
         },
         {
@@ -21,77 +19,155 @@
     ],
     "description": [
         {
-            "text": "$\\textit{Ampere}$, often shortened to $\\text{amp}$, \nis the SI unit of electric current and is one of the seven SI base units defined as:\n\n$$\\text{A} \\equiv \\frac{\\textit{C}}{\\textit{s}} \n\\equiv \\frac{\\textit{coulomb}}{\\textit{second}} \n\\equiv \\frac{\\text{joule}}{\\text{weber}}$$\n\nNote that SI supports only the use of symbols and deprecates the use of any abbreviations for units.\n",
+            "text": "$\\textit{Ampere}$, often shortened to $\\text{amp}$, \nis the SI unit of electric current and is one of the seven SI base units defined as:\n\n$$\\text{A} \\equiv \\frac{\\textit{C}}{\\textit{s}} \n\\equiv \\frac{\\textit{coulomb}}{\\textit{second}} \n\\equiv \\frac{\\text{joule}}{\\text{weber}}$$\n\nNote that SI supports only the use of symbols and deprecates the use of any abbreviations for units.",
             "lang": "en"
         }
     ],
     "main_symbol": "A",
     "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "A"
+    ],
+    "factor_unit_scalar": 1,
     "prefix_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "35108dc5-76b0-5e8d-a8a4-fb293f197b7d",
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW35108dc576b05e8da8a4fb293f197b7d",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-09,
+            "prefix_symbol": "n",
+            "main_symbol": "nA",
+            "ucum_codes": [
+                "nA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "402d7d6f-fbf9-5b2a-90fd-018c27b5f196",
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW402d7d6ffbf95b2a90fd018c27b5f196",
+            "conversion_factor_to_main_unit": 1e-15,
+            "conversion_factor_from_si": 1e-15,
+            "prefix_symbol": "f",
+            "main_symbol": "fA"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "46eb50fa-70c3-5063-8fc2-545246ce0891",
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW46eb50fa70c350638fc2545246ce0891",
+            "conversion_factor_to_main_unit": 1e-18,
+            "conversion_factor_from_si": 1e-18,
+            "prefix_symbol": "a",
+            "main_symbol": "aA"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "49e59ce4-6e35-5881-9332-7425fa1d89ab",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloA"
-            ],
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW49e59ce46e35588193327425fa1d89ab",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kA"
+            "prefix_symbol": "k",
+            "main_symbol": "kA",
+            "ucum_codes": [
+                "kA"
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "614e3543-b8aa-55a5-b4aa-87c9cd179703",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliA"
-            ],
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703",
+            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mA"
+            "prefix_symbol": "m",
+            "main_symbol": "mA",
+            "ucum_codes": [
+                "mA"
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "c611b97c-5c43-5405-9113-fb8f17a26f2f",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaA"
-            ],
-            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWc611b97c5c4354059113fb8f17a26f2f",
-            "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MA"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "771bd899-c704-5f84-b282-cc653efe6d28",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroA"
-            ],
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW771bd899c7045f84b282cc653efe6d28",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "μA"
+            "prefix_symbol": "μ",
+            "main_symbol": "μA",
+            "ucum_codes": [
+                "uA"
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "b59bf219-62f7-5857-965d-f77a55549178",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/PicoA"
-            ],
             "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWb59bf21962f75857965df77a55549178",
+            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
-            "prefix": "Item:OSW5f8f94601be05a078108b2be4d74e461",
-            "main_symbol": "pA"
+            "prefix_symbol": "p",
+            "main_symbol": "pA",
+            "ucum_codes": [
+                "pA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c611b97c-5c43-5405-9113-fb8f17a26f2f",
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWc611b97c5c4354059113fb8f17a26f2f",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "prefix_symbol": "M",
+            "main_symbol": "MA",
+            "ucum_codes": [
+                "MA"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "dcb8628d-23d3-5ca5-a3fd-772b55f5faab",
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWdcb8628d23d35ca5a3fd772b55f5faab",
+            "conversion_factor_to_main_unit": 1000000000000000.0,
+            "conversion_factor_from_si": 1000000000000000.0,
+            "prefix_symbol": "P",
+            "main_symbol": "PA"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ec00063f-9191-53e3-83d2-73d6b00d48bf",
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWec00063f919153e383d273d6b00d48bf",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix_symbol": "G",
+            "main_symbol": "GA"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "fe69b90d-79b0-5ab6-aaec-5fbf1283e63d",
+            "osw_id": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWfe69b90d79b05ab6aaec5fbf1283e63d",
+            "conversion_factor_to_main_unit": 1000000000000.0,
+            "conversion_factor_from_si": 1000000000000.0,
+            "prefix_symbol": "T",
+            "main_symbol": "TA"
         }
     ]
 }

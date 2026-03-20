@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "bfa30e8d-7250-562e-a931-8beaff08df61",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/DynamicViscosity"
     ],
     "close_ontology_match": [
-        "https://si-digital-framework.org/SI/quantities/DYVI"
+        "http://qudt.org/vocab/quantitykind/DynamicViscosity",
+        "https://si-digital-framework.org/quantities/DYVI"
     ],
+    "uuid": "bfa30e8d-7250-562e-a931-8beaff08df61",
     "name": "DynamicViscosity",
     "label": [
         {
@@ -27,6 +28,9 @@
         }
     ],
     "units": [
+        "Item:OSW1533ce6303685bbfba8ea68bbab48e18",
+        "Item:OSW3caecf6a4b095fe693ff789164f69434",
+        "Item:OSW8e1783ac9f0b5fe3b404dcfbce8940cb",
         "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DeciB_M"
+    ],
+    "uuid": "8ab36cb8-7227-5d14-ac24-784b4b0405a0",
+    "name": "DecibelReferredTo1Mw",
+    "label": [
+        {
+            "text": "DeciBel Referred to 1mw",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Decibel Referred to 1mw\" is a 'Logarithmic Dimensionless Ratio' expressed as $dBm$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "dBmW",
+    "conversion_factor_from_si": 0.0,
+    "factor_unit_scalar": 1
+}

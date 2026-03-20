@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A-PER-CentiM"
+    ],
+    "uuid": "8d315234-9604-51fa-895c-98b88e9f1b28",
+    "name": "AmperePerCentimetre",
+    "label": [
+        {
+            "text": "Ampere per CentiMetre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit ampere divided by the 0.01-fold of the SI base unit metre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "A/cm",
+    "conversion_factor_from_si": 100.0,
+    "ucum_codes": [
+        "A.cm-1",
+        "A/cm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

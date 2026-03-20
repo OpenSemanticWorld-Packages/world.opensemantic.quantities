@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M2-HR"
+    ],
+    "uuid": "0536dcf4-d56e-5b22-8c51-533178756899",
+    "name": "GramsPerSquareMeterPerHour",
+    "label": [
+        {
+            "text": "Grams per Square Meter per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.0001-fold of the SI base unit kilogram divided by the SI base unit meter with the exponent 2 over a period of 1 hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(m²·h)",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "ucum_codes": [
+        "g.m-2.hr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "98dcd3c0-529b-5e08-b674-84196a3486bc",
+            "osw_id": "Item:OSW0536dcf4d56e5b228c51533178756899#OSW98dcd3c0529b5e08b67484196a3486bc",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "mg/(m²·h)",
+            "ucum_codes": [
+                "mg.m-2.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

@@ -2,14 +2,14 @@
     "type": [
         "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "f22a5f44-0480-5d79-b244-48e9bfc5e7d4",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MilliL-PER-GM"
     ],
-    "name": "MilliL-PER-GM",
+    "uuid": "f22a5f44-0480-5d79-b244-48e9bfc5e7d4",
+    "name": "MillilitrePerGram",
     "label": [
         {
-            "text": "Millilitre per Gram",
+            "text": "MilliLitre per Gram",
             "lang": "en"
         }
     ],
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "mL/g",
-    "conversion_factor_from_si": 0.001
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "mL.g-1",
+        "mL/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

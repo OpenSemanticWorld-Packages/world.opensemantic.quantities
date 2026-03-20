@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaJ-PER-M2-DAY"
+    ],
+    "uuid": "c06ae094-22e9-5836-9a4d-d7e6f19e6e8b",
+    "name": "MegajoulePerSquareMetrePerDay",
+    "label": [
+        {
+            "text": "MegaJoule per Square Metre per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1,000,000-fold of the SI derived unit joule divided by the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "MJ/(m²·d)",
+    "conversion_factor_from_si": 11.574074074074074,
+    "ucum_codes": [
+        "MJ.m-2.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

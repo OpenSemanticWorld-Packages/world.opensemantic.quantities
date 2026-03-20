@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/HectoPA-PER-K"
+    ],
+    "uuid": "56eb00ee-243c-5f29-93c4-4c2259217fd3",
+    "name": "HectopascalPerKelvin",
+    "label": [
+        {
+            "text": "HectoPascal per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "100-fold of the SI derived unit pascal divided by the SI base unit kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "hPa/K",
+    "conversion_factor_from_si": 100.0,
+    "ucum_codes": [
+        "hPa.K-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

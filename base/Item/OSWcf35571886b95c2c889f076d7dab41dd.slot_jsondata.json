@@ -1,19 +1,19 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "cf355718-86b9-5c2c-889f-076d7dab41dd",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-PER-RAD"
     ],
-    "name": "N-M-PER-RAD",
+    "uuid": "cf355718-86b9-5c2c-889f-076d7dab41dd",
+    "name": "NewtonMetrePerRadian",
     "label": [
         {
-            "text": "Newton metre per radian",
+            "text": "Newton Metre per Radian",
             "lang": "en"
         },
         {
-            "text": "Newtonmeter pro Radian",
+            "text": "Newtonmeter Pro Radian",
             "lang": "de"
         }
     ],
@@ -24,5 +24,21 @@
         }
     ],
     "main_symbol": "N·m/rad",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "N.m.rad-1",
+        "N.m/rad"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

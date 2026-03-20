@@ -1,0 +1,31 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoGM-PER-L"
+    ],
+    "uuid": "42fdef27-c8ae-5c8f-bf18-76c400f27101",
+    "name": "NanogramPerLitre",
+    "label": [
+        {
+            "text": "NanoGram per Litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ng/L",
+    "conversion_factor_from_si": 1e-09,
+    "ucum_codes": [
+        "ng.L-1",
+        "ng/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

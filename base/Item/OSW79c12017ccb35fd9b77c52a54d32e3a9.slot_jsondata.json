@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "79c12017-ccb3-5fd9-b77c-52a54d32e3a9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricChargePerAmountOfSubstance"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricChargePerAmountOfSubstance"
+    ],
+    "uuid": "79c12017-ccb3-5fd9-b77c-52a54d32e3a9",
     "name": "ElectricChargePerAmountOfSubstance",
     "label": [
         {

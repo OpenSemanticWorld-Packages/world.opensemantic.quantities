@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "aa15a848-c644-5a70-87c7-293dd18a7244",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Femto",
         "https://si-digital-framework.org/SI/prefixes/femto"
     ],
+    "uuid": "aa15a848-c644-5a70-87c7-293dd18a7244",
     "name": "femto",
     "label": [
         {
-            "text": "femto (unit prefix)",
+            "text": "femto",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'femto' is a decimal prefix for expressing a value with a scaling of \\(10^{-15}\\).",
             "lang": "en"
         }
     ],

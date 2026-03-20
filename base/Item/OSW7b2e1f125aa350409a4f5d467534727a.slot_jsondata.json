@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DeciS-PER-M"
+    ],
+    "uuid": "7b2e1f12-5aa3-5040-9a4f-5d467534727a",
+    "name": "DecisiemensPerMetre",
+    "label": [
+        {
+            "text": "DeciSiemens per Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Decisiemens per metre.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "dS/m",
+    "conversion_factor_from_si": 0.1,
+    "ucum_codes": [
+        "dS.m-1",
+        "dS/m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

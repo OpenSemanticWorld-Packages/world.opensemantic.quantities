@@ -1,0 +1,34 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroMOL-PER-M2-HR"
+    ],
+    "uuid": "1be151a2-b483-5898-9693-e1d41651fb63",
+    "name": "MicromolesPerSquareMetreHour",
+    "label": [
+        {
+            "text": "MicroMoles per Square Metre Hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μmol/(m²·h)",
+    "conversion_factor_from_si": 2.7777777777777777e-10,
+    "ucum_codes": [
+        "umol.m-2.h-1",
+        "umol/m2/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

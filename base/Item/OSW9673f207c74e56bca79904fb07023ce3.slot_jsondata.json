@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DeciM3-PER-DAY"
+    ],
+    "uuid": "9673f207-c74e-56bc-a799-04fb07023ce3",
+    "name": "CubicDecimetrePerDay",
+    "label": [
+        {
+            "text": "Cubic DeciMetre per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the power of the SI base unit metre with the exponent 3 divided by the unit for time day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "dm³/d",
+    "conversion_factor_from_si": 1.1574074074074074e-08,
+    "ucum_codes": [
+        "dm3.d-1",
+        "dm3/d"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

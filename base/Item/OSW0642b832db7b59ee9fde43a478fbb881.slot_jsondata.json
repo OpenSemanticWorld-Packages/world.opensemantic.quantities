@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "0642b832-db7b-59ee-9fde-43a478fbb881",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TotalCurrent"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalCurrent"
+    ],
+    "uuid": "0642b832-db7b-59ee-9fde-43a478fbb881",
     "name": "TotalCurrent",
     "label": [
         {
@@ -20,6 +23,17 @@
         }
     ],
     "units": [
-        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec"
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW35108dc576b05e8da8a4fb293f197b7d",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW402d7d6ffbf95b2a90fd018c27b5f196",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW46eb50fa70c350638fc2545246ce0891",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW49e59ce46e35588193327425fa1d89ab",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW771bd899c7045f84b282cc653efe6d28",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWb59bf21962f75857965df77a55549178",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWc611b97c5c4354059113fb8f17a26f2f",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWdcb8628d23d35ca5a3fd772b55f5faab",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWec00063f919153e383d273d6b00d48bf",
+        "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWfe69b90d79b05ab6aaec5fbf1283e63d"
     ]
 }

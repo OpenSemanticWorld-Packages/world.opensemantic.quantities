@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PPT_VOL"
+    ],
+    "uuid": "44e5463e-153b-54c1-a688-58c736941181",
+    "name": "PartsPerTrillionByVolume",
+    "label": [
+        {
+            "text": "Parts per Trillion by Volume",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ppt (volume)",
+    "conversion_factor_from_si": 1e-12,
+    "ucum_codes": [
+        "[pptr]{vol}"
+    ],
+    "factor_unit_scalar": 1
+}

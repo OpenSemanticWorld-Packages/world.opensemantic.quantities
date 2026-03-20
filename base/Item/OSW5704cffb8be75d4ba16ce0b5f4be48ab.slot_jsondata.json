@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloW-HR"
+    ],
+    "uuid": "5704cffb-8be7-5d4b-a16c-e0b5f4be48ab",
+    "name": "KiloWatthour",
+    "label": [
+        {
+            "text": "KiloWatthour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The kilowatt hour, or kilowatt-hour, (symbol $kW \\cdot h$, $kW h$ or $kWh$) is a unit of energy equal to 1000 watt hours or 3.6 megajoules. For constant power, energy in watt hours is the product of power in watts and time in hours. The kilowatt hour is most commonly known as a billing unit for energy delivered to consumers by electric utilities.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kW·h",
+    "conversion_factor_from_si": 3600000.0,
+    "ucum_codes": [
+        "kW.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

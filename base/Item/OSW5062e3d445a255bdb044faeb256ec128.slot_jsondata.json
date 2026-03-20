@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/ERLANG"
+    ],
+    "uuid": "5062e3d4-45a2-55bd-b044-faeb256ec128",
+    "name": "Erlang",
+    "label": [
+        {
+            "text": "Erlang",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The \"Erlang\" is a dimensionless unit that is used in telephony as a measure of offered load or carried load on service-providing elements such as telephone circuits or telephone switching equipment.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "E",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1
+}

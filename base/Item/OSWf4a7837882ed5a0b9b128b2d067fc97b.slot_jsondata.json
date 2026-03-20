@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "f4a78378-82ed-5a0b-9b12-8b2d067fc97b",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-MOL"
     ],
-    "name": "M2-PER-MOL",
+    "uuid": "f4a78378-82ed-5a0b-9b12-8b2d067fc97b",
+    "name": "SquareMetrePerMole",
     "label": [
         {
             "text": "Square Metre per Mole",
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "m²/mol",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m2.mol-1",
+        "m2/mol"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

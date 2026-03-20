@@ -1,0 +1,24 @@
+{
+    "type": [
+        "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Mebi"
+    ],
+    "uuid": "5ba63b9b-fffd-5002-8798-b619b6ba2b0b",
+    "name": "mebi",
+    "label": [
+        {
+            "text": "mebi",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A binary prefix for expressing a value with a scaling of $1024^{2}$, or $2^{20}$.",
+            "lang": "en"
+        }
+    ],
+    "symbol": "Mi",
+    "factor": 1048576.0
+}

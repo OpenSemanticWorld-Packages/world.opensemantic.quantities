@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "9161ae8b-61ca-56a6-87f8-db32bdf2ddd3",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-M3"
     ],
-    "name": "GM-PER-M3",
+    "uuid": "9161ae8b-61ca-56a6-87f8-db32bdf2ddd3",
+    "name": "GramPerCubicMetre",
     "label": [
         {
             "text": "Gram per Cubic Metre",
@@ -21,97 +21,212 @@
     ],
     "main_symbol": "g/m³",
     "conversion_factor_from_si": 0.001,
-    "prefix_units": [
+    "ucum_codes": [
+        "g.m-3",
+        "g/m3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "e3467b46-17cb-5ce4-8ee9-53c2cfe1333a",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroGM-PER-M3"
-            ],
-            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSWe3467b4617cb5ce48ee953c2cfe1333a",
-            "conversion_factor_from_si": 1e-09,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "μg/m³"
+            "exponent": -3
         },
         {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "cfbbb2b5-5903-53ea-a073-af78bdf6ba7f",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/NanoGM-PER-M3"
-            ],
-            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSWcfbbb2b5590353eaa073af78bdf6ba7f",
-            "conversion_factor_from_si": 1e-12,
-            "prefix": "Item:OSWb6a5fd00b91058d1909514095f84fe6f",
-            "main_symbol": "ng/m³"
-        },
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "08e3de49-3176-593e-bb64-35ee52474b42",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/GM-PER-DeciM3"
-            ],
             "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW08e3de493176593ebb6435ee52474b42",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
-            "prefix": "Item:OSW0be842b1433b5b4aa5625264c188d622",
-            "main_symbol": "g/dm³"
+            "main_symbol": "g/dm³",
+            "ucum_codes": [
+                "g.dm-3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -3
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "7f9186a7-3d00-52d5-96b0-2fc9d51a2847",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/GM-PER-CentiM3"
-            ],
-            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW7f9186a73d0052d596b02fc9d51a2847",
-            "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "g/cm³"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "52992dd0-def3-5dc9-ae8b-d6b5010d8ee8",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloGM-PER-M3"
-            ],
-            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW52992dd0def35dc9ae8bd6b5010d8ee8",
-            "conversion_factor_from_si": 1.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kg/m³"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
-            ],
-            "uuid": "5f01e134-9c80-5e98-9c57-a994fd6406fa",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliGM-PER-M3"
-            ],
-            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW5f01e1349c805e989c57a994fd6406fa",
-            "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mg/m³"
-        },
-        {
-            "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "1e01b844-de6d-54b6-ba55-9b7fd2e692a9",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaGM-PER-M3"
-            ],
             "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW1e01b844de6d54b6ba559b7fd2e692a9",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "Mg/m³"
+            "main_symbol": "Mg/m³",
+            "ucum_codes": [
+                "Mg.m-3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -3
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "52992dd0-def3-5dc9-ae8b-d6b5010d8ee8",
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW52992dd0def35dc9ae8bd6b5010d8ee8",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/m³",
+            "ucum_codes": [
+                "kg.m-3",
+                "kg/m3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -3
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5f01e134-9c80-5e98-9c57-a994fd6406fa",
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW5f01e1349c805e989c57a994fd6406fa",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "mg/m³",
+            "ucum_codes": [
+                "mg.m-3",
+                "mg/m3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "7f9186a7-3d00-52d5-96b0-2fc9d51a2847",
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW7f9186a73d0052d596b02fc9d51a2847",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "g/cm³",
+            "ucum_codes": [
+                "g.cm-3",
+                "g/cm3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -3
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "991c750b-9bd1-5374-b154-bbe0dc04aa9c",
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSW991c750b9bd15374b154bbe0dc04aa9c",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "kg/cm³",
+            "ucum_codes": [
+                "kg.cm-3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -3
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "cfbbb2b5-5903-53ea-a073-af78bdf6ba7f",
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSWcfbbb2b5590353eaa073af78bdf6ba7f",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-12,
+            "main_symbol": "ng/m³",
+            "ucum_codes": [
+                "ng.m-3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e3467b46-17cb-5ce4-8ee9-53c2cfe1333a",
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSWe3467b4617cb5ce48ee953c2cfe1333a",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "μg/m³",
+            "ucum_codes": [
+                "ug.m-3",
+                "ug/m3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ff1b2199-e402-5206-904b-96e9d9423640",
+            "osw_id": "Item:OSW9161ae8b61ca56a687f8db32bdf2ddd3#OSWff1b2199e4025206904b96e9d9423640",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000.0,
+            "main_symbol": "kg/dm³",
+            "ucum_codes": [
+                "kg.dm-3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": 1
+                }
+            ]
         }
     ]
 }

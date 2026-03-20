@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "72802cba-8307-5839-ad7b-5145d88eb641",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TotalAtomicStoppingPower"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TotalAtomicStoppingPower"
+    ],
+    "uuid": "72802cba-8307-5839-ad7b-5145d88eb641",
     "name": "TotalAtomicStoppingPower",
     "label": [
         {

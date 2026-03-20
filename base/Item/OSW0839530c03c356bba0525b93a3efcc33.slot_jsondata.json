@@ -2,13 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "0839530c-03c3-56bb-a052-5b93a3efcc33",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/HA",
-        "http://dbpedia.org/resource/Hectare",
-        "https://si-digital-framework.org/SI/units/hectare"
+        "http://qudt.org/vocab/unit/HA"
     ],
-    "name": "HA",
+    "uuid": "0839530c-03c3-56bb-a052-5b93a3efcc33",
+    "name": "Hectare",
     "label": [
         {
             "text": "Hectare",
@@ -22,5 +20,9 @@
         }
     ],
     "main_symbol": "ha",
-    "conversion_factor_from_si": 10000.0
+    "conversion_factor_from_si": 10000.0,
+    "ucum_codes": [
+        "har"
+    ],
+    "factor_unit_scalar": 1
 }

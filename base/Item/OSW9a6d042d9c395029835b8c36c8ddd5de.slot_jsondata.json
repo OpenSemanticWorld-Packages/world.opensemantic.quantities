@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "9a6d042d-9c39-5029-835b-8c36c8ddd5de",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-DEG_C"
     ],
-    "name": "GM-PER-DEG_C",
+    "uuid": "9a6d042d-9c39-5029-835b-8c36c8ddd5de",
+    "name": "GramDegreeCelsius",
     "label": [
         {
             "text": "Gram Degree Celsius",
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "g/°C",
-    "conversion_factor_from_si": 0.001
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "d.Cel-1",
+        "d/Cel"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

@@ -1,43 +1,63 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "21febbc7-35d2-5a9b-adef-e5f3191757d9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/HZ-PER-K"
     ],
-    "name": "HZ-PER-K",
+    "uuid": "21febbc7-35d2-5a9b-adef-e5f3191757d9",
+    "name": "HertzPerKelvin",
     "label": [
         {
-            "text": "hertz per kelvin",
+            "text": "Hertz per Kelvin",
             "lang": "en"
         },
         {
-            "text": "Hertz je Kelvin",
+            "text": "Hertz Je Kelvin",
             "lang": "de"
         }
     ],
     "description": [
         {
-            "text": "\n  $\\textit{Hertz per Kelvin}$ is a unit for 'Inverse Time Temperature' expressed as $Hz K^{-1}$.\n  ",
+            "text": "$\\textit{Hertz per Kelvin}$ is a unit for 'Inverse Time Temperature' expressed as $Hz K^{-1}$.",
             "lang": "en"
         }
     ],
     "main_symbol": "Hz/K",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "Hz.K-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "1214143f-4aa9-52e7-8f3e-c1c339d9500b",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MegaHZ-PER-K"
-            ],
             "osw_id": "Item:OSW21febbc735d25a9badefe5f3191757d9#OSW1214143f4aa952e78f3ec1c339d9500b",
+            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
-            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
-            "main_symbol": "MHz/K"
+            "main_symbol": "MHz/K",
+            "ucum_codes": [
+                "MHz.K-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

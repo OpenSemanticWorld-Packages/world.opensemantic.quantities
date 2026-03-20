@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MegaPA-PER-K"
+    ],
+    "uuid": "3232f6c7-0da5-5b8a-a7b7-c2ea4f84565b",
+    "name": "MegapascalPerKelvin",
+    "label": [
+        {
+            "text": "MegaPascal per Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "1,000,000-fold of the SI derived unit pascal divided by the SI base unit kelvin",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "MPa/K",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "MPa.K-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

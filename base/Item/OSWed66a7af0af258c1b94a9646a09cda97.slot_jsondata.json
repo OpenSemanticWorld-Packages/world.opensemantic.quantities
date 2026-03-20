@@ -1,0 +1,36 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/KiloGM-PER-GigaJ"
+    ],
+    "uuid": "ed66a7af-0af2-58c1-b94a-9646a09cda97",
+    "name": "KilogramPerGigajoule",
+    "label": [
+        {
+            "text": "KiloGram per GigaJoule",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit kilogram divided by the SI base unit gigajoule",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kg/GJ",
+    "conversion_factor_from_si": 1e-09,
+    "ucum_codes": [
+        "kg.GJ-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

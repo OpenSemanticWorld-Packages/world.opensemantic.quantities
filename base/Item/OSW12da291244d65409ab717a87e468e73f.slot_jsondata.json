@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PicoMOL-PER-M2-DAY"
+    ],
+    "uuid": "12da2912-44d6-5409-ab71-7a87e468e73f",
+    "name": "PicomolesPerSquareMetreDay",
+    "label": [
+        {
+            "text": "PicoMoles per Square Metre Day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "pmol/(m²·d)",
+    "conversion_factor_from_si": 1.1574074074074074e-17,
+    "ucum_codes": [
+        "pmol.m-2.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

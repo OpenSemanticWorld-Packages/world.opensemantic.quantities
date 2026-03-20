@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "da69921a-96ee-5d68-a939-6f6ee7c64ee9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PhaseCoefficient"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PhaseCoefficient"
+    ],
+    "uuid": "da69921a-96ee-5d68-a939-6f6ee7c64ee9",
     "name": "PhaseCoefficient",
     "label": [
         {
@@ -20,6 +23,12 @@
         }
     ],
     "units": [
-        "Item:OSW28e75b089e145904998a54f1c4125bf3"
+        "Item:OSW0dcebe41477056aba0e706c148970688",
+        "Item:OSW124eebfb89dc54bc9cc223fd49c40480",
+        "Item:OSW28e75b089e145904998a54f1c4125bf3",
+        "Item:OSW45c24d8b68485accbdd684f05231c74c",
+        "Item:OSWd0475e49e0715ec488fba3fe0fdd9b02",
+        "Item:OSWdc9edf9277ed57cdb7a6f218551afa8d",
+        "Item:OSWe77bc3c1bd7a566eadb55f3b68d351f2"
     ]
 }

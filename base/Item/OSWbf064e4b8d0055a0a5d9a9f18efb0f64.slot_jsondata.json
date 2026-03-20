@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliL-PER-KiloGM"
+    ],
+    "uuid": "bf064e4b-8d00-55a0-a5d9-a9f18efb0f64",
+    "name": "MillilitrePerKilogram",
+    "label": [
+        {
+            "text": "MilliLitre per KiloGram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.001-fold of the unit of the volume litre divided by the SI base unit kilogram",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mL/kg",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "mL.kg-1",
+        "mL/kg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

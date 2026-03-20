@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "60632a01-bf7f-5a8e-be7f-bd753f6a0f3c",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/BodyMassIndex"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/BodyMassIndex"
+    ],
+    "uuid": "60632a01-bf7f-5a8e-be7f-bd753f6a0f3c",
     "name": "BodyMassIndex",
     "label": [
         {
@@ -20,6 +23,16 @@
         }
     ],
     "units": [
-        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22"
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0277ff4df5125b8ab10f720e991ca792",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0ac392f5beaf59ab807d2e0de0da85c9",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0c0b3d92963f5b64a62a504d4a96c724",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW1a1e54cfa41d52e680e78ec75e65f99c",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW2e2a377bf14c59439e62290c987ba4ac",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW86b6ab5f70aa5624be17645333d53d51",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW9c7d95657ab05c0fb979e730224e6dd7",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW9fc7265dfa7c59b0b55bdefc137812fa",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSWbea4b306b10f575c8ee58aeeeca5b3a5",
+        "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSWe56de728f7c85b2199313bb5bb7e049e"
     ]
 }

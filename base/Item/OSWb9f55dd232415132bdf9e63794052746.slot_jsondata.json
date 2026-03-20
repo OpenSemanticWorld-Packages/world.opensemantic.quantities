@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "b9f55dd2-3241-5132-bdf9-e63794052746",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-K"
     ],
-    "name": "M3-PER-K",
+    "uuid": "b9f55dd2-3241-5132-bdf9-e63794052746",
+    "name": "CubicMetrePerKelvin",
     "label": [
         {
             "text": "Cubic Metre per Kelvin",
@@ -15,19 +15,40 @@
     ],
     "main_symbol": "m³/K",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "m3.K-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 3
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "554b5cf2-e310-542f-848f-9522a4f34f70",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/CentiM3-PER-K"
-            ],
             "osw_id": "Item:OSWb9f55dd232415132bdf9e63794052746#OSW554b5cf2e310542f848f9522a4f34f70",
+            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "cm³/K"
+            "main_symbol": "cm³/K",
+            "ucum_codes": [
+                "cm3.K-1",
+                "cm3/K"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

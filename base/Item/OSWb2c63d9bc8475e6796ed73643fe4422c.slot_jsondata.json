@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MicroL-PER-L"
+    ],
+    "uuid": "b2c63d9b-c847-5e67-96ed-73643fe4422c",
+    "name": "MicrolitrePerLitre",
+    "label": [
+        {
+            "text": "MicroLitre per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "volume ratio as 0.000001-fold of the unit litre divided by the unit litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "μL/L",
+    "conversion_factor_from_si": 1e-06,
+    "ucum_codes": [
+        "uL.L-1",
+        "uL/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

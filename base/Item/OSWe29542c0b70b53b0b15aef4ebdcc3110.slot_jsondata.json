@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "e29542c0-b70b-53b0-b15a-ef4ebdcc3110",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/ElectricCurrentPerEnergy"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/ElectricCurrentPerEnergy"
+    ],
+    "uuid": "e29542c0-b70b-53b0-b15a-ef4ebdcc3110",
     "name": "ElectricCurrentPerEnergy",
     "label": [
         {

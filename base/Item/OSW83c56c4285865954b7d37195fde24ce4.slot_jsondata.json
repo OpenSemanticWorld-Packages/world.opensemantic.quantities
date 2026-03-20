@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NumberOfParticles"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/NumberOfParticles"
+    ],
+    "uuid": "83c56c42-8586-5954-b7d3-7195fde24ce4",
+    "name": "NumberOfParticles",
+    "label": [
+        {
+            "text": "Number of Particles",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Number of Particles\", also known as the particle number, of a thermodynamic system, conventionally indicated with the letter N, is the number of constituent particles in that system.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

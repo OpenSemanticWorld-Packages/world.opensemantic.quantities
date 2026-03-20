@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "6f14b269-f433-5b51-8b77-14df5ea3bd52",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/TemporalSummationFunction"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/TemporalSummationFunction"
+    ],
+    "uuid": "6f14b269-f433-5b51-8b77-14df5ea3bd52",
     "name": "TemporalSummationFunction",
     "label": [
         {

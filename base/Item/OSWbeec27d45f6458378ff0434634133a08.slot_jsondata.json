@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SquareTime"
+    ],
+    "close_ontology_match": [
+        "http://dbpedia.org/resource/Time_Squared",
+        "http://qudt.org/vocab/quantitykind/SquareTime"
+    ],
+    "uuid": "beec27d4-5f64-5837-8ff0-434634133a08",
+    "name": "SquareTime",
+    "label": [
+        {
+            "text": "Square Time",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW00ec6531e2fb5ba8aee8cf8852860aed"
+    ]
+}

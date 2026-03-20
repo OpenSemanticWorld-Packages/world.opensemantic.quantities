@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "49f25589-fb5e-5c84-912e-16a0f5c05cc0",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpectralCrossSection"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpectralCrossSection"
+    ],
+    "uuid": "49f25589-fb5e-5c84-912e-16a0f5c05cc0",
     "name": "SpectralCrossSection",
     "label": [
         {

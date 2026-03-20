@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "56a0d2c5-894a-539d-ab6c-6581082cf5ae",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-M2"
     ],
-    "name": "J-M2",
+    "uuid": "56a0d2c5-894a-539d-ab6c-6581082cf5ae",
+    "name": "JouleSquareMetre",
     "label": [
         {
             "text": "Joule Square Metre",
@@ -14,5 +14,17 @@
         }
     ],
     "main_symbol": "J·m²",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "J.m2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

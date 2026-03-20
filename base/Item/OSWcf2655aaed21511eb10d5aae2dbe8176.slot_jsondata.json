@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "cf2655aa-ed21-511e-b10d-5aae2dbe8176",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Inductance"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Inductance",
-        "https://si-digital-framework.org/SI/quantities/ELIN"
+        "http://qudt.org/vocab/quantitykind/Inductance",
+        "https://si-digital-framework.org/quantities/ELIN"
     ],
+    "uuid": "cf2655aa-ed21-511e-b10d-5aae2dbe8176",
     "name": "Inductance",
     "label": [
         {
@@ -28,6 +29,11 @@
         }
     ],
     "units": [
-        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2"
+        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2",
+        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
+        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW10259e9c4c745962b608025d4209a593",
+        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW466788b3b91054088792f8efcf881b73",
+        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWc916910c94335ef4bfd4956fdb64d445",
+        "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWf936212f93685b0a81e881b7b4cd691c"
     ]
 }

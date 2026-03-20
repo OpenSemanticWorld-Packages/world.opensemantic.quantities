@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "4bd500e7-dccd-574c-a2b8-6fdb915507fe",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-MO"
     ],
-    "name": "PER-MO",
+    "uuid": "4bd500e7-dccd-574c-a2b8-6fdb915507fe",
+    "name": "ReciprocalMonth",
     "label": [
         {
             "text": "Reciprocal Month",
@@ -20,5 +20,15 @@
         }
     ],
     "main_symbol": "/mo",
-    "conversion_factor_from_si": 3.91935077e-07
+    "conversion_factor_from_si": 3.9193507729016165e-07,
+    "ucum_codes": [
+        "/mo",
+        "mo-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        }
+    ]
 }

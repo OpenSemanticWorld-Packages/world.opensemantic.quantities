@@ -2,11 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "b3b24103-3ef3-51c1-a868-98a1f5e77217",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/FRACTION"
     ],
-    "name": "FRACTION",
+    "uuid": "b3b24103-3ef3-51c1-a868-98a1f5e77217",
+    "name": "Fraction",
     "label": [
         {
             "text": "Fraction",
@@ -20,5 +20,9 @@
         }
     ],
     "main_symbol": "÷",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "{fraction}"
+    ],
+    "factor_unit_scalar": 1
 }

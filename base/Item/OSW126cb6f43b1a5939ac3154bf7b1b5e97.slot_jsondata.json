@@ -1,0 +1,33 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/NanoMOL-PER-M2-DAY"
+    ],
+    "uuid": "126cb6f4-3b1a-5939-ac31-54bf7b1b5e97",
+    "name": "NanomolesPerSquareMetreDay",
+    "label": [
+        {
+            "text": "NanoMoles per Square Metre Day",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "nmol/(m²·d)",
+    "conversion_factor_from_si": 1.1574074074074074e-14,
+    "ucum_codes": [
+        "nmol.m-2.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ]
+}

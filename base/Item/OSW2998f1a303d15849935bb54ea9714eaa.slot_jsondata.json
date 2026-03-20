@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "2998f1a3-03d1-5849-935b-b54ea9714eaa",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/SpecificWeight"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/SpecificWeight"
+    ],
+    "uuid": "2998f1a3-03d1-5849-935b-b54ea9714eaa",
     "name": "SpecificWeight",
     "label": [
         {
@@ -20,6 +23,7 @@
         }
     ],
     "units": [
-        "Item:OSWf3f9733d84285a338b5b7306145c9b6d"
+        "Item:OSWf3f9733d84285a338b5b7306145c9b6d",
+        "Item:OSWf3f9733d84285a338b5b7306145c9b6d#OSWfe42a11de5995fa380fbde579c89484c"
     ]
 }

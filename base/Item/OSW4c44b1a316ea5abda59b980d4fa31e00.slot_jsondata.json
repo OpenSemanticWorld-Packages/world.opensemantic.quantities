@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "4c44b1a3-16ea-5abd-a59b-980d4fa31e00",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/PressureCoefficient"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PressureCoefficient"
+    ],
+    "uuid": "4c44b1a3-16ea-5abd-a59b-980d4fa31e00",
     "name": "PressureCoefficient",
     "label": [
         {
@@ -14,6 +17,9 @@
         }
     ],
     "units": [
-        "Item:OSWac77b78c88875d4b829975141f651b94"
+        "Item:OSW3232f6c70da55b8aa7b7c2ea4f84565b",
+        "Item:OSWac77b78c88875d4b829975141f651b94",
+        "Item:OSWac77b78c88875d4b829975141f651b94#OSW56eb00ee243c5f2993c44c2259217fd3",
+        "Item:OSWac77b78c88875d4b829975141f651b94#OSWb436256689755bf1993955ab270253c3"
     ]
 }

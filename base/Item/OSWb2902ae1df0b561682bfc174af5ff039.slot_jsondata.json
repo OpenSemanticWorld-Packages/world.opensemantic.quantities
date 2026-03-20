@@ -1,15 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "b2902ae1-df0b-5616-82bf-c174af5ff039",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-M2-DAY"
     ],
-    "name": "GM-PER-M2-DAY",
+    "uuid": "b2902ae1-df0b-5616-82bf-c174af5ff039",
+    "name": "GramsPerSquareMetreDay",
     "label": [
         {
-            "text": "grams per square metre day",
+            "text": "Grams per Square Metre Day",
             "lang": "en"
         }
     ],
@@ -19,34 +19,119 @@
             "lang": "en"
         }
     ],
-    "main_symbol": "g/(m²·day)",
-    "conversion_factor_from_si": 1.1574073e-08,
-    "prefix_units": [
+    "main_symbol": "g/(m²·d)",
+    "conversion_factor_from_si": 1.1574074074074074e-08,
+    "ucum_codes": [
+        "g.m-2.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
-            "uuid": "93a70588-ce30-5c56-aa1c-3d6417632649",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliGM-PER-M2-DAY"
+            "uuid": "41b282c4-f40a-53d1-b288-be6610a9133d",
+            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW41b282c4f40a53d1b288be6610a9133d",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.1574074074074073e-05,
+            "main_symbol": "kg/(m²·d)",
+            "ucum_codes": [
+                "kg.m-2.d-1"
             ],
-            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW93a70588ce305c56aa1c3d6417632649",
-            "conversion_factor_from_si": 1.15740740740741e-11,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mg/(m²·day)"
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "93a70588-ce30-5c56-aa1c-3d6417632649",
+            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW93a70588ce305c56aa1c3d6417632649",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.1574074074074074e-11,
+            "main_symbol": "mg/(m²·d)",
+            "ucum_codes": [
+                "mg.m-2.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "ae40efaa-2476-50f3-8362-d522eabf49ca",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MicroGM-PER-M2-DAY"
-            ],
             "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWae40efaa247650f38362d522eabf49ca",
-            "conversion_factor_from_si": 1.15740740740741e-14,
-            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
-            "main_symbol": "μg/(m²·day)"
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1.1574074074074074e-14,
+            "main_symbol": "μg/(m²·d)",
+            "ucum_codes": [
+                "ug.m-2.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "b4fb60e1-90df-5726-81fb-d988fd44a5c4",
+            "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWb4fb60e190df572681fbd988fd44a5c4",
+            "conversion_factor_to_main_unit": 9.999999999999999e-06,
+            "conversion_factor_from_si": 1.1574074074074073e-13,
+            "main_symbol": "ng/(cm²·d)",
+            "ucum_codes": [
+                "ng.cm-2.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

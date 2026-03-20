@@ -1,0 +1,40 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MilliGM-PER-KiloGM-DAY"
+    ],
+    "uuid": "128913a7-d8a9-5078-b7bb-1a26bbb1da62",
+    "name": "MilligramPerKilogramPerDay",
+    "label": [
+        {
+            "text": "MilliGram per KiloGram per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "mass ratio as 0.000000001-fold of the SI base unit kilogram divided by 0.001-fold of the SI base unit kilogram per day (8640 seconds)",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mg/(kg·d)",
+    "conversion_factor_from_si": 1.1574074074074074e-11,
+    "ucum_codes": [
+        "mg.kg-1.d-1",
+        "mg/kg/d"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

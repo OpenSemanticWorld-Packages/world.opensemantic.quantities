@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/E_h"
+    ],
+    "uuid": "a3a12e65-123e-5c12-8a22-2b5ccd537371",
+    "name": "Hartree",
+    "label": [
+        {
+            "text": "Hartree",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "<p>The $\\textit{Hartree}$ (symbol: $E_h$ or $Ha$), also known as the $\\text{Hartree\\,Energy}$, is the atomic unit of energy. The hartree energy is equal to the absolute value of the electric potential energy of the hydrogen atom in its ground state. The energy of the electron in an H-atom in its ground state is $-E_H$, where $E_H= 2 R_\\infty \\cdot hc_0$. The 2006 CODATA recommended value was $E_H = 4.35974394(22) \\times 10^{-18} J = 27.21138386(68) eV$.</p>\n<dt class=\"size-14\">Definition:</dt>\n<dd>$E_H= \\frac{e^2}{4\\pi \\epsilon_0 a_0 }$<br/>\nwhere, $e$ is the elementary charge, $\\epsilon_0$ is the electric constant, and $a_0$ is the Bohr radius.'</dd>",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Ha",
+    "conversion_factor_from_si": 4.35974394e-18,
+    "factor_unit_scalar": 1
+}

@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GruneisenParameter"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GruneisenParameter"
+    ],
+    "uuid": "77c5c016-8401-5f27-a559-39604f139353",
+    "name": "GruneisenParameter",
+    "label": [
+        {
+            "text": "Gruneisen Parameter",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Gruneisen Parameter\" named after Eduard Grüneisen, describes the effect that changing the volume of a crystal lattice has on its vibrational properties, and, as a consequence, the effect that changing temperature has on the size or dynamics of the lattice.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

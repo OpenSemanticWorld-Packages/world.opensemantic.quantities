@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "9571c7df-309e-519a-9511-b7fdfcf43eab",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/LagrangeFunction"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/LagrangeFunction"
+    ],
+    "uuid": "9571c7df-309e-519a-9511-b7fdfcf43eab",
     "name": "LagrangeFunction",
     "label": [
         {
@@ -20,6 +23,18 @@
         }
     ],
     "units": [
-        "Item:OSW730568cd7ae65906abbbcef1d15cb074"
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW0ac3643d930d5c99936e5ece487a9634",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW2d5cdc08b064506e8f9a5b0456b7a0b3",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW30f80559b4db5a9b8d78a70a24847f4b",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW3346670746685c229dc04ba811e7afe9",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW4e7003f5d7ff58a190167711dd63b0bd",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW5ba80670b2945c08b35551442d3169d5",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW6df751011258508e9d15967190c819f3",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW866098e606665b39a34baff6dbb4fae4",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWa73c696efa58519aa07c265ea965ceda",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
+        "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc26bf1cf449d56ef8122745336585d2b"
     ]
 }

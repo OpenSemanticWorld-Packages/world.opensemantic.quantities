@@ -2,12 +2,11 @@
     "type": [
         "Category:OSWd2520fa016844e01af0097a85bb25b25"
     ],
-    "uuid": "12c41203-1b95-5684-8d70-154dca0e1d13",
     "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/TONNE",
-        "https://si-digital-framework.org/SI/units/tonne"
+        "http://qudt.org/vocab/unit/TONNE"
     ],
-    "name": "TONNE",
+    "uuid": "12c41203-1b95-5684-8d70-154dca0e1d13",
+    "name": "Tonne",
     "label": [
         {
             "text": "Tonne",
@@ -21,5 +20,44 @@
         }
     ],
     "main_symbol": "t",
-    "conversion_factor_from_si": 1000.0
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "t"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "12ce0e9d-7fda-5bb3-934f-109d4d332d68",
+            "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW12ce0e9d7fda5bb3934f109d4d332d68",
+            "conversion_factor_to_main_unit": 0.1,
+            "conversion_factor_from_si": 100.0,
+            "prefix_symbol": "d",
+            "main_symbol": "dt"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3c968aef-5990-5569-bee1-a089ac35fe04",
+            "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW3c968aef59905569bee1a089ac35fe04",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix_symbol": "M",
+            "main_symbol": "Mt"
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "91cff603-0e17-5ccc-8d30-cd02e0354fa9",
+            "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW91cff6030e175ccc8d30cd02e0354fa9",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "prefix_symbol": "k",
+            "main_symbol": "kt"
+        }
+    ]
 }

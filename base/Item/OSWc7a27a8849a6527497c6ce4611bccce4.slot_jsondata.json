@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "c7a27a88-49a6-5274-97c6-ce4611bccce4",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/VolumetricHeatCapacity"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/Volumetric_heat_capacity"
+        "http://dbpedia.org/resource/Volumetric_heat_capacity",
+        "http://qudt.org/vocab/quantitykind/VolumetricHeatCapacity"
     ],
+    "uuid": "c7a27a88-49a6-5274-97c6-ce4611bccce4",
     "name": "VolumetricHeatCapacity",
     "label": [
         {
@@ -23,6 +24,8 @@
         }
     ],
     "units": [
-        "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44"
+        "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44",
+        "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44#OSW831c2e0119cd5e46a75afc834fffaf7d",
+        "Item:OSWa0fc0bef94df5e839e06751b84e74ae3"
     ]
 }

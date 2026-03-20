@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "16d6aedc-1678-5e00-af65-8016a6d0d060",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/MassTemperature"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassTemperature"
+    ],
+    "uuid": "16d6aedc-1678-5e00-af65-8016a6d0d060",
     "name": "MassTemperature",
     "label": [
         {

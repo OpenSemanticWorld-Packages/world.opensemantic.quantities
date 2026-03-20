@@ -1,0 +1,1 @@
+{{Template:Decoration/ColoredText|text=Deprecated - Please use|red=1|blue=0|green=0|black=0}} [[:Category:OSW6c2aea028a8647cd97f5d7c65c09cd44]]

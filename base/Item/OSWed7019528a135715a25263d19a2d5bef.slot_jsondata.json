@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "ed701952-8a13-5715-a252-63d19a2d5bef",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Mega",
         "https://si-digital-framework.org/SI/prefixes/mega"
     ],
+    "uuid": "ed701952-8a13-5715-a252-63d19a2d5bef",
     "name": "mega",
     "label": [
         {
-            "text": "mega (unit prefix)",
+            "text": "mega",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'mega' is a decimal prefix for expressing a value with a scaling of \\(10^{6}\\).",
             "lang": "en"
         }
     ],

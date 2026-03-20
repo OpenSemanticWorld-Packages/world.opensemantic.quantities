@@ -1,0 +1,38 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BasePair"
+    ],
+    "uuid": "9ba16cb7-f865-52fe-a157-915b5edc38e0",
+    "name": "BasePair",
+    "label": [
+        {
+            "text": "Base Pair",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One bp corresponds to approximately 3.4 Å (340 pm)[23] of length along the strand, and to roughly 618 or 643 daltons for DNA and RNA respectively.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "bp",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ceaad9b0-ddf7-5bf4-9abc-5335b3b688c5",
+            "osw_id": "Item:OSW9ba16cb7f86552fea157915b5edc38e0#OSWceaad9b0ddf75bf49abc5335b3b688c5",
+            "conversion_factor_to_main_unit": 1000000000.0,
+            "conversion_factor_from_si": 1000000000.0,
+            "prefix_symbol": "G",
+            "main_symbol": "Gbp"
+        }
+    ]
+}

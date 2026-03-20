@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassConcentrationRateOfChange"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/MassConcentrationRateOfChange"
+    ],
+    "uuid": "7ed252bb-9ca7-5ffd-afb1-98c9c2ce126e",
+    "name": "MassConcentrationRateOfChange",
+    "label": [
+        {
+            "text": "Mass Concentration Rate Of Change",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "the rate at which a specific chemical element or compound changes concentration over time, where with concentration expressed as mass per volume. SI unit is kg * m-3 * s-1",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW9108816e33465625bcd9b4850d64cf9a"
+    ]
+}

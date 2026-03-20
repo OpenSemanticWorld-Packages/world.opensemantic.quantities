@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RadianceFactor"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/RadianceFactor"
+    ],
+    "uuid": "210c4031-7474-5a6b-81da-0e477604adf4",
+    "name": "RadianceFactor",
+    "label": [
+        {
+            "text": "Radiance Factor",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Radiance Factor is the ratio of the radiance of the surface element in the given direction to that of a perfect reflecting or transmitting diffuser identically irradiated unit.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWc72c8e13779050d1a5512740a9a12112"
+    ]
+}

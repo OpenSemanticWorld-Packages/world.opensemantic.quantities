@@ -2,14 +2,15 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "f835375a-4ae4-5900-9f80-ad186247aef7",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/Acceleration"
     ],
     "close_ontology_match": [
         "http://dbpedia.org/resource/Acceleration",
-        "https://si-digital-framework.org/SI/quantities/ACCE"
+        "http://qudt.org/vocab/quantitykind/Acceleration",
+        "https://si-digital-framework.org/quantities/ACCE"
     ],
+    "uuid": "f835375a-4ae4-5900-9f80-ad186247aef7",
     "name": "Acceleration",
     "label": [
         {
@@ -28,6 +29,9 @@
         }
     ],
     "units": [
-        "Item:OSWb91fd68d93375855a57c795180c429a3"
+        "Item:OSW014676a1d72e5f16a59a8d966253ab6f",
+        "Item:OSWb91fd68d93375855a57c795180c429a3",
+        "Item:OSWb91fd68d93375855a57c795180c429a3#OSWc1e73ef72fce51e59e956a39aff96df6",
+        "Item:OSWb91fd68d93375855a57c795180c429a3#OSWde24456bff59574e9ff24646b3ddf3d1"
     ]
 }

@@ -1,13 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M4"
     ],
     "uuid": "e4f01fe0-0389-574e-9057-18a14481ed36",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/M4",
-        "http://dbpedia.org/resource/Quartic_metre"
-    ],
-    "name": "M4",
+    "name": "QuarticMetre",
     "label": [
         {
             "text": "Quartic Metre",
@@ -22,32 +21,51 @@
     ],
     "main_symbol": "m⁴",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "m4"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 4
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "568d0d17-db65-51c1-993d-e3d51c6051cc",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/MilliM4"
-            ],
             "osw_id": "Item:OSWe4f01fe00389574e905718a14481ed36#OSW568d0d17db6551c1993de3d51c6051cc",
+            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
-            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
-            "main_symbol": "mm⁴"
+            "main_symbol": "mm⁴",
+            "ucum_codes": [
+                "mm4"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 4
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "73b630d9-3619-585b-bc7f-4a3a4a3be104",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/CentiM4"
-            ],
             "osw_id": "Item:OSWe4f01fe00389574e905718a14481ed36#OSW73b630d93619585bbc7f4a3a4a3be104",
+            "conversion_factor_to_main_unit": 1e-08,
             "conversion_factor_from_si": 1e-08,
-            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
-            "main_symbol": "cm⁴"
+            "main_symbol": "cm⁴",
+            "ucum_codes": [
+                "cm4"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 4
+                }
+            ]
         }
     ]
 }

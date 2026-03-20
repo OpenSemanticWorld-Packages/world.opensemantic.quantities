@@ -1,17 +1,15 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/LM"
     ],
     "uuid": "24fcc1bb-84db-5b3b-951d-b598cddc1319",
-    "exact_ontology_match": [
-        "http://qudt.org/vocab/unit/LM",
-        "http://dbpedia.org/resource/Lumen",
-        "https://si-digital-framework.org/SI/units/lumen"
-    ],
-    "name": "LM",
+    "name": "Lumen",
     "label": [
         {
-            "text": "lumen",
+            "text": "Lumen",
             "lang": "en"
         },
         {
@@ -27,19 +25,31 @@
     ],
     "main_symbol": "lm",
     "conversion_factor_from_si": 1.0,
-    "prefix_units": [
+    "ucum_codes": [
+        "lm"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "15cb09d6-31d6-5ecb-b0d1-b54df9f2475e",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloLM"
-            ],
             "osw_id": "Item:OSW24fcc1bb84db5b3b951db598cddc1319#OSW15cb09d631d65ecbb0d1b54df9f2475e",
+            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "klm"
+            "main_symbol": "klm",
+            "ucum_codes": [
+                "klm"
+            ]
         }
     ]
 }

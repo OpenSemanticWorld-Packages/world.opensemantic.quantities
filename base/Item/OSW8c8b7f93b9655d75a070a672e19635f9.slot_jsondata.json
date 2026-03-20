@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "8c8b7f93-b965-5d75-a070-a672e19635f9",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/KermaRate"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/KermaRate"
+    ],
+    "uuid": "8c8b7f93-b965-5d75-a070-a672e19635f9",
     "name": "KermaRate",
     "label": [
         {
@@ -20,6 +23,10 @@
         }
     ],
     "units": [
-        "Item:OSW4cbc32faa6945fea85c32ee675aff008"
+        "Item:OSW4cbc32faa6945fea85c32ee675aff008",
+        "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSW6088cd1a185e5d31b1d729ad0a92fb6f",
+        "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSW86223c99c5b9526286e5d678a64433c9",
+        "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSWdcecfcf608a85007bcd92a4bd2ffe300",
+        "Item:OSW8a9814ddf5a250588e9853662328c977"
     ]
 }

@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "1a98aede-7d10-5059-a071-c609fc5c52d4",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/AmountOfSubstancePerMass"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/AmountOfSubstancePerMass"
+    ],
+    "uuid": "1a98aede-7d10-5059-a071-c609fc5c52d4",
     "name": "AmountOfSubstancePerMass",
     "label": [
         {
@@ -14,8 +17,16 @@
         }
     ],
     "units": [
-        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b",
+        "Item:OSW51bd13e67a4758bba50388bd5cffe504",
+        "Item:OSW78a5da75d0d15046935df4e27fa7d3a9",
+        "Item:OSW84e7943cec52598082a96c43ab77d33a",
+        "Item:OSW8cf332ce3aea59278069ed9b0da20b5c",
+        "Item:OSW9abfd6b6d96b507abac8057d6e35a74f",
+        "Item:OSWa9d227b6d12958eba67fdf22b0934535",
         "Item:OSWcb30576f7a525b6c88fe17b80a79ff5b",
-        "Item:OSW8cf332ce3aea59278069ed9b0da20b5c"
+        "Item:OSWce6b64163d095affbef6daa39c9cd063",
+        "Item:OSWd77b5543087f560caec2016c89521715",
+        "Item:OSWd9fdab53b3c05657aad5be0f1382d5e7",
+        "Item:OSWfd92e9c2c69754f78e4145ad3d31c34b"
     ]
 }

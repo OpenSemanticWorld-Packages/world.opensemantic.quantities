@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "c8823e0b-49b9-580b-96a5-cd136482522b",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Yocto",
         "https://si-digital-framework.org/SI/prefixes/yocto"
     ],
+    "uuid": "c8823e0b-49b9-580b-96a5-cd136482522b",
     "name": "yocto",
     "label": [
         {
-            "text": "yocto (unit prefix)",
+            "text": "yocto",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "'yocto' is a decimal prefix for expressing a value with a scaling of \\(10^{-24}\\).",
             "lang": "en"
         }
     ],

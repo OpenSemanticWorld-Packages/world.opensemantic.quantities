@@ -2,14 +2,21 @@
     "type": [
         "Category:OSW99e0f46a40ca4129a420b4bb89c4cc45"
     ],
-    "uuid": "4b380554-7fd8-5820-83af-f8562ba4b4c5",
     "exact_ontology_match": [
+        "http://qudt.org/vocab/prefix/Kilo",
         "https://si-digital-framework.org/SI/prefixes/kilo"
     ],
+    "uuid": "4b380554-7fd8-5820-83af-f8562ba4b4c5",
     "name": "kilo",
     "label": [
         {
-            "text": "kilo (unit prefix)",
+            "text": "kilo",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"kilo\" is a decimal prefix for expressing a value with a scaling of \\(10^{3}\"\\).",
             "lang": "en"
         }
     ],

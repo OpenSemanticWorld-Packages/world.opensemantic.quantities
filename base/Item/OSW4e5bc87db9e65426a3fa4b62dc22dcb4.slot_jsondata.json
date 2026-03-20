@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "4e5bc87d-b9e6-5426-a3fa-4b62dc22dcb4",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-HA"
     ],
-    "name": "M3-PER-HA",
+    "uuid": "4e5bc87d-b9e6-5426-a3fa-4b62dc22dcb4",
+    "name": "CubicMetrePerHectare",
     "label": [
         {
             "text": "Cubic Metre per Hectare",
@@ -14,5 +14,17 @@
         }
     ],
     "main_symbol": "m³/ha",
-    "conversion_factor_from_si": 0.0001
+    "conversion_factor_from_si": 0.0001,
+    "ucum_codes": [
+        "m3.har-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 3
+        }
+    ]
 }

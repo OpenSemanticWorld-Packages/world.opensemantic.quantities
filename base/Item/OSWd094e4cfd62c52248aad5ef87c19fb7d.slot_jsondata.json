@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CentiM-PER-SEC"
+    ],
+    "uuid": "d094e4cf-d62c-5224-8aad-5ef87c19fb7d",
+    "name": "CentimetrePerSecond",
+    "label": [
+        {
+            "text": "CentiMetre per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Centimeter per Second\" is a C.G.S System unit for  'Linear Velocity' expressed as $cm/s$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cm/s",
+    "conversion_factor_from_si": 0.01,
+    "ucum_codes": [
+        "cm.s-1",
+        "cm/s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
+}

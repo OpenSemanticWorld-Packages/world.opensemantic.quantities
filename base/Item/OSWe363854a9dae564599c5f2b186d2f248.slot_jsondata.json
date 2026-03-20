@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "e363854a-9dae-5645-99c5-f2b186d2f248",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-HR"
     ],
-    "name": "MOL-PER-HR",
+    "uuid": "e363854a-9dae-5645-99c5-f2b186d2f248",
+    "name": "MolePerHour",
     "label": [
         {
             "text": "Mole per Hour",
@@ -20,20 +20,42 @@
         }
     ],
     "main_symbol": "mol/h",
-    "conversion_factor_from_si": 0.000277778,
-    "prefix_units": [
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "mol.h-1",
+        "mol/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
         {
             "type": [
-                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
             ],
             "uuid": "d95d2efc-01ef-530e-8082-c420db9bb287",
-            "exact_ontology_match": [
-                "http://qudt.org/vocab/unit/KiloMOL-PER-HR"
-            ],
             "osw_id": "Item:OSWe363854a9dae564599c5f2b186d2f248#OSWd95d2efc01ef530e8082c420db9bb287",
-            "conversion_factor_from_si": 0.277777777777778,
-            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
-            "main_symbol": "kmol/h"
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 0.2777777777777778,
+            "main_symbol": "kmol/h",
+            "ucum_codes": [
+                "kmol.h-1",
+                "kmol/h"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

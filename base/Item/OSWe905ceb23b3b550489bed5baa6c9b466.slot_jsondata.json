@@ -1,0 +1,37 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-MilliL"
+    ],
+    "uuid": "e905ceb2-3b3b-5504-89be-d5baa6c9b466",
+    "name": "GramPerMillilitre",
+    "label": [
+        {
+            "text": "Gram per MilliLitre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0,001-fold of the SI base unit kilogram divided by the 0.001-fold of the unit litre",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/mL",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "g.mL-1",
+        "g/mL"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ]
+}

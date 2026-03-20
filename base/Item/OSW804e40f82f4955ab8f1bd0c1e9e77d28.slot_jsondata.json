@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "804e40f8-2f49-55ab-8f1b-d0c1e9e77d28",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-M3-SEC"
     ],
-    "name": "PER-M3-SEC",
+    "uuid": "804e40f8-2f49-55ab-8f1b-d0c1e9e77d28",
+    "name": "ReciprocalCubicMetreSecond",
     "label": [
         {
             "text": "Reciprocal Cubic Metre Second",
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "/(m³·s)",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m-3.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": -1
+        }
+    ]
 }

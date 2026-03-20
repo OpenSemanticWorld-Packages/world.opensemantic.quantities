@@ -1,18 +1,31 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "ddb99e1f-bfeb-55cf-82ce-663a9bf91d8b",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/SEC-PER-M"
     ],
-    "name": "SEC-PER-M",
+    "uuid": "ddb99e1f-bfeb-55cf-82ce-663a9bf91d8b",
+    "name": "SecondsPerMetre",
     "label": [
         {
-            "text": "Seconds per metre",
+            "text": "Seconds per Metre",
             "lang": "en"
         }
     ],
     "main_symbol": "s/m",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "s.m-1",
+        "s/m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

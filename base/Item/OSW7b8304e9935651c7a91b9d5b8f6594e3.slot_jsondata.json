@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "7b8304e9-9356-51c7-a91b-9d5b8f6594e3",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-MOL"
     ],
-    "name": "PER-MOL",
+    "uuid": "7b8304e9-9356-51c7-a91b-9d5b8f6594e3",
+    "name": "ReciprocalMole",
     "label": [
         {
             "text": "Reciprocal Mole",
@@ -20,5 +20,15 @@
         }
     ],
     "main_symbol": "/mol",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "/mol",
+        "mol-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        }
+    ]
 }

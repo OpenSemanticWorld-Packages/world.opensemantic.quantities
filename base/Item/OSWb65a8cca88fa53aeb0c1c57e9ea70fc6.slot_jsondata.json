@@ -2,13 +2,14 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "b65a8cca-88fa-53ae-b0c1-c57e9ea70fc6",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/RadiantIntensity"
     ],
     "close_ontology_match": [
-        "https://si-digital-framework.org/SI/quantities/RAIN"
+        "http://qudt.org/vocab/quantitykind/RadiantIntensity",
+        "https://si-digital-framework.org/quantities/RAIN"
     ],
+    "uuid": "b65a8cca-88fa-53ae-b0c1-c57e9ea70fc6",
     "name": "RadiantIntensity",
     "label": [
         {

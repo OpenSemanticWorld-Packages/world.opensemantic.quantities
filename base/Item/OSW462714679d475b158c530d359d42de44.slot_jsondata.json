@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "46271467-9d47-5b15-8c53-0d359d42de44",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-T2"
     ],
-    "name": "J-PER-T2",
+    "uuid": "46271467-9d47-5b15-8c53-0d359d42de44",
+    "name": "JoulePerSquareTesla",
     "label": [
         {
             "text": "Joule per Square Tesla",
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "J/T²",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "J.T-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

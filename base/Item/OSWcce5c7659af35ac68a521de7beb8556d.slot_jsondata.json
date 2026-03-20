@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "cce5c765-9af3-5ac6-8a52-1de7beb8556d",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-PER-M3"
     ],
-    "name": "W-PER-M3",
+    "uuid": "cce5c765-9af3-5ac6-8a52-1de7beb8556d",
+    "name": "WattPerCubicMetre",
     "label": [
         {
             "text": "Watt per Cubic Metre",
@@ -20,5 +20,17 @@
         }
     ],
     "main_symbol": "W/m³",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "W.m-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -3
+        }
+    ]
 }

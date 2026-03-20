@@ -1,12 +1,12 @@
 {
     "type": [
-        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
     ],
-    "uuid": "44905d40-3bba-5525-b7b9-5b2325c87b42",
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/K-PER-SEC2"
     ],
-    "name": "K-PER-SEC2",
+    "uuid": "44905d40-3bba-5525-b7b9-5b2325c87b42",
+    "name": "KelvinPerSquareSecond",
     "label": [
         {
             "text": "Kelvin per Square Second",
@@ -20,5 +20,18 @@
         }
     ],
     "main_symbol": "K/s²",
-    "conversion_factor_from_si": 1.0
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "K.s-2",
+        "K/s^2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ]
 }

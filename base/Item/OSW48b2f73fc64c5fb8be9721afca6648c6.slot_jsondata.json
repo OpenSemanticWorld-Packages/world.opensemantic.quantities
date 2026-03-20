@@ -2,10 +2,13 @@
     "type": [
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
-    "uuid": "48b2f73f-c64c-5fb8-be97-21afca6648c6",
     "exact_ontology_match": [
         "http://qudt.org/vocab/quantitykind/EnergyPerArea"
     ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/EnergyPerArea"
+    ],
+    "uuid": "48b2f73f-c64c-5fb8-be97-21afca6648c6",
     "name": "EnergyPerArea",
     "label": [
         {
@@ -20,9 +23,23 @@
         }
     ],
     "units": [
+        "Item:OSW062fff2897f05319ae3567119485c72b",
         "Item:OSW0747b5382b955ef2adef0e4c4b1efa81",
+        "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW3b9b7dca35ec5f7995ba76de650fcadf",
         "Item:OSW0d4e5e11d53f5018a0b965373b55510d",
+        "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW77ee74a9d0ad52bfa18bbd5b09eaca69",
+        "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW791fa3180a03539890eda05576abf858",
+        "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSW909a5e3823da5067844cec023a453416",
+        "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWca3713c796a850e28929b34bfe347edb",
+        "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWd9d22e06814b5888aeb3585fe9c2b8a7",
+        "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWf299b56cb8175f83b089a378f9ff4193",
+        "Item:OSW0d4e5e11d53f5018a0b965373b55510d#OSWf844aa3c562e5c94894b2f6ccc2dca55",
+        "Item:OSW16b24f4ffe12585aa114fbefbf3dbd5b",
+        "Item:OSW48c62f71ae5a512ca24dcb6059999b8d",
+        "Item:OSWa6f5dc3bda325537be959b73b3f9cffb",
         "Item:OSWe8b1aef90f3658a188f5aaf54cd01384",
-        "Item:OSW062fff2897f05319ae3567119485c72b"
+        "Item:OSWf1206d0d1834545daea229acbe7559e4",
+        "Item:OSWf43e687f9152535bac176e4c48d3fd5f",
+        "Item:OSWf9cdbd6556545d55a9bde1a0915a9545"
     ]
 }
