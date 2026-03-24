@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PER-VA-HR"
+    ],
+    "uuid": "d5d57d06-ab86-571e-a57e-d4e5bedc606d",
+    "name": "ReciprocalVoltAmpereHour",
+    "label": [
+        {
+            "text": "Reciprocal Volt Ampere Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "reciprocal of the product of the SI derived unit volt ampere and the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "/(VA·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "VA-1.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "98c14d48-aecc-52fd-ab52-023fb924debd",
+            "osw_id": "Item:OSWd5d57d06ab86571ea57ed4e5bedc606d#OSW98c14d48aecc52fdab52023fb924debd",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "/(kVA·h)",
+            "ucum_codes": [
+                "kVA-1.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

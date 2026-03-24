@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM2-PER-SEC2"
+    ],
+    "uuid": "7c9ff67e-b930-5650-9d9e-fad8b816fe7d",
+    "name": "SquareGramsPerSquareSecond",
+    "label": [
+        {
+            "text": "Square Grams per Square Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "This unit represents grams squared per second squared (g²/s²), a mass-squared per time-squared measure. It is derived by removing the 'Kilo' prefix from the numerator mass term of the original unit, yielding a base composed unit in non-prefixed factor units.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g²/s²",
+    "conversion_factor_from_si": 1000000.0,
+    "ucum_codes": [
+        "g2.s-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -2
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e950c530-f3ff-5453-a4f6-e500e54beeaa",
+            "osw_id": "Item:OSW7c9ff67eb93056509d9efad8b816fe7d#OSWe950c530f3ff5453a4f6e500e54beeaa",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg²/s²",
+            "ucum_codes": [
+                "kg2.s-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 2
+                }
+            ]
+        }
+    ]
+}

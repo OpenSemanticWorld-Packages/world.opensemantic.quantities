@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-PER-M3"
+    ],
+    "uuid": "966745a9-7bfe-515d-8ed6-2c0ad2d2bbe5",
+    "name": "SquareMetresPerCubicMetre",
+    "label": [
+        {
+            "text": "Square Metres per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Non-prefixed composed unit: square metres per cubic metre (equivalently m^-1). Derived from the prefixed unit \"Square CentiMetres per Cubic CentiMetre\" by removing Centi prefixes from all factor units. This unit represents inverse length with dimension vector L^-1. UCUM representation: m2.m-3 (equivalently m-1).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²/m³",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m2.m-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -3
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3176a3c1-6815-5d9e-86bb-89c231b52b55",
+            "osw_id": "Item:OSW966745a97bfe515d8ed62c0ad2d2bbe5#OSW3176a3c168155d9e86bb89c231b52b55",
+            "conversion_factor_to_main_unit": 100.0,
+            "conversion_factor_from_si": 100.0,
+            "main_symbol": "cm²/cm³",
+            "ucum_codes": [
+                "cm2.cm-3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": -3
+                }
+            ]
+        }
+    ]
+}

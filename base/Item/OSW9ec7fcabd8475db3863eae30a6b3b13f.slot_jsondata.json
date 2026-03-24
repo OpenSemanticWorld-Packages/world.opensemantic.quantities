@@ -1,0 +1,115 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-L-HR"
+    ],
+    "uuid": "9ec7fcab-d847-5db3-863e-ae30a6b3b13f",
+    "name": "MolesPerLitreHour",
+    "label": [
+        {
+            "text": "Moles per Litre Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit of catalytic activity concentration expressed as moles per liter per hour. This unit quantifies catalytic reaction rate normalized by volume and time. It is written as mol/(L*h) and converts to SI base units as 1 mol/(L*h) = 1/3.6 mol/(m^3*s).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(L·h)",
+    "conversion_factor_from_si": 0.2777777777777778,
+    "ucum_codes": [
+        "mol.L-1.h-1",
+        "mol/(L.h)"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "11c33ee2-02f9-5288-97c9-15dabc4976eb",
+            "osw_id": "Item:OSW9ec7fcabd8475db3863eae30a6b3b13f#OSW11c33ee202f9528897c915dabc4976eb",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 2.777777777777778e-13,
+            "main_symbol": "pmol/(L·h)",
+            "ucum_codes": [
+                "pmol.L-1.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "dd0918a9-2be7-5e10-8349-ec5f186beb29",
+            "osw_id": "Item:OSW9ec7fcabd8475db3863eae30a6b3b13f#OSWdd0918a92be75e108349ec5f186beb29",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "μmol/(L·h)",
+            "ucum_codes": [
+                "umol.L-1.h-1",
+                "umol/L/h"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "dfe49536-204d-5125-8b31-82ce954d4b25",
+            "osw_id": "Item:OSW9ec7fcabd8475db3863eae30a6b3b13f#OSWdfe49536204d51258b3182ce954d4b25",
+            "conversion_factor_to_main_unit": 9.999999999999999e-10,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "nmol/(L·h)",
+            "ucum_codes": [
+                "nmol.L-1.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

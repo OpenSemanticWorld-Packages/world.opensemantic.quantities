@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BQ-PER-M2-DAY"
+    ],
+    "uuid": "2e5f9448-4093-5849-9ee0-5fc3e0b3a872",
+    "name": "BecquerelsPerSquareMetreDay",
+    "label": [
+        {
+            "text": "Becquerels per Square Metre Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "One radioactive disintegration per second in material passing through an area of one square metre during a period of one day (86400 seconds).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Bq/(m²·d)",
+    "conversion_factor_from_si": 1.1574074074074073e-05,
+    "ucum_codes": [
+        "Bq.m-2.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "79769a62-2d4f-5f37-974c-bd4416b20366",
+            "osw_id": "Item:OSW2e5f9448409358499ee05fc3e0b3a872#OSW79769a622d4f5f37974cbd4416b20366",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.1574074074074074e-08,
+            "main_symbol": "mBq/(m²·d)",
+            "ucum_codes": [
+                "mBq.m-2.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

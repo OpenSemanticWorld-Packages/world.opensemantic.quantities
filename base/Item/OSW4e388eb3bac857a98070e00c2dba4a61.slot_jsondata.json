@@ -1,0 +1,89 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-L-DAY"
+    ],
+    "uuid": "4e388eb3-bac8-57a9-8070-e00c2dba4a61",
+    "name": "MolesPerLitreDay",
+    "label": [
+        {
+            "text": "Moles per Litre Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A change in the quantity of matter of 1 mole per litre (10^-3 m^3) over a period of 86400 seconds.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(L·d)",
+    "conversion_factor_from_si": 0.011574074074074073,
+    "ucum_codes": [
+        "mol.L-1.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "07a18df4-a3b4-5386-b0c1-ceb630021989",
+            "osw_id": "Item:OSW4e388eb3bac857a98070e00c2dba4a61#OSW07a18df4a3b45386b0c1ceb630021989",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1.1574074074074074e-11,
+            "main_symbol": "nmol/(L·d)",
+            "ucum_codes": [
+                "nmol.L-1.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "d15a7a4c-2290-5fc9-9742-41e162821451",
+            "osw_id": "Item:OSW4e388eb3bac857a98070e00c2dba4a61#OSWd15a7a4c22905fc9974241e162821451",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 1.1574074074074074e-14,
+            "main_symbol": "pmol/(L·d)",
+            "ucum_codes": [
+                "pmol.L-1.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

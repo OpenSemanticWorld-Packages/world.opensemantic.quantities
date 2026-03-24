@@ -29,7 +29,6 @@
         }
     ],
     "units": [
-        "Item:OSW36e830079f985f9bada7e2fbfbff6f95",
         "Item:OSW730568cd7ae65906abbbcef1d15cb074",
         "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW0ac3643d930d5c99936e5ece487a9634",
         "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW2d5cdc08b064506e8f9a5b0456b7a0b3",
@@ -48,13 +47,14 @@
         "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW5704cffb8be75d4ba16ce0b5f4be48ab",
         "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW73af36683bb35cf1aa68e16032c95802",
         "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW8af49b328ebd55f08d45cf3fc0de2f79",
-        "Item:OSW8375632d08f4586880505270a729188d",
         "Item:OSW9724a509b76e5646977ae17dce137267",
         "Item:OSWa13d058b4ccc58e587ec191ec1729ce0",
         "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW2f6387f843115a4b88fb68009e2f7dff",
         "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW4b9cccfc12ce52a193212e16298fe368",
         "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW763c04e5ccb35c6392515e2be1e7f4a3",
         "Item:OSWa3a12e65123e5c128a222b5ccd537371",
-        "Item:OSWbbd1817837d95c95a9e395774daea725"
+        "Item:OSWbbd1817837d95c95a9e395774daea725",
+        "Item:OSWbbd1817837d95c95a9e395774daea725#OSW36e830079f985f9bada7e2fbfbff6f95",
+        "Item:OSWbbd1817837d95c95a9e395774daea725#OSW8375632d08f4586880505270a729188d"
     ]
 }

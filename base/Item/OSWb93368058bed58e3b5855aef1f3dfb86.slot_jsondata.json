@@ -1,0 +1,69 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-SEC3-K"
+    ],
+    "uuid": "b9336805-8bed-58e3-b585-5aef1f3dfb86",
+    "name": "GramPerCubicSecondKelvin",
+    "label": [
+        {
+            "text": "Gram per Cubic Second Kelvin",
+            "lang": "en"
+        },
+        {
+            "text": "Gramm Je Kubiksekunde Kelvin",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit commonly used for the coefficient of heat transfer, expressed with gram (g) instead of kilogram (kg), i.e., g/(s^3·K).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(s³·K)",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "g.s-3.K-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -3
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f402befb-bafe-507a-a45f-dadbf0c635c0",
+            "osw_id": "Item:OSWb93368058bed58e3b5855aef1f3dfb86#OSWf402befbbafe507aa45fdadbf0c635c0",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/(s³·K)",
+            "ucum_codes": [
+                "kg.s-3.K-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -3
+                }
+            ]
+        }
+    ]
+}

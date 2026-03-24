@@ -23,6 +23,8 @@
         }
     ],
     "units": [
-        "Item:OSW2ff95fa06aa15090a73b82c969626568"
+        "Item:OSW09bffc6b706d5b8b86db307ee7503a2a",
+        "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW2ff95fa06aa15090a73b82c969626568",
+        "Item:OSW09bffc6b706d5b8b86db307ee7503a2a#OSW7dcdf8b144755fb8ac3897d4ba5e3a43"
     ]
 }

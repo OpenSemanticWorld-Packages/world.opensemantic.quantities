@@ -1,0 +1,66 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-SEC-DEG_C"
+    ],
+    "uuid": "b41436f2-01e6-5485-9878-f82691341be6",
+    "name": "MetreSecondDegreeCelsius",
+    "label": [
+        {
+            "text": "Metre Second Degree Celsius",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Meter Second Degree Celsius; non-prefixed form obtained by removing the 'Centi' prefix from the length factor (cm -> m). Expressed as m-s-degC.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m·s·°C",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m.s.Cel"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "47b476c9-46d3-5bde-93b5-757a8e2d3d1b",
+            "osw_id": "Item:OSWb41436f201e654859878f82691341be6#OSW47b476c946d35bde93b5757a8e2d3d1b",
+            "conversion_factor_to_main_unit": 0.01,
+            "conversion_factor_from_si": 0.01,
+            "main_symbol": "cm·s·°C",
+            "ucum_codes": [
+                "cm.s.Cel-1",
+                "cm.s/Cel"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

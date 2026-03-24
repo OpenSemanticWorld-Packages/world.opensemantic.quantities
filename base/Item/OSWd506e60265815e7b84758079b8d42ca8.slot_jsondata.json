@@ -1,0 +1,80 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-M"
+    ],
+    "uuid": "d506e602-6581-5e7b-8475-8079b8d42ca8",
+    "name": "GramMetre",
+    "label": [
+        {
+            "text": "Gram Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit of the imbalance as product of the 0.001-fold of the SI base unit kilogram and the SI base unit metre.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g·m",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "g.m"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5baa1fba-a17b-50d5-ab35-eb004c5388df",
+            "osw_id": "Item:OSWd506e60265815e7b84758079b8d42ca8#OSW5baa1fbaa17b50d5ab35eb004c5388df",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "g·mm",
+            "ucum_codes": [
+                "g.mm"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "dfeba370-42f3-56e1-81a4-07aa239dda69",
+            "osw_id": "Item:OSWd506e60265815e7b84758079b8d42ca8#OSWdfeba37042f356e181a407aa239dda69",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg·m",
+            "ucum_codes": [
+                "kg.m"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

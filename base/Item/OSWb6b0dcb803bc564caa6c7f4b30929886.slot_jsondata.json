@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_RON-PER-W-HR"
+    ],
+    "uuid": "b6b0dcb8-03bc-564c-aa6c-7f4b30929886",
+    "name": "RomanianNewLeuPerWattHour",
+    "label": [
+        {
+            "text": "Romanian New Leu per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity, expressed as Romanian new leu (RON) per watt hour.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "RON/(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a2eff55a-062a-5ac7-b35c-6644e3964a97",
+            "osw_id": "Item:OSWb6b0dcb803bc564caa6c7f4b30929886#OSWa2eff55a062a5ac7b35c6644e3964a97",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "L/(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

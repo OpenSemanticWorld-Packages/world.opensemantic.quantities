@@ -1,0 +1,62 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_PLN-PER-W-HR"
+    ],
+    "uuid": "38717191-470e-5aa2-b1bd-fe0bc30e33a5",
+    "name": "ZlotyPerWattHour",
+    "label": [
+        {
+            "text": "Zloty per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of energy in Polish zloty per watt hour.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "zł/(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "[PLN]/W.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5124e1cf-54de-5937-89b8-07df549a1c9c",
+            "osw_id": "Item:OSW38717191470e5aa2b1bdfe0bc30e33a5#OSW5124e1cf54de593789b807df549a1c9c",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "zł/(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

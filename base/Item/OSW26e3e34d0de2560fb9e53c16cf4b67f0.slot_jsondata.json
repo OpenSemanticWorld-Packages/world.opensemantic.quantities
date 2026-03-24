@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-GM-PA"
+    ],
+    "uuid": "26e3e34d-0de2-560f-b9e5-3c16cf4b67f0",
+    "name": "MolePerGramPascal",
+    "label": [
+        {
+            "text": "Mole per Gram Pascal",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mole per Gram Pascal ($\\mathrm{mol}/(\\mathrm{g}\\cdot\\mathrm{Pa})$) is a unit describing the variation of molar amount per unit mass and pressure. It is obtained by removing the 'Kilo' prefix from the mass term of the original unit, resulting in grams in the denominator.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(g·Pa)",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "mol.g-1.Pa-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e96cbd9b-4c9c-5e2a-b7b4-a76d5ad71449",
+            "osw_id": "Item:OSW26e3e34d0de2560fb9e53c16cf4b67f0#OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "mol/(kg·Pa)",
+            "ucum_codes": [
+                "mol.kg-1.Pa-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

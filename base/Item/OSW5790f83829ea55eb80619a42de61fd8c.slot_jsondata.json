@@ -1,0 +1,93 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-GM-DAY"
+    ],
+    "uuid": "5790f838-29ea-55eb-8061-9a42de61fd8c",
+    "name": "GramPerGramPerDay",
+    "label": [
+        {
+            "text": "Gram per Gram per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass ratio of gram per gram per day (g/g/d), i.e., a pure rate of 1/day. In SI-coherent terms this equals s^-1 with conversion factor 1/86400. Derived from the prefixed unit mg/kg/d by removing the Milli (numerator) and Kilo (denominator) prefixes.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(g·d)",
+    "conversion_factor_from_si": 1.1574074074074073e-05,
+    "ucum_codes": [
+        "d-1",
+        "g.g-1.d-1",
+        "g/(g.d)"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "128913a7-d8a9-5078-b7bb-1a26bbb1da62",
+            "osw_id": "Item:OSW5790f83829ea55eb80619a42de61fd8c#OSW128913a7d8a95078b7bb1a26bbb1da62",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1.1574074074074074e-11,
+            "main_symbol": "mg/(kg·d)",
+            "ucum_codes": [
+                "mg.kg-1.d-1",
+                "mg/kg/d"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e3620979-50ff-5522-865e-835757765c17",
+            "osw_id": "Item:OSW5790f83829ea55eb80619a42de61fd8c#OSWe362097950ff5522865e835757765c17",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1.1574074074074074e-11,
+            "main_symbol": "μg/(g·d)",
+            "ucum_codes": [
+                "ug.g-1.d-1",
+                "ug/g/d"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

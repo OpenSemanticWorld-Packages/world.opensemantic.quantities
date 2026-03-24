@@ -1,0 +1,53 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_USD-PER-FLIGHT"
+    ],
+    "uuid": "c41d71ae-02e5-5fae-a0dc-869e9e64db2e",
+    "name": "UsDollarsPerFlight",
+    "label": [
+        {
+            "text": "US Dollars per Flight",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "US Dollars per flight. This non-prefixed composed unit measures monetary cost per single flight using USD as the currency in the numerator and the count unit \"flight\" in the denominator. It is the de-prefixed counterpart of the prefixed unit MegaCCY_USD-PER-FLIGHT; all factor units here are non-prefixed.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "$/flight",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "4d6abe55-d705-589c-b0ae-f139b6acf3ba",
+            "osw_id": "Item:OSWc41d71ae02e55faea0dc869e9e64db2e#OSW4d6abe55d705589cb0aef139b6acf3ba",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "$M/flight",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

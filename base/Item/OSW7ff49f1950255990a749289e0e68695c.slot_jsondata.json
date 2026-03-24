@@ -1,0 +1,101 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-M2"
+    ],
+    "uuid": "7ff49f19-5025-5990-a749-289e0e68695c",
+    "name": "GramSquareMetre",
+    "label": [
+        {
+            "text": "Gram Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the gram and the power of the metre with the exponent 2. Suitable for quantities such as moment of inertia and rotational mass.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g·m²",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "g.m2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "391034a9-69af-55ae-94b7-511e27805794",
+            "osw_id": "Item:OSW7ff49f1950255990a749289e0e68695c#OSW391034a969af55ae94b7511e27805794",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "kg·mm²",
+            "ucum_codes": [
+                "kg.mm2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "82c716e8-954c-527f-a755-f64c88150efd",
+            "osw_id": "Item:OSW7ff49f1950255990a749289e0e68695c#OSW82c716e8954c527fa755f64c88150efd",
+            "conversion_factor_to_main_unit": 0.1,
+            "conversion_factor_from_si": 0.0001,
+            "main_symbol": "kg·cm²",
+            "ucum_codes": [
+                "kg.cm2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 2
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "d211fc61-709b-5e48-a4c9-6473c86a8d13",
+            "osw_id": "Item:OSW7ff49f1950255990a749289e0e68695c#OSWd211fc61709b5e48a4c96473c86a8d13",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg·m²",
+            "ucum_codes": [
+                "kg.m2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

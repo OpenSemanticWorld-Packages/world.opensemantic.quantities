@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M2-SEC2"
+    ],
+    "uuid": "26b314f7-f1d5-5902-b5aa-93d11f15c7de",
+    "name": "GramPerSquareMetreSquareSecond",
+    "label": [
+        {
+            "text": "Gram per Square Metre Square Second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(m²·s²)",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "g.m-2.s-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "876a1c66-fd4c-5fda-86f1-29d3b65a1b98",
+            "osw_id": "Item:OSW26b314f7f1d55902b5aa93d11f15c7de#OSW876a1c66fd4c5fda86f129d3b65a1b98",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/(m²·s²)",
+            "ucum_codes": [
+                "kg.m-2.s-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-MIN"
+    ],
+    "uuid": "9a366ab6-57c3-52ca-8a7a-22b56dcdb26b",
+    "name": "SquareMetreMinute",
+    "label": [
+        {
+            "text": "Square Metre Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Square meter minute\" is a unit for 'Area Time' expressed as $m^{2} \\cdot min$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²·min",
+    "conversion_factor_from_si": 60.0,
+    "ucum_codes": [
+        "m2.min"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a5c77be3-eb41-5d74-9ce6-6c39717fb676",
+            "osw_id": "Item:OSW9a366ab657c352ca8a7a22b56dcdb26b#OSWa5c77be3eb415d749ce66c39717fb676",
+            "conversion_factor_to_main_unit": 0.0001,
+            "conversion_factor_from_si": 0.006,
+            "main_symbol": "cm²·min",
+            "ucum_codes": [
+                "cm2.min"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 2
+                }
+            ]
+        }
+    ]
+}

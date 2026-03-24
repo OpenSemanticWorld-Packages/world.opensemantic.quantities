@@ -1,0 +1,53 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CHF-PER-GM"
+    ],
+    "uuid": "358163dc-8655-58f5-babf-bdad63f030e3",
+    "name": "SwissFrancsPerGram",
+    "label": [
+        {
+            "text": "Swiss Francs per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the hardware cost of substance or material per gram. This unit is derived from the prefixed unit \"CHF per KiloGram\" by removing the 'Kilo' prefix from the mass unit in the denominator, resulting in cost per gram.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "CHF/g",
+    "conversion_factor_from_si": 0.001,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "1884786f-cf88-5b38-bca1-59956105f731",
+            "osw_id": "Item:OSW358163dc865558f5babfbdad63f030e3#OSW1884786fcf885b38bca159956105f731",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "CHF/kg",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

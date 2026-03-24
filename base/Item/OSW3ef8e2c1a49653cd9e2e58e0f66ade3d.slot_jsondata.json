@@ -1,0 +1,90 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-GM-HR"
+    ],
+    "uuid": "3ef8e2c1-a496-53cd-9e2e-58e0f66ade3d",
+    "name": "GramsPerGramPerHour",
+    "label": [
+        {
+            "text": "Grams per Gram per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "0.001-fold of the SI base unit kilogram divided by 0.001-fold of the SI base unit kilogram over a period of 1 hour.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(g·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "g.g-1.hr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "213e1d82-da27-5c80-8d8f-8fd7e6c13628",
+            "osw_id": "Item:OSW3ef8e2c1a49653cd9e2e58e0f66ade3d#OSW213e1d82da275c808d8f8fd7e6c13628",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "mg/(g·h)",
+            "ucum_codes": [
+                "mg.g-1.h-1",
+                "mg/g/h"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ddfe4ba2-180f-5382-92f5-d0548877e2f6",
+            "osw_id": "Item:OSW3ef8e2c1a49653cd9e2e58e0f66ade3d#OSWddfe4ba2180f538292f5d0548877e2f6",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "μg/(g·h)",
+            "ucum_codes": [
+                "ug.g-1.hr-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

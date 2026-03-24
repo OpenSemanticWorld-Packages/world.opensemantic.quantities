@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-M3-DAY"
+    ],
+    "uuid": "aa47fc9c-3672-57a5-b181-03ca8557845f",
+    "name": "MolesPerCubicMetreDay",
+    "label": [
+        {
+            "text": "Moles per Cubic Metre Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Amount-of-substance concentration rate expressed as moles per cubic metre per day, indicating catalytic activity per unit volume over a day.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(m³·d)",
+    "conversion_factor_from_si": 1.1574074074074073e-05,
+    "ucum_codes": [
+        "mol.m-3.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0f0d0412-f8e3-5ed7-baec-5fbb3b1f9821",
+            "osw_id": "Item:OSWaa47fc9c367257a5b18103ca8557845f#OSW0f0d0412f8e35ed7baec5fbb3b1f9821",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.1574074074074074e-08,
+            "main_symbol": "mmol/(m³·d)",
+            "ucum_codes": [
+                "mmol.m-3.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

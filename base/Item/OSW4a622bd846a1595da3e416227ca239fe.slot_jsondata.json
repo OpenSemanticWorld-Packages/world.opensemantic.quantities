@@ -1,0 +1,62 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_BGN-PER-W-HR"
+    ],
+    "uuid": "4a622bd8-46a1-595d-a3e4-16227ca239fe",
+    "name": "BulgarianLevPerWattHour",
+    "label": [
+        {
+            "text": "Bulgarian Lev per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the monetary cost per unit of electrical energy, expressed in Bulgarian lev per watt hour (BGN per W·h).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "лв./(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "[BGN]/(W.h)"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0db23553-b607-5ef9-b9a4-f717b286b0d0",
+            "osw_id": "Item:OSW4a622bd846a1595da3e416227ca239fe#OSW0db23553b6075ef9b9a4f717b286b0d0",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "лв./(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

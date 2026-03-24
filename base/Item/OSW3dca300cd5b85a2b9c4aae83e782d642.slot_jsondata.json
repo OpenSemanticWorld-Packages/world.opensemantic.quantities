@@ -23,12 +23,6 @@
         }
     ],
     "units": [
-        "Item:OSW0003c1109b645575b70f007360b49fa2",
-        "Item:OSW0003c1109b645575b70f007360b49fa2#OSWd4588382274f5562bb8ae501d79a9a7b",
-        "Item:OSW0003c1109b645575b70f007360b49fa2#OSWdbc16d304ae05714ba10f091cf23016f",
-        "Item:OSW0003c1109b645575b70f007360b49fa2#OSWde57b565a8ad5f508b6f7c24f3f98db6",
-        "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff",
-        "Item:OSW99601f470fd45cfdb1212116828089a1",
-        "Item:OSWa1f0f30cdd0c5e6a898e05fc76e109ad"
+        "Item:OSW9660b61081145dbcb6d4ebb5ab9244ff"
     ]
 }

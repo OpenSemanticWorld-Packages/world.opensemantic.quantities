@@ -1,0 +1,61 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-L"
+    ],
+    "uuid": "fbc493e0-23a2-5355-9c7f-628c5f3f4da6",
+    "name": "MeterPerLiter",
+    "label": [
+        {
+            "text": "Meter per Liter",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Meter per Liter is a composed unit expressing length per volume, formed by one meter divided by one liter. It has the dimension vector L^-2 and is suitable for quantities that represent linear measure normalized by volume. This unit results from removing the Micro prefix from meter and the Milli prefix from liter in the original prefixed unit, yielding a concise non-prefixed form.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/L",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "m.L-1",
+        "m/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5ac94fae-e88e-5c8e-8610-ae54201de74f",
+            "osw_id": "Item:OSWfbc493e023a253559c7f628c5f3f4da6#OSW5ac94faee88e5c8e8610ae54201de74f",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "μm/mL",
+            "ucum_codes": [
+                "um2.mL-1",
+                "um2/mL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

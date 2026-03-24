@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M-PER-L-DAY"
+    ],
+    "uuid": "1e27d96b-7844-567f-8493-8238c34492a4",
+    "name": "MetersPerLitreDay",
+    "label": [
+        {
+            "text": "Meters per Litre Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit of length per volume per time, equal to meters per liter per day (m·L^-1·d^-1). This non-prefixed unit corresponds to the prefixed composed unit from which the micro- prefix on the meter factor has been removed. It is suitable for flux-like quantities with dimensions L^-2·T^-1.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m/(L·d)",
+    "conversion_factor_from_si": 0.011574074074074073,
+    "ucum_codes": [
+        "m.L-1.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "86063c1e-d298-526d-9fca-457fe605f00e",
+            "osw_id": "Item:OSW1e27d96b7844567f84938238c34492a4#OSW86063c1ed298526d9fca457fe605f00e",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1.1574074074074074e-08,
+            "main_symbol": "μm/(L·d)",
+            "ucum_codes": [
+                "um.L-1.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

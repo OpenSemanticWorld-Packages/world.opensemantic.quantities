@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-M2-PER-SEC"
+    ],
+    "uuid": "536ad743-296e-51a6-a9f8-dc28afc017e4",
+    "name": "GramSquareMetrePerSecond",
+    "label": [
+        {
+            "text": "Gram Square Metre per Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Gram Square Meter Per Second\" is a unit for 'Angular Momentum' expressed as $g\\cdot m^2\\,s^{-1}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g·m²/s",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "g.m2.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c5e4d5b0-a17f-513c-a13d-b454fc844fbc",
+            "osw_id": "Item:OSW536ad743296e51a6a9f8dc28afc017e4#OSWc5e4d5b0a17f513ca13db454fc844fbc",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg·m²/s",
+            "ucum_codes": [
+                "kg.m2.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

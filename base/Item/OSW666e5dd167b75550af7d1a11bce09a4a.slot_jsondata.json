@@ -1,0 +1,149 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-GM"
+    ],
+    "uuid": "666e5dd1-67b7-5550-af7d-1a11bce09a4a",
+    "name": "CubicMetrePerGram",
+    "label": [
+        {
+            "text": "Cubic Metre per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Cubic Meter Per Gram (m3/g) is a unit in the category of Specific Volume. It is also known as cubic meters per gram, cubic metre per gram, cubic metres per gram, cubic meter/gram, cubic metre/gram.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/g",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "m3.g-1",
+        "m3/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0e4d5b9c-7d15-5741-8a78-9c8360d239cb",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW0e4d5b9c7d1557418a789c8360d239cb",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "mm³/kg",
+            "ucum_codes": [
+                "mm3.kg-1",
+                "mm3/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 3
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "2bd67b66-d9f1-5e7e-834f-baaf9a6d5551",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW2bd67b66d9f15e7e834fbaaf9a6d5551",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "cm³/g",
+            "ucum_codes": [
+                "cm3.g-1",
+                "cm3/g"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "62c24da2-a31b-51d5-a574-127a27ba2184",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW62c24da2a31b51d5a574127a27ba2184",
+            "conversion_factor_to_main_unit": 9.999999999999999e-10,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "mm³/g",
+            "ucum_codes": [
+                "mm3.g-1",
+                "mm3/g"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "8967238f-f12d-589a-8e13-83b0a684ddc5",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW8967238ff12d589a8e1383b0a684ddc5",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "m³/kg",
+            "ucum_codes": [
+                "m3.kg-1",
+                "m3/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 3
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "9f9f7a95-4fa9-5f0b-b12c-21975c722be6",
+            "osw_id": "Item:OSW666e5dd167b75550af7d1a11bce09a4a#OSW9f9f7a954fa95f0bb12c21975c722be6",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "dm³/kg",
+            "ucum_codes": [
+                "dm3.kg-1",
+                "dm3/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 3
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-PER-GM"
+    ],
+    "uuid": "34e9b9fa-ef5e-51d5-baba-67459d7295e2",
+    "name": "NewtonPerGram",
+    "label": [
+        {
+            "text": "Newton per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Gravitational field strength at a point is the gravitational force per unit mass at that point. It is a vector and here is expressed as N g^-1.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N/g",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "N.g-1",
+        "N/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "8ef77a27-e94b-5ccb-a0f3-d69d8491e137",
+            "osw_id": "Item:OSW34e9b9faef5e51d5baba67459d7295e2#OSW8ef77a27e94b5ccba0f3d69d8491e137",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "N/kg",
+            "ucum_codes": [
+                "N.kg-1",
+                "N/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

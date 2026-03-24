@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-YR"
+    ],
+    "uuid": "c512618f-2681-57e0-99b8-f936d89d66f3",
+    "name": "GramPerYear",
+    "label": [
+        {
+            "text": "Gram per Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "gram divided by the unit year with 365 days. Removed prefix: Kilo.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/a",
+    "conversion_factor_from_si": 3.168808781402895e-11,
+    "ucum_codes": [
+        "g.a-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "4ece1fb1-eec9-514d-b192-a479fb617b8a",
+            "osw_id": "Item:OSWc512618f268157e099b8f936d89d66f3#OSW4ece1fb1eec9514db192a479fb617b8a",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 3.168808781402895e-08,
+            "main_symbol": "kg/a",
+            "ucum_codes": [
+                "kg.a-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/RAD-M2-PER-GM"
+    ],
+    "uuid": "469d43c5-a9bb-5a75-9a48-49eda6c935dc",
+    "name": "RadianSquareMetrePerGram",
+    "label": [
+        {
+            "text": "Radian Square Metre per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit of specific optical rotatory power expressed as rad*m^2 per gram (rad*m^2/g). This non-prefixed variant uses gram as the mass unit, consistent with the dimension L^2*M^-1. Numerically, values in rad*m^2/kg scale by 1e-3 to rad*m^2/g.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "rad·m²/g",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "rad.m2.g-1",
+        "rad.m2/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "555ce8e0-1951-566b-8507-f419b1987b04",
+            "osw_id": "Item:OSW469d43c5a9bb5a759a4849eda6c935dc#OSW555ce8e01951566b8507f419b1987b04",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "rad·m²/kg",
+            "ucum_codes": [
+                "rad.m2.kg-1",
+                "rad.m2/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

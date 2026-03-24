@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-SEC2"
+    ],
+    "uuid": "a5c082b1-c03d-5898-95df-ae04cdb9abe2",
+    "name": "GramSquareSecond",
+    "label": [
+        {
+            "text": "Gram Square Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Gram second squared (g·s²) is a composed unit equal to the product of gram and second squared, representing mass·time² with dimension vector M^1 T^2. It results from removing the 'Kilo' prefix from the mass factor of the original prefixed unit, focusing on the resulting non-prefixed unit.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g·s²",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "g.s2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 2
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "66776d5b-638e-57f3-be06-7e95ebee634c",
+            "osw_id": "Item:OSWa5c082b1c03d589895dfae04cdb9abe2#OSW66776d5b638e57f3be067e95ebee634c",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg·s²",
+            "ucum_codes": [
+                "kg.s2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 2
+                }
+            ]
+        }
+    ]
+}

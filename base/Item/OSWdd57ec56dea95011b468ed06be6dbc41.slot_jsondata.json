@@ -1,0 +1,62 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_NOK-PER-W-HR"
+    ],
+    "uuid": "dd57ec56-dea9-5011-b468-ed06be6dbc41",
+    "name": "NorwegianKronePerWattHour",
+    "label": [
+        {
+            "text": "Norwegian Krone per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity, expressed per watt hour.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kr/(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "[NOK]/W.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "718d130a-8165-5fef-9ef6-d18b79df2f0b",
+            "osw_id": "Item:OSWdd57ec56dea95011b468ed06be6dbc41#OSW718d130a81655fef9ef6d18b79df2f0b",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "kr/(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

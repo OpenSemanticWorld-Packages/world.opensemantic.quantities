@@ -1,0 +1,75 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-PA-SEC-M"
+    ],
+    "uuid": "2e9b80ee-c458-5cad-9330-5282afdee00a",
+    "name": "GramPerPascalSecondMetre",
+    "label": [
+        {
+            "text": "Gram per Pascal Second Metre",
+            "lang": "en"
+        },
+        {
+            "text": "Gramm Je Pascal Sekunde Meter",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Common unit for the water vapour diffusion coefficient expressed as gram per pascal-second-metre.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(Pa·s·m)",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "g.Pa-1.s-1.m-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a2b4ab78-b997-5e08-91d0-d14dfbb12314",
+            "osw_id": "Item:OSW2e9b80eec4585cad93305282afdee00a#OSWa2b4ab78b9975e0891d0d14dfbb12314",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/(Pa·s·m)",
+            "ucum_codes": [
+                "kg.Pa-1.s-1.m-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

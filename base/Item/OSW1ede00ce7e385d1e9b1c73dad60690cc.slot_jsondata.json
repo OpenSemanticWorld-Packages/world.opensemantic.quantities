@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_GBP-PER-W-HR"
+    ],
+    "uuid": "1ede00ce-7e38-5d1e-9b1c-73dad60690cc",
+    "name": "PoundSterlingPerWattHour",
+    "label": [
+        {
+            "text": "Pound Sterling per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity, expressed per watt-hour (GBP per W·h).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "£/(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0e65ef0f-a8bb-5fa7-a6cb-54505e54d559",
+            "osw_id": "Item:OSW1ede00ce7e385d1e9b1c73dad60690cc#OSW0e65ef0fa8bb5fa7a6cb54505e54d559",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "£/(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

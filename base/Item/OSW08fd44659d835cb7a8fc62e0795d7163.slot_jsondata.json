@@ -1,0 +1,69 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/W-HR-PER-YR"
+    ],
+    "uuid": "08fd4465-9d83-5cb7-a8fc-62e0795d7163",
+    "name": "WattHourPerYear",
+    "label": [
+        {
+            "text": "Watt Hour per Year",
+            "lang": "en"
+        },
+        {
+            "text": "Wattstunde Pro Jahr",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Watt hour per year is a unit of energy per time (i.e., power) and denotes the energy (in watt hours) created or consumed during one year.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W·h/a",
+    "conversion_factor_from_si": 0.00011407711613050422,
+    "ucum_codes": [
+        "W.h/a"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3ed191c2-271e-5fe3-9628-ed74f75e4391",
+            "osw_id": "Item:OSW08fd44659d835cb7a8fc62e0795d7163#OSW3ed191c2271e5fe39628ed74f75e4391",
+            "conversion_factor_to_main_unit": 1000000000000.0,
+            "conversion_factor_from_si": 114077116.13050422,
+            "main_symbol": "TW·h/a",
+            "ucum_codes": [
+                "TW.h/a"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-M-W-SEC"
+    ],
+    "uuid": "32f89ce7-99be-5c98-8c27-e1fae3b925a2",
+    "name": "MolesPerMetreWattSecond",
+    "label": [
+        {
+            "text": "Moles per Metre Watt Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A composed SI unit equal to moles per meter watt second, written as mol/(m·W·s). It represents the amount of substance per unit length, power, and time.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(m·W·s)",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "mol.m-1.W-1.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "21a17249-f176-52bd-99fd-f181786ccd07",
+            "osw_id": "Item:OSW32f89ce799be5c988c27e1fae3b925a2#OSW21a17249f17652bd99fdf181786ccd07",
+            "conversion_factor_to_main_unit": 1e-12,
+            "conversion_factor_from_si": 1e-12,
+            "main_symbol": "pmol/(m·W·s)",
+            "ucum_codes": [
+                "pmol.m-1.W-1.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

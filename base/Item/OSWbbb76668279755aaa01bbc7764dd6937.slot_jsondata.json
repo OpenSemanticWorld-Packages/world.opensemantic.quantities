@@ -1,0 +1,80 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-J"
+    ],
+    "uuid": "bbb76668-2797-55aa-a01b-bc7764dd6937",
+    "name": "GramPerJoule",
+    "label": [
+        {
+            "text": "Gram per Joule",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Gram per joule (g/J), a unit of mass per energy using the gram and the joule.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/J",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "g.J-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0ab2af45-d05c-527d-8fe2-0509629f9ae3",
+            "osw_id": "Item:OSWbbb76668279755aaa01bbc7764dd6937#OSW0ab2af45d05c527d8fe20509629f9ae3",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/J",
+            "ucum_codes": [
+                "kg.J-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ed66a7af-0af2-58c1-b94a-9646a09cda97",
+            "osw_id": "Item:OSWbbb76668279755aaa01bbc7764dd6937#OSWed66a7af0af258c1b94a9646a09cda97",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-09,
+            "main_symbol": "kg/GJ",
+            "ucum_codes": [
+                "kg.GJ-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

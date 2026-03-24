@@ -1,0 +1,100 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/SV-PER-HR"
+    ],
+    "uuid": "b945eabe-de61-56ac-8ad7-7cf1fabbcf0e",
+    "name": "SievertPerHour",
+    "label": [
+        {
+            "text": "Sievert per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit sievert divided by the unit hour",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Sv/h",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "Sv.h-1",
+        "Sv/h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "704a6ea3-db62-5998-9ccb-a456e4b39f49",
+            "osw_id": "Item:OSWb945eabede6156ac8ad77cf1fabbcf0e#OSW704a6ea3db6259989ccba456e4b39f49",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "mSv/h",
+            "ucum_codes": [
+                "mSv.h-1",
+                "mSv/h"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "8a9814dd-f5a2-5058-8e98-53662328c977",
+            "osw_id": "Item:OSWb945eabede6156ac8ad77cf1fabbcf0e#OSW8a9814ddf5a250588e9853662328c977",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "μSv/h",
+            "ucum_codes": [
+                "uSv.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a9a1148d-90e0-5348-ab1f-b91960072310",
+            "osw_id": "Item:OSWb945eabede6156ac8ad77cf1fabbcf0e#OSWa9a1148d90e05348ab1fb91960072310",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 2.777777777777778e-13,
+            "main_symbol": "nSv/h",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

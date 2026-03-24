@@ -1,0 +1,61 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M3-PER-L"
+    ],
+    "uuid": "ff217c95-baf7-5530-b823-ff907acf040a",
+    "name": "CubicMetresPerLitre",
+    "label": [
+        {
+            "text": "Cubic Metres per Litre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Non-prefixed composed unit representing cubic metres per litre, commonly used for volume fraction expressions. Since 1 L = 1e-3 m³, this unit converts to the dimensionless ‘one’ with a multiplier of 1e3.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m³/L",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "m3.L-1",
+        "m3/L"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "38c8b040-7c23-53b3-9749-3de08160915a",
+            "osw_id": "Item:OSWff217c95baf75530b823ff907acf040a#OSW38c8b0407c2353b397493de08160915a",
+            "conversion_factor_to_main_unit": 1e-15,
+            "conversion_factor_from_si": 1e-12,
+            "main_symbol": "μm³/mL",
+            "ucum_codes": [
+                "um3.mL-1",
+                "um3/mL"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

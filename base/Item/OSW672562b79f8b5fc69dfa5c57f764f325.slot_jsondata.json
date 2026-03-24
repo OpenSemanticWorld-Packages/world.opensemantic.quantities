@@ -1,0 +1,98 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M2-PA-SEC"
+    ],
+    "uuid": "672562b7-9f8b-5fc6-9dfa-5c57f764f325",
+    "name": "GramPerSquareMetrePascalSecond",
+    "label": [
+        {
+            "text": "Gram per Square Metre Pascal Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Gram per square metre pascal second (g m^-2 Pa^-1 s^-1) is a unit of vapour permeance that expresses mass flow per unit area per unit pressure difference, per unit time. It is the non-prefixed form obtained by removing the Nano prefix from the mass term of the original prefixed unit. In SI terms, 1 g m^-2 Pa^-1 s^-1 corresponds to 1e-3 kg m^-2 Pa^-1 s^-1.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(m^2·Pa·s)",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "g.m-2.Pa-1.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "60bdefc5-b50c-5020-95c7-e1f8f8a7d03e",
+            "osw_id": "Item:OSW672562b79f8b5fc69dfa5c57f764f325#OSW60bdefc5b50c502095c7e1f8f8a7d03e",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/(m²·Pa·s)",
+            "ucum_codes": [
+                "kg.m-2.Pa-1.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a3246309-5825-512e-b308-feef8a23afd8",
+            "osw_id": "Item:OSW672562b79f8b5fc69dfa5c57f764f325#OSWa32463095825512eb308feef8a23afd8",
+            "conversion_factor_to_main_unit": 1e-09,
+            "conversion_factor_from_si": 1e-12,
+            "main_symbol": "ng/(m²·Pa·s)",
+            "ucum_codes": [
+                "ng.m-2.Pa-1.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_DKK-PER-W-HR"
+    ],
+    "uuid": "33b7f49d-27a4-566e-9b51-e4ea75a44b40",
+    "name": "DanishKronePerWattHour",
+    "label": [
+        {
+            "text": "Danish Krone per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electrical energy per watt hour, expressed in Danish krone.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kr/(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "[DKK]/W.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "07934b50-43e0-5afb-8c3d-b10c3b098a87",
+            "osw_id": "Item:OSW33b7f49d27a4566e9b51e4ea75a44b40#OSW07934b5043e05afb8c3db10c3b098a87",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "kr/(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_C-GM-PER-M2"
+    ],
+    "uuid": "ec5610a4-02a3-5fb7-a10f-ee231a5977f5",
+    "name": "DegreesCelsiusGramPerSquareMetre",
+    "label": [
+        {
+            "text": "Degrees Celsius Gram per Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Derived unit for the product of the temperature in degrees Celsius and the mass density of a medium, integrated over vertical depth or height in metres.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°C·g/m²",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "Cel.g.m-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f2c009da-aad4-58e0-a0b7-5409272e1816",
+            "osw_id": "Item:OSWec5610a402a35fb7a10fee231a5977f5#OSWf2c009daaad458e0a0b75409272e1816",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "°C·kg/m²",
+            "ucum_codes": [
+                "Cel.kg.m-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

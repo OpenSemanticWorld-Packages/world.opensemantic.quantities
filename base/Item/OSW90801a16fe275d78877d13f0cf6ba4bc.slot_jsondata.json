@@ -1,0 +1,89 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M3-HR"
+    ],
+    "uuid": "90801a16-fe27-5d78-877d-13f0cf6ba4bc",
+    "name": "GramsPerCubicMetreHour",
+    "label": [
+        {
+            "text": "Grams per Cubic Metre Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Grams per cubic metre hour is a composed unit expressing mass flow density, measured as grams of substance per cubic metre per hour. It is represented as g·m^-3·h^-1 and corresponds dimensionally to L^-3 M T^-1.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(m³·h)",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "ucum_codes": [
+        "g.m-3.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0748d1ac-653e-590b-85e2-75f7c07a5039",
+            "osw_id": "Item:OSW90801a16fe275d78877d13f0cf6ba4bc#OSW0748d1ac653e590b85e275f7c07a5039",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "mg/(m³·h)",
+            "ucum_codes": [
+                "mg.m-3.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "8e03733c-d354-5ea6-be0f-2c4c1dfc713c",
+            "osw_id": "Item:OSW90801a16fe275d78877d13f0cf6ba4bc#OSW8e03733cd3545ea6be0f2c4c1dfc713c",
+            "conversion_factor_to_main_unit": 1.0000000000000002e-06,
+            "conversion_factor_from_si": 2.777777777777778e-13,
+            "main_symbol": "μg/(m³·h)",
+            "ucum_codes": [
+                "ug.m-3.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

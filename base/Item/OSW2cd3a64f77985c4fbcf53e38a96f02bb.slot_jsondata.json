@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-L-DAY"
+    ],
+    "uuid": "2cd3a64f-7798-5c4f-bcf5-3e38a96f02bb",
+    "name": "GramPerLiterPerDay",
+    "label": [
+        {
+            "text": "Gram per Liter per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of mass of a measurand equivalent to 10^-3 kilogram (the SI unit of mass) per litre volume of matrix over a period of 1 day.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(L·d)",
+    "conversion_factor_from_si": 1.1574074074074073e-05,
+    "ucum_codes": [
+        "g.L-1.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "9108816e-3346-5625-bcd9-b4850d64cf9a",
+            "osw_id": "Item:OSW2cd3a64f77985c4fbcf53e38a96f02bb#OSW9108816e33465625bcd9b4850d64cf9a",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1.1574074074074074e-11,
+            "main_symbol": "μg/(L·d)",
+            "ucum_codes": [
+                "ug.L-1.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

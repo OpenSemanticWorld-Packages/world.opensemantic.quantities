@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-FT2"
+    ],
+    "uuid": "66d38f23-cbf4-5078-a439-c0e7f11b7246",
+    "name": "GramPerSquareFoot",
+    "label": [
+        {
+            "text": "Gram per Square Foot",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI unit gram divided by the square of the imperial foot.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/ft²",
+    "conversion_factor_from_si": 0.010763910416709722,
+    "ucum_codes": [
+        "g.ft-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ba330453-7cb2-5382-aa00-a3ffd5b1c0f0",
+            "osw_id": "Item:OSW66d38f23cbf45078a439c0e7f11b7246#OSWba3304537cb25382aa00a3ffd5b1c0f0",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 10.763910416709722,
+            "main_symbol": "kg/ft²",
+            "ucum_codes": [
+                "kg.ft-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        }
+    ]
+}

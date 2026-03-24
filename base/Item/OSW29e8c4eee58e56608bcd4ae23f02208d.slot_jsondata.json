@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M-SEC2"
+    ],
+    "uuid": "29e8c4ee-e58e-5660-8bcd-4ae23f02208d",
+    "name": "GramsPerMetreSecondSquared",
+    "label": [
+        {
+            "text": "Grams per Metre Second Squared",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A pressure unit expressed as gram per metre per second squared (g·m^-1·s^-2). It represents force per area using gram, metre, and second base units and is applicable to quantity kinds such as ForcePerArea and VaporPressure. Numerically, it equals one-thousandth of the pascal (kg·m^-1·s^-2).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(m·s²)",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "g.m-1.s-2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "79839899-c5ca-5bbf-be70-9b943e4786e0",
+            "osw_id": "Item:OSW29e8c4eee58e56608bcd4ae23f02208d#OSW79839899c5ca5bbfbe709b943e4786e0",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/(m·s²)",
+            "ucum_codes": [
+                "kg.m-1.s-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

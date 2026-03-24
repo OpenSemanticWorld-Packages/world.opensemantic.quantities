@@ -1,0 +1,67 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CAL_TH-PER-M3-K"
+    ],
+    "uuid": "b45aa41d-a106-5901-9c03-592c16739476",
+    "name": "ThermochemicalCaloriePerCubicMetreKelvin",
+    "label": [
+        {
+            "text": "Thermochemical Calorie per Cubic Metre Kelvin",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Thermochemical Calorie per Cubic Meter Kelvin is a unit for Volumetric Heat Capacity expressed as cal_th/(m^3 K). Derived from the prefixed unit by removing the centi- prefix from the length factor in the denominator (cm^3 -> m^3). Relative to cal_th/(cm^3 K), magnitudes scale by 10^6. The SI conversion factor is 4.184 J/(m^3 K).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cal_th/(m³·K)",
+    "conversion_factor_from_si": 4.184,
+    "ucum_codes": [
+        "cal_th.m-3.K-1",
+        "cal_th/(m3.K)"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a0fc0bef-94df-5e83-9e06-751b84e74ae3",
+            "osw_id": "Item:OSWb45aa41da10659019c03592c16739476#OSWa0fc0bef94df5e839e06751b84e74ae3",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 4184000.0,
+            "main_symbol": "cal/(cm³·K)",
+            "ucum_codes": [
+                "cal_th.cm-3.K-1",
+                "cal_th/(cm3.K)"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

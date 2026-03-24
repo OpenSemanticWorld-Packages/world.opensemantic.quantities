@@ -1,0 +1,89 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-HA-YR"
+    ],
+    "uuid": "7e2cc094-b2c8-57c9-af45-bde4a1459da6",
+    "name": "GramPerHectarePerYear",
+    "label": [
+        {
+            "text": "Gram per Hectare per Year",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Annual flux equivalent to 1 gram per hectare (10000 square meters) per year, typically used to express a crop yield.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(ha·a)",
+    "conversion_factor_from_si": 3.168808781402895e-15,
+    "ucum_codes": [
+        "g.ha-1.yr-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "30a67aad-8202-54b4-acb1-1bb3d87263bc",
+            "osw_id": "Item:OSW7e2cc094b2c857c9af45bde4a1459da6#OSW30a67aad820254b4acb11bb3d87263bc",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 3.168808781402895e-12,
+            "main_symbol": "kg/(ha·a)",
+            "ucum_codes": [
+                "kg.har-1.year-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "b7f81e58-135c-5998-9447-d860ec206d17",
+            "osw_id": "Item:OSW7e2cc094b2c857c9af45bde4a1459da6#OSWb7f81e58135c59989447d860ec206d17",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 3.168808781402895e-09,
+            "main_symbol": "Mg/(ha·a)",
+            "ucum_codes": [
+                "Mg.ha-1.yr-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

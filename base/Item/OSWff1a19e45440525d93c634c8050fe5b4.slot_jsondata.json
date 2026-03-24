@@ -1,0 +1,59 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/M2-SEC"
+    ],
+    "uuid": "ff1a19e4-5440-525d-93c6-34c8050fe5b4",
+    "name": "SquareMetreSecond",
+    "label": [
+        {
+            "text": "Square Metre Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Square Meter Second\" is an SI coherent unit for 'Area Time' expressed as $m^2 . s$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "m²·s",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "m2.s"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 2
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "eb7f0169-5c96-5360-be41-408bae5e1eba",
+            "osw_id": "Item:OSWff1a19e45440525d93c634c8050fe5b4#OSWeb7f01695c965360be41408bae5e1eba",
+            "conversion_factor_to_main_unit": 0.0001,
+            "conversion_factor_from_si": 0.0001,
+            "main_symbol": "cm²·s",
+            "ucum_codes": [
+                "cm2.s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 2
+                }
+            ]
+        }
+    ]
+}

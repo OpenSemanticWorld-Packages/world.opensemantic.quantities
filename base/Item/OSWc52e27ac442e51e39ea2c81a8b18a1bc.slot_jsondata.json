@@ -1,0 +1,66 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/N-M-PER-DEG"
+    ],
+    "uuid": "c52e27ac-442e-51e3-9ea2-c81a8b18a1bc",
+    "name": "NewtonMetrePerDegree",
+    "label": [
+        {
+            "text": "Newton Metre per Degree",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "product of the SI derived unit newton and the SI base unit metre divided by the unit degree",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "N·m/°",
+    "conversion_factor_from_si": 57.2957795785523,
+    "ucum_codes": [
+        "N.m.deg-1",
+        "N.m/deg"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "594d046f-9dd7-5e6b-abaf-afcc00da5467",
+            "osw_id": "Item:OSWc52e27ac442e51e39ea2c81a8b18a1bc#OSW594d046f9dd75e6babafafcc00da5467",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 57295.7795785523,
+            "main_symbol": "kN·m/°",
+            "ucum_codes": [
+                "kN.m.deg-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

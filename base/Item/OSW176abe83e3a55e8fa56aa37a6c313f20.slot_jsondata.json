@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-M2-PER-GM"
+    ],
+    "uuid": "176abe83-e3a5-5e8f-a56a-a37a6c313f20",
+    "name": "JouleSquareMetrePerGram",
+    "label": [
+        {
+            "text": "Joule Square Metre per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Non-prefixed composed unit for total mass stopping power, expressed as joule square meter per gram (J·m²/g). This unit has the same dimension (L^4 T^-2) as its kilogram-based counterpart but uses grams as the mass factor, resulting in a direct scaling relative to the per-kilogram form.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J·m²/g",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "J.m2.g-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e0fa484f-5001-5a43-8e43-38bb521a34ae",
+            "osw_id": "Item:OSW176abe83e3a55e8fa56aa37a6c313f20#OSWe0fa484f50015a438e4338bb521a34ae",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "J·m²/kg",
+            "ucum_codes": [
+                "J.m2.kg-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

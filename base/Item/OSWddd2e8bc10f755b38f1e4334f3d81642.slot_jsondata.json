@@ -1,0 +1,67 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PA-M3-PER-GM"
+    ],
+    "uuid": "ddd2e8bc-10f7-55b3-8f1e-4334f3d81642",
+    "name": "PascalCubedMetrePerGram",
+    "label": [
+        {
+            "text": "Pascal Cubed Metre per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Non-prefixed composed unit representing Pascal times cubic meter per gram (Pa·m³/g) for specific modulus. It is the non-prefixed form of the original composed unit and is equivalent to joule per kilogram (J/kg). One Pa·m³/g equals 1.0e3 J/kg. Values in the original prefixed unit convert to this non-prefixed unit by a factor of 10^3.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa·m³/g",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "Pa.m3.g-1",
+        "Pa.m3/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 3
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f3093f86-7b3e-5a7e-9955-befd1748ff78",
+            "osw_id": "Item:OSWddd2e8bc10f755b38f1e4334f3d81642#OSWf3093f867b3e5a7e9955befd1748ff78",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1000000.0,
+            "main_symbol": "GPa·cm³/g",
+            "ucum_codes": [
+                "GPa.cm3.g-1",
+                "GPa.cm3/g"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": 3
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

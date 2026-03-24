@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-L-HR"
+    ],
+    "uuid": "19b3c05c-a68c-583a-a011-0b75f6e89dc1",
+    "name": "GramsPerLitreHour",
+    "label": [
+        {
+            "text": "Grams per Litre Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A rate of change of mass equivalent to 10^-3 kilogram per litre volume of matrix over a period of 1 hour.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(L·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "g.L-1.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "698dae5b-8e1b-5f31-8d63-acad65435342",
+            "osw_id": "Item:OSW19b3c05ca68c583aa0110b75f6e89dc1#OSW698dae5b8e1b5f318d63acad65435342",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "μg/(L·h)",
+            "ucum_codes": [
+                "ug.L-1.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-GM-K-PA"
+    ],
+    "uuid": "9441fe03-db38-59a5-b9db-55a37ff7d6d6",
+    "name": "JoulePerGramKelvinPascal",
+    "label": [
+        {
+            "text": "Joule per Gram Kelvin Pascal",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Joule per gram per kelvin per pascal, representing energy per mass per temperature per pressure without prefixes: J·g^-1·K^-1·Pa^-1.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(g·K·Pa)",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "J.g-1.K-1.Pa-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "85f51fc6-962e-5c5e-a5e5-41ad1bdce849",
+            "osw_id": "Item:OSW9441fe03db3859a5b9db55a37ff7d6d6#OSW85f51fc6962e5c5ea5e541ad1bdce849",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "J/(kg·K·Pa)",
+            "ucum_codes": [
+                "J.kg-1.K-1.Pa-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

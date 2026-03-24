@@ -1,0 +1,61 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-M3"
+    ],
+    "uuid": "1c20943a-45d2-533b-8816-0307d9ddde4d",
+    "name": "LitrePerCubicMetre",
+    "label": [
+        {
+            "text": "Litre per Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Litre divided by the power of the SI base unit metre with the exponent 3. This non-prefixed unit (L/m³) results from removing the 'Milli' prefix from the original unit and represents a volume fraction expressed as litres per cubic metre. Its coherent SI value is 1e-3 (since 1 L = 1e-3 m^3).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/m³",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "L.m-3",
+        "L/m3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5040d716-0026-561b-8dc5-c0658aad3d7c",
+            "osw_id": "Item:OSW1c20943a45d2533b88160307d9ddde4d#OSW5040d7160026561b8dc5c0658aad3d7c",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "mL/m³",
+            "ucum_codes": [
+                "mL.m-3",
+                "mL/m3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

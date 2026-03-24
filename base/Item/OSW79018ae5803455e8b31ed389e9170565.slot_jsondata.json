@@ -1,0 +1,71 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/K-M2-PER-GM-SEC"
+    ],
+    "uuid": "79018ae5-8034-55e8-b31e-d389e9170565",
+    "name": "KelvinSquareMetresPerGramSecond",
+    "label": [
+        {
+            "text": "Kelvin Square Metres per Gram Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A non-prefixed composed unit K·m²/(g·s) formed from Kelvin, square metre, gram to the power −1, and second to the power −1. It has the same dimensionality (L² M⁻¹ T⁻¹ Θ¹) as the original prefixed unit. Relative to K·m²/(kg·s), this unit is larger by a factor of 1000 due to using gram instead of kilogram in the denominator.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "K·m²/(g·s)",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "K.m2.g-1.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": 2
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "75860b6d-dcd1-500f-bd62-0e040bc2afb2",
+            "osw_id": "Item:OSW79018ae5803455e8b31ed389e9170565#OSW75860b6ddcd1500fbd620e040bc2afb2",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "K·m²/(kg·s)",
+            "ucum_codes": [
+                "K.m2.kg-1.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

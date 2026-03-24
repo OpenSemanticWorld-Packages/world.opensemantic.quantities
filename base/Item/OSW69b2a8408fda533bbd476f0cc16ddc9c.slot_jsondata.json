@@ -1,0 +1,89 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-M2-DAY"
+    ],
+    "uuid": "69b2a840-8fda-533b-bd47-6f0cc16ddc9c",
+    "name": "JoulePerSquareMetrePerDay",
+    "label": [
+        {
+            "text": "Joule per Square Metre per Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI derived unit joule divided by the square of the metre and by the day; expresses energy per unit area per unit time (irradiance).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(m²·d)",
+    "conversion_factor_from_si": 1.1574074074074073e-05,
+    "ucum_codes": [
+        "J.m-2.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "8c198dbb-96df-555a-ac74-4013a50dce1f",
+            "osw_id": "Item:OSW69b2a8408fda533bbd476f0cc16ddc9c#OSW8c198dbb96df555aac744013a50dce1f",
+            "conversion_factor_to_main_unit": 10000.0,
+            "conversion_factor_from_si": 0.11574074074074074,
+            "main_symbol": "J/(cm²·d)",
+            "ucum_codes": [
+                "J.cm-2.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c06ae094-22e9-5836-9a4d-d7e6f19e6e8b",
+            "osw_id": "Item:OSW69b2a8408fda533bbd476f0cc16ddc9c#OSWc06ae09422e958369a4dd7e6f19e6e8b",
+            "conversion_factor_to_main_unit": 1000000.0000000001,
+            "conversion_factor_from_si": 11.574074074074074,
+            "main_symbol": "MJ/(m²·d)",
+            "ucum_codes": [
+                "MJ.m-2.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                }
+            ]
+        }
+    ]
+}

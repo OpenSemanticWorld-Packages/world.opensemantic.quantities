@@ -1,0 +1,69 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-SEC-M2"
+    ],
+    "uuid": "41b075fc-469a-586e-ba9b-1a3e349ae54d",
+    "name": "GramPerSecondSquareMetre",
+    "label": [
+        {
+            "text": "Gram per Second Square Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI base unit gram divided by the product of the power of the SI base unit metre with the exponent 2 and the SI base unit second.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(s·m²)",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "g.(s.m2)-1",
+        "g.s-1.m-2",
+        "g/(s.m2)"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -2
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "392e5305-9570-581b-8b98-decafc31a919",
+            "osw_id": "Item:OSW41b075fc469a586eba9b1a3e349ae54d#OSW392e53059570581b8b98decafc31a919",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/(s·m²)",
+            "ucum_codes": [
+                "kg.(s.m2)-1",
+                "kg.s-1.m-2",
+                "kg/(s.m2)"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M-HR"
+    ],
+    "uuid": "d8aa29b6-6adb-508b-b90a-06298fc20758",
+    "name": "GramsPerMetreHour",
+    "label": [
+        {
+            "text": "Grams per Metre Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Mass per length per time using the gram (g), metre (m), and hour (h); equal to g·m^-1·h^-1. In SI base terms, 1 g/(m·h) = 2.7777777777777778e-7 kg/(m·s).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(m·h)",
+    "conversion_factor_from_si": 2.7777777777777776e-07,
+    "ucum_codes": [
+        "g.m-1.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3caecf6a-4b09-5fe6-93ff-789164f69434",
+            "osw_id": "Item:OSWd8aa29b66adb508bb90a06298fc20758#OSW3caecf6a4b095fe693ff789164f69434",
+            "conversion_factor_to_main_unit": 1000.0000000000001,
+            "conversion_factor_from_si": 0.0002777777777777778,
+            "main_symbol": "kg/(m·h)",
+            "ucum_codes": [
+                "kg.m-1.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

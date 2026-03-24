@@ -24,7 +24,8 @@
         }
     ],
     "units": [
-        "Item:OSW6a81c11daa085e04bbe8555c344c2a95",
+        "Item:OSW0a5e73cf501255db97b4c71f3c964231",
+        "Item:OSW0a5e73cf501255db97b4c71f3c964231#OSW6a81c11daa085e04bbe8555c344c2a95",
         "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22",
         "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0277ff4df5125b8ab10f720e991ca792",
         "Item:OSWb93e608c86fd5480a5de9cd1b3e9ea22#OSW0ac392f5beaf59ab807d2e0de0da85c9",

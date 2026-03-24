@@ -1,0 +1,62 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_SEK-PER-W-HR"
+    ],
+    "uuid": "e5f292b8-5de3-5578-9912-00d4f8b7202a",
+    "name": "SwedishKronaPerWattHour",
+    "label": [
+        {
+            "text": "Swedish Krona per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity, expressed per watt-hour (W·h) using non-prefixed factor units.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "kr/(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "[SEK]/W.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c06f9544-4c01-5a02-be4a-89ba59bb7c69",
+            "osw_id": "Item:OSWe5f292b85de35578991200d4f8b7202a#OSWc06f95444c015a02be4a89ba59bb7c69",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "kr/(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

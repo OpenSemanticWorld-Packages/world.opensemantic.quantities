@@ -1,0 +1,81 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C-PER-GM"
+    ],
+    "uuid": "eccca211-13fe-5297-bb11-90eaee52459d",
+    "name": "CoulombPerGram",
+    "label": [
+        {
+            "text": "Coulomb per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The SI derived unit coulomb divided by the gram (C/g), representing electric charge per mass expressed per gram. Equivalent to 1000-fold of the SI derived unit coulomb per kilogram (C/kg).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "C/g",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "C.g-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "40aee268-cfd0-5663-8db7-5aca748bb5a9",
+            "osw_id": "Item:OSWeccca21113fe5297bb1190eaee52459d#OSW40aee268cfd056638db75aca748bb5a9",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mC/kg",
+            "ucum_codes": [
+                "mC.kg-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ae7413b7-36b4-5ffc-a049-de991c5df83c",
+            "osw_id": "Item:OSWeccca21113fe5297bb1190eaee52459d#OSWae7413b736b45ffca049de991c5df83c",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "C/kg",
+            "ucum_codes": [
+                "C.kg-1",
+                "C/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

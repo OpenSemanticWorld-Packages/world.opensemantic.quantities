@@ -1,0 +1,90 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-M2-HR"
+    ],
+    "uuid": "c20dc615-daea-5c85-bffa-64b81d26d28d",
+    "name": "MolePerSquareMetrePerHour",
+    "label": [
+        {
+            "text": "Mole per Square Metre per Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "N Hourly molar flux expressed as moles per meter squared per hour, typically used to express areal production (e.g., if the plane is a surface of the Earth or ocean).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(m²·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "mol.m-2.h-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "1be151a2-b483-5898-9693-e1d41651fb63",
+            "osw_id": "Item:OSWc20dc615daea5c85bffa64b81d26d28d#OSW1be151a2b48358989693e1d41651fb63",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 2.7777777777777777e-10,
+            "main_symbol": "μmol/(m²·h)",
+            "ucum_codes": [
+                "umol.m-2.h-1",
+                "umol/m2/h"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "b0f42ca8-2879-5d16-baf0-61f0332e9bbd",
+            "osw_id": "Item:OSWc20dc615daea5c85bffa64b81d26d28d#OSWb0f42ca828795d16baf061f0332e9bbd",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "mmol/(m²·h)",
+            "ucum_codes": [
+                "mmol.m-2.h-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

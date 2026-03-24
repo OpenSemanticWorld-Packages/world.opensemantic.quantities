@@ -1,0 +1,90 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-GM-SEC"
+    ],
+    "uuid": "24fb426c-485c-5256-8681-167590fcdd4b",
+    "name": "MolesPerGramSecond",
+    "label": [
+        {
+            "text": "Moles per Gram Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Moles per gram-second expresses the rate of amount of substance per unit mass per unit time.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(g·s)",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "mol.g-1.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "9e28c819-0151-54d2-992d-48400bdad675",
+            "osw_id": "Item:OSW24fb426c485c52568681167590fcdd4b#OSW9e28c819015154d2992d48400bdad675",
+            "conversion_factor_to_main_unit": 9.999999999999999e-10,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "nmol/(g·s)",
+            "ucum_codes": [
+                "nmol.g-1.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "a2690c3f-ff16-5995-8607-2f4480426f3a",
+            "osw_id": "Item:OSW24fb426c485c52568681167590fcdd4b#OSWa2690c3fff16599586072f4480426f3a",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "μmol/(g·s)",
+            "ucum_codes": [
+                "umol.g-1.s-1",
+                "umol/g/s"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

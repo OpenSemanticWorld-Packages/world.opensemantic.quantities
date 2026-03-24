@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-M2-MIN"
+    ],
+    "uuid": "68725f4a-9daf-50cf-9b8f-166f62e1738b",
+    "name": "LitrePerSquareMetreMinute",
+    "label": [
+        {
+            "text": "Litre per Square Metre Minute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "quotient of the unit litre and the unit minute divided by the power of the SI base unit metre with the exponent 2",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/(m²·min)",
+    "conversion_factor_from_si": 1.6666666666666667e-05,
+    "ucum_codes": [
+        "L.m-2.min-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "832931cb-eded-5692-a611-f7752ee6cf4c",
+            "osw_id": "Item:OSW68725f4a9daf50cf9b8f166f62e1738b#OSW832931cbeded5692a611f7752ee6cf4c",
+            "conversion_factor_to_main_unit": 10.0,
+            "conversion_factor_from_si": 0.00016666666666666666,
+            "main_symbol": "mL/(cm²·min)",
+            "ucum_codes": [
+                "mL.cm-2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

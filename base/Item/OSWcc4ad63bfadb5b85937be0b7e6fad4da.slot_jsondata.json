@@ -1,0 +1,61 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/S2-PER-M2"
+    ],
+    "uuid": "cc4ad63b-fadb-5b85-937b-e0b7e6fad4da",
+    "name": "SiemensSquaredPerMetreSquared",
+    "label": [
+        {
+            "text": "Siemens Squared per Metre Squared",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Conductivity variance, expressed as S^2 per m^2. Derived from the prefixed form (uS^2/cm^2) by removing the Micro and Centi prefixes to obtain a non-prefixed SI-coherent unit.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "S²/m²",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "S2.m-2",
+        "S2/m2"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": 2
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "89e525be-6d67-5802-a9d6-95d2d6655505",
+            "osw_id": "Item:OSWcc4ad63bfadb5b85937be0b7e6fad4da#OSW89e525be6d675802a9d695d2d6655505",
+            "conversion_factor_to_main_unit": 1e-08,
+            "conversion_factor_from_si": 1e-08,
+            "main_symbol": "μS²/cm²",
+            "ucum_codes": [
+                "uS2.cm-2",
+                "uS2/cm2"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": 2
+                }
+            ]
+        }
+    ]
+}

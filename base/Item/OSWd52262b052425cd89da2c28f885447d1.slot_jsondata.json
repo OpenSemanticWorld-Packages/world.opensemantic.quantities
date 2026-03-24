@@ -1,0 +1,71 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/J-PER-GM-K-M3"
+    ],
+    "uuid": "d52262b0-5242-5cd8-9da2-c28f885447d1",
+    "name": "JoulePerGramKelvinCubicMetre",
+    "label": [
+        {
+            "text": "Joule per Gram Kelvin Cubic Metre",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Joule per gram per kelvin per cubic meter is a composed unit with factor units J^1 · g^-1 · K^-1 · m^-3. It measures specific heat per unit volume using gram as the mass unit. This unit results from the original prefixed unit by removing the 'Kilo' prefix from the mass factor. Numerically, 1 J/(g·K·m³) = 1000 J/(kg·K·m³).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "J/(g·K·m³)",
+    "conversion_factor_from_si": 1000.0,
+    "ucum_codes": [
+        "J.g-1.K.m-3"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -3
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c06da5be-651b-56d9-93be-f3fc05d91bd6",
+            "osw_id": "Item:OSWd52262b052425cd89da2c28f885447d1#OSWc06da5be651b56d993bef3fc05d91bd6",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "J/(kg·K·m³)",
+            "ucum_codes": [
+                "J.kg-1.K.m-3"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -3
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

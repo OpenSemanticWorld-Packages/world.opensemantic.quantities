@@ -1,0 +1,65 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-M2-DAY"
+    ],
+    "uuid": "68ad3a46-9796-53f2-b71d-8720740de5b7",
+    "name": "LitresPerSquareMetreDay",
+    "label": [
+        {
+            "text": "Litres per Square Metre Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit of volumetric flux expressed as liters per square meter per day (L/(m²·d)). This unit is dimensionally equivalent to length per time and equals 1.1574074074074074e-8 m/s. It is obtained from the corresponding prefixed unit by removing the Milli prefix from the liter factor, resulting in values larger by a factor of 1000 compared to mL/(m²·d).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/(m²·d)",
+    "conversion_factor_from_si": 1.1574074074074074e-08,
+    "ucum_codes": [
+        "L.m-2.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -2
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "bfa674ce-41a4-5b49-ab41-522fea5eb0ab",
+            "osw_id": "Item:OSW68ad3a46979653f2b71d8720740de5b7#OSWbfa674ce41a45b49ab41522fea5eb0ab",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.1574074074074074e-11,
+            "main_symbol": "mL/(m²·d)",
+            "ucum_codes": [
+                "mL.m-2.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -2
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

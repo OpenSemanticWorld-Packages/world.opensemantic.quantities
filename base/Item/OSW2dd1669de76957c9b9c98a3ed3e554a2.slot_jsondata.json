@@ -1,0 +1,62 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_CHF-PER-W-HR"
+    ],
+    "uuid": "2dd1669d-e769-57c9-b9c9-8a3ed3e554a2",
+    "name": "SwissFrancPerWattHour",
+    "label": [
+        {
+            "text": "Swiss Franc per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity, expressed in Swiss Francs per watt-hour.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "CHF/(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "[CHF]/W.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "900f3e42-8d94-5315-8529-0faab081bb65",
+            "osw_id": "Item:OSW2dd1669de76957c9b9c98a3ed3e554a2#OSW900f3e428d94531585290faab081bb65",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "CHF/(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}

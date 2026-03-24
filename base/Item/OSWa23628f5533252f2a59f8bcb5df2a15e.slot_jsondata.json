@@ -1,0 +1,89 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/GM-PER-M-SEC"
+    ],
+    "uuid": "a23628f5-5332-52f2-a59f-8bcb5df2a15e",
+    "name": "GramPerMetreSecond",
+    "label": [
+        {
+            "text": "Gram per Metre Second",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit of dynamic viscosity expressed as gram per metre second, i.e., the 0.001-fold of the SI base unit kilogram divided by the SI base unit metre and the SI base unit second.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "g/(m·s)",
+    "conversion_factor_from_si": 0.001,
+    "ucum_codes": [
+        "g.m-1.s-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "1533ce63-0368-5bbf-ba8e-a68bbab48e18",
+            "osw_id": "Item:OSWa23628f5533252f2a59f8bcb5df2a15e#OSW1533ce6303685bbfba8ea68bbab48e18",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 1.0,
+            "main_symbol": "kg/(m·s)",
+            "ucum_codes": [
+                "kg.m-1.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e41738b8-454e-5dfe-937b-4355b929d69d",
+            "osw_id": "Item:OSWa23628f5533252f2a59f8bcb5df2a15e#OSWe41738b8454e5dfe937b4355b929d69d",
+            "conversion_factor_to_main_unit": 100.0,
+            "conversion_factor_from_si": 0.1,
+            "main_symbol": "g/(cm·s)",
+            "ucum_codes": [
+                "g.cm-1.s-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/L-PER-GM"
+    ],
+    "uuid": "daa79a7c-ac78-5cbf-be98-7888903ab861",
+    "name": "LitrePerGram",
+    "label": [
+        {
+            "text": "Litre per Gram",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Liter per Gram is a unit in the category of Specific Volume, commonly used for properties such as soil adsorption coefficient and specific volume. It is also known as liters per gram, litre per gram, litres per gram, liter/gram, litre/gram.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "L/g",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "L.g-1",
+        "L/g"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0488ff86-089f-5c46-bc7d-4688ba7c3e4a",
+            "osw_id": "Item:OSWdaa79a7cac785cbfbe987888903ab861#OSW0488ff86089f5c46bc7d4688ba7c3e4a",
+            "conversion_factor_to_main_unit": 0.1,
+            "conversion_factor_from_si": 0.1,
+            "main_symbol": "dL/g",
+            "ucum_codes": [
+                "dL.g-1",
+                "dL/g"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "0e59a4af-80a6-51b2-b60a-525756fd2838",
+            "osw_id": "Item:OSWdaa79a7cac785cbfbe987888903ab861#OSW0e59a4af80a651b2b60a525756fd2838",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "L/kg",
+            "ucum_codes": [
+                "L.kg-1",
+                "L/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "bf064e4b-8d00-55a0-a5d9-a9f18efb0f64",
+            "osw_id": "Item:OSWdaa79a7cac785cbfbe987888903ab861#OSWbf064e4b8d0055a0a5d9a9f18efb0f64",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "main_symbol": "mL/kg",
+            "ucum_codes": [
+                "mL.kg-1",
+                "mL/kg"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "f22a5f44-0480-5d79-b244-48e9bfc5e7d4",
+            "osw_id": "Item:OSWdaa79a7cac785cbfbe987888903ab861#OSWf22a5f4404805d79b24448e9bfc5e7d4",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mL/g",
+            "ucum_codes": [
+                "mL.g-1",
+                "mL/g"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

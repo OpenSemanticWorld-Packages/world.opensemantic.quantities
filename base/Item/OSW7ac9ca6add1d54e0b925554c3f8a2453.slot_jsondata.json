@@ -1,0 +1,90 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MOL-PER-MOL-DAY"
+    ],
+    "uuid": "7ac9ca6a-dd1d-54e0-b925-554c3f8a2453",
+    "name": "MolePerMoleDay",
+    "label": [
+        {
+            "text": "Mole per Mole Day",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit of dimensionless rate per day, expressed as moles per mole per day.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "mol/(mol·d)",
+    "conversion_factor_from_si": 1.1574074074074073e-05,
+    "ucum_codes": [
+        "mol.mol-1.d-1"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": 1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "83cce6dc-344a-5653-a997-1df18217bb0d",
+            "osw_id": "Item:OSW7ac9ca6add1d54e0b925554c3f8a2453#OSW83cce6dc344a5653a9971df18217bb0d",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 1.1574074074074074e-08,
+            "main_symbol": "nmol/(μmol·d)",
+            "ucum_codes": [
+                "nmol.umol-1.d-1"
+            ],
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "ba2a53ff-2414-5c5c-840e-6efddd1ba006",
+            "osw_id": "Item:OSW7ac9ca6add1d54e0b925554c3f8a2453#OSWba2a53ff24145c5c840e6efddd1ba006",
+            "conversion_factor_to_main_unit": 1.0,
+            "conversion_factor_from_si": 1.1574074074074073e-05,
+            "main_symbol": "μmol/(μmol·d)",
+            "ucum_codes": [
+                "umol.umol-1.d-1",
+                "umol/umol/d"
+            ],
+            "factor_units": [
+                {
+                    "exponent": 1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

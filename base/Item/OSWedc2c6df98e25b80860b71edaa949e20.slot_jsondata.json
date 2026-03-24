@@ -1,0 +1,62 @@
+{
+    "type": [
+        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CCY_CZK-PER-W-HR"
+    ],
+    "uuid": "edc2c6df-98e2-5b80-860b-71edaa949e20",
+    "name": "CzechKorunaPerWattHour",
+    "label": [
+        {
+            "text": "Czech Koruna per Watt Hour",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Unit for measuring the cost of electricity, expressed as Czech koruna per watt hour (CZK/Wh). Derived from the prefixed unit CZK per kilowatt hour by removing the 'kilo' prefix from watt.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Kč/(W·h)",
+    "conversion_factor_from_si": 0.0002777777777777778,
+    "ucum_codes": [
+        "[CZK]/W.h"
+    ],
+    "factor_unit_scalar": 1,
+    "factor_units": [
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": -1
+        },
+        {
+            "exponent": 1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "b8ebd931-d79f-536d-b513-bfa5624a8170",
+            "osw_id": "Item:OSWedc2c6df98e25b80860b71edaa949e20#OSWb8ebd931d79f536db513bfa5624a8170",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 2.7777777777777776e-07,
+            "main_symbol": "Kč/(kW·h)",
+            "factor_units": [
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": -1
+                },
+                {
+                    "exponent": 1
+                }
+            ]
+        }
+    ]
+}
