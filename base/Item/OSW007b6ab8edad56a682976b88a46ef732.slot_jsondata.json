@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-K"
@@ -24,12 +24,15 @@
     "ucum_codes": [
         "mol.K"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "e9ead94f-89aa-5ec8-a9bc-4d86424c3949",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": 1
         },
         {
+            "uuid": "c94ff947-14c3-5419-a8e1-5b85730c6f52",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         }
     ]

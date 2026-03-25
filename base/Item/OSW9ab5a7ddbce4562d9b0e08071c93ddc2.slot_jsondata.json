@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_CHF-PER-GM"
@@ -24,30 +24,36 @@
     "ucum_codes": [
         "[CHF]/g"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "eb7bf94c-cf1f-5e6f-94f5-f8e59be40476",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": -1
         },
         {
+            "uuid": "ce075e34-9fa3-5e21-bfd9-2b68e64a06f5",
+            "unit": "Item:OSWa01f8fa5e77a58a693c96e1904be1bd4",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f1044874-7b8c-5e55-b997-8254a88240a0",
             "osw_id": "Item:OSW9ab5a7ddbce4562d9b0e08071c93ddc2#OSWf10448747b8c5e55b9978254a88240a0",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "CHF/kg",
             "factor_units": [
                 {
+                    "uuid": "9c47b746-5ad2-54d0-af2e-77813648f0b5",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": -1
                 },
                 {
+                    "uuid": "d343f596-b13c-5d18-8cf6-bc7d32b6af34",
+                    "unit": "Item:OSWa01f8fa5e77a58a693c96e1904be1bd4",
                     "exponent": 1
                 }
             ]

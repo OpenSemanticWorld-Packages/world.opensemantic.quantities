@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-M3"
@@ -25,23 +25,25 @@
         "J.m-3",
         "J/m3"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "1806b4e6-6d7c-5292-aa4c-a55ade012001",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "1eea21c1-bf43-5e75-9410-56571dfa6add",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -3
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "7044da5b-a4b4-5554-b3ac-c6c6f3fc3624",
             "osw_id": "Item:OSW9ea4bf89c42b56728392f1c55639ac18#OSW7044da5ba4b45554b3acc6c6f3fc3624",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MJ/m³",
             "ucum_codes": [
@@ -49,9 +51,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "e6d41cb7-c5a5-5c89-96d8-eedb5640c9f9",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -3
                 },
                 {
+                    "uuid": "4dfc37ab-8320-50de-a7a9-3e6fb3871fc0",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
                     "exponent": 1
                 }
             ]

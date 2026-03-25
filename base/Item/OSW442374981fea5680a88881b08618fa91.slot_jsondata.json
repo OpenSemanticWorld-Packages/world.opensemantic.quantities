@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/L-PER-SEC"
@@ -25,23 +25,25 @@
         "L.s-1",
         "L/s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "cd666deb-b32d-51ee-81df-479361281410",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": 1
         },
         {
+            "uuid": "b9c2e532-f594-558d-8d82-0c483310fe04",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "eccc7ff4-b7f0-5e88-a8db-c293ddaebe33",
             "osw_id": "Item:OSW442374981fea5680a88881b08618fa91#OSWeccc7ff4b7f05e88a8dbc293ddaebe33",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "mL/s",
             "ucum_codes": [
@@ -50,9 +52,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "6d1da107-645a-51fd-96e2-ecb81b7c5d0c",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWc6b7a00b85e25b53a17ab4971acb4468",
                     "exponent": 1
                 },
                 {
+                    "uuid": "d9aedb7c-509a-5d2f-b52b-df2d40bf42ef",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 }
             ]

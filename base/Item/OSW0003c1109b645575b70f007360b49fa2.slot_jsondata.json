@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-PER-M"
@@ -25,23 +25,25 @@
         "Pa.m-1",
         "Pa/m"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "397bf465-b080-52a2-840d-dcbfcce45d3d",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -1
         },
         {
+            "uuid": "7f98fc1c-7da4-5844-8c3f-63acca0ce37e",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "99601f47-0fd4-5cfd-b121-2116828089a1",
             "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSW99601f470fd45cfdb1212116828089a1",
-            "conversion_factor_to_main_unit": 1e-15,
             "conversion_factor_from_si": 1e-15,
             "main_symbol": "pPa/km",
             "ucum_codes": [
@@ -50,20 +52,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "8f248371-5f2d-59d2-b3ed-d98ae411ca21",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb1de8f91f1275572b37c2edfe40d5de6",
                     "exponent": -1
                 },
                 {
+                    "uuid": "9d574536-b16d-5178-951d-932693fa7cf3",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSWb6e132d328e152e9865728688c349589",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "a1f0f30c-dd0c-5e6a-898e-05fc76e109ad",
             "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWa1f0f30cdd0c5e6a898e05fc76e109ad",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "kPa/mm",
             "ucum_codes": [
@@ -71,20 +76,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "30893b1e-4335-5d82-9db9-d5c4b389e947",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
                     "exponent": -1
                 },
                 {
+                    "uuid": "1842bf9c-f4c6-5aa2-bcbf-e7f21259e63a",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW264ebdc21f54568593a91bbd832b6fbf",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "d4588382-274f-5562-bb8a-e501d79a9a7b",
             "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWd4588382274f5562bb8ae501d79a9a7b",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mPa/m",
             "ucum_codes": [
@@ -93,20 +101,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "8e0330cd-5aac-52d6-9d4d-ccf8b43c0ac6",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -1
                 },
                 {
+                    "uuid": "4c7dc1a0-059b-5bc7-a8ea-ace1f18f3fd5",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW38b0e12539b05ce28cd126c8eea29f95",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "dbc16d30-4ae0-5714-ba10-f091cf23016f",
             "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWdbc16d304ae05714ba10f091cf23016f",
-            "conversion_factor_to_main_unit": 100.0,
             "conversion_factor_from_si": 100.0,
             "main_symbol": "hPa/m",
             "ucum_codes": [
@@ -114,20 +125,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "a50ff52c-ee57-5763-81c6-2de4799796ef",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -1
                 },
                 {
+                    "uuid": "54a78888-7d34-54e7-90a4-fca6fd8b20b8",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "de57b565-a8ad-5f50-8b6f-7c24f3f98db6",
             "osw_id": "Item:OSW0003c1109b645575b70f007360b49fa2#OSWde57b565a8ad5f508b6f7c24f3f98db6",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kPa/m",
             "ucum_codes": [
@@ -135,9 +149,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "7825fea7-cbd4-5a5c-8087-f7862adaf62f",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -1
                 },
                 {
+                    "uuid": "e6a1b888-3c32-508e-adfe-271a3908f819",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW264ebdc21f54568593a91bbd832b6fbf",
                     "exponent": 1
                 }
             ]

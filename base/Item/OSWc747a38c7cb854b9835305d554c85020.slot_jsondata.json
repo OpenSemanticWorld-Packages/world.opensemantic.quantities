@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_EUR-PER-KiloW"
@@ -21,12 +21,15 @@
     ],
     "main_symbol": "€/kW",
     "conversion_factor_from_si": 0.001,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "33ac8298-63a8-58c2-aae3-f03ac35710b0",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
             "exponent": -1
         },
         {
+            "uuid": "a7fc29df-ec1a-5ca8-9ed4-296036bbaa77",
+            "unit": "Item:OSWfe3f764ca32556608ba833e1af11f93b",
             "exponent": 1
         }
     ]

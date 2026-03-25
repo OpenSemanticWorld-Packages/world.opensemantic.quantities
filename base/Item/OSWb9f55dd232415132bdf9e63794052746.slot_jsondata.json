@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-K"
@@ -18,23 +18,25 @@
     "ucum_codes": [
         "m3.K-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "86aa9603-851d-5129-bfe8-95eef5f4f9fb",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         },
         {
+            "uuid": "48e9890e-ba74-5974-916b-d514d0591125",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 3
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "554b5cf2-e310-542f-848f-9522a4f34f70",
             "osw_id": "Item:OSWb9f55dd232415132bdf9e63794052746#OSW554b5cf2e310542f848f9522a4f34f70",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "cm³/K",
             "ucum_codes": [
@@ -43,9 +45,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "3422b24e-b57a-592b-bfa9-6c56bb35cb6e",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": 3
                 },
                 {
+                    "uuid": "6a268eb3-b34d-5ccf-becc-c710df152026",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 }
             ]

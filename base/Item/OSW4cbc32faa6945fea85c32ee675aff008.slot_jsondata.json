@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GRAY-PER-SEC"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "Gy.s-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "937c4109-9b8e-5915-8759-22f6fa4ac629",
+            "unit": "Item:OSW9b727edc3b7a5d4f8ae4523e35d3d045",
             "exponent": 1
         },
         {
+            "uuid": "3f58e4cc-4377-5c6a-85c6-e93427772b73",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "6088cd1a-185e-5d31-b1d7-29ad0a92fb6f",
             "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSW6088cd1a185e5d31b1d729ad0a92fb6f",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μGy/s",
             "ucum_codes": [
@@ -48,20 +50,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "0c4718e1-fbe0-57f2-a501-950924497c8b",
+                    "unit": "Item:OSW9b727edc3b7a5d4f8ae4523e35d3d045#OSW6e0ffe45c22c509b8beb8814fe6b5b93",
                     "exponent": 1
                 },
                 {
+                    "uuid": "5b97d40b-5193-5075-9fee-b8f40685dab9",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "86223c99-c5b9-5262-86e5-d678a64433c9",
             "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSW86223c99c5b9526286e5d678a64433c9",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mGy/s",
             "ucum_codes": [
@@ -70,27 +75,34 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "9fb08730-e074-51af-b5d7-2640341d0125",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "1abb0c84-dce2-56ab-8ae9-a5817b14463b",
+                    "unit": "Item:OSW9b727edc3b7a5d4f8ae4523e35d3d045#OSW7cfb1c8eb59c5065814881811a44fa09",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "dcecfcf6-08a8-5007-bcd9-2a4bd2ffe300",
             "osw_id": "Item:OSW4cbc32faa6945fea85c32ee675aff008#OSWdcecfcf608a85007bcd92a4bd2ffe300",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
             "main_symbol": "nGy/s",
             "factor_units": [
                 {
+                    "uuid": "f40b0ed8-a86c-5a2a-850a-5043b60af95c",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "a9254d76-1724-5718-8c26-a39c910104a5",
+                    "unit": "Item:OSW9b727edc3b7a5d4f8ae4523e35d3d045#OSW3f640ac4a8225bfda56d9480d803e1d3",
                     "exponent": 1
                 }
             ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-HZ4"
@@ -18,12 +18,15 @@
     "ucum_codes": [
         "m2.Hz4"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "3f297ad2-2ea8-5728-b57b-b64a0dcaec3f",
+            "unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
             "exponent": 4
         },
         {
+            "uuid": "a19716f7-1d12-5891-bc73-b7023a976d1b",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         }
     ]

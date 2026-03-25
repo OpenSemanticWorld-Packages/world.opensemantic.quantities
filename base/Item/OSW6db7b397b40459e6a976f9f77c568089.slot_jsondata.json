@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/TONNE-PER-YR"
@@ -25,23 +25,25 @@
         "t.a-1",
         "t/a"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "9ba5bbf2-7ec2-5fca-ae2d-7314c5cf6ab8",
+            "unit": "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7",
             "exponent": -1
         },
         {
+            "uuid": "9bdbccec-a442-543c-b596-23659ee292df",
+            "unit": "Item:OSW12c412031b9556848d70154dca0e1d13",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ca073491-ff03-557f-9405-4c2212cb8275",
             "osw_id": "Item:OSW6db7b397b40459e6a976f9f77c568089#OSWca073491ff03557f94054c2212cb8275",
-            "conversion_factor_to_main_unit": 1000.0000000000001,
             "conversion_factor_from_si": 0.03168808781402895,
             "main_symbol": "kt/a",
             "ucum_codes": [
@@ -49,20 +51,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "c590c643-eb1f-5e5d-99ea-ac72cd768e78",
+                    "unit": "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7",
                     "exponent": -1
                 },
                 {
+                    "uuid": "8420080d-27fa-5f3b-b24d-8cb76ab2e262",
+                    "unit": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW91cff6030e175ccc8d30cd02e0354fa9",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "d3f15570-8933-55cd-8d56-d0f7b5cc31a5",
             "osw_id": "Item:OSW6db7b397b40459e6a976f9f77c568089#OSWd3f15570893355cd8d56d0f7b5cc31a5",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 31.68808781402895,
             "main_symbol": "Mt/a",
             "ucum_codes": [
@@ -70,9 +75,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "76eb64a0-dd49-5ba2-a842-c1a33f2db46a",
+                    "unit": "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7",
                     "exponent": -1
                 },
                 {
+                    "uuid": "73b39577-41ce-5aea-a51d-4894442462eb",
+                    "unit": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW3c968aef59905569bee1a089ac35fe04",
                     "exponent": 1
                 }
             ]

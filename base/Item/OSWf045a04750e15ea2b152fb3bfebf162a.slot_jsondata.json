@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-SEC"
@@ -28,23 +28,25 @@
     "ucum_codes": [
         "J.s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "32fac362-b7b8-5ba9-8757-ff1f697d33a2",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "a36b4bed-45ed-5bcf-94f5-2e211ff62939",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "3eaa66dd-20f8-56fe-9a5c-4199bc0a1ea4",
             "osw_id": "Item:OSWf045a04750e15ea2b152fb3bfebf162a#OSW3eaa66dd20f856fe9a5c4199bc0a1ea4",
-            "conversion_factor_to_main_unit": 1e-18,
             "conversion_factor_from_si": 1e-18,
             "main_symbol": "aJ·s",
             "ucum_codes": [
@@ -52,9 +54,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "0116de58-48f6-5f4c-a008-4acb5ba19f5c",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": 1
                 },
                 {
+                    "uuid": "3571b516-8a8b-587c-a664-14058907c0d3",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWa73c696efa58519aa07c265ea965ceda",
                     "exponent": 1
                 }
             ]

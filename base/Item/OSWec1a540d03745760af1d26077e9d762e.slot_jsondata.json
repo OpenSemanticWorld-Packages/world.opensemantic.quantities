@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/A-PER-CentiM2"
@@ -25,12 +25,15 @@
         "A.cm-2",
         "A/cm2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "1d3641be-8d43-503e-89ac-ab17920747bb",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
             "exponent": -2
         },
         {
+            "uuid": "bcdb1e8a-694a-5bd0-bacc-ca7cb12472df",
+            "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
             "exponent": 1
         }
     ]

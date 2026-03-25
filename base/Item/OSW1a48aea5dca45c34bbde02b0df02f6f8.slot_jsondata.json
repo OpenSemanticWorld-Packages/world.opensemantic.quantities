@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-DeciL"
@@ -25,12 +25,15 @@
         "g.dL-1",
         "g/dL"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "344dd3c0-5b29-5065-b223-0e0c8c2b9e8c",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "9c13517a-444f-5079-8fc1-25c12c6c55c8",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSW7f6097771a92522cae5ca049c24391c1",
             "exponent": -1
         }
     ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-PA-SEC"
@@ -18,12 +18,15 @@
     "ucum_codes": [
         "Pa-1.s-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "b1e9b642-3796-5b5d-a70d-3d388852710f",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": -1
         },
         {
+            "uuid": "318e6c62-52d5-5953-8de6-4946e4f7b6ca",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ]

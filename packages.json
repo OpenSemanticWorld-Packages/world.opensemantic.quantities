@@ -13,7 +13,7 @@
             "globalID": "world.opensemantic.quantities",
             "label": "OSW Quantities",
             "description": "Contains fundamental (physical) quantities, units and prefixes",
-            "version": "0.2.0",
+            "version": "0.3.0",
             "requiredPackages": [
                 "world.opensemantic.core"
             ],
@@ -80,22 +80,22 @@
                     }
                 },
                 {
-                    "name": "OSW268cc84d3dff4a7ba5fd489d53254cb0",
-                    "label": "ComposedQuantityUnitWithUnitPrefix",
+                    "name": "OSW6c2aea028a8647cd97f5d7c65c09cd44",
+                    "label": "ComposedUnit",
                     "namespace": "NS_CATEGORY",
-                    "urlPath": "Category/OSW268cc84d3dff4a7ba5fd489d53254cb0.slot_main.wikitext",
+                    "urlPath": "Category/OSW6c2aea028a8647cd97f5d7c65c09cd44.slot_main.wikitext",
                     "slots": {
                         "footer": {
-                            "urlPath": "Category/OSW268cc84d3dff4a7ba5fd489d53254cb0.slot_footer.wikitext"
+                            "urlPath": "Category/OSW6c2aea028a8647cd97f5d7c65c09cd44.slot_footer.wikitext"
                         },
                         "header": {
-                            "urlPath": "Category/OSW268cc84d3dff4a7ba5fd489d53254cb0.slot_header.wikitext"
+                            "urlPath": "Category/OSW6c2aea028a8647cd97f5d7c65c09cd44.slot_header.wikitext"
                         },
                         "jsondata": {
-                            "urlPath": "Category/OSW268cc84d3dff4a7ba5fd489d53254cb0.slot_jsondata.json"
+                            "urlPath": "Category/OSW6c2aea028a8647cd97f5d7c65c09cd44.slot_jsondata.json"
                         },
                         "jsonschema": {
-                            "urlPath": "Category/OSW268cc84d3dff4a7ba5fd489d53254cb0.slot_jsonschema.json"
+                            "urlPath": "Category/OSW6c2aea028a8647cd97f5d7c65c09cd44.slot_jsonschema.json"
                         }
                     }
                 },

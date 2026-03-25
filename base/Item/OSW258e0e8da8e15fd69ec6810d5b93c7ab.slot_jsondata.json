@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/K-SEC"
@@ -18,12 +18,15 @@
     "ucum_codes": [
         "K.s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f19afe64-edba-5e18-abcb-d83ff4ee5cd1",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": 1
         },
         {
+            "uuid": "8d0990e9-6fa0-5903-ba29-ad6a4e7b3e51",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 1
         }
     ]

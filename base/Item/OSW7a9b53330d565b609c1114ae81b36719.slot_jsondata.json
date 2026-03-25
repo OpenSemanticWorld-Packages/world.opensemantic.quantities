@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-PER-GM"
@@ -25,26 +25,30 @@
         "N.m.g-1",
         "N.m/g"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "2baa07a8-c570-5a09-ad78-f15e768e26e2",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "32c9ce72-3a7e-5c78-a697-21bf041c494d",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         },
         {
+            "uuid": "44cac309-f5cd-5fa2-b98e-8c55ccea872a",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "5c3bc74f-490f-59b8-9844-1d2863f5e961",
             "osw_id": "Item:OSW7a9b53330d565b609c1114ae81b36719#OSW5c3bc74f490f59b898441d2863f5e961",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "N·m/kg",
             "ucum_codes": [
@@ -53,12 +57,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "bf484ecf-192f-57a6-a429-307cadd2bb2a",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": 1
                 },
                 {
+                    "uuid": "82e9733f-2785-5ca7-ae66-9fcada5ca752",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
                     "exponent": 1
                 },
                 {
+                    "uuid": "8c9418c1-fb4e-5beb-8475-67c45539ceb5",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": -1
                 }
             ]

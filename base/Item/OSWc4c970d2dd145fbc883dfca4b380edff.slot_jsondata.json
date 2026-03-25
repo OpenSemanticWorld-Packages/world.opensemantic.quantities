@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/LM-SEC"
@@ -24,12 +24,15 @@
     "ucum_codes": [
         "lm.s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "d7cc2ff2-68c2-5a62-82c5-d6181d6d9602",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 1
         },
         {
+            "uuid": "6ec051cc-ff2f-51b8-82c1-11d6e9e9fd0b",
+            "unit": "Item:OSW24fcc1bb84db5b3b951db598cddc1319",
             "exponent": 1
         }
     ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/BQ-PER-L"
@@ -25,23 +25,25 @@
         "Bq.L-1",
         "Bq/L"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f17e9314-bcdd-5ba9-bce0-28bb438c11b1",
+            "unit": "Item:OSW06027f437dd357449795ec4d0e001467",
             "exponent": 1
         },
         {
+            "uuid": "63dec3c2-a1ca-5766-8049-52d2ecfd951b",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0ac5a24d-6907-5e45-80b8-8126796660ea",
             "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSW0ac5a24d69075e4580b88126796660ea",
-            "conversion_factor_to_main_unit": 9.999999999999999e-10,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "nBq/L",
             "ucum_codes": [
@@ -50,20 +52,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "c707f04f-d9a4-59c6-b550-97e59c43906a",
+                    "unit": "Item:OSW06027f437dd357449795ec4d0e001467#OSW99f5ef542438535da66f86b2f237ad6c",
                     "exponent": 1
                 },
                 {
+                    "uuid": "43cb3774-439c-54c2-82d8-08b0e9d698e6",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "5ca6e9dc-c49f-53d6-921d-b368597bdc2a",
             "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSW5ca6e9dcc49f53d6921db368597bdc2a",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "mBq/L",
             "ucum_codes": [
@@ -72,20 +77,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "573224b9-caa0-5fa8-8ad9-aeb2484afa2d",
+                    "unit": "Item:OSW06027f437dd357449795ec4d0e001467#OSW9607f6e5f4b15b59a05bfea6168d375e",
                     "exponent": 1
                 },
                 {
+                    "uuid": "29628b13-1efd-56e4-a5b7-9da23d1b97b2",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ea37c502-2a28-5510-8938-0a9351fb06a6",
             "osw_id": "Item:OSWbb252cb7b9505d5c9369be8da21e274d#OSWea37c5022a28551089380a9351fb06a6",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "μBq/L",
             "ucum_codes": [
@@ -94,9 +102,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "bab0ed34-c2bb-53d7-bf7b-59c62c01e526",
+                    "unit": "Item:OSW06027f437dd357449795ec4d0e001467#OSWef0f2e23f0715f4ba318816bc556b062",
                     "exponent": 1
                 },
                 {
+                    "uuid": "b4dca5bf-d73a-5abf-ae3a-54c82120caa7",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
                     "exponent": -1
                 }
             ]

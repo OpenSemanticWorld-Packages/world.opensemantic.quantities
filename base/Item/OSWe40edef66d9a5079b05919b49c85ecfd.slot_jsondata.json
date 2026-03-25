@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-MOL"
@@ -25,23 +25,25 @@
         "mol.mol-1",
         "mol/mol"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "63d801e6-78ee-5057-93d9-ba2c5279fea0",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": -1
         },
         {
+            "uuid": "5ba0fe11-2d50-5124-82b8-3d26099babdb",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "3e8c3b40-71a2-534d-a3a3-5239cce2d24c",
             "osw_id": "Item:OSWe40edef66d9a5079b05919b49c85ecfd#OSW3e8c3b4071a2534da3a35239cce2d24c",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μmol/mol",
             "ucum_codes": [
@@ -50,20 +52,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "33a447aa-2659-55f1-aa9e-a246b420a367",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316",
                     "exponent": -1
                 },
                 {
+                    "uuid": "c1c2649f-01e8-5601-8524-3f4b17cb810c",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW1d4f11a4a1425dba81c9dac510278967",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "a5fd0a4f-17c2-5174-9e8d-e6ff0fa59ed9",
             "osw_id": "Item:OSWe40edef66d9a5079b05919b49c85ecfd#OSWa5fd0a4f17c251749e8de6ff0fa59ed9",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "nmol/μmol",
             "ucum_codes": [
@@ -72,20 +77,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "85048549-f18d-5a0c-a884-c25ad3b388a9",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSWa67f18f1934b5256b2ec2f4f3e7200e7",
                     "exponent": 1
                 },
                 {
+                    "uuid": "c709d79a-1551-571d-9b04-b9162230fa2f",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW1d4f11a4a1425dba81c9dac510278967",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ef5a71e2-9563-5c2a-b228-ad67c561ed8a",
             "osw_id": "Item:OSWe40edef66d9a5079b05919b49c85ecfd#OSWef5a71e295635c2ab228ad67c561ed8a",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mmol/mol",
             "ucum_codes": [
@@ -94,9 +102,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "cb089617-e472-55b8-b725-bdb8114bd123",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW09461c4b2fa85ab683a3572a199ef16b",
                     "exponent": 1
                 },
                 {
+                    "uuid": "cb3b1629-06f7-5c0d-8cbc-9c3b7ababf6f",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316",
                     "exponent": -1
                 }
             ]

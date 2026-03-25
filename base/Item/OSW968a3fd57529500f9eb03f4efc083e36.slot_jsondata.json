@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-MOL"
@@ -25,23 +25,25 @@
         "g.mol-1",
         "g/mol"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "57e9b58d-ef98-5130-b5a1-837a98932f53",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "783ae79c-a577-566f-8532-7b8ceae57d67",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "31a2c5ae-09d1-578a-8432-67fef44c2cdb",
             "osw_id": "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW31a2c5ae09d1578a843267fef44c2cdb",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "kg/mol",
             "ucum_codes": [
@@ -50,20 +52,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "9806a1fd-57b8-5dbd-838b-4b1044aed278",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 },
                 {
+                    "uuid": "ce4e2a2e-f4ca-509b-9681-5788f9497d98",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "4c27839f-7cd4-587c-a5e6-f44b592e5922",
             "osw_id": "Item:OSW968a3fd57529500f9eb03f4efc083e36#OSW4c27839f7cd4587ca5e6f44b592e5922",
-            "conversion_factor_to_main_unit": 1.0,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "kg/kmol",
             "ucum_codes": [
@@ -72,9 +77,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "c3163f6d-de2c-5c1c-bfdf-cda61e721bae",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 },
                 {
+                    "uuid": "e736c05d-0267-5fb7-9342-915907819d61",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW2971b3cb7eca516184282ecfa45bfb81",
                     "exponent": -1
                 }
             ]

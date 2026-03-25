@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-IN2"
@@ -25,23 +25,25 @@
         "g.in-2",
         "g/in2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "267ac384-483b-57fd-a2f2-cac5650ddaa6",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "cbe4a00a-8dbb-5bfe-979f-b1493df43c7e",
+            "unit": "Item:OSWcd8cc2fb1a585afc83e49814bf59cc23",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "6a81c11d-aa08-5e04-bbe8-555c344c2a95",
             "osw_id": "Item:OSW0a5e73cf501255db97b4c71f3c964231#OSW6a81c11daa085e04bbe8555c344c2a95",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1.5500031000062e-06,
             "main_symbol": "μg/in²",
             "ucum_codes": [
@@ -50,9 +52,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "2ec7f6a0-e061-5d66-af7e-f1f59e8e6d87",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc9a377f2fa5d5e16bcf2404f8a7a3645",
                     "exponent": 1
                 },
                 {
+                    "uuid": "ad8db3a2-7477-547c-91b1-97191f10ba1b",
+                    "unit": "Item:OSWcd8cc2fb1a585afc83e49814bf59cc23",
                     "exponent": -2
                 }
             ]

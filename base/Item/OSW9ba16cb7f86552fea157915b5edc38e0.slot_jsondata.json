@@ -31,6 +31,7 @@
             "osw_id": "Item:OSW9ba16cb7f86552fea157915b5edc38e0#OSWceaad9b0ddf75bf49abc5335b3b688c5",
             "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW0233713899ac5165aed5ad1dfc7c1454",
             "prefix_symbol": "G",
             "main_symbol": "Gbp"
         }

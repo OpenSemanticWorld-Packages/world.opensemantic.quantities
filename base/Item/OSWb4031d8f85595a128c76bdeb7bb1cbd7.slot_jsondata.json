@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-M-PER-MOL"
@@ -25,15 +25,20 @@
         "J.m.mol-1",
         "J.m/mol"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "9ce8b54b-971d-5f62-996f-871764114a12",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "1eba2510-1fe3-562c-9a67-e1f70a95db65",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "5143c242-6ccb-56f1-b728-93e5b650af07",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": -1
         }
     ]

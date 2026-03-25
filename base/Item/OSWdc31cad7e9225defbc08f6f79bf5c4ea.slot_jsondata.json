@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-PER-M2-K"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "W.m-2.K-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "70f02fc7-ab13-577a-b559-379fe588a521",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "50f8b2f9-6c14-563f-a42f-d3e36dd9dd94",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         },
         {
+            "uuid": "bae767ee-e796-5474-bec2-206a1f6d7868",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "af1a4c61-c7a5-5cec-98c7-63cb39935ed3",
             "osw_id": "Item:OSWdc31cad7e9225defbc08f6f79bf5c4ea#OSWaf1a4c61c7a55cec98c763cb39935ed3",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kW/(m²·K)",
             "ucum_codes": [
@@ -51,12 +55,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "65ec487f-f3bb-50a4-9034-87bb41b52668",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 },
                 {
+                    "uuid": "01a8c746-d176-5884-bc5d-8cfde13a86d2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "0ea7889a-c2f2-520c-8900-f23140109f82",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
                     "exponent": 1
                 }
             ]

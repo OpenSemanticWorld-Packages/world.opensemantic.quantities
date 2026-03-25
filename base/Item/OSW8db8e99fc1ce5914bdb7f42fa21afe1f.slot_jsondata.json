@@ -34,6 +34,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW29829be3cfe15b41872f17c8d6a6703f",
             "conversion_factor_to_main_unit": 1000000000000000.0,
             "conversion_factor_from_si": 693147180559945.2,
+            "prefix": "Item:OSW66e858c7709454eebc2f0fc2c799dcfd",
             "prefix_symbol": "P",
             "main_symbol": "Pb"
         },
@@ -45,6 +46,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW3e10c0ec91b95dcd875980c5570caa32",
             "conversion_factor_to_main_unit": 1.5292150460684698e+17,
             "conversion_factor_from_si": 1.0599710976522067e+17,
+            "prefix": "Item:OSW75402fa307d358d3b4ac536489decd4b",
             "prefix_symbol": "Ei",
             "main_symbol": "Eib"
         },
@@ -56,6 +58,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW52d866ae576c5ea1a642c3a62bc07d36",
             "conversion_factor_to_main_unit": 1099511627776.0,
             "conversion_factor_from_si": 762123384785.8104,
+            "prefix": "Item:OSWa473c77fea7050b195803fccdc8645cf",
             "prefix_symbol": "Ti",
             "main_symbol": "Tib"
         },
@@ -67,6 +70,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW5cea3c72bbce533b9a539e20bc5b888b",
             "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 693147.1805599453,
+            "prefix": "Item:OSW2bbb5b69a5c85c46a58a782436bf34e9",
             "prefix_symbol": "M",
             "main_symbol": "Mb"
         },
@@ -78,6 +82,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW5f2dc6682bff5c29ba358c256f76dbdd",
             "conversion_factor_to_main_unit": 1024.0,
             "conversion_factor_from_si": 709.782712893384,
+            "prefix": "Item:OSW92280c9fe63352e6a59b573f062dad63",
             "prefix_symbol": "Ki",
             "main_symbol": "Kib"
         },
@@ -89,6 +94,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSW9bfb1f563c795551b120b81aee334a1c",
             "conversion_factor_to_main_unit": 1000.0000000000001,
             "conversion_factor_from_si": 693.1471805599454,
+            "prefix": "Item:OSW7e48f2b8d6b656f18b74320902117b6f",
             "prefix_symbol": "k",
             "main_symbol": "kb"
         },
@@ -100,6 +106,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWbb65f7727d57539da58298d206e81536",
             "conversion_factor_to_main_unit": 1.0000000000000001e+18,
             "conversion_factor_from_si": 6.931471805599453e+17,
+            "prefix": "Item:OSW7f6a560416f351759c593cd72bcfe5c1",
             "prefix_symbol": "E",
             "main_symbol": "Eb"
         },
@@ -111,6 +118,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWc75fce7992485963b57ef0cfac41629d",
             "conversion_factor_to_main_unit": 1000000000.0000001,
             "conversion_factor_from_si": 693147180.5599453,
+            "prefix": "Item:OSW0233713899ac5165aed5ad1dfc7c1454",
             "prefix_symbol": "G",
             "main_symbol": "Gb"
         },
@@ -122,6 +130,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWcee86d4c2c9d5dc58996ffffdd61574d",
             "conversion_factor_to_main_unit": 125899906842624.0,
             "conversion_factor_from_si": 87267165460724.6,
+            "prefix": "Item:OSW545ebc533be551b4ba6c81d399d73176",
             "prefix_symbol": "Pi",
             "main_symbol": "Pib"
         },
@@ -133,6 +142,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWe1e9720fb8a7555a93f142fdba50bda8",
             "conversion_factor_to_main_unit": 1073741824.0,
             "conversion_factor_from_si": 744261117.954893,
+            "prefix": "Item:OSW76465a17a9d05019996962336fa5d098",
             "prefix_symbol": "Gi",
             "main_symbol": "Gib"
         },
@@ -144,6 +154,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWf5016b254a37592b8ea1acfc4a340303",
             "conversion_factor_to_main_unit": 1000000000000.0,
             "conversion_factor_from_si": 693147180559.9453,
+            "prefix": "Item:OSW67a0d1b9395b5296a49d87a4e78684a5",
             "prefix_symbol": "T",
             "main_symbol": "Tb"
         },
@@ -155,6 +166,7 @@
             "osw_id": "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f#OSWfabc6224737a5f35b831471cf367fc1d",
             "conversion_factor_to_main_unit": 1048576.0,
             "conversion_factor_from_si": 726817.4980028252,
+            "prefix": "Item:OSW5ba63b9bfffd50028798b619b6ba2b0b",
             "prefix_symbol": "Mi",
             "main_symbol": "Mib"
         }

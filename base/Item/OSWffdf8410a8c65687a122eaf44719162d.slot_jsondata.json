@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-KiloGM"
@@ -25,12 +25,15 @@
         "J.kg-1",
         "J/kg"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "95380468-0b64-5123-ad70-ed2b65e9af24",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "6899a57c-9a72-51f6-b9eb-28cfe5a0144f",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
             "exponent": -1
         }
     ]

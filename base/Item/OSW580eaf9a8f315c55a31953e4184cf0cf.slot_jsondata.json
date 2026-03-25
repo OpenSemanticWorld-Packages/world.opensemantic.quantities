@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/L-PER-L"
@@ -25,23 +25,25 @@
         "L.L-1",
         "L/L"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "8b1115f0-b144-5ff4-ac8c-73dbd6d4da62",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": -1
         },
         {
+            "uuid": "15274657-06fa-5b49-b305-568065183ee8",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "a40bae6f-bf9b-5845-8d3b-400434b85103",
             "osw_id": "Item:OSW580eaf9a8f315c55a31953e4184cf0cf#OSWa40bae6fbf9b58458d3b400434b85103",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mL/L",
             "ucum_codes": [
@@ -50,20 +52,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "0e9d1d3c-9f4b-5508-a7fa-0f42afe67ecf",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
                     "exponent": -1
                 },
                 {
+                    "uuid": "b311aab3-8175-52b9-9304-7db564ccec51",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWc6b7a00b85e25b53a17ab4971acb4468",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "b2c63d9b-c847-5e67-96ed-73643fe4422c",
             "osw_id": "Item:OSW580eaf9a8f315c55a31953e4184cf0cf#OSWb2c63d9bc8475e6796ed73643fe4422c",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μL/L",
             "ucum_codes": [
@@ -72,9 +77,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "fa063434-78c5-5404-ba25-1f8d53b068dd",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWac2041b72b4156a3beb3b476c343c496",
                     "exponent": 1
                 },
                 {
+                    "uuid": "6f7b373f-da6d-53ef-81b8-d1b5af61b3a0",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
                     "exponent": -1
                 }
             ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_CHF-PER-KiloW-HR"
@@ -21,15 +21,20 @@
     ],
     "main_symbol": "CHF/(kW·h)",
     "conversion_factor_from_si": 2.7777777777777776e-07,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "eb50e29c-294f-561f-ab1b-2bc392bbbcf8",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
             "exponent": -1
         },
         {
+            "uuid": "85ebe92b-ac6e-581b-a3a0-f74c5dfa696a",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         },
         {
+            "uuid": "4780eeb2-04c0-57b4-8e46-04383af5f18b",
+            "unit": "Item:OSWa01f8fa5e77a58a693c96e1904be1bd4",
             "exponent": 1
         }
     ]

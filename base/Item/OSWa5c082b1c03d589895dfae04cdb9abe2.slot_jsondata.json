@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-SEC2"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "g.s2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "26c308c6-caac-5441-a84b-dba8ce6e3a98",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "2e8ff275-69b6-569e-8d07-f4553c67bca5",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "66776d5b-638e-57f3-be06-7e95ebee634c",
             "osw_id": "Item:OSWa5c082b1c03d589895dfae04cdb9abe2#OSW66776d5b638e57f3be067e95ebee634c",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "kg·s²",
             "ucum_codes": [
@@ -48,9 +50,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "47dd9bdf-b75f-5bf8-92f2-59939bbe8beb",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 },
                 {
+                    "uuid": "a9512cc5-ee24-57bd-82af-c60eb78e50cf",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": 2
                 }
             ]

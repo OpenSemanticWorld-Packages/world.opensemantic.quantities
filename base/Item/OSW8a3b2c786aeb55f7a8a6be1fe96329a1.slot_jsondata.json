@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-H"
@@ -25,9 +25,10 @@
         "/H",
         "H-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "4bca087f-23f1-5c6b-a7f4-14da80c918e9",
+            "unit": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2",
             "exponent": -1
         }
     ]

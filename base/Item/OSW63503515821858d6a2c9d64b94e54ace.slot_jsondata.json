@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/HZ-M"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "Hz.m"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "a13a5a2b-259b-543a-aad7-84a49d2089e7",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "4fddbc0b-cabc-57df-99f7-55ea116dd7aa",
+            "unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0a03c178-7bd7-5930-855f-22d98c7bd4cb",
             "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSW0a03c1787bd75930855f22d98c7bd4cb",
-            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
             "main_symbol": "GHz·m",
             "ucum_codes": [
@@ -48,20 +50,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "01a451b1-4a8f-50ef-8d42-46e3c348e88c",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": 1
                 },
                 {
+                    "uuid": "d8dd7f7b-d477-59a1-8676-c8b922843030",
+                    "unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSW37c66b2e350050d891107e427a1c0210",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "1a4d9f24-164c-50ba-8143-9e8a85b8f6b8",
             "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSW1a4d9f24164c50ba81439e8a85b8f6b8",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MHz·m",
             "ucum_codes": [
@@ -69,20 +74,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "265e5524-eadf-5b68-91c9-f07fb20898fe",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": 1
                 },
                 {
+                    "uuid": "2e973161-b6e3-5b7a-9912-f06821436c15",
+                    "unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ae889a06-480a-5a0b-a336-966fb1f19724",
             "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSWae889a06480a5a0ba336966fb1f19724",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kHz·m",
             "ucum_codes": [
@@ -90,27 +98,34 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "1fc00ed9-0c47-5685-b816-399b6bbe2a9f",
+                    "unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWfbbfa62ac8095c5bb37ea9f22ab121dd",
                     "exponent": 1
                 },
                 {
+                    "uuid": "b20eeb89-9d3c-513a-9ab4-5d4cdfc44b35",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "b4fb76f3-d2b8-5488-ba5d-8b45605b9965",
             "osw_id": "Item:OSW63503515821858d6a2c9d64b94e54ace#OSWb4fb76f3d2b85488ba5d8b45605b9965",
-            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
             "main_symbol": "MHz·km",
             "factor_units": [
                 {
+                    "uuid": "d014cdf4-563c-5e86-abe6-8ab5d0eb0da3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb1de8f91f1275572b37c2edfe40d5de6",
                     "exponent": 1
                 },
                 {
+                    "uuid": "3cee827f-13ca-59d6-a85a-4226db72f1b8",
+                    "unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
                     "exponent": 1
                 }
             ]

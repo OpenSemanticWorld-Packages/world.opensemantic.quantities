@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/DEG_C-M"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "Cel.m"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "902337ae-0a9a-5c64-be05-2b49a8ccb580",
+            "unit": "Item:OSWad04992cecb75af4be6f2205e791b42e",
             "exponent": 1
         },
         {
+            "uuid": "6daf05f1-b3c1-5f4f-9cf0-ed0110c78ef1",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ee2edc75-cdc3-59d4-8283-148ca38c583d",
             "osw_id": "Item:OSWbce601b25ce952adb01dd12d4ae15c2d#OSWee2edc75cdc359d48283148ca38c583d",
-            "conversion_factor_to_main_unit": 0.01,
             "conversion_factor_from_si": 0.01,
             "main_symbol": "°C·cm",
             "ucum_codes": [
@@ -48,9 +50,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "bee45b09-8c54-5d29-a9a9-5d3a4760b73d",
+                    "unit": "Item:OSWad04992cecb75af4be6f2205e791b42e",
                     "exponent": 1
                 },
                 {
+                    "uuid": "7f07fe9b-1bbd-54a7-b4b6-378c281ac517",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": 1
                 }
             ]

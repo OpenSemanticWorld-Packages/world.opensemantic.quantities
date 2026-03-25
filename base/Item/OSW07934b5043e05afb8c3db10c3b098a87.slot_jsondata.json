@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_DKK-PER-KiloW-HR"
@@ -21,15 +21,20 @@
     ],
     "main_symbol": "kr/(kW·h)",
     "conversion_factor_from_si": 2.7777777777777776e-07,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "951b8d6e-e416-533d-b30f-51d79ded4630",
+            "unit": "Item:OSW6fe7d312dca45fa099b398f0d87378fd",
             "exponent": 1
         },
         {
+            "uuid": "98b0df9a-436d-5d30-a08a-e324f800b571",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
             "exponent": -1
         },
         {
+            "uuid": "564acede-37fa-55a8-af3f-390a71a101f1",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         }
     ]

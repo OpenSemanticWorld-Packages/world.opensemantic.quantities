@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/LM-PER-W"
@@ -25,12 +25,15 @@
         "lm.W-1",
         "lm/W"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "19b74bf1-a695-59a5-8702-546775ed64af",
+            "unit": "Item:OSW24fcc1bb84db5b3b951db598cddc1319",
             "exponent": 1
         },
         {
+            "uuid": "7a803915-bbcc-5aae-a5b7-463930d93321",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": -1
         }
     ]

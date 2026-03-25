@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-T-SEC"
@@ -24,12 +24,15 @@
     "ucum_codes": [
         "T-1.s-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "041a5763-fd52-58fd-a52e-9b0c42f9bf7a",
+            "unit": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0",
             "exponent": -1
         },
         {
+            "uuid": "b67043fc-be7f-50f1-a6c3-333de945fe5e",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ]

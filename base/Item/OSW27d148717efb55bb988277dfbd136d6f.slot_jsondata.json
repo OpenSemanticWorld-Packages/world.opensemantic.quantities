@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/SV"
@@ -28,23 +28,25 @@
     "ucum_codes": [
         "Sv"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "fae738ae-af12-54aa-9d95-616e815eee10",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "1827fae5-8200-50b5-b5a4-e7b037dc2b09",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "27d14871-7efb-55bb-9882-77dfbd136d6f",
             "osw_id": "Item:OSW27d148717efb55bb988277dfbd136d6f#OSW27d148717efb55bb988277dfbd136d6f",
-            "conversion_factor_to_main_unit": 1.0,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "Sv",
             "ucum_codes": [
@@ -52,48 +54,85 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "fae738ae-af12-54aa-9d95-616e815eee10",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
                     "exponent": 1
                 },
                 {
+                    "uuid": "1827fae5-8200-50b5-b5a4-e7b037dc2b09",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "921781fc-1d8d-5753-bb4e-217fce342e3e",
             "osw_id": "Item:OSW27d148717efb55bb988277dfbd136d6f#OSW921781fc1d8d5753bb4e217fce342e3e",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mSv",
             "ucum_codes": [
                 "mSv"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "fae738ae-af12-54aa-9d95-616e815eee10",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "1827fae5-8200-50b5-b5a4-e7b037dc2b09",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
+                    "exponent": -1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "be7b1aea-b128-5591-8599-5f43b0448616",
             "osw_id": "Item:OSW27d148717efb55bb988277dfbd136d6f#OSWbe7b1aeab128559185995f43b0448616",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μSv",
             "ucum_codes": [
                 "uSv"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "fae738ae-af12-54aa-9d95-616e815eee10",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "1827fae5-8200-50b5-b5a4-e7b037dc2b09",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
+                    "exponent": -1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "e405624f-56cb-5809-8c66-e45a1e9dbf39",
             "osw_id": "Item:OSW27d148717efb55bb988277dfbd136d6f#OSWe405624f56cb58098c66e45a1e9dbf39",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
-            "main_symbol": "nSv"
+            "main_symbol": "nSv",
+            "factor_units": [
+                {
+                    "uuid": "fae738ae-af12-54aa-9d95-616e815eee10",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "1827fae5-8200-50b5-b5a4-e7b037dc2b09",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

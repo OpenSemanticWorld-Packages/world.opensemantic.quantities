@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA"
@@ -28,116 +28,207 @@
     "ucum_codes": [
         "Pa"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "a164c78b-6a94-5912-9fe1-5194c1d61a16",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         },
         {
+            "uuid": "2a6b86b0-c5ed-57aa-993a-ea584739e5f2",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0ec5bf81-32b2-5e58-b703-2766bd9b3225",
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MPa",
             "ucum_codes": [
                 "MPa"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "a164c78b-6a94-5912-9fe1-5194c1d61a16",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "2a6b86b0-c5ed-57aa-993a-ea584739e5f2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "264ebdc2-1f54-5685-93a9-1bbd832b6fbf",
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW264ebdc21f54568593a91bbd832b6fbf",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kPa",
             "ucum_codes": [
                 "kPa"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "a164c78b-6a94-5912-9fe1-5194c1d61a16",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "2a6b86b0-c5ed-57aa-993a-ea584739e5f2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "38b0e125-39b0-5ce2-8cd1-26c8eea29f95",
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW38b0e12539b05ce28cd126c8eea29f95",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mPa",
             "ucum_codes": [
                 "mPa"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "a164c78b-6a94-5912-9fe1-5194c1d61a16",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "2a6b86b0-c5ed-57aa-993a-ea584739e5f2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "482939f1-2359-5314-beca-39ad32d65a15",
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
-            "conversion_factor_to_main_unit": 100.0,
             "conversion_factor_from_si": 100.0,
             "main_symbol": "hPa",
             "ucum_codes": [
                 "hPa"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "a164c78b-6a94-5912-9fe1-5194c1d61a16",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "2a6b86b0-c5ed-57aa-993a-ea584739e5f2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "49bb4743-a573-5e18-9777-f3c6bd422a52",
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW49bb4743a5735e189777f3c6bd422a52",
-            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
             "main_symbol": "GPa",
             "ucum_codes": [
                 "GPa"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "a164c78b-6a94-5912-9fe1-5194c1d61a16",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "2a6b86b0-c5ed-57aa-993a-ea584739e5f2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "5def4be3-09ce-50ee-933c-99cf4b74e310",
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW5def4be309ce50ee933c99cf4b74e310",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μPa",
             "ucum_codes": [
                 "uPa"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "a164c78b-6a94-5912-9fe1-5194c1d61a16",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "2a6b86b0-c5ed-57aa-993a-ea584739e5f2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "8d40059d-9e39-51bb-9737-8fe3f119ba21",
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW8d40059d9e3951bb97378fe3f119ba21",
-            "conversion_factor_to_main_unit": 10.0,
             "conversion_factor_from_si": 10.0,
             "main_symbol": "daPa",
             "ucum_codes": [
                 "daPa"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "a164c78b-6a94-5912-9fe1-5194c1d61a16",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "2a6b86b0-c5ed-57aa-993a-ea584739e5f2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "b6e132d3-28e1-52e9-8657-28688c349589",
             "osw_id": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSWb6e132d328e152e9865728688c349589",
-            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
-            "main_symbol": "pPa"
+            "main_symbol": "pPa",
+            "factor_units": [
+                {
+                    "uuid": "a164c78b-6a94-5912-9fe1-5194c1d61a16",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "2a6b86b0-c5ed-57aa-993a-ea584739e5f2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
+            ]
         }
     ]
 }

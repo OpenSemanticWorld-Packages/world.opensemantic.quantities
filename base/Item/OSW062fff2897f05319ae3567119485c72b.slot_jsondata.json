@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-SEC-PER-M2"
@@ -18,15 +18,20 @@
     "ucum_codes": [
         "W.s.m-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "6a56670a-0179-519e-b567-7a1afd2e424a",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "6b7e3b26-2baa-5e48-ac33-1cfa41af2876",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 1
         },
         {
+            "uuid": "e1db6284-4709-5f59-be86-7b084c9782d6",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": 1
         }
     ]

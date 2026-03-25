@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-M2-DAY"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "g.m-2.d-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "39409d40-7974-5f30-9a9a-ac25155bdbcd",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "2579346b-129e-5c3c-b814-967364a2aad6",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "f16eb552-9ad7-5a45-ba32-7773e1ef275c",
+            "unit": "Item:OSWc90e307854c453be958300304ca8185e",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "41b282c4-f40a-53d1-b288-be6610a9133d",
             "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW41b282c4f40a53d1b288be6610a9133d",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.1574074074074073e-05,
             "main_symbol": "kg/(m²·d)",
             "ucum_codes": [
@@ -51,23 +55,28 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "77279abc-a87c-5989-b9d2-a61c0a8e712d",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "065d06aa-0775-504b-8ba8-4e834475aab2",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 },
                 {
+                    "uuid": "adb6f9f2-20dc-5e6a-8a77-ec07dbdec54d",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "93a70588-ce30-5c56-aa1c-3d6417632649",
             "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSW93a70588ce305c56aa1c3d6417632649",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.1574074074074074e-11,
             "main_symbol": "mg/(m²·d)",
             "ucum_codes": [
@@ -75,23 +84,28 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "c8a5726f-fce7-5092-977e-2c75cbca7264",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW203cd6c3e616540cb3c6dad0ff389725",
                     "exponent": 1
                 },
                 {
+                    "uuid": "fbc3d4f5-9d43-592b-bd06-08517e32c5c7",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 },
                 {
+                    "uuid": "96e282e4-5559-5111-88a4-bfa24e32ea70",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ae40efaa-2476-50f3-8362-d522eabf49ca",
             "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWae40efaa247650f38362d522eabf49ca",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1.1574074074074074e-14,
             "main_symbol": "μg/(m²·d)",
             "ucum_codes": [
@@ -99,23 +113,28 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "4900d1cc-0b02-5443-8695-4a85585670e1",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 },
                 {
+                    "uuid": "f20c8931-ff5b-5759-b35a-e2bbea8ff9e2",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "35907224-464f-539b-9ff2-c172f39ba805",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc9a377f2fa5d5e16bcf2404f8a7a3645",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "b4fb60e1-90df-5726-81fb-d988fd44a5c4",
             "osw_id": "Item:OSWb2902ae1df0b561682bfc174af5ff039#OSWb4fb60e190df572681fbd988fd44a5c4",
-            "conversion_factor_to_main_unit": 9.999999999999999e-06,
             "conversion_factor_from_si": 1.1574074074074073e-13,
             "main_symbol": "ng/(cm²·d)",
             "ucum_codes": [
@@ -123,12 +142,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "0b14386f-78bb-5171-aae7-1d40b28f1e71",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc82356a0512e545fa594c0454498cd0a",
                     "exponent": 1
                 },
                 {
+                    "uuid": "219f8a86-87dd-594d-a08d-e5abba2cd8a3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": -2
                 },
                 {
+                    "uuid": "41211692-7495-5d62-9d70-0035b0c1268c",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 }
             ]

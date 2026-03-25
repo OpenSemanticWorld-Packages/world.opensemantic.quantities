@@ -1,0 +1,349 @@
+{
+    "@context": [
+        {
+            "qudt": "http://qudt.org/schema/qudt/",
+            "composed_units": "Property:HasComposedUnit",
+            "conversion_factor_from_si": "Property:HasConversionFactorFromSI",
+            "factor_units": {
+                "@id": "qudt:hasFactorUnit",
+                "@type": "@id",
+                "@context": {
+                    "unit": "qudt:hasUnit",
+                    "exponent": "qudt:exponent"
+                }
+            },
+            "factor_units*": {
+                "@id": "Property:HasPart",
+                "@type": "@id",
+                "@context": {
+                    "unit*": "Property:HasUnit",
+                    "exponent*": "Property:HasExponent"
+                }
+            },
+            "main_symbol": "Property:HasSymbol",
+            "main_symbol*": "Property:Display_title_of",
+            "system_of_quantities_and_units": {
+                "@id": "Property:IsApplicableIn",
+                "@type": "@id"
+            }
+        },
+        "/wiki/Category:Item?action=raw&slot=jsonschema",
+        "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+    ],
+    "allOf": [
+        {
+            "$ref": "/wiki/Category:Item?action=raw&slot=jsonschema"
+        },
+        {
+            "$ref": "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+        }
+    ],
+    "type": "object",
+    "uuid": "6c2aea02-8a86-47cd-97f5-d7c65c09cd44",
+    "title": "ComposedUnit",
+    "title*": {
+        "en": "Composed Unit",
+        "de": "Zusammengesetzte Einheit"
+    },
+    "description": "A unit composed of multiple units or prefixed units",
+    "description*": {
+        "en": "A unit composed of multiple units or prefixed units"
+    },
+    "required": [
+        "type",
+        "main_symbol"
+    ],
+    "defaultProperties": [
+        "exact_ontology_match",
+        "factor_units",
+        "composed_units"
+    ],
+    "properties": {
+        "type": {
+            "default": [
+                "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
+            ]
+        },
+        "main_symbol": {
+            "type": "string"
+        },
+        "conversion_factor_from_si": {
+            "type": "number",
+            "title": "Conversion Factor",
+            "Title*": {
+                "de": "Umrechnungsfaktor"
+            },
+            "description": "The corresponding SI unit has to be multiplied with this factor to yield this unit",
+            "description*": {
+                "de": "Die entsprechende SI Einheit muss mit diesem Faktor multipliziert werden, um diese Einheit zu erhalten."
+            }
+        },
+        "ucum_codes": {
+            "title": "UCUM Codes",
+            "title*": {
+                "de": "UCUM Codes"
+            },
+            "description": "Encoding according to the Unified Code for Units of Measure (UCUM): https://ucum.org/ucum",
+            "description*": {
+                "de": "Codierung gemäß Unified Code for Units of Measure (UCUM): https://ucum.org/ucum"
+            },
+            "type": "array",
+            "items": {
+                "type": "string",
+                "title": "Code"
+            }
+        },
+        "factor_units": {
+            "title": "FactorUnits",
+            "title*": {
+                "en": "Factor units",
+                "de": "Einheiten-Faktoren"
+            },
+            "description": "Unit factors that assemble this composed unit",
+            "eval_template": [
+                {
+                    "type": "mustache-wikitext",
+                    "value": "{{=<% %>=}} <%#factor_units%> {{Viewer/Link |page=<%unit%>}}^<%exponent%><br> <%/factor_units%>",
+                    "mode": "render"
+                }
+            ],
+            "type": "array",
+            "items": {
+                "title": "FactorUnit",
+                "title*": {
+                    "en": "Factor",
+                    "de": "Faktor"
+                },
+                "type": "object",
+                "required": [
+                    "uuid",
+                    "unit",
+                    "exponent"
+                ],
+                "format": "grid",
+                "properties": {
+                    "uuid": {
+                        "title": "UUID",
+                        "type": "string",
+                        "$comment": "format uuid field are copied, if not set in copy_ignore",
+                        "_format": "uuid",
+                        "_template": "dynamic_template",
+                        "dynamic_template": "{{_uuid_}}",
+                        "options": {
+                            "hidden": true,
+                            "dynamic_template": {
+                                "override": "empty"
+                            }
+                        }
+                    },
+                    "unit": {
+                        "type": "string",
+                        "title": "Unit",
+                        "format": "autocomplete",
+                        "range": "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                    },
+                    "exponent": {
+                        "type": "integer",
+                        "title": "Exponent",
+                        "format": "number"
+                    }
+                }
+            },
+            "minItems": 1
+        },
+        "system_of_quantities_and_units": {
+            "title": "System(s) of quantities and units",
+            "description": "System(s) of quantities and units this unit is applicable in",
+            "type": "array",
+            "format": "table",
+            "items": {
+                "title": "System of quantities and units",
+                "type": "string",
+                "format": "autocomplete",
+                "range": "Category:OSW27782669526d4d9a8de83659c03c64d5"
+            }
+        },
+        "composed_units": {
+            "title": "ComposedUnitElements",
+            "title*": {
+                "en": "Composed Units",
+                "de": "Zusammengesetzte Einheiten"
+            },
+            "type": "array",
+            "description": "Variants of prefixed unit components",
+            "_format": "table",
+            "format": "tabs",
+            "eval_template": [
+                {
+                    "type": "mustache-wikitext",
+                    "value": "{{=<% %>=}} <%#composed_units%> {{Viewer/Link |page=<%osw_id%>}}<br> <%/composed_units%>",
+                    "mode": "render"
+                }
+            ],
+            "items": {
+                "title": "ComposedUnitElement",
+                "title*": {
+                    "en": "Composed Unit",
+                    "de": "Zusammengesetzte Einheit"
+                },
+                "type": "object",
+                "_format": "grid-strict",
+                "id": "composed_unit",
+                "headerTemplate": "{{ self.main_symbol }}",
+                "required": [
+                    "uuid",
+                    "osw_id",
+                    "main_symbol",
+                    "factor_units"
+                ],
+                "defaultProperties": [
+                    "exact_ontology_match"
+                ],
+                "allOf": [
+                    {
+                        "$ref": "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+                    }
+                ],
+                "properties": {
+                    "uuid": {
+                        "title": "UUID",
+                        "type": "string",
+                        "$comment": "format uuid field are copied, if not set in copy_ignore",
+                        "_format": "uuid",
+                        "_template": "dynamic_template",
+                        "dynamic_template": "{{_uuid_}}",
+                        "options": {
+                            "hidden": true,
+                            "dynamic_template": {
+                                "override": "empty"
+                            }
+                        }
+                    },
+                    "osw_id": {
+                        "title": "OSW-ID",
+                        "type": "string",
+                        "watch": {
+                            "_own_uuid": "composed_unit.uuid"
+                        },
+                        "_format": "dynamic_template",
+                        "dynamic_template": "{{_current_subject_}}#OSW{{#replace '-' ''}}{{_own_uuid}}{{/replace}}",
+                        "options": {
+                            "hidden": true,
+                            "dynamic_template": {
+                                "override": "empty"
+                            }
+                        }
+                    },
+                    "conversion_factor_from_si": {
+                        "type": "number",
+                        "title": "Conversion Factor",
+                        "Title*": {
+                            "de": "Umrechnungsfaktor"
+                        },
+                        "description": "The corresponding SI unit has to be multiplied with this factor to yield this unit",
+                        "description*": {
+                            "de": "Die entsprechende SI Einheit muss mit diesem Faktor multipliziert werden, um diese Einheit zu erhalten."
+                        }
+                    },
+                    "main_symbol": {
+                        "type": "string",
+                        "options": {
+                            "grid_columns": 4
+                        }
+                    },
+                    "ucum_codes": {
+                        "title": "UCUM Codes",
+                        "title*": {
+                            "de": "UCUM Codes"
+                        },
+                        "description": "Encoding according to the Unified Code for Units of Measure (UCUM): https://ucum.org/ucum",
+                        "description*": {
+                            "de": "Codierung gemäß Unified Code for Units of Measure (UCUM): https://ucum.org/ucum"
+                        },
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "title": "Code"
+                        }
+                    },
+                    "factor_units": {
+                        "title": "ComposedFactorUnits",
+                        "title*": {
+                            "en": "Factor units",
+                            "de": "Einheiten-Faktoren"
+                        },
+                        "description": "Unit factors that assemble this composed unit",
+                        "type": "array",
+                        "eval_template": [
+                            {
+                                "type": "mustache-wikitext",
+                                "value": "{{=<% %>=}} <%#factor_units%> {{Viewer/Link |page=<%unit%>}}^<%exponent%><br> <%/factor_units%>",
+                                "mode": "render"
+                            }
+                        ],
+                        "items": {
+                            "title": "ComposedFactorUnit",
+                            "title*": {
+                                "en": "Factor",
+                                "de": "Faktor"
+                            },
+                            "type": "object",
+                            "required": [
+                                "uuid",
+                                "unit",
+                                "exponent"
+                            ],
+                            "format": "grid",
+                            "properties": {
+                                "uuid": {
+                                    "title": "UUID",
+                                    "type": "string",
+                                    "$comment": "format uuid field are copied, if not set in copy_ignore",
+                                    "_format": "uuid",
+                                    "_template": "dynamic_template",
+                                    "dynamic_template": "{{_uuid_}}",
+                                    "options": {
+                                        "hidden": true,
+                                        "dynamic_template": {
+                                            "override": "empty"
+                                        }
+                                    }
+                                },
+                                "unit": {
+                                    "type": "string",
+                                    "title": "Unit",
+                                    "format": "autocomplete",
+                                    "range": "Category:OSWd2520fa016844e01af0097a85bb25b25",
+                                    "options": {
+                                        "autocomplete": {
+                                            "$comment": "Unit or prefixed unit",
+                                            "query": "[[Category:OSWd2520fa016844e01af0097a85bb25b25]][[HasSymbol::like:*{{_user_input}}*]]OR[[-HasPrefixUnit.HasType::Category:OSWd2520fa016844e01af0097a85bb25b25]][[HasSymbol::like:*{{_user_input}}*]]|?HasSymbol=label"
+                                        }
+                                    }
+                                },
+                                "exponent": {
+                                    "type": "integer",
+                                    "title": "Exponent",
+                                    "format": "number"
+                                }
+                            }
+                        },
+                        "minItems": 1
+                    },
+                    "system_of_quantities_and_units": {
+                        "title": "System(s) of quantities and units",
+                        "description": "System(s) of quantities and units this unit is applicable in",
+                        "type": "array",
+                        "format": "table",
+                        "items": {
+                            "title": "System of quantities and units",
+                            "type": "string",
+                            "format": "autocomplete",
+                            "range": "Category:OSW27782669526d4d9a8de83659c03c64d5"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

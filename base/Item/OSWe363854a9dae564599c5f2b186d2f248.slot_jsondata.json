@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-HR"
@@ -25,23 +25,25 @@
         "mol.h-1",
         "mol/h"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "bfec8629-d2ab-507f-958b-5fbb343ce93e",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         },
         {
+            "uuid": "c5671b31-b75c-5ccd-a83b-063e54ca2ab5",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "d95d2efc-01ef-530e-8082-c420db9bb287",
             "osw_id": "Item:OSWe363854a9dae564599c5f2b186d2f248#OSWd95d2efc01ef530e8082c420db9bb287",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 0.2777777777777778,
             "main_symbol": "kmol/h",
             "ucum_codes": [
@@ -50,9 +52,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "4b179f63-ab3e-5d59-894b-05b6dfb141c5",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW2971b3cb7eca516184282ecfa45bfb81",
                     "exponent": 1
                 },
                 {
+                    "uuid": "3db4bba3-aea1-5f0c-8ad9-18c3efd202f6",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 }
             ]

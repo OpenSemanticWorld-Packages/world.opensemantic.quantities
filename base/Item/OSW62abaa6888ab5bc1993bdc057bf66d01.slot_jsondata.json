@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_EUR-PER-W-SEC"
@@ -21,15 +21,20 @@
     ],
     "main_symbol": "€/(W·s)",
     "conversion_factor_from_si": 1.0,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "8f82303c-5feb-5951-9e26-c8e0049e81d8",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": -1
         },
         {
+            "uuid": "9aec6eaa-14af-5b9e-b85e-6152d0cab3d8",
+            "unit": "Item:OSWfe3f764ca32556608ba833e1af11f93b",
             "exponent": 1
         },
         {
+            "uuid": "cb4b7ef3-e7b8-5ca0-af36-ea0461fcee02",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ]

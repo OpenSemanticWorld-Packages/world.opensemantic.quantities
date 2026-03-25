@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/K-PA-PER-SEC"
@@ -18,15 +18,20 @@
     "ucum_codes": [
         "K.Pa.s-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "7f95acc3-d996-58c7-99e2-235864e5731d",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": 1
         },
         {
+            "uuid": "64a68821-b4d6-5d22-83b7-9965d1f8ae35",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": 1
         },
         {
+            "uuid": "feb880e6-4ee2-5f1d-8b0f-0657c7cdfa05",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-M2-DAY"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "mol.m-2.d-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "a5bb9acb-9160-5da7-929a-eea0c5abc03d",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "2d835dc8-1c40-55dc-8fbd-2fba404ffdf5",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         },
         {
+            "uuid": "a67cd640-c493-5b0f-858d-7514ce9b3d70",
+            "unit": "Item:OSWc90e307854c453be958300304ca8185e",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "126cb6f4-3b1a-5939-ac31-54bf7b1b5e97",
             "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSW126cb6f43b1a5939ac3154bf7b1b5e97",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1.1574074074074074e-14,
             "main_symbol": "nmol/(m²·d)",
             "ucum_codes": [
@@ -51,23 +55,28 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "0458e79f-4fe6-5c4b-ab2b-399854abc3b3",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 },
                 {
+                    "uuid": "fbcd1978-3df3-54f3-a537-dea8f1662487",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSWa67f18f1934b5256b2ec2f4f3e7200e7",
                     "exponent": 1
                 },
                 {
+                    "uuid": "a9364d25-b30d-5f16-bd04-44ad387c88de",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "12da2912-44d6-5409-ab71-7a87e468e73f",
             "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSW12da291244d65409ab717a87e468e73f",
-            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1.1574074074074074e-17,
             "main_symbol": "pmol/(m²·d)",
             "ucum_codes": [
@@ -75,23 +84,28 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "97eb6b22-4ff0-5a54-90bd-8d8291cf232b",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "76ff297b-7f25-56e2-b9e7-9ea0755f46e8",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 },
                 {
+                    "uuid": "ea3af154-90e4-51c8-84c3-11dbe49fd04f",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW2db3cc3b7dba5b95bd0a0f685e87fec4",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "8987e0c6-3588-54aa-b10f-859bcd42cf0a",
             "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSW8987e0c6358854aab10f859bcd42cf0a",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.1574074074074074e-08,
             "main_symbol": "mmol/(m²·d)",
             "ucum_codes": [
@@ -99,23 +113,28 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "412cbef8-0d6f-563a-adf2-945aeab71486",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 },
                 {
+                    "uuid": "e0583df4-c0da-5fa2-9da4-d6f6bb4222e0",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW09461c4b2fa85ab683a3572a199ef16b",
                     "exponent": 1
                 },
                 {
+                    "uuid": "2fb0cc7a-cb38-5313-9198-108b1c251007",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f14e9fda-3f4f-5625-a2e0-860d74a3a733",
             "osw_id": "Item:OSWd9745ca0ed9a521b8b14bc571ced2daf#OSWf14e9fda3f4f5625a2e0860d74a3a733",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1.1574074074074074e-11,
             "main_symbol": "μmol/(m²·d)",
             "ucum_codes": [
@@ -124,12 +143,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "1e961747-c89f-58ee-a732-e476ee40d96e",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW1d4f11a4a1425dba81c9dac510278967",
                     "exponent": 1
                 },
                 {
+                    "uuid": "a73698f0-a502-55d7-be78-9fbdbc03cfb8",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 },
                 {
+                    "uuid": "236fcdef-5494-5aee-a0e8-ad156468d0e6",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 }
             ]

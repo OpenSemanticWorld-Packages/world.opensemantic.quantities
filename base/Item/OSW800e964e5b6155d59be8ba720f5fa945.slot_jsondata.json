@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/V-PER-MIN"
@@ -25,23 +25,25 @@
         "V.min-1",
         "V/min"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "5ea46566-854e-5dd9-9c0e-e3dca4b92bd4",
+            "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
             "exponent": -1
         },
         {
+            "uuid": "1057e89b-0898-5d36-98a4-78c28db89996",
+            "unit": "Item:OSW85efe1428cb75363a75aab6435e2d98d",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "eb2b1de5-1639-5cee-816b-a36de570a3cf",
             "osw_id": "Item:OSW800e964e5b6155d59be8ba720f5fa945#OSWeb2b1de516395cee816ba36de570a3cf",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.6666666666666667e-05,
             "main_symbol": "mV/min",
             "ucum_codes": [
@@ -50,9 +52,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "3a9b72ba-9e91-50ae-82dc-ce86a204af69",
+                    "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
                     "exponent": -1
                 },
                 {
+                    "uuid": "b432a9fc-c47c-53c0-8571-1005eb6d4c13",
+                    "unit": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW82d25d00b1485cc18c204f95de4536a9",
                     "exponent": 1
                 }
             ]

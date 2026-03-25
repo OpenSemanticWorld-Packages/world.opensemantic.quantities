@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/TON_Metric-PER-MIN"
@@ -25,12 +25,15 @@
         "t.min-1",
         "t/min"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "a7285fbe-c4c6-546b-a28d-6f7b9b7f8840",
+            "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
             "exponent": -1
         },
         {
+            "uuid": "f5b51a42-6730-584d-b479-b54269a498bf",
+            "unit": "Item:OSWd2cd9a19e7255fc081307b69e3384e2e",
             "exponent": 1
         }
     ]

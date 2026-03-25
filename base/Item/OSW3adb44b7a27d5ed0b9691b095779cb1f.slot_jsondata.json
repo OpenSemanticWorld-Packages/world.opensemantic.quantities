@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-M2"
@@ -25,9 +25,10 @@
         "/m2",
         "m-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "1ccbbabb-f7f3-52c0-ba4b-ee2de36573f1",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         }
     ]

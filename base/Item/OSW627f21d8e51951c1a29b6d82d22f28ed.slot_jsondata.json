@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/EV-M"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "eV.m"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "488b3250-cccc-5ed7-b9ee-f13a26db7a2f",
+            "unit": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0",
             "exponent": 1
         },
         {
+            "uuid": "e7bfdfb3-89d3-5808-beb3-8b6c654e9d6f",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "8a2c52d8-52d3-58a7-9e43-fa4496c65528",
             "osw_id": "Item:OSW627f21d8e51951c1a29b6d82d22f28ed#OSW8a2c52d852d358a79e43fa4496c65528",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1.602176634e-28,
             "main_symbol": "MeV·fm",
             "ucum_codes": [
@@ -48,9 +50,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "0e52b31c-35d1-5784-9976-962942113a1d",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW53d6030c99a152d28ce56e57b5376f95",
                     "exponent": 1
                 },
                 {
+                    "uuid": "415e85be-b281-5e80-b0f4-dde733b3fca7",
+                    "unit": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW2f6387f843115a4b88fb68009e2f7dff",
                     "exponent": 1
                 }
             ]

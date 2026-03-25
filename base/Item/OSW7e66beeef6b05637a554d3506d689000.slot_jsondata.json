@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-MOL"
@@ -29,23 +29,25 @@
         "J.mol-1",
         "J/mol"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "03bfdace-c169-57a8-bf4c-87ae7a1d109a",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "87849135-48d0-5662-8f3f-a571e80f3b25",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "23b10a54-3269-55ad-b186-2933713551f9",
             "osw_id": "Item:OSW7e66beeef6b05637a554d3506d689000#OSW23b10a54326955adb1862933713551f9",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kJ/mol",
             "ucum_codes": [
@@ -54,9 +56,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "2046e9b8-157a-5198-a9da-4f62f5c26f71",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
                     "exponent": 1
                 },
                 {
+                    "uuid": "ac69920f-3b56-5d3b-ae70-29ad99212528",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316",
                     "exponent": -1
                 }
             ]

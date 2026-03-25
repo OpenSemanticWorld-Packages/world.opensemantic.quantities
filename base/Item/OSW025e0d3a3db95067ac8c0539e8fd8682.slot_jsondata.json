@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-GigaEV2"
@@ -24,9 +24,10 @@
     "ucum_codes": [
         "GeV-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "6f78f350-5c26-500f-a628-b8538bafb714",
+            "unit": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW763c04e5ccb35c6392515e2be1e7f4a3",
             "exponent": -2
         }
     ]

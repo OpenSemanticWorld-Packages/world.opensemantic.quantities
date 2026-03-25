@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-PER-DEG-M"
@@ -24,29 +24,35 @@
     "ucum_codes": [
         "N.m.deg-1.m-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "bf48fdb9-40be-50ff-9e3b-6e3056b23e88",
+            "unit": "Item:OSW308ac27be52b5fbe85d647c7429f32f1",
             "exponent": -1
         },
         {
+            "uuid": "09340570-1352-5edd-8696-d363729aa457",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         },
         {
+            "uuid": "07315148-3f32-568f-b556-8cdeb197a10a",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "67fef988-9b2a-543e-8c97-787c763a457b",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "1df81409-b3fe-54f6-88dd-5fa9d87d8d39",
             "osw_id": "Item:OSWb6cd057594875dcab33a9f3fdd1ef440#OSW1df81409b3fe54f688dd5fa9d87d8d39",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 57295.7795785523,
             "main_symbol": "kN·m/(°·m)",
             "ucum_codes": [
@@ -54,15 +60,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "48c4c6b0-30e5-59ed-bddb-b77c948cba16",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -1
                 },
                 {
+                    "uuid": "44898846-7e70-55c6-9dde-77ffb4fba135",
+                    "unit": "Item:OSW308ac27be52b5fbe85d647c7429f32f1",
                     "exponent": -1
                 },
                 {
+                    "uuid": "8e0d0afb-9c94-5ba4-a724-f35fc632d80e",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a#OSW9e26f43774ed54c9b9bf757fca6ad5e7",
                     "exponent": 1
                 },
                 {
+                    "uuid": "1c1a7f56-37ad-57df-b57d-43d97e666f22",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": 1
                 }
             ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/DEG_F-PER-K"
@@ -25,12 +25,15 @@
         "[degF].K-1",
         "[degF]/K"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "8ade82af-190a-5a9f-99ff-8d2c2307e303",
+            "unit": "Item:OSWad277ac098865c39a8522699efbe0e50",
             "exponent": 1
         },
         {
+            "uuid": "d86a0bd1-d651-54e2-8356-ba2f758a5757",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         }
     ]

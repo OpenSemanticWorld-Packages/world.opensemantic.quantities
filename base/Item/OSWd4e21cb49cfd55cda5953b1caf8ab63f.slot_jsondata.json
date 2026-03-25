@@ -34,6 +34,7 @@
             "osw_id": "Item:OSWd4e21cb49cfd55cda5953b1caf8ab63f#OSW88172ed6bffa53b88f16354ea485db4c",
             "conversion_factor_to_main_unit": 10.0,
             "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW329264e82f36520e96e362fae8b83005",
             "prefix_symbol": "da",
             "main_symbol": "daa",
             "ucum_codes": [

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/DEG_C-GM-PER-M2"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "Cel.g.m-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "19423b70-7cd3-5564-b00c-b2747ea7588c",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "b34a2a56-bd74-536e-9d63-c14b61709cb2",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "9b3df688-ee06-5364-ba1e-3b70249b7f80",
+            "unit": "Item:OSWad04992cecb75af4be6f2205e791b42e",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f2c009da-aad4-58e0-a0b7-5409272e1816",
             "osw_id": "Item:OSWec5610a402a35fb7a10fee231a5977f5#OSWf2c009daaad458e0a0b75409272e1816",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "°C·kg/m²",
             "ucum_codes": [
@@ -51,12 +55,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "932cd803-a98b-5864-82cf-39d5416dbfdd",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "52478c12-2249-562f-841b-6340be8280fa",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 },
                 {
+                    "uuid": "afce0c5d-f923-5ff2-9c1a-76e5bda291d3",
+                    "unit": "Item:OSWad04992cecb75af4be6f2205e791b42e",
                     "exponent": 1
                 }
             ]

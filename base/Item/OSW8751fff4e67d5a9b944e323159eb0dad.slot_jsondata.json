@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/H-PER-OHM"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "H.Ohm-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "b4b5ceb5-a3fe-5dd8-9912-a7efc28fdc3c",
+            "unit": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1",
             "exponent": -1
         },
         {
+            "uuid": "2dd64449-07d5-5d08-a66f-e49e69747296",
+            "unit": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "14b5b614-d6eb-5e94-9713-232e9d79b744",
             "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW14b5b614d6eb5e949713232e9d79b744",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μH/Ω",
             "ucum_codes": [
@@ -48,20 +50,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "25e4d42a-2da2-58bc-87e8-cb006e8dd5f4",
+                    "unit": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
                     "exponent": 1
                 },
                 {
+                    "uuid": "8b03f66c-55cf-54a5-bed8-1ed336c8e8be",
+                    "unit": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "6df92296-49a6-5017-8226-75d67c415c23",
             "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW6df9229649a65017822675d67c415c23",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mH/Ω",
             "ucum_codes": [
@@ -70,20 +75,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "c387b166-46d4-5e45-8aa4-12dd629380b8",
+                    "unit": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWf936212f93685b0a81e881b7b4cd691c",
                     "exponent": 1
                 },
                 {
+                    "uuid": "c4dc6706-3d01-5b39-9abc-8fa1c7412248",
+                    "unit": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "91f2217a-1e5e-58bb-8464-4588308ec27b",
             "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW91f2217a1e5e58bb84644588308ec27b",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "mH/kΩ",
             "ucum_codes": [
@@ -92,20 +100,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "83057ac3-fac3-5b06-9ded-84ba9aba18f2",
+                    "unit": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWf936212f93685b0a81e881b7b4cd691c",
                     "exponent": 1
                 },
                 {
+                    "uuid": "e3ca4f67-8a95-586f-a5f3-0d45d875f397",
+                    "unit": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5e05beabf6935ae2b559c1cffc788110",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "dd1328a6-f280-577c-866b-63c5e9eb7d53",
             "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSWdd1328a6f280577c866b63c5e9eb7d53",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
             "main_symbol": "μH/kΩ",
             "ucum_codes": [
@@ -113,20 +124,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "5029b741-7a9c-5655-ab1c-d9e8ef60e3f1",
+                    "unit": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5e05beabf6935ae2b559c1cffc788110",
                     "exponent": -1
                 },
                 {
+                    "uuid": "e983a030-13e1-5664-bc5f-4d57b1bc2826",
+                    "unit": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f02ec247-3013-5b3c-84a2-8a362576cd24",
             "osw_id": "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSWf02ec24730135b3c84a28a362576cd24",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "H/kΩ",
             "ucum_codes": [
@@ -134,9 +148,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "70a9b096-a7fd-5250-8b5e-23601913aa35",
+                    "unit": "Item:OSWf9a174b6598a52fe8b9ac50ee48bf7a1#OSW5e05beabf6935ae2b559c1cffc788110",
                     "exponent": -1
                 },
                 {
+                    "uuid": "e37067bd-37f3-5c8a-902e-bc6a693659c3",
+                    "unit": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2",
                     "exponent": 1
                 }
             ]

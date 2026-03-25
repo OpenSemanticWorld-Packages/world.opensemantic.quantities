@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M-PER-DAY"
@@ -25,23 +25,25 @@
         "m.d-1",
         "m/d"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "fc4846b1-505b-516f-a36e-02f0b94d87eb",
+            "unit": "Item:OSWc90e307854c453be958300304ca8185e",
             "exponent": -1
         },
         {
+            "uuid": "77136f39-24fa-560b-a0c7-a069ab76b6f1",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "902fda40-0a06-5992-8eff-b60510bb60f7",
             "osw_id": "Item:OSWfbe651138e965876833a8e6ae440d267#OSW902fda400a0659928effb60510bb60f7",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.1574074074074074e-08,
             "main_symbol": "mm/d",
             "ucum_codes": [
@@ -50,20 +52,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "3164ed9c-8c2a-5157-94d0-2a6d6f69023e",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
                     "exponent": 1
                 },
                 {
+                    "uuid": "35ea2768-0269-5fcc-91af-e28e93d791ad",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "e2c4c1f5-9da4-5f2c-b230-1132e23e7f97",
             "osw_id": "Item:OSWfbe651138e965876833a8e6ae440d267#OSWe2c4c1f59da45f2cb2301132e23e7f97",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 0.011574074074074073,
             "main_symbol": "km/d",
             "ucum_codes": [
@@ -71,9 +76,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "0426c76d-0bd2-52b3-bdb2-a86bf570af73",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb1de8f91f1275572b37c2edfe40d5de6",
                     "exponent": 1
                 },
                 {
+                    "uuid": "94a48a8a-ba2f-5d0b-a31f-0e8c41411860",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 }
             ]

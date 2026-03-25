@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/HZ-PER-K"
@@ -28,23 +28,25 @@
     "ucum_codes": [
         "Hz.K-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "291bbf78-3c2d-5e52-b9d1-25a42337c7d5",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         },
         {
+            "uuid": "898c85e0-0c7e-59ec-b8ad-dcacf4f2ce21",
+            "unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "1214143f-4aa9-52e7-8f3e-c1c339d9500b",
             "osw_id": "Item:OSW21febbc735d25a9badefe5f3191757d9#OSW1214143f4aa952e78f3ec1c339d9500b",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MHz/K",
             "ucum_codes": [
@@ -52,9 +54,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "1d91bbeb-005e-5b4a-a9fa-5313444513c2",
+                    "unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5#OSWb5d0dd4f66285e15af5977a1b77d5daa",
                     "exponent": 1
                 },
                 {
+                    "uuid": "d7362ca1-7508-5d32-984d-f215590f4edb",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 }
             ]

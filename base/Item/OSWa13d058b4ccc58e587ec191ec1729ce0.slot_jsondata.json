@@ -34,6 +34,7 @@
             "osw_id": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW2f6387f843115a4b88fb68009e2f7dff",
             "conversion_factor_to_main_unit": 1000000.0000000001,
             "conversion_factor_from_si": 1.602176634e-13,
+            "prefix": "Item:OSW2bbb5b69a5c85c46a58a782436bf34e9",
             "prefix_symbol": "M",
             "main_symbol": "MeV",
             "ucum_codes": [
@@ -48,6 +49,7 @@
             "osw_id": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW4b9cccfc12ce52a193212e16298fe368",
             "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.602176634e-16,
+            "prefix": "Item:OSW7e48f2b8d6b656f18b74320902117b6f",
             "prefix_symbol": "k",
             "main_symbol": "keV",
             "ucum_codes": [
@@ -62,6 +64,7 @@
             "osw_id": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW763c04e5ccb35c6392515e2be1e7f4a3",
             "conversion_factor_to_main_unit": 1000000000.0000001,
             "conversion_factor_from_si": 1.602176634e-10,
+            "prefix": "Item:OSW0233713899ac5165aed5ad1dfc7c1454",
             "prefix_symbol": "G",
             "main_symbol": "GeV",
             "ucum_codes": [

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-SEC-PER-RAD"
@@ -18,15 +18,20 @@
     "ucum_codes": [
         "m2.s.rad-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "d8ac775c-a19b-5f4f-bf65-165370bf6752",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 1
         },
         {
+            "uuid": "12433a87-7b46-5777-a9c3-ba77ac27e3ba",
+            "unit": "Item:OSW6b270053305955a89f37c50637fc7aeb",
             "exponent": -1
         },
         {
+            "uuid": "89e2cc1a-102d-579b-ae3c-3f0a3de66e09",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         }
     ]

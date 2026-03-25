@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M-PER-N"
@@ -28,23 +28,25 @@
     "ucum_codes": [
         "m.N-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "d2745287-572b-5ad3-8539-bc8d2ae71052",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": -1
         },
         {
+            "uuid": "5b4b6dee-76dd-5554-90e4-08c82e9f6fbb",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "df7665f7-8da1-599c-98a1-3586cec6d866",
             "osw_id": "Item:OSWcfd8c2916809594a945a9a4b0a4abe33#OSWdf7665f78da1599c98a13586cec6d866",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μm/N",
             "ucum_codes": [
@@ -52,9 +54,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "08485cd9-826f-518a-a679-018a8795c615",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
                     "exponent": -1
                 },
                 {
+                    "uuid": "8ec916e8-2859-510b-84dc-81561f36a7f4",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb2830572baec5cca970dde12bf0f5a2a",
                     "exponent": 1
                 }
             ]

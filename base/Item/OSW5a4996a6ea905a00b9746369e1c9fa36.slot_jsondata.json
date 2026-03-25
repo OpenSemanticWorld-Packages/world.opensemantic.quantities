@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/L-PER-DAY"
@@ -25,23 +25,25 @@
         "L.d-1",
         "L/d"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "2d844f04-bb2f-5371-9949-1a8ec57aca46",
+            "unit": "Item:OSWc90e307854c453be958300304ca8185e",
             "exponent": -1
         },
         {
+            "uuid": "d015f078-4dfd-56a9-aa11-556be9b79830",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "da34b5bb-0a15-516f-ba29-781df0096e7f",
             "osw_id": "Item:OSW5a4996a6ea905a00b9746369e1c9fa36#OSWda34b5bb0a15516fba29781df0096e7f",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.1574074074074074e-11,
             "main_symbol": "mL/d",
             "ucum_codes": [
@@ -50,9 +52,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "fab5818b-ec3d-5940-a2fe-20150fb91e2d",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWc6b7a00b85e25b53a17ab4971acb4468",
                     "exponent": 1
                 },
                 {
+                    "uuid": "e0f29290-db99-5add-91ff-c05f19032547",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 }
             ]

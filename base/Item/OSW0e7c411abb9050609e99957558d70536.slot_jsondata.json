@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-DEG_C"
@@ -24,12 +24,15 @@
     "ucum_codes": [
         "mol.Cel"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f4f9cd81-e657-5970-9f9a-aab44e3441c8",
+            "unit": "Item:OSWad04992cecb75af4be6f2205e791b42e",
             "exponent": 1
         },
         {
+            "uuid": "a276f5ab-53da-538f-9cab-8ca66503966d",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         }
     ]

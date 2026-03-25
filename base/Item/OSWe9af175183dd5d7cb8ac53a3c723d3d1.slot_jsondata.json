@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-M-PER-M2-SR"
@@ -24,18 +24,25 @@
     "ucum_codes": [
         "W.m-2.m.sr-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "d9afb09e-ec4d-57e0-ad00-8445f7749844",
+            "unit": "Item:OSW198b0fba235959ff90d7035cd300e920",
             "exponent": -1
         },
         {
+            "uuid": "4f640298-b64f-54f6-b2ae-fba378d9c632",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": 1
         },
         {
+            "uuid": "7388c8cf-a619-598f-a6d6-c36fa27749b0",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "66ce5d3a-768d-5052-a210-8fe315f63b7a",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         }
     ]

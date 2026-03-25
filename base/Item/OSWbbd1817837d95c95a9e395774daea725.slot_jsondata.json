@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/VA-HR"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "VA.h"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "4fbec6c9-95a9-5ebf-8c2a-df14becbe786",
+            "unit": "Item:OSWb41c4bc68f7951658a66c7481061c1f2",
             "exponent": 1
         },
         {
+            "uuid": "a86cc8ac-aafb-5cf8-8fce-1889c5249339",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "36e83007-9f98-5f9b-ada7-e2fbfbff6f95",
             "osw_id": "Item:OSWbbd1817837d95c95a9e395774daea725#OSW36e830079f985f9bada7e2fbfbff6f95",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 3600000000.0,
             "main_symbol": "MVA·h",
             "ucum_codes": [
@@ -48,20 +50,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "f312fd74-c5c1-546a-991b-65465b0154b5",
+                    "unit": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWecfc0485465d510aa98f09bb3aafabef",
                     "exponent": 1
                 },
                 {
+                    "uuid": "4d8e2717-c38b-50ff-a0e5-5b13df2c4c58",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "8375632d-08f4-5868-8050-5270a729188d",
             "osw_id": "Item:OSWbbd1817837d95c95a9e395774daea725#OSW8375632d08f4586880505270a729188d",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 3600000.0,
             "main_symbol": "kVA·h",
             "ucum_codes": [
@@ -69,9 +74,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "11bc27d5-a15c-5250-80f4-e41e86bc9316",
+                    "unit": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWcafa0565b412503b86477319f5bb3187",
                     "exponent": 1
                 },
                 {
+                    "uuid": "144f22d5-cffd-577a-b0fa-fb2b9fc7cdc9",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 }
             ]

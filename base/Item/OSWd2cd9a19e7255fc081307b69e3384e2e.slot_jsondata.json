@@ -34,6 +34,7 @@
             "osw_id": "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW4acf7877394a57c59b6b8bea588ceedf",
             "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSW7e48f2b8d6b656f18b74320902117b6f",
             "prefix_symbol": "k",
             "main_symbol": "kt",
             "ucum_codes": [
@@ -48,6 +49,7 @@
             "osw_id": "Item:OSWd2cd9a19e7255fc081307b69e3384e2e#OSW9931691b6a8258b79d279550cb8385ca",
             "conversion_factor_to_main_unit": 0.1,
             "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSW02329f78f08958c68e53ac0d0fd1877e",
             "prefix_symbol": "d",
             "main_symbol": "dt",
             "ucum_codes": [

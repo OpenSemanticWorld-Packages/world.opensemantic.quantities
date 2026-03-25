@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-PA"
@@ -25,20 +25,20 @@
         "/Pa",
         "Pa-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "1f00035a-9151-5e10-8741-19f71afb4cb4",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "76c7de30-66ca-5349-bd8e-252ca3e3ee95",
             "osw_id": "Item:OSWf030abd4441d52a7a8c5f84950985ea4#OSW76c7de3066ca5349bd8e252ca3e3ee95",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "/MPa",
             "ucum_codes": [
@@ -47,6 +47,8 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "4fca682b-458a-56a0-88f7-6b78b06509f5",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
                     "exponent": -1
                 }
             ]

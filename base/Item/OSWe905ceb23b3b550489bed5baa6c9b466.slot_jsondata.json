@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-MilliL"
@@ -25,12 +25,15 @@
         "g.mL-1",
         "g/mL"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "8145248f-fcf2-5d51-9b8f-0c79e9abc5df",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "bb3e62e9-bfb9-5005-9115-9aeadb2cdc0f",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWc6b7a00b85e25b53a17ab4971acb4468",
             "exponent": -1
         }
     ]

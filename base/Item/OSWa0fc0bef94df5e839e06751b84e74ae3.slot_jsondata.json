@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CAL_TH-PER-CentiM3-K"
@@ -25,15 +25,20 @@
         "cal_th.cm-3.K-1",
         "cal_th/(cm3.K)"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "e12e6613-cca1-5d91-b896-2e5debd8d7c7",
+            "unit": "Item:OSW1282fb8dff9556449d90f7aada99324c",
             "exponent": 1
         },
         {
+            "uuid": "6f4c4c2a-1f0b-5fdf-8c35-9b17ed504666",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
             "exponent": -3
         },
         {
+            "uuid": "ccf3fee4-3d09-59bf-9ebe-70b4ae5fe13f",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         }
     ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-MIN"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "g.min-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f766d90e-b8cc-593b-a754-40bd2aae2c76",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "fa54fd49-59ae-5f26-8751-86656157b67f",
+            "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f21d4894-42ee-5963-9675-8812a0446f87",
             "osw_id": "Item:OSWe679b9663f575f409d1b5285f46183eb#OSWf21d489442ee596396758812a0446f87",
-            "conversion_factor_to_main_unit": 999.9999999999999,
             "conversion_factor_from_si": 0.016666666666666666,
             "main_symbol": "kg/min",
             "ucum_codes": [
@@ -49,20 +51,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "0688d03e-79c5-5f91-b50a-45f4f4bddac7",
+                    "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
                     "exponent": -1
                 },
                 {
+                    "uuid": "b8ebd38d-6b8b-5655-9a4b-0e80f63994de",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f560acf3-9498-593c-bf74-47bfb7f2de24",
             "osw_id": "Item:OSWe679b9663f575f409d1b5285f46183eb#OSWf560acf39498593cbf7447bfb7f2de24",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.6666666666666667e-08,
             "main_symbol": "mg/min",
             "ucum_codes": [
@@ -70,9 +75,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "146cd11a-fdb5-5b79-9c2b-8854c1320b41",
+                    "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
                     "exponent": -1
                 },
                 {
+                    "uuid": "f9ad73c0-ff3b-5646-8b7c-771162a1f6ba",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW203cd6c3e616540cb3c6dad0ff389725",
                     "exponent": 1
                 }
             ]

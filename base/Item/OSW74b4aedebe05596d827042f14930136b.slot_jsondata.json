@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-PER-M2-NanoM-SR"
@@ -18,18 +18,25 @@
     "ucum_codes": [
         "W.m-2.nm-1.sr-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "55b5f14f-1acd-5991-87ae-42be35d8c921",
+            "unit": "Item:OSW198b0fba235959ff90d7035cd300e920",
             "exponent": -1
         },
         {
+            "uuid": "fa8c85e9-d6e2-5922-99a6-895278efe6bd",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW60a0f8bd28955fd6ae61177af381696c",
             "exponent": -1
         },
         {
+            "uuid": "63a05360-23ac-50d3-b182-c39a0d11e58d",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "b4edebc2-baef-525d-82a1-5268142cb97a",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": 1
         }
     ]

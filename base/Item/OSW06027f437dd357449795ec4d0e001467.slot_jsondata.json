@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/BQ"
@@ -28,103 +28,152 @@
     "ucum_codes": [
         "Bq"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "cd75c4e0-b609-5468-a68d-146d0b3a4e0e",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "133cc94e-c837-5000-abf7-ff60018449ae",
             "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW133cc94ec8375000abf7ff60018449ae",
-            "conversion_factor_to_main_unit": 1000000000000.0,
             "conversion_factor_from_si": 1000000000000.0,
-            "main_symbol": "TBq"
+            "main_symbol": "TBq",
+            "factor_units": [
+                {
+                    "uuid": "cd75c4e0-b609-5468-a68d-146d0b3a4e0e",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "7005d44e-f1dd-51ac-be20-cb145041606a",
             "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW7005d44ef1dd51acbe20cb145041606a",
-            "conversion_factor_to_main_unit": 1000000000000000.0,
             "conversion_factor_from_si": 1000000000000000.0,
-            "main_symbol": "PBq"
+            "main_symbol": "PBq",
+            "factor_units": [
+                {
+                    "uuid": "cd75c4e0-b609-5468-a68d-146d0b3a4e0e",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "7acd6161-1e90-5707-89a0-c17bd89a0332",
             "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW7acd61611e90570789a0c17bd89a0332",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kBq",
             "ucum_codes": [
                 "kBq"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "cd75c4e0-b609-5468-a68d-146d0b3a4e0e",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "9607f6e5-f4b1-5b59-a05b-fea6168d375e",
             "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW9607f6e5f4b15b59a05bfea6168d375e",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
-            "main_symbol": "mBq"
+            "main_symbol": "mBq",
+            "factor_units": [
+                {
+                    "uuid": "cd75c4e0-b609-5468-a68d-146d0b3a4e0e",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "99f5ef54-2438-535d-a66f-86b2f237ad6c",
             "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSW99f5ef542438535da66f86b2f237ad6c",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
-            "main_symbol": "nBq"
+            "main_symbol": "nBq",
+            "factor_units": [
+                {
+                    "uuid": "cd75c4e0-b609-5468-a68d-146d0b3a4e0e",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "a7085a17-a359-5929-beed-2cd9978fe734",
             "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSWa7085a17a3595929beed2cd9978fe734",
-            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
             "main_symbol": "GBq",
             "ucum_codes": [
                 "GBq"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "cd75c4e0-b609-5468-a68d-146d0b3a4e0e",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "b3a8a39c-0050-5c75-a399-3bb11241fdb9",
             "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSWb3a8a39c00505c75a3993bb11241fdb9",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MBq",
             "ucum_codes": [
                 "MBq"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "cd75c4e0-b609-5468-a68d-146d0b3a4e0e",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ef0f2e23-f071-5f4b-a318-816bc556b062",
             "osw_id": "Item:OSW06027f437dd357449795ec4d0e001467#OSWef0f2e23f0715f4ba318816bc556b062",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μBq",
             "ucum_codes": [
                 "uBq"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "cd75c4e0-b609-5468-a68d-146d0b3a4e0e",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
             ]
         }
     ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/K-PER-T"
@@ -24,12 +24,15 @@
     "ucum_codes": [
         "K.T-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "c732ee34-fda0-5810-aa74-a15c6deea0fc",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": 1
         },
         {
+            "uuid": "02cd810c-05d0-5c95-b464-2eb1f0a59354",
+            "unit": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0",
             "exponent": -1
         }
     ]

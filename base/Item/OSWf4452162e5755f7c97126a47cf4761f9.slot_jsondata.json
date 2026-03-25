@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-PER-MIN"
@@ -25,12 +25,15 @@
         "Pa.min-1",
         "Pa/min"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "0a266ddd-2447-5675-baf8-39bf9c340d94",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": 1
         },
         {
+            "uuid": "e4b8e810-a790-56e6-9910-046fb3de869e",
+            "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
             "exponent": -1
         }
     ]

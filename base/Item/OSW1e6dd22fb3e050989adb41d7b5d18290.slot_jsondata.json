@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-PER-HR"
@@ -25,23 +25,25 @@
         "Pa.h-1",
         "Pa/h"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "eeaea4c4-1fe6-5fe3-8c24-d0d132f3f5b3",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": 1
         },
         {
+            "uuid": "ad1c6996-7887-546d-9259-f37c21ddda22",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "a2065930-0e43-557d-b5c3-7f3b8e8532b5",
             "osw_id": "Item:OSW1e6dd22fb3e050989adb41d7b5d18290#OSWa20659300e43557db5c37f3b8e8532b5",
-            "conversion_factor_to_main_unit": 100.0,
             "conversion_factor_from_si": 0.027777777777777776,
             "main_symbol": "hPa/h",
             "ucum_codes": [
@@ -49,9 +51,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "aa642391-139f-5775-bb90-d24e6adb2c0c",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 },
                 {
+                    "uuid": "4b69a926-11ed-50a7-bb29-371187aa4d02",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
                     "exponent": 1
                 }
             ]

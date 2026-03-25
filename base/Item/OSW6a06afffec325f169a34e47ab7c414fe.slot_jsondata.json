@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-PER-KiloGM"
@@ -25,12 +25,15 @@
         "W.kg-1",
         "W/kg"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "fd0e9d71-4856-5301-9382-31c79f449b2a",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": 1
         },
         {
+            "uuid": "aa61d367-9b15-5605-ac17-7aa2ab2df3e2",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
             "exponent": -1
         }
     ]

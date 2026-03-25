@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-M3"
@@ -25,23 +25,25 @@
         "mol.m-3",
         "mol/m3"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f66a4b57-8037-549d-a8a9-6ca3043b8944",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         },
         {
+            "uuid": "548db97a-1d24-5ac7-8e52-5929f1059c28",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -3
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "2c20bbad-8109-59ff-a4d1-ea210b290227",
             "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSW2c20bbad810959ffa4d1ea210b290227",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "mol/dm³",
             "ucum_codes": [
@@ -49,20 +51,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "d0846930-d198-5c3d-bff7-863c43946eba",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf89b36f291825b78b2e376b41104ed80",
                     "exponent": -3
                 },
                 {
+                    "uuid": "a8216988-0832-54a1-a408-1af2330617aa",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "8bb63381-b7c3-55e3-984b-e7dca4baf030",
             "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSW8bb63381b7c355e3984be7dca4baf030",
-            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
             "main_symbol": "pmol/m³",
             "ucum_codes": [
@@ -70,20 +75,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "a2dd6c6f-bb42-5ee3-adc3-beac7cce6930",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW2db3cc3b7dba5b95bd0a0f685e87fec4",
                     "exponent": 1
                 },
                 {
+                    "uuid": "1faa8f18-11d4-51c9-8df6-429ab3ce8bb4",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -3
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "dc37f32c-45c7-5ead-9b0a-c9a0547030eb",
             "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSWdc37f32c45c75ead9b0ac9a0547030eb",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mmol/m³",
             "ucum_codes": [
@@ -91,20 +99,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "23459ce7-c76e-5988-a79c-13886bd6c9f0",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW09461c4b2fa85ab683a3572a199ef16b",
                     "exponent": 1
                 },
                 {
+                    "uuid": "7addfda4-30cb-5c25-9b56-e643d9ec557d",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -3
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "e718f1e8-ec19-5206-9a95-6ab1096f08cb",
             "osw_id": "Item:OSW8ac2d9421f455305abb01a51d001cc54#OSWe718f1e8ec1952069a956ab1096f08cb",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kmol/m³",
             "ucum_codes": [
@@ -112,9 +123,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "9acffcfe-5c4a-53d3-9b6c-cdff7a7063a0",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -3
                 },
                 {
+                    "uuid": "e3cba726-356a-5e7b-937a-3b438ec2aec3",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW2971b3cb7eca516184282ecfa45bfb81",
                     "exponent": 1
                 }
             ]

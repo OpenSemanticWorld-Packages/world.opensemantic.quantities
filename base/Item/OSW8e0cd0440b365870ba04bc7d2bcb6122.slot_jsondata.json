@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-M3-PER-SEC"
@@ -25,26 +25,30 @@
         "Pa.m3.s-1",
         "Pa.m3/s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f326967f-ec7c-5435-8a8c-c12272c0a812",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         },
         {
+            "uuid": "b8e4803b-0400-5347-80f2-1789c594349a",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 3
         },
         {
+            "uuid": "abaac792-6628-50cf-a0e0-6e9d91836bc4",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "51ef27a4-68d7-59f0-9612-97af55bf0f05",
             "osw_id": "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122#OSW51ef27a468d759f0961297af55bf0f05",
-            "conversion_factor_to_main_unit": 100.0,
             "conversion_factor_from_si": 100.0,
             "main_symbol": "hPa·m³/s",
             "ucum_codes": [
@@ -52,23 +56,28 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "1506aedd-3835-539f-b416-ae899b7decac",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": 3
                 },
                 {
+                    "uuid": "0a358d21-0042-5559-acf1-15d014c72240",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
                     "exponent": 1
                 },
                 {
+                    "uuid": "268b0c24-188d-565c-bd93-2c099910e1d9",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "d9dd4ab1-f7db-5beb-978e-2ed4cae595da",
             "osw_id": "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122#OSWd9dd4ab1f7db5beb978e2ed4cae595da",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MPa·m³/s",
             "ucum_codes": [
@@ -76,12 +85,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "0a9b5963-ba5f-5c41-a121-18014e59de1b",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "e565ec23-a8ee-5101-b9b0-d2e1e053c87e",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": 3
                 },
                 {
+                    "uuid": "0d1d2db0-07c4-5ffb-bc52-9459646c52ad",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
                     "exponent": 1
                 }
             ]

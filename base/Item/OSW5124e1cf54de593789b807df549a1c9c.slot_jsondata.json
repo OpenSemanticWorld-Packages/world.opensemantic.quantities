@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_PLN-PER-KiloW-HR"
@@ -21,15 +21,20 @@
     ],
     "main_symbol": "zł/(kW·h)",
     "conversion_factor_from_si": 2.7777777777777776e-07,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "15ec3f4f-383b-5911-8603-0c30e62819e1",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
             "exponent": -1
         },
         {
+            "uuid": "08026d7c-7de6-5112-947d-9904090439ae",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         },
         {
+            "uuid": "39d7e83d-1dfe-55a6-8a61-ad13cc9c0a63",
+            "unit": "Item:OSW2817a28adedd541a94787e4feafed93c",
             "exponent": 1
         }
     ]

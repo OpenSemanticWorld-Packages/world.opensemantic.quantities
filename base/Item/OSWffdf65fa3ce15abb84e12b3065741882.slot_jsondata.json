@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/ERG-PER-M2"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "erg.m-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "095a8135-0ab7-5702-b363-73368fb090d0",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "8cc012ef-cb93-5e4e-8c52-f2ea4bee101b",
+            "unit": "Item:OSWad77f6ce4f4f5c3097b7ad242dc9802e",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "a6f5dc3b-da32-5537-be95-9b73b3f9cffb",
             "osw_id": "Item:OSWffdf65fa3ce15abb84e12b3065741882#OSWa6f5dc3bda325537be959b73b3f9cffb",
-            "conversion_factor_to_main_unit": 10000.0,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "erg/cm²",
             "ucum_codes": [
@@ -48,9 +50,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "88f59578-b730-5031-b671-72c66c28d194",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": -2
                 },
                 {
+                    "uuid": "55dd0131-57eb-554c-b96a-b60ca83fee4a",
+                    "unit": "Item:OSWad77f6ce4f4f5c3097b7ad242dc9802e",
                     "exponent": 1
                 }
             ]

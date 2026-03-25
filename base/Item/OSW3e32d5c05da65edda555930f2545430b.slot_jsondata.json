@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/RAD-PER-SEC2"
@@ -25,12 +25,15 @@
         "rad.s-2",
         "rad/s2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "5c1e7fa2-ed22-5d3f-9408-cfa8258f1ccd",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -2
         },
         {
+            "uuid": "48f0c790-61b5-5816-8788-c763bc4b17e3",
+            "unit": "Item:OSW6b270053305955a89f37c50637fc7aeb",
             "exponent": 1
         }
     ]

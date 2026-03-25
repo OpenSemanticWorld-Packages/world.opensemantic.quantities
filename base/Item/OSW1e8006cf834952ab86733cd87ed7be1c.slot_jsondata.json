@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-KiloW"
@@ -24,12 +24,15 @@
     "ucum_codes": [
         "m2.kW-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "c9a59a16-077b-50b6-bcd2-c3eb86a8c073",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         },
         {
+            "uuid": "17d184bc-9b70-5b37-905f-e5b87ceb916d",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
             "exponent": -1
         }
     ]

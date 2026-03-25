@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_NOK-PER-W-HR"
@@ -24,36 +24,46 @@
     "ucum_codes": [
         "[NOK]/W.h"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "2c90e4ae-ad20-5c88-a4ae-321518bd2584",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         },
         {
+            "uuid": "c12ebcc2-2020-5308-acc2-5d492debb1a8",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": -1
         },
         {
+            "uuid": "4d660b30-af9e-5fd5-bd76-fd1a20cfdc96",
+            "unit": "Item:OSWf6c98a4b94275ce1aed84919b33152d5",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "718d130a-8165-5fef-9ef6-d18b79df2f0b",
             "osw_id": "Item:OSWdd57ec56dea95011b468ed06be6dbc41#OSW718d130a81655fef9ef6d18b79df2f0b",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 2.7777777777777776e-07,
             "main_symbol": "kr/(kW·h)",
             "factor_units": [
                 {
+                    "uuid": "231b4824-f208-5b52-a20c-0ae58c7423d2",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 },
                 {
+                    "uuid": "c68d4cee-34bd-5fda-bd82-385c4eba58a5",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
                     "exponent": -1
                 },
                 {
+                    "uuid": "4f84f7b0-f0e4-563f-8237-d3781b6102ca",
+                    "unit": "Item:OSWf6c98a4b94275ce1aed84919b33152d5",
                     "exponent": 1
                 }
             ]

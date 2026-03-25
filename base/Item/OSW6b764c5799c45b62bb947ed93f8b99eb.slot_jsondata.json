@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-SEC"
@@ -25,23 +25,25 @@
         "mol.s-1",
         "mol/s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "618ddf75-d1ce-5706-be5d-42716dfdff93",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         },
         {
+            "uuid": "f75c877b-ec8c-56ed-bb4c-c1d0691203c2",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "10e98cb9-b701-5015-8fc1-544d9f094ad2",
             "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSW10e98cb9b70150158fc1544d9f094ad2",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μmol/s",
             "ucum_codes": [
@@ -50,20 +52,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "a5a66a3a-c14a-5ab6-a5b7-3fb2ed00ac58",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW1d4f11a4a1425dba81c9dac510278967",
                     "exponent": 1
                 },
                 {
+                    "uuid": "bd9ec154-0632-5fd4-9cc3-662308606c10",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "b3ad32c2-d890-57e0-8a13-a3562b52bd17",
             "osw_id": "Item:OSW6b764c5799c45b62bb947ed93f8b99eb#OSWb3ad32c2d89057e08a13a3562b52bd17",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kmol/s",
             "ucum_codes": [
@@ -72,9 +77,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "c3091ea6-d464-5a54-8fcf-6cc17d6df22e",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW2971b3cb7eca516184282ecfa45bfb81",
                     "exponent": 1
                 },
                 {
+                    "uuid": "a3b5600b-7cde-5abb-93ba-bb579f2b94c7",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 }
             ]

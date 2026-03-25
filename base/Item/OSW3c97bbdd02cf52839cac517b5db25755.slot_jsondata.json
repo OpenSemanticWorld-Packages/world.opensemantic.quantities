@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_EUR-PER-W-HR"
@@ -21,36 +21,46 @@
     ],
     "main_symbol": "€/(W·h)",
     "conversion_factor_from_si": 0.0002777777777777778,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "e4885416-27c1-58b7-b65e-d1fdbb6b0eb3",
+            "unit": "Item:OSWfe3f764ca32556608ba833e1af11f93b",
             "exponent": 1
         },
         {
+            "uuid": "2396d615-eb41-5deb-bb5e-e4842a58b6d1",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         },
         {
+            "uuid": "6a798a24-4e4b-589c-aae0-c94579f140a9",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "d07d2737-c3de-5ffd-8e90-27505e8b44db",
             "osw_id": "Item:OSW3c97bbdd02cf52839cac517b5db25755#OSWd07d2737c3de5ffd8e9027505e8b44db",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 2.7777777777777776e-07,
             "main_symbol": "€/(kW·h)",
             "factor_units": [
                 {
+                    "uuid": "3ee7b469-5de8-5847-a810-cf17cbbe23ff",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
                     "exponent": -1
                 },
                 {
+                    "uuid": "144833d3-ca9d-5d7f-a890-5ce169c33289",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 },
                 {
+                    "uuid": "be67b9a9-4f3f-5840-8502-5255d7600e8a",
+                    "unit": "Item:OSWfe3f764ca32556608ba833e1af11f93b",
                     "exponent": 1
                 }
             ]

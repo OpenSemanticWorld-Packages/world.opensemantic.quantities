@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/BQ-PER-M2-DAY"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "Bq.m-2.d-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "9b43d0c4-0015-5153-9c33-b1bac808aeee",
+            "unit": "Item:OSW06027f437dd357449795ec4d0e001467",
             "exponent": 1
         },
         {
+            "uuid": "544ee398-e766-58e7-9e43-f824743513c0",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "0f9a7b16-0c69-50bc-99a2-f1d1aad8064c",
+            "unit": "Item:OSWc90e307854c453be958300304ca8185e",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "79769a62-2d4f-5f37-974c-bd4416b20366",
             "osw_id": "Item:OSW2e5f9448409358499ee05fc3e0b3a872#OSW79769a622d4f5f37974cbd4416b20366",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.1574074074074074e-08,
             "main_symbol": "mBq/(m²·d)",
             "ucum_codes": [
@@ -51,12 +55,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "2012ba6d-6bbf-5d5a-9032-1c2db3598110",
+                    "unit": "Item:OSW06027f437dd357449795ec4d0e001467#OSW9607f6e5f4b15b59a05bfea6168d375e",
                     "exponent": 1
                 },
                 {
+                    "uuid": "e55d59e9-22ce-5ab6-b201-82e087c6985a",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "ffaeb316-47af-52e6-847e-e850ffd85384",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 }
             ]

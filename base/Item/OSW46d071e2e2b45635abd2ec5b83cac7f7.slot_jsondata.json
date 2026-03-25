@@ -34,6 +34,7 @@
             "osw_id": "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7#OSWc43e5d26f2a951f397afff65351fa135",
             "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 31557600000000.0,
+            "prefix": "Item:OSW2bbb5b69a5c85c46a58a782436bf34e9",
             "prefix_symbol": "M",
             "main_symbol": "Ma",
             "ucum_codes": [
@@ -48,6 +49,7 @@
             "osw_id": "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7#OSWf8e6949946765e47bec446d7b0d87dd9",
             "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 31557600000.0,
+            "prefix": "Item:OSW7e48f2b8d6b656f18b74320902117b6f",
             "prefix_symbol": "k",
             "main_symbol": "ka"
         }

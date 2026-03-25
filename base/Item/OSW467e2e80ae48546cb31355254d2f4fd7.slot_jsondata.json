@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-MIN"
@@ -25,23 +25,25 @@
         "mol.min-1",
         "mol/min"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "4d97651b-7688-5892-81b3-9d5066ba64cf",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         },
         {
+            "uuid": "cc4430f4-057c-5984-8a17-06853f6e3f5d",
+            "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "1e936211-6408-5cd5-8893-663c44d43e70",
             "osw_id": "Item:OSW467e2e80ae48546cb31355254d2f4fd7#OSW1e93621164085cd58893663c44d43e70",
-            "conversion_factor_to_main_unit": 1000.0000000000001,
             "conversion_factor_from_si": 16.666666666666668,
             "main_symbol": "kmol/min",
             "ucum_codes": [
@@ -49,9 +51,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "9dd40b2a-e56f-5fc6-be8b-151511651e80",
+                    "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
                     "exponent": -1
                 },
                 {
+                    "uuid": "3a4aa753-efe5-5797-8a15-6d1ebb8f1668",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW2971b3cb7eca516184282ecfa45bfb81",
                     "exponent": 1
                 }
             ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-SEC"
@@ -29,23 +29,25 @@
         "m2.s-1",
         "m2/s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "fc2c980c-7184-5a39-8352-4bfde9827a42",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         },
         {
+            "uuid": "dfaff623-83a6-5a1c-9d58-93d0442723c0",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "031bb99e-e99a-5794-a24c-66e6203c21db",
             "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW031bb99ee99a5794a24c66e6203c21db",
-            "conversion_factor_to_main_unit": 0.0001,
             "conversion_factor_from_si": 0.0001,
             "main_symbol": "cm²/s",
             "ucum_codes": [
@@ -54,20 +56,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "22e9dde7-a5d9-5775-811a-3410a5a8d757",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "80155741-6f18-588f-b6b8-4f8a230be93c",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": 2
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "5db8f161-eb8c-5912-9cef-62d84dd3309c",
             "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW5db8f161eb8c59129cef62d84dd3309c",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "mm²/s",
             "ucum_codes": [
@@ -76,9 +81,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "73bcba1c-fb15-5d32-b912-a56447a965af",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "231f24cf-cd00-5f33-bd15-7b5cc1d292de",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
                     "exponent": 2
                 }
             ]

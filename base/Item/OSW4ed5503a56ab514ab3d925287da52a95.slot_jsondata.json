@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-SEC"
@@ -25,23 +25,25 @@
         "m3.s-1",
         "m3/s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "65278e59-a3dd-5b64-885f-1828979bd204",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         },
         {
+            "uuid": "d987a525-1b94-5ee7-b75a-730b50137aeb",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 3
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "58c067fb-208b-5294-8995-99809141c3ff",
             "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSW58c067fb208b5294899599809141c3ff",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "dm³/s",
             "ucum_codes": [
@@ -50,20 +52,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "bbe187a6-03f1-572f-a2a4-1eec6899dce6",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "68005497-9f8e-5129-9670-bb8f15393036",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf89b36f291825b78b2e376b41104ed80",
                     "exponent": 3
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "acda1333-cb69-5806-9dc8-3172f3a047db",
             "osw_id": "Item:OSW4ed5503a56ab514ab3d925287da52a95#OSWacda1333cb6958069dc83172f3a047db",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "cm³/s",
             "ucum_codes": [
@@ -72,9 +77,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "419cc408-9b39-586d-a6b6-1cea3a354787",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "a511b571-a638-5534-a59e-9fea2bfbf6c7",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": 3
                 }
             ]

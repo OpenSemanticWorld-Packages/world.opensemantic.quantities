@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/EV-PER-T"
@@ -25,12 +25,15 @@
         "eV.T-1",
         "eV/T"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "16cec945-78ca-55e7-8ebf-c28ccf1a837a",
+            "unit": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0",
             "exponent": -1
         },
         {
+            "uuid": "a8cf001e-97b8-5c92-a706-e5e14d522db8",
+            "unit": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0",
             "exponent": 1
         }
     ]

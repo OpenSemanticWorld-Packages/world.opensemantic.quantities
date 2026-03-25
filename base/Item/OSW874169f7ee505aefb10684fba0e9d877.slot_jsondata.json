@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-HA"
@@ -25,23 +25,25 @@
         "g.har-1",
         "g/har"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "fb940458-135d-5e6e-88b1-b1ef99f6a895",
+            "unit": "Item:OSW0839530c03c356bba0525b93a3efcc33",
             "exponent": -1
         },
         {
+            "uuid": "a9ee311e-e155-57b3-86e8-05a68277ac12",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0ccb09ed-c0e9-5e6f-9bbf-7e4de1926a4e",
             "osw_id": "Item:OSW874169f7ee505aefb10684fba0e9d877#OSW0ccb09edc0e95e6f9bbf7e4de1926a4e",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1e-10,
             "main_symbol": "mg/ha",
             "ucum_codes": [
@@ -50,20 +52,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "1e0c2538-290d-50be-be15-a08b06fb0094",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW203cd6c3e616540cb3c6dad0ff389725",
                     "exponent": 1
                 },
                 {
+                    "uuid": "898d46a1-0a79-5438-91d0-39b26e285825",
+                    "unit": "Item:OSW0839530c03c356bba0525b93a3efcc33",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "bc79874a-722f-5d3f-9071-bfcf26af8416",
             "osw_id": "Item:OSW874169f7ee505aefb10684fba0e9d877#OSWbc79874a722f5d3f9071bfcf26af8416",
-            "conversion_factor_to_main_unit": 1000.0000000000001,
             "conversion_factor_from_si": 0.0001,
             "main_symbol": "kg/ha",
             "ucum_codes": [
@@ -72,20 +77,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "48782930-7149-5011-b216-5a58af6fca29",
+                    "unit": "Item:OSW0839530c03c356bba0525b93a3efcc33",
                     "exponent": -1
                 },
                 {
+                    "uuid": "52d8a4ee-27e1-5f74-ae27-668a7ac69ab7",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "fad32d35-2a4d-5f8c-ac5d-17636515a9b2",
             "osw_id": "Item:OSW874169f7ee505aefb10684fba0e9d877#OSWfad32d352a4d5f8cac5d17636515a9b2",
-            "conversion_factor_to_main_unit": 1000000.0000000001,
             "conversion_factor_from_si": 0.1,
             "main_symbol": "Mg/ha",
             "ucum_codes": [
@@ -93,9 +101,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "09b1dcdc-e27e-5830-87a5-8991fbc8e7de",
+                    "unit": "Item:OSW0839530c03c356bba0525b93a3efcc33",
                     "exponent": -1
                 },
                 {
+                    "uuid": "e8b6445a-3d09-51a5-86d4-45de40759c5a",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW046adde698335d9daded9fe04946e8fb",
                     "exponent": 1
                 }
             ]

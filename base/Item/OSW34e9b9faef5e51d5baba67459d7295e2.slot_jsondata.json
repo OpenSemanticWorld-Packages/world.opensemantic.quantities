@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-PER-GM"
@@ -25,23 +25,25 @@
         "N.g-1",
         "N/g"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "4a69147c-66c8-522e-b113-c403daa63db4",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         },
         {
+            "uuid": "05bae40c-cd44-5e5b-94ee-dd7e20e0bb54",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "8ef77a27-e94b-5ccb-a0f3-d69d8491e137",
             "osw_id": "Item:OSW34e9b9faef5e51d5baba67459d7295e2#OSW8ef77a27e94b5ccba0f3d69d8491e137",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "N/kg",
             "ucum_codes": [
@@ -50,9 +52,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "4c090d77-e47b-514e-bffb-b888d520bcff",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
                     "exponent": 1
                 },
                 {
+                    "uuid": "480bd5c3-5d56-52aa-9c4b-c75a1e500755",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": -1
                 }
             ]

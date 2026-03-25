@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-HR"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "J.h-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "6b43afad-9bb8-5b25-ab6f-ec3c75687980",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         },
         {
+            "uuid": "5ade2885-0f92-5d67-ae0e-183b960c71ac",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "9a1ec7b2-603f-53c7-9bbf-32779f0d892d",
             "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSW9a1ec7b2603f53c79bbf32779f0d892d",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 0.2777777777777778,
             "main_symbol": "kJ/h",
             "ucum_codes": [
@@ -48,20 +50,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "d1e84c9d-5bac-55cc-b852-927ac5f15ed5",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
                     "exponent": 1
                 },
                 {
+                    "uuid": "c8e436d5-5e2e-570f-910d-3bd35595849f",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "9f5126b9-1d1d-5456-82b1-7c6685f9268c",
             "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSW9f5126b91d1d545682b17c6685f9268c",
-            "conversion_factor_to_main_unit": 999999999.9999999,
             "conversion_factor_from_si": 277777.77777777775,
             "main_symbol": "GJ/h",
             "ucum_codes": [
@@ -69,20 +74,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "4ec1cbd6-4492-5604-bb49-ef51332f51f1",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 },
                 {
+                    "uuid": "2d2865d2-f79e-5317-8aa8-21a1fb536820",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc26bf1cf449d56ef8122745336585d2b",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "b3b25b25-40cd-5acd-ba07-941a513e473b",
             "osw_id": "Item:OSWed766f1dce3959e39bb9a8749f99dc34#OSWb3b25b2540cd5acdba07941a513e473b",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 277.77777777777777,
             "main_symbol": "MJ/h",
             "ucum_codes": [
@@ -90,9 +98,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "e0e2cc33-4d69-5864-b57d-5370c4d1e287",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
                     "exponent": 1
                 },
                 {
+                    "uuid": "e5b47575-86ca-596e-b7a6-4064855a69e9",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 }
             ]

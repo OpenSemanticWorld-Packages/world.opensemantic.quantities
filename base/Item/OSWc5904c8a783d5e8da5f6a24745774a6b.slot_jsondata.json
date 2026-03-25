@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M6"
@@ -18,20 +18,20 @@
     "ucum_codes": [
         "m6"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "3e3e4d58-2a50-5d06-afc6-c865f28bb151",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 6
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ffc05759-2b94-5f8a-aad8-ef5e3e1903a4",
             "osw_id": "Item:OSWc5904c8a783d5e8da5f6a24745774a6b#OSWffc057592b945f8aaad8ef5e3e1903a4",
-            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
             "main_symbol": "cm⁶",
             "ucum_codes": [
@@ -39,6 +39,8 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "70dde0f0-5b04-5a74-9a14-ec34750c233c",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": 6
                 }
             ]

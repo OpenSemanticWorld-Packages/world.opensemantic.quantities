@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-SEC-SR"
@@ -25,12 +25,15 @@
         "/(s.sr)",
         "s-1.sr-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "3b33fdd0-5d63-5d6e-8047-b5b328c4edf7",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         },
         {
+            "uuid": "1e979c71-b951-5dc3-9625-6ee5777dfdb2",
+            "unit": "Item:OSW198b0fba235959ff90d7035cd300e920",
             "exponent": -1
         }
     ]

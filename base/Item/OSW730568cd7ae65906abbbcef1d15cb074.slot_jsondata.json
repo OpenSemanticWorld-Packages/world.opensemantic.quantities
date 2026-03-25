@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J"
@@ -28,161 +28,296 @@
     "ucum_codes": [
         "J"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0ac3643d-930d-5c99-936e-5ece487a9634",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW0ac3643d930d5c99936e5ece487a9634",
-            "conversion_factor_to_main_unit": 1000000000000.0,
             "conversion_factor_from_si": 1000000000000.0,
             "main_symbol": "TJ",
             "ucum_codes": [
                 "TJ"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "2d5cdc08-b064-506e-8f9a-5b0456b7a0b3",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW2d5cdc08b064506e8f9a5b0456b7a0b3",
-            "conversion_factor_to_main_unit": 1e-15,
             "conversion_factor_from_si": 1e-15,
             "main_symbol": "fJ",
             "ucum_codes": [
                 "fJ"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "30f80559-b4db-5a9b-8d78-a70a24847f4b",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW30f80559b4db5a9b8d78a70a24847f4b",
-            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
-            "main_symbol": "pJ"
+            "main_symbol": "pJ",
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "33466707-4668-5c22-9dc0-4ba811e7afe9",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW3346670746685c229dc04ba811e7afe9",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
-            "main_symbol": "nJ"
+            "main_symbol": "nJ",
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "4e7003f5-d7ff-58a1-9016-7711dd63b0bd",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW4e7003f5d7ff58a190167711dd63b0bd",
-            "conversion_factor_to_main_unit": 1000000000000000.0,
             "conversion_factor_from_si": 1000000000000000.0,
             "main_symbol": "PJ",
             "ucum_codes": [
                 "PJ"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "5ba80670-b294-5c08-b355-51442d3169d5",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW5ba80670b2945c08b35551442d3169d5",
-            "conversion_factor_to_main_unit": 1e+18,
             "conversion_factor_from_si": 1e+18,
             "main_symbol": "EJ",
             "ucum_codes": [
                 "EJ"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "6df75101-1258-508e-9d15-967190c819f3",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW6df751011258508e9d15967190c819f3",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mJ",
             "ucum_codes": [
                 "mJ"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "866098e6-0666-5b39-a34b-aff6dbb4fae4",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW866098e606665b39a34baff6dbb4fae4",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
-            "main_symbol": "μJ"
+            "main_symbol": "μJ",
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "a73c696e-fa58-519a-a07c-265ea965ceda",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWa73c696efa58519aa07c265ea965ceda",
-            "conversion_factor_to_main_unit": 1e-18,
             "conversion_factor_from_si": 1e-18,
             "main_symbol": "aJ",
             "ucum_codes": [
                 "aJ"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ad2518d4-2b68-5f56-9679-c3599455c3d3",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kJ",
             "ucum_codes": [
                 "kJ"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "c1525b1f-1fc0-5c40-b971-5328bf707805",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MJ",
             "ucum_codes": [
                 "MJ"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "c26bf1cf-449d-56ef-8122-745336585d2b",
             "osw_id": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc26bf1cf449d56ef8122745336585d2b",
-            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
             "main_symbol": "GJ",
             "ucum_codes": [
                 "GJ"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "38a92b7a-63ae-5677-9ea9-ba5aa6d512b3",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "0a8027c1-781b-5042-a673-c01c666dbced",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
+                    "exponent": 1
+                }
             ]
         }
     ]

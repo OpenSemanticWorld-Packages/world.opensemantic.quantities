@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/A-PER-RAD"
@@ -25,12 +25,15 @@
         "A.rad-1",
         "A/rad"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "58b97cef-4534-5cff-8e7e-c3bf94c9374d",
+            "unit": "Item:OSW6b270053305955a89f37c50637fc7aeb",
             "exponent": -1
         },
         {
+            "uuid": "0c75a0cc-304c-5616-bc15-c618142298da",
+            "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
             "exponent": 1
         }
     ]

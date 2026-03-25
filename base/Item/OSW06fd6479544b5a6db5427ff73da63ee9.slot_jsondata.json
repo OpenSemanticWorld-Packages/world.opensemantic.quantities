@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-J"
@@ -18,12 +18,15 @@
     "ucum_codes": [
         "m2.J-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "ab090212-403b-547c-86a2-88636a88016f",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": -1
         },
         {
+            "uuid": "62df7cec-0028-5337-b206-7843db93eaef",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         }
     ]

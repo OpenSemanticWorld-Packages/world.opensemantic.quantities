@@ -1,0 +1,26 @@
+{
+    "subclass_of": [
+        "Category:Item"
+    ],
+    "type": [
+        "Category:Category"
+    ],
+    "uuid": "6c2aea02-8a86-47cd-97f5-d7c65c09cd44",
+    "label": [
+        {
+            "text": "Composed Unit",
+            "lang": "en"
+        },
+        {
+            "text": "Zusammengesetzte Einheit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit composed of multiple units or prefixed units",
+            "lang": "en"
+        }
+    ],
+    "name": "ComposedUnit"
+}

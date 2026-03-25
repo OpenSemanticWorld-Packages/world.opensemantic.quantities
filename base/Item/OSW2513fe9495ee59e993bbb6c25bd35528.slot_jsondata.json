@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-MOL-L"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "mol-1.L-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "8750491e-6ab3-5984-a8ed-7eea9be122bc",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": -1
         },
         {
+            "uuid": "2223eddb-26b2-5279-a74e-84a78373394f",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "86515931-97ea-5db5-aa85-0d0faf8860f0",
             "osw_id": "Item:OSW2513fe9495ee59e993bbb6c25bd35528#OSW8651593197ea5db5aa850d0faf8860f0",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000000.0,
             "main_symbol": "/(μmol·L)",
             "ucum_codes": [
@@ -48,9 +50,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "2e3709ea-41bc-5407-b061-9a88293acaaf",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW1d4f11a4a1425dba81c9dac510278967",
                     "exponent": -1
                 },
                 {
+                    "uuid": "c4f8fc77-3827-5701-b54b-dc3d23b0576e",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
                     "exponent": -1
                 }
             ]

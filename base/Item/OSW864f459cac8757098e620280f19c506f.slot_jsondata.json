@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-EV2"
@@ -24,20 +24,20 @@
     "ucum_codes": [
         "eV-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "4f607a15-8d4e-5b9b-aa00-084c784a836d",
+            "unit": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "025e0d3a-3db9-5067-ac8c-0539e8fd8682",
             "osw_id": "Item:OSW864f459cac8757098e620280f19c506f#OSW025e0d3a3db95067ac8c0539e8fd8682",
-            "conversion_factor_to_main_unit": 1e-18,
             "conversion_factor_from_si": 3.895643552657605e+19,
             "main_symbol": "/GeV²",
             "ucum_codes": [
@@ -45,6 +45,8 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "6f78f350-5c26-500f-a628-b8538bafb714",
+                    "unit": "Item:OSWa13d058b4ccc58e587ec191ec1729ce0#OSW763c04e5ccb35c6392515e2be1e7f4a3",
                     "exponent": -2
                 }
             ]

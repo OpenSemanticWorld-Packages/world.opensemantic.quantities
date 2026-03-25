@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-M2-SEC-SR"
@@ -18,18 +18,25 @@
     "ucum_codes": [
         "mol.m-2.s-1.sr-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "08de72d7-baf2-52a8-a0ca-246b8f12a531",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "1d4f4f86-3ed5-58c3-98b2-694169f3ec65",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         },
         {
+            "uuid": "cc75960e-842c-5b08-8870-2f876b8ec991",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         },
         {
+            "uuid": "870aad9f-85f7-533a-8406-6d92bd7dd7df",
+            "unit": "Item:OSW198b0fba235959ff90d7035cd300e920",
             "exponent": -1
         }
     ]

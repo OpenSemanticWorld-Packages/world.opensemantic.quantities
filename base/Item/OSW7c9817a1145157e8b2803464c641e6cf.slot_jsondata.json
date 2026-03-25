@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/C-PER-KiloGM-SEC"
@@ -25,15 +25,20 @@
         "C.kg-1.s-1",
         "C/(kg.s)"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "881a0b6b-4370-5751-8288-53606e53581f",
+            "unit": "Item:OSWb74ce812542f578fb6df2ecf9080fb32",
             "exponent": 1
         },
         {
+            "uuid": "ba2f0482-0579-535e-9106-68841fb8ec2b",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
             "exponent": -1
         },
         {
+            "uuid": "80e01771-a2b6-5072-8beb-a247bbb2e045",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ]

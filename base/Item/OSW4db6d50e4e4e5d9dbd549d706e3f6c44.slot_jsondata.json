@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-M3-K"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "J.m-3.K-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "18d7aa40-2a46-550a-b3e5-61182967935a",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -3
         },
         {
+            "uuid": "846a8a5f-54d9-5c45-a4cd-43dde955a55a",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         },
         {
+            "uuid": "0f5e62ac-1ef8-5f01-ab5d-cbe6a1e78c57",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "831c2e01-19cd-5e46-a75a-fc834fffaf7d",
             "osw_id": "Item:OSW4db6d50e4e4e5d9dbd549d706e3f6c44#OSW831c2e0119cd5e46a75afc834fffaf7d",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "J/(cm³·K)",
             "ucum_codes": [
@@ -52,12 +56,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "e0eaac1e-4e05-59bd-9406-35d69947f6af",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 },
                 {
+                    "uuid": "186c794c-84b8-594d-b03a-3a19cbc98fb4",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
                     "exponent": 1
                 },
                 {
+                    "uuid": "695139a6-3cca-568c-8e20-717a6de28f63",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": -3
                 }
             ]

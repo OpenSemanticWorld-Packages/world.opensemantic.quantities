@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MegaDOLLAR_US-PER-FLIGHT"
@@ -15,12 +15,15 @@
     ],
     "main_symbol": "$M/flight",
     "conversion_factor_from_si": 0.0,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "3480b4e3-40cf-5a19-b7bc-2a64adc7e7ae",
+            "unit": "Item:OSWa409e3610f53554f861699f7dec65e69",
             "exponent": 1
         },
         {
+            "uuid": "169aa908-4ecd-5815-97d1-e40d7871321a",
+            "unit": "Item:OSW9d5bb5f52f115671bbb3d915950b1798",
             "exponent": -1
         }
     ]

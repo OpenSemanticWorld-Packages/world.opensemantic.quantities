@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-GM-K-M3"
@@ -24,29 +24,35 @@
     "ucum_codes": [
         "J.g-1.K.m-3"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "4f16179d-5c0a-5346-9977-90261772c0da",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -3
         },
         {
+            "uuid": "c9e87308-c1f1-5b37-ae2c-29f1e577f529",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": -1
         },
         {
+            "uuid": "198dd52e-c006-597a-8ca4-59ae6b3a3636",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "92054ff4-c37e-5a51-a8ed-8b9c8d63115c",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "c06da5be-651b-56d9-93be-f3fc05d91bd6",
             "osw_id": "Item:OSWd52262b052425cd89da2c28f885447d1#OSWc06da5be651b56d993bef3fc05d91bd6",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "J/(kg·K·m³)",
             "ucum_codes": [
@@ -54,15 +60,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "007907b6-981a-5234-949d-7f102eee45cd",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -3
                 },
                 {
+                    "uuid": "ee166d0d-b9f3-5681-9f54-a6161b6b5e33",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": -1
                 },
                 {
+                    "uuid": "ebda9140-19b3-544c-b810-9f9e9f9a8d90",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
                     "exponent": 1
                 },
                 {
+                    "uuid": "561dc873-4d9f-5dc5-8dee-0752149bafd3",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 }
             ]

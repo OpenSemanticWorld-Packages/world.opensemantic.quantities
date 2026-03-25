@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_CHF-PER-W-HR"
@@ -24,36 +24,46 @@
     "ucum_codes": [
         "[CHF]/W.h"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "83ad327f-8590-5f4e-819a-094c6f6dad83",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": -1
         },
         {
+            "uuid": "7f3a4548-9f0f-5960-b76a-35d3b56f4f94",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         },
         {
+            "uuid": "987bc4da-f005-51d3-94a3-e5e60b2300d0",
+            "unit": "Item:OSWa01f8fa5e77a58a693c96e1904be1bd4",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "900f3e42-8d94-5315-8529-0faab081bb65",
             "osw_id": "Item:OSW2dd1669de76957c9b9c98a3ed3e554a2#OSW900f3e428d94531585290faab081bb65",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 2.7777777777777776e-07,
             "main_symbol": "CHF/(kW·h)",
             "factor_units": [
                 {
+                    "uuid": "eb50e29c-294f-561f-ab1b-2bc392bbbcf8",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
                     "exponent": -1
                 },
                 {
+                    "uuid": "85ebe92b-ac6e-581b-a3a0-f74c5dfa696a",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 },
                 {
+                    "uuid": "4780eeb2-04c0-57b4-8e46-04383af5f18b",
+                    "unit": "Item:OSWa01f8fa5e77a58a693c96e1904be1bd4",
                     "exponent": 1
                 }
             ]

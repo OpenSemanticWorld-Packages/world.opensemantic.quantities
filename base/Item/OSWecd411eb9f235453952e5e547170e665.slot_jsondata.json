@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_CHF-PER-HA"
@@ -25,12 +25,15 @@
     ],
     "main_symbol": "CHF/ha",
     "conversion_factor_from_si": 0.0001,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "c905c50c-e422-5130-a67f-c3c9b4a49409",
+            "unit": "Item:OSWa01f8fa5e77a58a693c96e1904be1bd4",
             "exponent": 1
         },
         {
+            "uuid": "501c99d9-2b6f-5289-9d9b-ae6e7e91b32f",
+            "unit": "Item:OSW0839530c03c356bba0525b93a3efcc33",
             "exponent": -1
         }
     ]

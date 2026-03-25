@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-KiloGM"
@@ -25,12 +25,15 @@
         "m3.kg-1",
         "m3/kg"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "1c37b3f6-183f-57fd-bf61-4e7ec0586f3d",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
             "exponent": -1
         },
         {
+            "uuid": "b4e50da6-b33c-5ffb-a6bc-48ba00dccf19",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 3
         }
     ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-SEC2"
@@ -19,23 +19,25 @@
         "m2.s-2",
         "m2/s2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "67c6f631-76ca-566c-b28b-fc98643deed0",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         },
         {
+            "uuid": "68dd23d2-48f8-5002-80a5-e943c14b8c2f",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f19ea831-be10-53a9-b70d-6403acc15022",
             "osw_id": "Item:OSWf6d6f2af61295484ab10221fe5922f97#OSWf19ea831be1053a9b70d6403acc15022",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "km²/s²",
             "ucum_codes": [
@@ -44,9 +46,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "38e97fe9-edcc-5fbc-bff5-d7a60c2eee6d",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWb1de8f91f1275572b37c2edfe40d5de6",
                     "exponent": 2
                 },
                 {
+                    "uuid": "b4f50d01-d219-57c4-adf5-0e92136be0fc",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -2
                 }
             ]

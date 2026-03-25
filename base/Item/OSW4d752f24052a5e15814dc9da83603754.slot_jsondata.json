@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M3-PER-MIN"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "m3.min-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "04e25ff9-a31a-5322-96cd-07fc15a34841",
+            "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
             "exponent": -1
         },
         {
+            "uuid": "d09ee1c6-e28b-58d8-aa71-a5848656939c",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 3
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0ea24f9e-b6e7-5dd9-92b8-b433e195fe3b",
             "osw_id": "Item:OSW4d752f24052a5e15814dc9da83603754#OSW0ea24f9eb6e75dd992b8b433e195fe3b",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.6666666666666667e-05,
             "main_symbol": "dm³/min",
             "ucum_codes": [
@@ -49,20 +51,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "1d466c7d-145f-51dc-846b-1e80e8c614d5",
+                    "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
                     "exponent": -1
                 },
                 {
+                    "uuid": "e627ef00-5871-58b8-9d6c-2471435f7988",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWf89b36f291825b78b2e376b41104ed80",
                     "exponent": 3
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "fce0a134-0479-5388-b25a-021a38e46f6e",
             "osw_id": "Item:OSW4d752f24052a5e15814dc9da83603754#OSWfce0a13404795388b25a021a38e46f6e",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1.6666666666666667e-08,
             "main_symbol": "cm³/min",
             "ucum_codes": [
@@ -71,9 +76,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "d0d972e8-daee-59c6-a63e-1c1f0d2568b3",
+                    "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
                     "exponent": -1
                 },
                 {
+                    "uuid": "e9a68eb3-2547-5221-ad97-484eb462792f",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": 3
                 }
             ]

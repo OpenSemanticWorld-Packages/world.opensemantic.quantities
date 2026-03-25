@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-PER-RAD"
@@ -29,15 +29,20 @@
         "N.m.rad-1",
         "N.m/rad"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "13d76d5b-f68b-5af3-9c34-6a2a30e2b5a9",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         },
         {
+            "uuid": "85d029ba-89f6-5a4f-80d2-3bd8bebc8e04",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "9dc40639-dea5-55fa-9ca6-44e2c50b4669",
+            "unit": "Item:OSW6b270053305955a89f37c50637fc7aeb",
             "exponent": -1
         }
     ]

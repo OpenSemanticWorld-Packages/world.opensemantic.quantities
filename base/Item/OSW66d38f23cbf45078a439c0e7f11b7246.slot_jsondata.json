@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-FT2"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "g.ft-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "d77f8080-3bef-5915-9159-f01651a3bffc",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "642e8014-b22f-5ee3-ac26-df39c954fd0b",
+            "unit": "Item:OSW6f8950576eae5494a4a717976bbabe70",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ba330453-7cb2-5382-aa00-a3ffd5b1c0f0",
             "osw_id": "Item:OSW66d38f23cbf45078a439c0e7f11b7246#OSWba3304537cb25382aa00a3ffd5b1c0f0",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 10.763910416709722,
             "main_symbol": "kg/ft²",
             "ucum_codes": [
@@ -48,9 +50,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "ebf7f392-4879-5ea5-853f-b3fc0fb7d6fe",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 },
                 {
+                    "uuid": "db9d52d2-8316-5643-9550-6a7ae2e5e06f",
+                    "unit": "Item:OSW6f8950576eae5494a4a717976bbabe70",
                     "exponent": -2
                 }
             ]

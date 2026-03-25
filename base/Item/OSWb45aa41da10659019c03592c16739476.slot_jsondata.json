@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CAL_TH-PER-M3-K"
@@ -25,26 +25,30 @@
         "cal_th.m-3.K-1",
         "cal_th/(m3.K)"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "099cead9-0286-5be4-aed9-7947fa36611e",
+            "unit": "Item:OSW1282fb8dff9556449d90f7aada99324c",
             "exponent": 1
         },
         {
+            "uuid": "f61c6b67-0aa5-534f-8925-f6bf842293b1",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -3
         },
         {
+            "uuid": "9ae47a5f-c15e-564b-9db6-6d3826bf77a1",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "a0fc0bef-94df-5e83-9e06-751b84e74ae3",
             "osw_id": "Item:OSWb45aa41da10659019c03592c16739476#OSWa0fc0bef94df5e839e06751b84e74ae3",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 4184000.0,
             "main_symbol": "cal/(cm³·K)",
             "ucum_codes": [
@@ -53,12 +57,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "e12e6613-cca1-5d91-b896-2e5debd8d7c7",
+                    "unit": "Item:OSW1282fb8dff9556449d90f7aada99324c",
                     "exponent": 1
                 },
                 {
+                    "uuid": "6f4c4c2a-1f0b-5fdf-8c35-9b17ed504666",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": -3
                 },
                 {
+                    "uuid": "ccf3fee4-3d09-59bf-9ebe-70b4ae5fe13f",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 }
             ]

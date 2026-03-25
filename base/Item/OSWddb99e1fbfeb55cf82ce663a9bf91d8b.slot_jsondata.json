@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/SEC-PER-M"
@@ -19,12 +19,15 @@
         "s.m-1",
         "s/m"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "e5fd3dc0-b5ec-58d8-a2d4-f5c6232eb215",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -1
         },
         {
+            "uuid": "79669d1e-8cc3-52df-8136-bebbce65a902",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 1
         }
     ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-K"
@@ -28,23 +28,25 @@
     "ucum_codes": [
         "J.K-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "8fa01a96-7a9e-5b50-81c9-5cdeff259d21",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "e303e25a-d203-5c39-96ec-70ade334900b",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "7b31ddba-89fc-5359-972c-09eda7f30683",
             "osw_id": "Item:OSW501738b1f645568c9c4fb6da844439c7#OSW7b31ddba89fc5359972c09eda7f30683",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kJ/K",
             "ucum_codes": [
@@ -53,20 +55,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "a745212a-fb0d-55c5-b0f9-0883f77252d9",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 },
                 {
+                    "uuid": "0c900d4c-3197-57e6-8934-ac924e394e72",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f8925d2e-6086-5f58-9809-095c9e172dbe",
             "osw_id": "Item:OSW501738b1f645568c9c4fb6da844439c7#OSWf8925d2e60865f589809095c9e172dbe",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MJ/K",
             "ucum_codes": [
@@ -74,9 +79,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "255e2180-f673-5d05-9371-43bfa8d89d50",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
                     "exponent": 1
                 },
                 {
+                    "uuid": "90a709bd-c7f0-53ca-9e22-6c1920058266",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 }
             ]

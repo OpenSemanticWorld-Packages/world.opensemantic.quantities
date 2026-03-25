@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-M2-PA-SEC"
@@ -24,29 +24,35 @@
     "ucum_codes": [
         "g.m-2.Pa-1.s-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "3c1c60d1-aa49-50c2-947e-9bcdaf6a7c52",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "7a16434e-52cc-5ad1-a062-3b4a3b10a3ed",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "f379eb53-ab5b-54ec-8d7b-75b25ebb39a0",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": -1
         },
         {
+            "uuid": "b464a2fc-c4dc-5504-bee7-e9a32d96f74a",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "60bdefc5-b50c-5020-95c7-e1f8f8a7d03e",
             "osw_id": "Item:OSW672562b79f8b5fc69dfa5c57f764f325#OSW60bdefc5b50c502095c7e1f8f8a7d03e",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "kg/(m²·Pa·s)",
             "ucum_codes": [
@@ -54,26 +60,33 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "ca927fba-d509-51d3-83ab-ce4faf23f15c",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 },
                 {
+                    "uuid": "c54d7ff9-f255-5094-957d-d2f3d9928cdf",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "fb498758-ee77-57d7-9900-d8ae0914dc25",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "cb1ff971-cd71-5fc5-acaa-fd234b3327d8",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "a3246309-5825-512e-b308-feef8a23afd8",
             "osw_id": "Item:OSW672562b79f8b5fc69dfa5c57f764f325#OSWa32463095825512eb308feef8a23afd8",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-12,
             "main_symbol": "ng/(m²·Pa·s)",
             "ucum_codes": [
@@ -81,15 +94,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "7032efae-1c0e-5939-8ac8-111f9b8c24ef",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWc82356a0512e545fa594c0454498cd0a",
                     "exponent": 1
                 },
                 {
+                    "uuid": "d9c51e69-4994-5790-943f-5f43fa0f0020",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "074e99a5-ba4c-5f22-a50e-018d25631a45",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
                     "exponent": -1
                 },
                 {
+                    "uuid": "4a8ab8c8-7f0e-520d-b32e-84fb8baa5232",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 }
             ]

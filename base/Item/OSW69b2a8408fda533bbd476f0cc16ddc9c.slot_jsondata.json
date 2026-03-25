@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-M2-DAY"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "J.m-2.d-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "0cd77d90-1fea-55f1-b926-eb852beeb9b0",
+            "unit": "Item:OSWc90e307854c453be958300304ca8185e",
             "exponent": -1
         },
         {
+            "uuid": "4fb8ebe4-b37b-5393-83c9-d98e3bf61a21",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "42c1d7a9-f6e0-5a34-a374-4047f25a31d0",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "8c198dbb-96df-555a-ac74-4013a50dce1f",
             "osw_id": "Item:OSW69b2a8408fda533bbd476f0cc16ddc9c#OSW8c198dbb96df555aac744013a50dce1f",
-            "conversion_factor_to_main_unit": 10000.0,
             "conversion_factor_from_si": 0.11574074074074074,
             "main_symbol": "J/(cm²·d)",
             "ucum_codes": [
@@ -51,23 +55,28 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "1e351baf-7de3-5865-853f-a090d1992f11",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": -2
                 },
                 {
+                    "uuid": "3e6f905e-4c64-54c2-9660-ca02b6cf9b03",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 },
                 {
+                    "uuid": "2dfcdac6-2b53-504c-b4d4-d31f6b1c0eb5",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "c06ae094-22e9-5836-9a4d-d7e6f19e6e8b",
             "osw_id": "Item:OSW69b2a8408fda533bbd476f0cc16ddc9c#OSWc06ae09422e958369a4dd7e6f19e6e8b",
-            "conversion_factor_to_main_unit": 1000000.0000000001,
             "conversion_factor_from_si": 11.574074074074074,
             "main_symbol": "MJ/(m²·d)",
             "ucum_codes": [
@@ -75,12 +84,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "fa40ae5d-3f98-5f08-bcbb-821c95a2e4f6",
+                    "unit": "Item:OSWc90e307854c453be958300304ca8185e",
                     "exponent": -1
                 },
                 {
+                    "uuid": "bff8ba54-cb53-519f-840f-43a9ba062d58",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
                     "exponent": 1
                 },
                 {
+                    "uuid": "b80ce598-d25f-548b-8a1c-b5e389990252",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 }
             ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/L-PER-M2-SEC"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "L.m-2.s-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "1d45ab81-cf24-559a-a619-3761cb264bb1",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": 1
         },
         {
+            "uuid": "4879636c-f318-5212-908a-3d357172fb66",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         },
         {
+            "uuid": "6a89cd65-1c3e-5f27-9853-99c8b8a066e9",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ce6dfcc1-4ebe-5512-9092-67b6fbe8831d",
             "osw_id": "Item:OSWffc45287d2325f1eb96d3e2cec2f6ac0#OSWce6dfcc14ebe5512909267b6fbe8831d",
-            "conversion_factor_to_main_unit": 10.0,
             "conversion_factor_from_si": 0.01,
             "main_symbol": "mL/(cm²·s)",
             "ucum_codes": [
@@ -51,12 +55,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "07c41583-5b9f-5d3d-b517-d535277c5867",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": -2
                 },
                 {
+                    "uuid": "1699c2dc-8016-5da6-b489-14bc7f4a4771",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "bda0b345-ada5-56a0-b1fc-68490b8c74de",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWc6b7a00b85e25b53a17ab4971acb4468",
                     "exponent": 1
                 }
             ]

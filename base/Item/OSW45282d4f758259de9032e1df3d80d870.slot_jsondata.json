@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/V-M"
@@ -18,12 +18,15 @@
     "ucum_codes": [
         "V.m"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "2b8dd2b6-b1e1-5543-9a60-a148fe74ceb9",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "a86afd83-168c-5e5b-980e-2cb1deebbc94",
+            "unit": "Item:OSW85efe1428cb75363a75aab6435e2d98d",
             "exponent": 1
         }
     ]

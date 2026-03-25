@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/L-PER-MIN"
@@ -25,23 +25,25 @@
         "L.min-1",
         "L/min"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "94e3447c-97f9-51ae-a4f1-35b5ce4ab0e7",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": 1
         },
         {
+            "uuid": "e7cb1f83-4953-5b75-8d41-ec67e9aff399",
+            "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "890744f9-916a-5c26-aebd-4f0236c8c367",
             "osw_id": "Item:OSWaba98c22f14e54cca3e7ebb9bdd6fde9#OSW890744f9916a5c26aebd4f0236c8c367",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.6666666666666667e-08,
             "main_symbol": "mL/min",
             "ucum_codes": [
@@ -50,9 +52,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "d52da4f8-c5af-5593-92b8-a80fba3134cc",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWc6b7a00b85e25b53a17ab4971acb4468",
                     "exponent": 1
                 },
                 {
+                    "uuid": "aab54337-5387-556b-9f80-99f5775a69fa",
+                    "unit": "Item:OSWca47b84354ef5eb1947de297c89694a4",
                     "exponent": -1
                 }
             ]

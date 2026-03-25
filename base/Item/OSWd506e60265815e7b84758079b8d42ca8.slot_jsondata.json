@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-M"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "g.m"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "fbd987c8-9dea-5f96-837c-ca92e53abfa5",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "29f50e19-c3e6-5f65-8416-d8e31b0f62cb",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "5baa1fba-a17b-50d5-ab35-eb004c5388df",
             "osw_id": "Item:OSWd506e60265815e7b84758079b8d42ca8#OSW5baa1fbaa17b50d5ab35eb004c5388df",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "g·mm",
             "ucum_codes": [
@@ -48,20 +50,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "82ada9c0-38d1-58fd-8836-08d69663f4fb",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
                     "exponent": 1
                 },
                 {
+                    "uuid": "d7503d26-9393-5b61-8975-ddac86439dd8",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "dfeba370-42f3-56e1-81a4-07aa239dda69",
             "osw_id": "Item:OSWd506e60265815e7b84758079b8d42ca8#OSWdfeba37042f356e181a407aa239dda69",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "kg·m",
             "ucum_codes": [
@@ -69,9 +74,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "d22cfb29-a0e9-5021-96ab-fd2f8e0e5227",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 },
                 {
+                    "uuid": "b2d2b252-e3e1-5f51-86eb-b2cad61c1246",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": 1
                 }
             ]

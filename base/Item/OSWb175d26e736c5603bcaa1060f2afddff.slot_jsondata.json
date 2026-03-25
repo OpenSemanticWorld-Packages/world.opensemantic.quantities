@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CD-PER-LM"
@@ -19,23 +19,25 @@
         "cd.lm-1",
         "cd/lm"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "20e90939-490e-5af2-8b5a-891bc30af262",
+            "unit": "Item:OSWf04f81ce6d6a53b98630967e75958e53",
             "exponent": 1
         },
         {
+            "uuid": "2e9a3f18-b00a-502a-8958-aef84852fed6",
+            "unit": "Item:OSW24fcc1bb84db5b3b951db598cddc1319",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "77b2c8bd-92a0-57b1-ade0-ce1687eb7520",
             "osw_id": "Item:OSWb175d26e736c5603bcaa1060f2afddff#OSW77b2c8bd92a057b1ade0ce1687eb7520",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "cd/klm",
             "ucum_codes": [
@@ -44,9 +46,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "52a85f70-fd9c-5a76-b136-2d39df1871e5",
+                    "unit": "Item:OSW24fcc1bb84db5b3b951db598cddc1319#OSW15cb09d631d65ecbb0d1b54df9f2475e",
                     "exponent": -1
                 },
                 {
+                    "uuid": "cd255683-20b1-5fa9-a2ca-02df8628243b",
+                    "unit": "Item:OSWf04f81ce6d6a53b98630967e75958e53",
                     "exponent": 1
                 }
             ]

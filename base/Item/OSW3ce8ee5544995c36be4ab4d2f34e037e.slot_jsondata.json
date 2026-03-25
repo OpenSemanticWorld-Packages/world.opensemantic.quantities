@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-PER-C"
@@ -25,12 +25,15 @@
         "N.C-1",
         "N/C"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "c3de329b-8c8f-5be7-90e6-aefb4c3a8e70",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         },
         {
+            "uuid": "13057138-ff23-5762-9015-2ea8746c6c63",
+            "unit": "Item:OSWb74ce812542f578fb6df2ecf9080fb32",
             "exponent": -1
         }
     ]

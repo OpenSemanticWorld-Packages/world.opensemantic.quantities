@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-CentiM2-YR"
@@ -24,15 +24,20 @@
     "ucum_codes": [
         "g.cm-2.a-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "e851cdc9-c9ce-55b0-8919-ab733d6e4de2",
+            "unit": "Item:OSW46d071e2e2b45635abd2ec5b83cac7f7",
             "exponent": -1
         },
         {
+            "uuid": "6bf5ec79-94aa-55a4-9744-c6dfeedf4335",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "8f43da82-f7a3-5308-80e6-3b0ba72857fd",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
             "exponent": -2
         }
     ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-HZ2"
@@ -18,12 +18,15 @@
     "ucum_codes": [
         "m2.Hz-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "68d1becd-f04e-51e4-a569-31f949ade34d",
+            "unit": "Item:OSW7496c09c41b154bdba82f6d09195cae5",
             "exponent": -2
         },
         {
+            "uuid": "4f36e55b-a132-5fa6-b540-e4591c8b4df8",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         }
     ]

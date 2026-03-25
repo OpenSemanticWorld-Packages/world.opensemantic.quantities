@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-PER-KiloGM"
@@ -25,15 +25,20 @@
         "N.m.kg-1",
         "N.m/kg"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "bf484ecf-192f-57a6-a429-307cadd2bb2a",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "82e9733f-2785-5ca7-ae66-9fcada5ca752",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         },
         {
+            "uuid": "8c9418c1-fb4e-5beb-8475-67c45539ceb5",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
             "exponent": -1
         }
     ]

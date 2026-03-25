@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CHF-PER-GM"
@@ -21,30 +21,36 @@
     ],
     "main_symbol": "CHF/g",
     "conversion_factor_from_si": 0.001,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "3b98080d-a9b5-53d0-8e44-dc3aebe5d222",
+            "unit": "Item:OSW573132c1ec1851f19b0105c27866a50a",
             "exponent": 1
         },
         {
+            "uuid": "8bed9148-f69d-56d7-8d20-0b90642e22a6",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "1884786f-cf88-5b38-bca1-59956105f731",
             "osw_id": "Item:OSW358163dc865558f5babfbdad63f030e3#OSW1884786fcf885b38bca159956105f731",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "CHF/kg",
             "factor_units": [
                 {
+                    "uuid": "e8ecb46a-1204-5fca-a7b1-ce79ab9bb149",
+                    "unit": "Item:OSW573132c1ec1851f19b0105c27866a50a",
                     "exponent": 1
                 },
                 {
+                    "uuid": "047c4192-f714-54a6-9185-ad12598e3f4d",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": -1
                 }
             ]

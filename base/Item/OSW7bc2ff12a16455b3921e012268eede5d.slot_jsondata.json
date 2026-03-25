@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-HR"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "g.h-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "e018e634-3b8f-5e23-81d5-a465cdcb1e30",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         },
         {
+            "uuid": "1b00d182-052c-53f6-9b0d-c6b3f94045df",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0495cb74-0afb-5527-ad15-32b7b4bec0e2",
             "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW0495cb740afb5527ad1532b7b4bec0e2",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 2.7777777777777777e-10,
             "main_symbol": "mg/h",
             "ucum_codes": [
@@ -49,20 +51,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "82015421-b54e-599c-8b55-8af6cbc32597",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSW203cd6c3e616540cb3c6dad0ff389725",
                     "exponent": 1
                 },
                 {
+                    "uuid": "d5fb4363-9000-56b1-b771-74de9ffc93eb",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "413aa7e8-8ce6-5396-8b05-87f53d191c08",
             "osw_id": "Item:OSW7bc2ff12a16455b3921e012268eede5d#OSW413aa7e88ce653968b0587f53d191c08",
-            "conversion_factor_to_main_unit": 1000.0000000000001,
             "conversion_factor_from_si": 0.0002777777777777778,
             "main_symbol": "kg/h",
             "ucum_codes": [
@@ -71,9 +76,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "ab1a9f79-7403-5ee3-a738-8ecd757935ac",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 },
                 {
+                    "uuid": "6539c3ef-2fbb-5c1f-8db7-c5f4f06701d4",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 }
             ]

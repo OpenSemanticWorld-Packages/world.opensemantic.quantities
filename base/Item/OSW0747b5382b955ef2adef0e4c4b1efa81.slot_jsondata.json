@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-M2"
@@ -25,23 +25,25 @@
         "J.m-2",
         "J/m2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "12859a01-904a-504e-9d87-862d56605bbc",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         },
         {
+            "uuid": "c9df05b3-5679-5d60-ab47-a394ef32d470",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "16b24f4f-fe12-585a-a114-fbefbf3dbd5b",
             "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW16b24f4ffe12585aa114fbefbf3dbd5b",
-            "conversion_factor_to_main_unit": 10000.0,
             "conversion_factor_from_si": 10000.0,
             "main_symbol": "J/cm²",
             "ucum_codes": [
@@ -49,20 +51,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "214aa656-471c-5b92-bf70-40f3468aea3c",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
                     "exponent": 1
                 },
                 {
+                    "uuid": "f07abaa1-c7bf-520a-aad8-12c86a218177",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": -2
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "3b9b7dca-35ec-5f79-95ba-76de650fcadf",
             "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW3b9b7dca35ec5f7995ba76de650fcadf",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mJ/m²",
             "ucum_codes": [
@@ -71,20 +76,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "be0e6052-c871-52a2-b2f8-9bd6e3f03b55",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "99dcb378-9dbb-5fee-867e-874154de2ab4",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW6df751011258508e9d15967190c819f3",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "48c62f71-ae5a-512c-a24d-cb6059999b8d",
             "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSW48c62f71ae5a512ca24dcb6059999b8d",
-            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
             "main_symbol": "GJ/m²",
             "ucum_codes": [
@@ -93,20 +101,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "405cacad-61cc-5d2b-b8c2-6e5add1c79c0",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "cc43e9a4-48df-5934-80ee-47045cca0440",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc26bf1cf449d56ef8122745336585d2b",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f9cdbd65-5654-5d55-a9bd-e1a0915a9545",
             "osw_id": "Item:OSW0747b5382b955ef2adef0e4c4b1efa81#OSWf9cdbd6556545d55a9bde1a0915a9545",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MJ/m²",
             "ucum_codes": [
@@ -114,9 +125,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "2fef8c6f-6427-59bd-b772-776577e71162",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
                     "exponent": 1
                 },
                 {
+                    "uuid": "d8929981-3ed1-548c-b94b-8d9327eb8419",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 }
             ]

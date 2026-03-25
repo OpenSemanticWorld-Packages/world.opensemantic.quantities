@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-KiloGM"
@@ -25,12 +25,15 @@
         "mol.kg-1",
         "mol/kg"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "24a9985d-127d-56bb-9e74-8b6a1a0249a6",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         },
         {
+            "uuid": "cbb1ac02-6a34-5859-97d4-a8f736f70007",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
             "exponent": -1
         }
     ]

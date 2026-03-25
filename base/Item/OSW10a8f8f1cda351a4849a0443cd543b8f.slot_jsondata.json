@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M-PER-M2"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "m.m-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "b521be85-2975-5bcb-8ec5-e287267a9da5",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "305cfd75-65a0-52fb-92ce-d7028d4ca4b8",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "079141f2-088b-5510-b6bd-492dcff66ed5",
             "osw_id": "Item:OSW10a8f8f1cda351a4849a0443cd543b8f#OSW079141f2088b5510b6bd492dcff66ed5",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mm/m²",
             "ucum_codes": [
@@ -49,9 +51,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "d3140be0-25ed-5163-bf61-7630b2eb86a0",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -2
                 },
                 {
+                    "uuid": "0877cd99-acb2-58b4-81de-373777d990ea",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
                     "exponent": 1
                 }
             ]

@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/A-PER-MOL-L"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "A.mol-1.L-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f74481e1-1fa0-5a64-85ae-b0c58646cb49",
+            "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
             "exponent": 1
         },
         {
+            "uuid": "6e5cf121-3437-5ed9-ac02-f732a75eb6a3",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": -1
         },
         {
+            "uuid": "6a683893-16bf-5a08-b42a-5a20b5e0b7f8",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "42a6781b-66ae-5b41-a314-650c6378c953",
             "osw_id": "Item:OSWd34b978175e45153b71aca44f1dd309a#OSW42a6781b66ae5b41a314650c6378c953",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "pA/(μmol·L)",
             "ucum_codes": [
@@ -51,12 +55,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "dada9eca-776f-520d-9477-c48cbd086acc",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW1d4f11a4a1425dba81c9dac510278967",
                     "exponent": -1
                 },
                 {
+                    "uuid": "260f2e3e-5a9d-5422-bce2-b3358f44947e",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSWb59bf21962f75857965df77a55549178",
                     "exponent": 1
                 },
                 {
+                    "uuid": "84f4c058-a3df-5edc-aa81-989c266c3b99",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
                     "exponent": -1
                 }
             ]

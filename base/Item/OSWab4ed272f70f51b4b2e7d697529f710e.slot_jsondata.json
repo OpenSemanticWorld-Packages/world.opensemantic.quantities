@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-PER-SEC2"
@@ -25,23 +25,25 @@
         "g.s-2",
         "g/s2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "5d0ec114-29cb-5dd2-83c7-6f79f168f669",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -2
         },
         {
+            "uuid": "dc582775-4dfa-5691-b96d-ec0b61e64cfd",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f43e687f-9152-535b-ac17-6e4c48d3fd5f",
             "osw_id": "Item:OSWab4ed272f70f51b4b2e7d697529f710e#OSWf43e687f9152535bac176e4c48d3fd5f",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "kg/s²",
             "ucum_codes": [
@@ -50,9 +52,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "91a927a0-e1ff-5603-92d8-df39dd1f228d",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -2
                 },
                 {
+                    "uuid": "fbb28bd3-53d4-5ea6-9373-5e11feb3ed96",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 }
             ]

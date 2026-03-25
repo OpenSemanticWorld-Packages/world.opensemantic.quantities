@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-MOL-K"
@@ -24,15 +24,20 @@
     "ucum_codes": [
         "J.mol-1.K-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "393519c9-9ebb-516d-9e4a-7b22f7eb1549",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": -1
         },
         {
+            "uuid": "68f8afdc-4ce2-57ca-a16f-f045ce7969cc",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         },
         {
+            "uuid": "bff8f824-c10f-51f7-bf97-4f5f67716482",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         }
     ]

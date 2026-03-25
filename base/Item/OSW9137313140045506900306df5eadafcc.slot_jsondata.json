@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-PER-M"
@@ -29,23 +29,25 @@
         "N.m-1",
         "N/m"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f4ade49c-a8b1-54f6-8d62-cf942dbfaaaf",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         },
         {
+            "uuid": "cb503679-65fc-5955-8b54-68a9b6ad89ab",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "19ad3782-7237-5e53-b1ce-5a4a6c220387",
             "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW19ad378272375e53b1ce5a4a6c220387",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kN/m",
             "ucum_codes": [
@@ -53,20 +55,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "371efab5-6772-577c-8038-5c02d1536d2b",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a#OSW9e26f43774ed54c9b9bf757fca6ad5e7",
                     "exponent": 1
                 },
                 {
+                    "uuid": "c047ec50-edfe-5655-a769-e7345eacabb9",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "2787316a-c73a-5365-b863-fb379f6a800c",
             "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW2787316ac73a5365b863fb379f6a800c",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mN/m",
             "ucum_codes": [
@@ -75,20 +80,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "63d010c9-4ec8-5e82-b35e-109d3613a743",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a#OSWf2fd2b42f5a653f398f9fb35200f39fe",
                     "exponent": 1
                 },
                 {
+                    "uuid": "3bc361f1-7b1c-51d3-b51e-6a54256f6e0c",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "58f75b5f-8d43-5f56-805e-7a3e4e1b6236",
             "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW58f75b5f8d435f56805e7a3e4e1b6236",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "N/mm",
             "ucum_codes": [
@@ -97,20 +105,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "e8af969f-51cf-5211-a516-8c0480d80ae5",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSW322dec469be75aedb008b3ebff29db86",
                     "exponent": -1
                 },
                 {
+                    "uuid": "78563e4a-c651-5720-a910-9526a3807c48",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "7af17659-12d4-53d4-9508-4e069c796538",
             "osw_id": "Item:OSW9137313140045506900306df5eadafcc#OSW7af1765912d453d495084e069c796538",
-            "conversion_factor_to_main_unit": 100.0,
             "conversion_factor_from_si": 100.0,
             "main_symbol": "N/cm",
             "ucum_codes": [
@@ -119,9 +130,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "5d56c1b4-6623-5e9e-8167-0a5ff8407b44",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": -1
                 },
                 {
+                    "uuid": "83c53fb5-8554-523d-8df9-b72fec187627",
+                    "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
                     "exponent": 1
                 }
             ]

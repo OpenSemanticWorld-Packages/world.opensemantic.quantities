@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/GM-K"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "g.K"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "d2bf4299-615f-5413-9aa7-9562e594b2c6",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": 1
         },
         {
+            "uuid": "cbfb4fb1-3242-57f6-88c1-75d45d308c20",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "fd24f942-5d81-5d66-beab-746eecaf5926",
             "osw_id": "Item:OSW7b82dfcbfc22546fa1bd69b1f1d373da#OSWfd24f9425d815d66beab746eecaf5926",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "kg·K",
             "ucum_codes": [
@@ -48,9 +50,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "f3c769bf-5ca6-5fdf-99e7-6eb4a8bf7fe7",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": 1
                 },
                 {
+                    "uuid": "a2008b36-072a-5073-b6fe-445b57beb629",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": 1
                 }
             ]

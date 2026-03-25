@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/MOL-PER-M-W-SEC"
@@ -24,29 +24,35 @@
     "ucum_codes": [
         "mol.m-1.W-1.s-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "c3610e5f-419a-5923-8ff7-f0a0a359cc02",
+            "unit": "Item:OSW4d9412cede875e399cffb35415646316",
             "exponent": 1
         },
         {
+            "uuid": "22ae4a8d-f42f-5820-931f-4c254d6c9908",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -1
         },
         {
+            "uuid": "0a3692e9-d972-5eb0-9d8c-43ba38a41e3c",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": -1
         },
         {
+            "uuid": "949efb9b-338f-5a51-83ae-2aabea65ceb2",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "21a17249-f176-52bd-99fd-f181786ccd07",
             "osw_id": "Item:OSW32f89ce799be5c988c27e1fae3b925a2#OSW21a17249f17652bd99fdf181786ccd07",
-            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
             "main_symbol": "pmol/(m·W·s)",
             "ucum_codes": [
@@ -54,15 +60,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "efa2b795-866e-5502-88ba-ac21ff71e829",
+                    "unit": "Item:OSW4d9412cede875e399cffb35415646316#OSW2db3cc3b7dba5b95bd0a0f685e87fec4",
                     "exponent": 1
                 },
                 {
+                    "uuid": "4cecc3ac-7def-5b58-8a9d-a519eabebad1",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "5ffc0168-ac88-5e41-a364-eb747a1b3152",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
                     "exponent": -1
                 },
                 {
+                    "uuid": "a1b27626-6678-5794-95f5-e81a4b69b710",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -1
                 }
             ]

@@ -38,6 +38,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW0312d37f6ca0546583986bc84e60fa6c",
             "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
+            "prefix": "Item:OSW60dd8a1007b2514c9f52a4f4093a1a34",
             "prefix_symbol": "n",
             "main_symbol": "nVA",
             "ucum_codes": [
@@ -52,6 +53,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW256034b860d856debed9839c153bef87",
             "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW0233713899ac5165aed5ad1dfc7c1454",
             "prefix_symbol": "G",
             "main_symbol": "GVA",
             "ucum_codes": [
@@ -66,6 +68,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW5c6a4dbb56f25f378d330c4881c4bf58",
             "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
+            "prefix": "Item:OSW5fa258feb12651e582acc1cfe6173514",
             "prefix_symbol": "p",
             "main_symbol": "pVA",
             "ucum_codes": [
@@ -80,6 +83,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW6115ea60137f58f48c39c6a7022f04a0",
             "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW4c873d14bbe7539ca40fe2c6a2027c89",
             "prefix_symbol": "μ",
             "main_symbol": "μVA",
             "ucum_codes": [
@@ -94,6 +98,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSW67a08a84211655f197fd8d5809f003ed",
             "conversion_factor_to_main_unit": 1000000000000000.0,
             "conversion_factor_from_si": 1000000000000000.0,
+            "prefix": "Item:OSW66e858c7709454eebc2f0fc2c799dcfd",
             "prefix_symbol": "P",
             "main_symbol": "PVA"
         },
@@ -105,6 +110,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWcafa0565b412503b86477319f5bb3187",
             "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSW7e48f2b8d6b656f18b74320902117b6f",
             "prefix_symbol": "k",
             "main_symbol": "kVA",
             "ucum_codes": [
@@ -119,6 +125,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWdeccf337e24e57fe9456dbdce19ed82f",
             "conversion_factor_to_main_unit": 1000000000000.0,
             "conversion_factor_from_si": 1000000000000.0,
+            "prefix": "Item:OSW67a0d1b9395b5296a49d87a4e78684a5",
             "prefix_symbol": "T",
             "main_symbol": "TVA",
             "ucum_codes": [
@@ -133,6 +140,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWebd9434a5d825ee5910ca9d1f23e806f",
             "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW9b4d25a33e2d5567bf65a5b37a9c6d84",
             "prefix_symbol": "m",
             "main_symbol": "mVA",
             "ucum_codes": [
@@ -147,6 +155,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWecfc0485465d510aa98f09bb3aafabef",
             "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSW2bbb5b69a5c85c46a58a782436bf34e9",
             "prefix_symbol": "M",
             "main_symbol": "MVA",
             "ucum_codes": [
@@ -161,6 +170,7 @@
             "osw_id": "Item:OSWb41c4bc68f7951658a66c7481061c1f2#OSWfb5b94737dd35262af38a506dd470955",
             "conversion_factor_to_main_unit": 1e+18,
             "conversion_factor_from_si": 1e+18,
+            "prefix": "Item:OSW7f6a560416f351759c593cd72bcfe5c1",
             "prefix_symbol": "E",
             "main_symbol": "EVA"
         }

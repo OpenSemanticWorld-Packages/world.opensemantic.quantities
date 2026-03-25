@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-M3-PER-GM"
@@ -25,26 +25,30 @@
         "Pa.m3.g-1",
         "Pa.m3/g"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "845752c0-378c-594b-8654-ed933925e2e1",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": 1
         },
         {
+            "uuid": "16c39437-5275-5139-98b8-81f1fe0b6822",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 3
         },
         {
+            "uuid": "ed88eb15-eb7f-5cc4-ad18-5b2310ff41c1",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f3093f86-7b3e-5a7e-9955-befd1748ff78",
             "osw_id": "Item:OSWddd2e8bc10f755b38f1e4334f3d81642#OSWf3093f867b3e5a7e9955befd1748ff78",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "GPa·cm³/g",
             "ucum_codes": [
@@ -53,12 +57,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "9440723b-2ee6-5667-9dff-5ec29ddcf361",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW49bb4743a5735e189777f3c6bd422a52",
                     "exponent": 1
                 },
                 {
+                    "uuid": "b75233ce-1c0c-5b4c-9360-b9750aa63249",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": 3
                 },
                 {
+                    "uuid": "81fadeb1-a7b9-5cda-a07d-34391aa20f39",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
                     "exponent": -1
                 }
             ]

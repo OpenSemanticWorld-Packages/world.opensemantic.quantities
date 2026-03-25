@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CCY_BGN-PER-W-HR"
@@ -24,36 +24,46 @@
     "ucum_codes": [
         "[BGN]/(W.h)"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "91d44d46-bc1d-5f72-b8b4-3d697558bbdc",
+            "unit": "Item:OSW68708a3f419958c198b649b677a30983",
             "exponent": 1
         },
         {
+            "uuid": "d7102aea-3f59-5baf-b33f-afe22e981614",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": -1
         },
         {
+            "uuid": "b6a9e3c2-b096-5902-b300-3741bc56c796",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": -1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0db23553-b607-5ef9-b9a4-f717b286b0d0",
             "osw_id": "Item:OSW4a622bd846a1595da3e416227ca239fe#OSW0db23553b6075ef9b9a4f717b286b0d0",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 2.7777777777777776e-07,
             "main_symbol": "лв./(kW·h)",
             "factor_units": [
                 {
+                    "uuid": "79eb57a5-2f55-5956-9939-b9b914db9c28",
+                    "unit": "Item:OSW68708a3f419958c198b649b677a30983",
                     "exponent": 1
                 },
                 {
+                    "uuid": "2e9b1f03-edba-5771-a896-bd714a31baa3",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": -1
                 },
                 {
+                    "uuid": "21753c9e-1813-566f-bf04-01e6fe21f00f",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
                     "exponent": -1
                 }
             ]

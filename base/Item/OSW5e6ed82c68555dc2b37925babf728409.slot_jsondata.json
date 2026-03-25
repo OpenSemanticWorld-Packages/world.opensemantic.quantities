@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/N-M-SEC"
@@ -28,15 +28,20 @@
     "ucum_codes": [
         "N.m.s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "be85296b-0d4b-587c-9b2e-af1deb56902d",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         },
         {
+            "uuid": "4d3c3031-800d-56a9-85fa-27addea5db26",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 1
         },
         {
+            "uuid": "cda1703b-b932-5d1d-b31b-2c631754b0ef",
+            "unit": "Item:OSW8113ac9c25615c21902a9447ab03cc0a",
             "exponent": 1
         }
     ]

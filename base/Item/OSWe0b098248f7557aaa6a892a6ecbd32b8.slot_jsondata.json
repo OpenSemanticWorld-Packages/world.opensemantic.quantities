@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/C4-M4-PER-J3"
@@ -25,15 +25,20 @@
         "C4.m4.J-3",
         "C4.m4/J3"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "e7515d7a-85cb-5017-b3b8-4118e65734c7",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": -3
         },
         {
+            "uuid": "9f9592cd-e365-53a9-bd91-3f159c777d83",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 4
         },
         {
+            "uuid": "e4e2336c-d28e-5e12-b5bd-f0182d2524e9",
+            "unit": "Item:OSWb74ce812542f578fb6df2ecf9080fb32",
             "exponent": 4
         }
     ]

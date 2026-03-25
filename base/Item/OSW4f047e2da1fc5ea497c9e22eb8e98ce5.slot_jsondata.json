@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/CD-PER-M2"
@@ -25,12 +25,15 @@
         "cd.m-2",
         "cd/m2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f35172c2-e912-57d7-822c-55f6b2fbff40",
+            "unit": "Item:OSWf04f81ce6d6a53b98630967e75958e53",
             "exponent": 1
         },
         {
+            "uuid": "d0a3e442-a6f0-569e-9685-5bedcca112f0",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         }
     ]

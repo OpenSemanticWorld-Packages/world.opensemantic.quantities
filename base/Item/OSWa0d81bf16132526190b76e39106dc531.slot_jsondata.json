@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PER-GM2"
@@ -24,20 +24,20 @@
     "ucum_codes": [
         "g-2"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "bd84ac5d-5b06-5541-8a41-ee2230b425b3",
+            "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "ea949972-4b31-52d5-a609-0f9ef5ce7f4a",
             "osw_id": "Item:OSWa0d81bf16132526190b76e39106dc531#OSWea9499724b3152d5a6090f9ef5ce7f4a",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1.0,
             "main_symbol": "/kg²",
             "ucum_codes": [
@@ -45,6 +45,8 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "d26f98de-a8aa-5555-a257-3380efebf8b1",
+                    "unit": "Item:OSW3c9bf4c3682f5a52b6e99f7ad7949903#OSWda255533fa615a42b08ddb7aaa8236f0",
                     "exponent": -2
                 }
             ]

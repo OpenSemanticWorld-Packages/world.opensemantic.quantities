@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/V-A-HR"
@@ -24,26 +24,30 @@
     "ucum_codes": [
         "V.A.h"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "691a1736-eebc-5106-9a4f-e309529f2837",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": 1
         },
         {
+            "uuid": "cda068aa-87ea-5b7c-b197-a08dc2579c88",
+            "unit": "Item:OSW85efe1428cb75363a75aab6435e2d98d",
             "exponent": 1
         },
         {
+            "uuid": "3c711f43-b192-5822-8457-fa3a9f6d61cb",
+            "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "6d5ce4cc-ab1e-5b92-828e-322448b1c8bc",
             "osw_id": "Item:OSWc0185cbae32951049063bb3c1d6b5996#OSW6d5ce4ccab1e5b92828e322448b1c8bc",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 3600000000.0,
             "main_symbol": "MV·A·h",
             "ucum_codes": [
@@ -51,23 +55,28 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "378bb8b3-50e1-5a26-af6b-ae6ad3660138",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
                     "exponent": 1
                 },
                 {
+                    "uuid": "3b5ccd9d-c311-5f0a-a9a2-20e315756600",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 },
                 {
+                    "uuid": "546da9b5-3aea-5f5a-99ab-cdd1dce58200",
+                    "unit": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW78798aa1bdcb57f0aea8d4eb86ff3355",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "970f5e8f-1203-58c7-aa37-deb9775ec7a0",
             "osw_id": "Item:OSWc0185cbae32951049063bb3c1d6b5996#OSW970f5e8f120358c7aa37deb9775ec7a0",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 3600000.0,
             "main_symbol": "kV·A·h",
             "ucum_codes": [
@@ -75,12 +84,18 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "626f563c-de3b-5f38-9714-f33b3529ef44",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 },
                 {
+                    "uuid": "573af6d8-3d00-5c37-b782-7a818b63ef64",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
                     "exponent": 1
                 },
                 {
+                    "uuid": "b278deb6-0789-54f8-b26a-87539eb2ee76",
+                    "unit": "Item:OSW85efe1428cb75363a75aab6435e2d98d#OSW4deed980237a5360b48e0dd1331d4199",
                     "exponent": 1
                 }
             ]

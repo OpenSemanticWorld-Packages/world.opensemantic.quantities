@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/L-PER-M3"
@@ -25,23 +25,25 @@
         "L.m-3",
         "L/m3"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "f300b9db-3b37-54ba-aded-40c2ebf9ea1c",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -3
         },
         {
+            "uuid": "026897a8-9d33-5f81-9650-087e63aa4b40",
+            "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "5040d716-0026-561b-8dc5-c0658aad3d7c",
             "osw_id": "Item:OSW1c20943a45d2533b88160307d9ddde4d#OSW5040d7160026561b8dc5c0658aad3d7c",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "mL/m³",
             "ucum_codes": [
@@ -50,9 +52,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "cb6b6198-6b17-5009-a825-22f06e0d8043",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": -3
                 },
                 {
+                    "uuid": "6aa13ac8-2a22-5611-aafd-f1d7692c2a21",
+                    "unit": "Item:OSW2edd6f234811598499ece73cfe4cc661#OSWc6b7a00b85e25b53a17ab4971acb4468",
                     "exponent": 1
                 }
             ]

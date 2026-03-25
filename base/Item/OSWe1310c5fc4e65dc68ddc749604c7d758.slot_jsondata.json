@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-PER-W"
@@ -28,23 +28,25 @@
     "ucum_codes": [
         "m2.W-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "ab4ed8d5-e453-56bb-8fde-673e01c4eeda",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": -1
         },
         {
+            "uuid": "2c3f83c8-e237-5a23-a0f4-64b4fbce0abb",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "1e8006cf-8349-52ab-8673-3cd87ed7be1c",
             "osw_id": "Item:OSWe1310c5fc4e65dc68ddc749604c7d758#OSW1e8006cf834952ab86733cd87ed7be1c",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "m²/kW",
             "ucum_codes": [
@@ -52,9 +54,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "c9a59a16-077b-50b6-bcd2-c3eb86a8c073",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
                     "exponent": 2
                 },
                 {
+                    "uuid": "17d184bc-9b70-5b37-905f-e5b87ceb916d",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
                     "exponent": -1
                 }
             ]

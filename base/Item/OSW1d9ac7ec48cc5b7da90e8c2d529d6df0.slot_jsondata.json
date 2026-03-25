@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/T"
@@ -28,64 +28,111 @@
     "ucum_codes": [
         "T"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "0fccddaa-995d-55b2-9f2d-f91dc3e0e7a0",
+            "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
             "exponent": 1
         },
         {
+            "uuid": "55549c26-b98b-545c-91d6-abe5a9ec2af1",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": -2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "30a0158a-f544-5fbc-8b08-c843d0a84d5a",
             "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW30a0158af5445fbc8b08c843d0a84d5a",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μT",
             "ucum_codes": [
                 "uT"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "0fccddaa-995d-55b2-9f2d-f91dc3e0e7a0",
+                    "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "55549c26-b98b-545c-91d6-abe5a9ec2af1",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "490afd74-306a-568c-858e-46dd393110fe",
             "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW490afd74306a568c858e46dd393110fe",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mT",
             "ucum_codes": [
                 "mT"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "0fccddaa-995d-55b2-9f2d-f91dc3e0e7a0",
+                    "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "55549c26-b98b-545c-91d6-abe5a9ec2af1",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "7b67d496-40c7-5e54-b490-6f4bd72b494b",
             "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW7b67d49640c75e54b4906f4bd72b494b",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
             "main_symbol": "nT",
             "ucum_codes": [
                 "nT"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "0fccddaa-995d-55b2-9f2d-f91dc3e0e7a0",
+                    "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "55549c26-b98b-545c-91d6-abe5a9ec2af1",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "895257ec-b53a-5cbd-914f-286afb05f9b2",
             "osw_id": "Item:OSW1d9ac7ec48cc5b7da90e8c2d529d6df0#OSW895257ecb53a5cbd914f286afb05f9b2",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "main_symbol": "kT"
+            "main_symbol": "kT",
+            "factor_units": [
+                {
+                    "uuid": "0fccddaa-995d-55b2-9f2d-f91dc3e0e7a0",
+                    "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "55549c26-b98b-545c-91d6-abe5a9ec2af1",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -2
+                }
+            ]
         }
     ]
 }

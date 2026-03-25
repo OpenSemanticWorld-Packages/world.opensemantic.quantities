@@ -34,6 +34,7 @@
             "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW12ce0e9d7fda5bb3934f109d4d332d68",
             "conversion_factor_to_main_unit": 0.1,
             "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSW02329f78f08958c68e53ac0d0fd1877e",
             "prefix_symbol": "d",
             "main_symbol": "dt"
         },
@@ -45,6 +46,7 @@
             "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW3c968aef59905569bee1a089ac35fe04",
             "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000000.0,
+            "prefix": "Item:OSW2bbb5b69a5c85c46a58a782436bf34e9",
             "prefix_symbol": "M",
             "main_symbol": "Mt"
         },
@@ -56,6 +58,7 @@
             "osw_id": "Item:OSW12c412031b9556848d70154dca0e1d13#OSW91cff6030e175ccc8d30cd02e0354fa9",
             "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000000.0,
+            "prefix": "Item:OSW7e48f2b8d6b656f18b74320902117b6f",
             "prefix_symbol": "k",
             "main_symbol": "kt"
         }

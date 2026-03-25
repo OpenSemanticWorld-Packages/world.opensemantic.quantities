@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/M2-SEC"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "m2.s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "4bb5dd46-efd7-5077-82e6-0cff14510ec5",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 1
         },
         {
+            "uuid": "0bcd129a-a75a-5c15-8e86-dc9f598e622e",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "eb7f0169-5c96-5360-be41-408bae5e1eba",
             "osw_id": "Item:OSWff1a19e45440525d93c634c8050fe5b4#OSWeb7f01695c965360be41408bae5e1eba",
-            "conversion_factor_to_main_unit": 0.0001,
             "conversion_factor_from_si": 0.0001,
             "main_symbol": "cm²·s",
             "ucum_codes": [
@@ -48,9 +50,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "98cb74d4-bdeb-5de3-bc0c-9f0daaa5d1c4",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": 1
                 },
                 {
+                    "uuid": "c6dfca92-c448-56ae-8a8d-4faf1365ce7e",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2#OSWe55fa0526c5d58c8a166d59ab5455fd9",
                     "exponent": 2
                 }
             ]

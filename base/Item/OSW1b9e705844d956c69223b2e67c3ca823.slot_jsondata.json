@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-M0dot5"
@@ -21,30 +21,36 @@
     ],
     "main_symbol": "Pa√m",
     "conversion_factor_from_si": 1.0,
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "a9c63184-0619-542e-8af8-28c74e45feb1",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": 1
         },
         {
+            "uuid": "407d949c-0737-555a-92dd-761d996ff18a",
+            "unit": "Item:OSW73887b51a32f5863b5b09f0e8bc7ce0f",
             "exponent": 5
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "853eeac5-232e-542f-9412-c0b9cd666ab6",
             "osw_id": "Item:OSW1b9e705844d956c69223b2e67c3ca823#OSW853eeac5232e542f9412c0b9cd666ab6",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MPa√m",
             "factor_units": [
                 {
+                    "uuid": "9fa14595-8469-5452-9bb4-30d246c2a253",
+                    "unit": "Item:OSW73887b51a32f5863b5b09f0e8bc7ce0f",
                     "exponent": 5
                 },
                 {
+                    "uuid": "6e22693c-247a-5aed-a546-7a10cd85e067",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
                     "exponent": 1
                 }
             ]

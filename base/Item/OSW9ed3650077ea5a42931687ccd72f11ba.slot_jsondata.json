@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/C2-M2-PER-J"
@@ -25,15 +25,20 @@
         "C2.m2.J-1",
         "C2.m2/J"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "9d4f1650-c855-5a37-9c04-52a28f6b2090",
+            "unit": "Item:OSWb74ce812542f578fb6df2ecf9080fb32",
             "exponent": 2
         },
         {
+            "uuid": "a4c9d368-179d-5f2a-8f5b-fc074a51bd8b",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": -1
         },
         {
+            "uuid": "b038505f-c2bb-5474-b8db-e9ded0ddf539",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         }
     ]

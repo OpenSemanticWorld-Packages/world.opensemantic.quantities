@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/W-HR"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "W.h"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "9afd59a5-2ab6-5c74-8197-5508f9e28565",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": 1
         },
         {
+            "uuid": "a6cc5a5c-051f-5a13-9b48-91b1fe008516",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "18cf8f66-41b2-57d8-9583-4485eb0b2a75",
             "osw_id": "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW18cf8f6641b257d895834485eb0b2a75",
-            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 3600000000000.0,
             "main_symbol": "GW·h",
             "ucum_codes": [
@@ -48,20 +50,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "a52a3ad9-5839-50d1-96d9-70d04fb4866c",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW3cfa1cd0ef6651c3bad40ca56ea6878c",
                     "exponent": 1
                 },
                 {
+                    "uuid": "37fd5d2b-21db-531b-bd80-149f891d457d",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "5704cffb-8be7-5d4b-a16c-e0b5f4be48ab",
             "osw_id": "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW5704cffb8be75d4ba16ce0b5f4be48ab",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 3600000.0,
             "main_symbol": "kW·h",
             "ucum_codes": [
@@ -69,20 +74,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "a1189b7d-0301-5f01-ae2d-96066eb91102",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWea7d8a111eca57499c3fb187d61d3170",
                     "exponent": 1
                 },
                 {
+                    "uuid": "487cb21a-c839-5393-b720-7e38ff9b1aef",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "73af3668-3bb3-5cf1-aa68-e16032c95802",
             "osw_id": "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW73af36683bb35cf1aa68e16032c95802",
-            "conversion_factor_to_main_unit": 1000000000000.0,
             "conversion_factor_from_si": 3600000000000000.0,
             "main_symbol": "TW·h",
             "ucum_codes": [
@@ -90,20 +98,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "a81d1b7f-5f45-58a3-924d-6efe20f4f1df",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSW4303ebb8138953509f12c795a591600c",
                     "exponent": 1
                 },
                 {
+                    "uuid": "0f28286b-d6db-5ad4-afb8-2696dafc1a9f",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "8af49b32-8ebd-55f0-8d45-cf3fc0de2f79",
             "osw_id": "Item:OSW7a184bd36f7e58f5a5c030497784cc02#OSW8af49b328ebd55f08d45cf3fc0de2f79",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 3600000000.0,
             "main_symbol": "MW·h",
             "ucum_codes": [
@@ -111,9 +122,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "80dbf243-4edb-51a9-a3d6-0618b9900f11",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 },
                 {
+                    "uuid": "6432f5ef-be1d-5986-9a36-b2e161b663f6",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870#OSWe5ebcb7476e154cba0bc729b319cafe9",
                     "exponent": 1
                 }
             ]

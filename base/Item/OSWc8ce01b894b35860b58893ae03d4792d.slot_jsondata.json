@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/J-PER-SEC"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "J.s-1"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "aa92e874-59a8-52ed-b058-664d20d273b6",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": -1
         },
         {
+            "uuid": "dac4b058-0c69-52fa-b093-78f61ff79753",
+            "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "06aa0b73-5641-5d0e-8111-0185ef639eaf",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW06aa0b7356415d0e81110185ef639eaf",
-            "conversion_factor_to_main_unit": 1000000000000000.0,
             "conversion_factor_from_si": 1000000000000000.0,
             "main_symbol": "PJ/s",
             "ucum_codes": [
@@ -49,20 +51,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "fa65daf9-1070-53ba-826a-bdfdbd9a1dcd",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW4e7003f5d7ff58a190167711dd63b0bd",
                     "exponent": 1
                 },
                 {
+                    "uuid": "49baa1cb-9999-5ec6-b904-4d513882b1e0",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0bc8e25f-2cda-53ac-b483-5061203df843",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW0bc8e25f2cda53acb4835061203df843",
-            "conversion_factor_to_main_unit": 1e+18,
             "conversion_factor_from_si": 1e+18,
             "main_symbol": "EJ/s",
             "ucum_codes": [
@@ -71,20 +76,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "eb170015-9597-5e1b-9ac1-3b9844b72251",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW5ba80670b2945c08b35551442d3169d5",
                     "exponent": 1
                 },
                 {
+                    "uuid": "a2b8308b-3d2b-5857-bde0-b4edf0018fd1",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "1255ac21-4e16-555f-aefd-6a7c294127ab",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW1255ac214e16555faefd6a7c294127ab",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
             "main_symbol": "nJ/s",
             "ucum_codes": [
@@ -93,20 +101,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "112cc585-0f11-5994-8e5f-099b7747ca92",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "7dd97a0a-9689-5ed5-86ed-dd806d808c34",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW3346670746685c229dc04ba811e7afe9",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "17a88340-c9d1-5bdd-8361-6efe81987c50",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW17a88340c9d15bdd83616efe81987c50",
-            "conversion_factor_to_main_unit": 1000000000000.0,
             "conversion_factor_from_si": 1000000000000.0,
             "main_symbol": "TJ/s",
             "ucum_codes": [
@@ -115,20 +126,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "dca45d13-f9fd-5a11-848e-472e1efcc4d4",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "dd27cdfb-c361-53c4-80d7-4d8a67367015",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW0ac3643d930d5c99936e5ece487a9634",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "1eb3841a-ea1d-5b92-899c-249b1dbd74ce",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW1eb3841aea1d5b92899c249b1dbd74ce",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MJ/s",
             "ucum_codes": [
@@ -136,20 +150,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "c5b4cf1c-bb73-5374-9b66-c2e3c530d6a9",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc1525b1f1fc05c40b9715328bf707805",
                     "exponent": 1
                 },
                 {
+                    "uuid": "ccc5627d-6cc1-565e-b01a-d5b22d46515b",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "33eb0aa7-13bd-5ad1-8f8b-64ff5fcbf1b7",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW33eb0aa713bd5ad18f8b64ff5fcbf1b7",
-            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
             "main_symbol": "pJ/s",
             "ucum_codes": [
@@ -158,20 +175,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "330f3849-cf22-5a33-b860-af2e66daac95",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "1dec2f0f-4229-5277-a303-3e82bff35dc8",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW30f80559b4db5a9b8d78a70a24847f4b",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "3ea79856-df77-5498-8e12-2abf064d83db",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW3ea79856df7754988e122abf064d83db",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μJ/s",
             "ucum_codes": [
@@ -179,20 +199,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "a8dfabf7-ae49-50d6-ac21-17a8a36554c9",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "163593da-592b-5dab-abb0-41c5408fdffe",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW866098e606665b39a34baff6dbb4fae4",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "3f269b16-b339-5880-a7c2-e8f5c89012ad",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW3f269b16b3395880a7c2e8f5c89012ad",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mJ/s",
             "ucum_codes": [
@@ -201,20 +224,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "b3a7e6bf-2362-51ec-b815-062a576f2723",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "70226c97-e85a-57ab-844c-583b08019f03",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSW6df751011258508e9d15967190c819f3",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "469cae5b-c97e-5446-9a9f-717b21a3d659",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSW469cae5bc97e54469a9f717b21a3d659",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kJ/s",
             "ucum_codes": [
@@ -222,20 +248,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "c3840f25-f888-563c-8dd1-bc1dd2f31565",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "ebdda863-30b8-5ebd-bb28-61fc028bd035",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWad2518d42b685f569679c3599455c3d3",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f77cdec2-8d3b-5552-a28f-4abfdaf97774",
             "osw_id": "Item:OSWc8ce01b894b35860b58893ae03d4792d#OSWf77cdec28d3b5552a28f4abfdaf97774",
-            "conversion_factor_to_main_unit": 1000000000.0,
             "conversion_factor_from_si": 1000000000.0,
             "main_symbol": "GJ/s",
             "ucum_codes": [
@@ -243,9 +272,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "795672fc-c5c0-5a74-96fd-31b9053e5097",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": -1
                 },
                 {
+                    "uuid": "a443c31a-60e1-5345-800b-f1bf776d51a7",
+                    "unit": "Item:OSW730568cd7ae65906abbbcef1d15cb074#OSWc26bf1cf449d56ef8122745336585d2b",
                     "exponent": 1
                 }
             ]

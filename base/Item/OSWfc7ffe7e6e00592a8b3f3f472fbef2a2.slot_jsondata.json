@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/H"
@@ -28,76 +28,134 @@
     "ucum_codes": [
         "H"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "8a4e34b8-14cd-53ae-8835-3802a92543f3",
+            "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
             "exponent": -1
         },
         {
+            "uuid": "cb02b99a-a42b-5d50-b68b-575435c90056",
+            "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0b6f22fd-f450-5cd1-a14c-ed6ce63fd1c3",
             "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW0b6f22fdf4505cd1a14ced6ce63fd1c3",
-            "conversion_factor_to_main_unit": 1e-06,
             "conversion_factor_from_si": 1e-06,
             "main_symbol": "μH",
             "ucum_codes": [
                 "uH"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "8a4e34b8-14cd-53ae-8835-3802a92543f3",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
+                    "exponent": -1
+                },
+                {
+                    "uuid": "cb02b99a-a42b-5d50-b68b-575435c90056",
+                    "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "10259e9c-4c74-5962-b608-025d4209a593",
             "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW10259e9c4c745962b608025d4209a593",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
-            "main_symbol": "kH"
+            "main_symbol": "kH",
+            "factor_units": [
+                {
+                    "uuid": "8a4e34b8-14cd-53ae-8835-3802a92543f3",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
+                    "exponent": -1
+                },
+                {
+                    "uuid": "cb02b99a-a42b-5d50-b68b-575435c90056",
+                    "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                    "exponent": 1
+                }
+            ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "466788b3-b910-5408-8792-f8efcf881b73",
             "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSW466788b3b91054088792f8efcf881b73",
-            "conversion_factor_to_main_unit": 1e-09,
             "conversion_factor_from_si": 1e-09,
             "main_symbol": "nH",
             "ucum_codes": [
                 "nH"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "8a4e34b8-14cd-53ae-8835-3802a92543f3",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
+                    "exponent": -1
+                },
+                {
+                    "uuid": "cb02b99a-a42b-5d50-b68b-575435c90056",
+                    "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "c916910c-9433-5ef4-bfd4-956fdb64d445",
             "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWc916910c94335ef4bfd4956fdb64d445",
-            "conversion_factor_to_main_unit": 1e-12,
             "conversion_factor_from_si": 1e-12,
             "main_symbol": "pH",
             "ucum_codes": [
                 "pH"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "8a4e34b8-14cd-53ae-8835-3802a92543f3",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
+                    "exponent": -1
+                },
+                {
+                    "uuid": "cb02b99a-a42b-5d50-b68b-575435c90056",
+                    "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                    "exponent": 1
+                }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "f936212f-9368-5b0a-81e8-81b7b4cd691c",
             "osw_id": "Item:OSWfc7ffe7e6e00592a8b3f3f472fbef2a2#OSWf936212f93685b0a81e881b7b4cd691c",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mH",
             "ucum_codes": [
                 "mH"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "8a4e34b8-14cd-53ae-8835-3802a92543f3",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
+                    "exponent": -1
+                },
+                {
+                    "uuid": "cb02b99a-a42b-5d50-b68b-575435c90056",
+                    "unit": "Item:OSW7f1fb9d6ddeb5fb7a8a39067553a6dc1",
+                    "exponent": 1
+                }
             ]
         }
     ]

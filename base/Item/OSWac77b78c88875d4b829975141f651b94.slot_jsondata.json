@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-PER-K"
@@ -19,23 +19,25 @@
         "Pa.K-1",
         "Pa/K"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "7dc853c6-cbd1-5c74-8a5b-433e500485bb",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
             "exponent": -1
         },
         {
+            "uuid": "60793844-2fcc-5cc4-b61d-ea88ea775de6",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "3232f6c7-0da5-5b8a-a7b7-c2ea4f84565b",
             "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94#OSW3232f6c70da55b8aa7b7c2ea4f84565b",
-            "conversion_factor_to_main_unit": 1000000.0,
             "conversion_factor_from_si": 1000000.0,
             "main_symbol": "MPa/K",
             "ucum_codes": [
@@ -43,20 +45,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "104fc012-7c18-54a3-bff0-1470a0199f6c",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 },
                 {
+                    "uuid": "1c5aa156-7557-559a-920c-13c65307b755",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW0ec5bf8132b25e58b7032766bd9b3225",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "56eb00ee-243c-5f29-93c4-4c2259217fd3",
             "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94#OSW56eb00ee243c5f2993c44c2259217fd3",
-            "conversion_factor_to_main_unit": 100.0,
             "conversion_factor_from_si": 100.0,
             "main_symbol": "hPa/K",
             "ucum_codes": [
@@ -64,20 +69,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "e39da36f-f39a-5d31-8a12-3678bd3d1bdf",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW482939f123595314beca39ad32d65a15",
                     "exponent": 1
                 },
                 {
+                    "uuid": "86fe7b8a-baad-5a0e-9fee-40a0bc52c044",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "b4362566-8975-5bf1-9939-55ab270253c3",
             "osw_id": "Item:OSWac77b78c88875d4b829975141f651b94#OSWb436256689755bf1993955ab270253c3",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 1000.0,
             "main_symbol": "kPa/K",
             "ucum_codes": [
@@ -85,9 +93,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "a67cb306-bc8b-5d54-8987-5d3ccc5736ff",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
                     "exponent": -1
                 },
                 {
+                    "uuid": "75b849c8-fd8c-5113-960e-6b8c2863a5bb",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW264ebdc21f54568593a91bbd832b6fbf",
                     "exponent": 1
                 }
             ]

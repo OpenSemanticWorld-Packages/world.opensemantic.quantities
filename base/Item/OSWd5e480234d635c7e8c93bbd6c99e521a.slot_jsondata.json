@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/C-M2-PER-V"
@@ -29,15 +29,20 @@
         "C.m2.V-1",
         "C.m2/V"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "8b1a0ee5-9309-50d8-b503-5ac115757d64",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 2
         },
         {
+            "uuid": "8ab47efd-b1ea-5a0e-b8e8-3e0295496e85",
+            "unit": "Item:OSW85efe1428cb75363a75aab6435e2d98d",
             "exponent": -1
         },
         {
+            "uuid": "29424a04-e88b-5f7b-8e9c-28096eeac4a9",
+            "unit": "Item:OSWb74ce812542f578fb6df2ecf9080fb32",
             "exponent": 1
         }
     ]

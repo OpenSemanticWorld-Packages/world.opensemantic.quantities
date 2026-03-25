@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/PA-SEC"
@@ -28,23 +28,25 @@
     "ucum_codes": [
         "Pa.s"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "e2cd46ef-219b-568e-978b-2f29a497dc57",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
             "exponent": 1
         },
         {
+            "uuid": "587ccad9-81b8-52cc-9ac5-6c12ff05052f",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "8e1783ac-9f0b-5fe3-b404-dcfbce8940cb",
             "osw_id": "Item:OSWfb230f7ff1a55c23accf8ae94aacc9e1#OSW8e1783ac9f0b5fe3b404dcfbce8940cb",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
             "main_symbol": "mPa·s",
             "ucum_codes": [
@@ -52,9 +54,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "8a80abf3-0339-58f6-8e62-15b621e39b58",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
                     "exponent": 1
                 },
                 {
+                    "uuid": "c92bcd17-050e-5dfd-a55d-c0aff16ef1ba",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c#OSW38b0e12539b05ce28cd126c8eea29f95",
                     "exponent": 1
                 }
             ]

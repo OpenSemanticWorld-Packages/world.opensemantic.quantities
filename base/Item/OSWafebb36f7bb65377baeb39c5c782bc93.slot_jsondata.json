@@ -1,6 +1,6 @@
 {
     "type": [
-        "Category:OSW268cc84d3dff4a7ba5fd489d53254cb0"
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
     ],
     "exact_ontology_match": [
         "http://qudt.org/vocab/unit/A-HR"
@@ -24,23 +24,25 @@
     "ucum_codes": [
         "A.h"
     ],
-    "factor_unit_scalar": 1,
     "factor_units": [
         {
+            "uuid": "c7f5a061-3381-5220-b57f-82e520d2bb00",
+            "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
             "exponent": 1
         },
         {
+            "uuid": "8476dbcd-c624-5679-a367-42f3ead83f61",
+            "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec",
             "exponent": 1
         }
     ],
     "composed_units": [
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "0f2851b9-e012-5b93-9293-3d2723c88912",
             "osw_id": "Item:OSWafebb36f7bb65377baeb39c5c782bc93#OSW0f2851b9e0125b9392933d2723c88912",
-            "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 3.6,
             "main_symbol": "mA·h",
             "ucum_codes": [
@@ -48,20 +50,23 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "bcc6bb96-5e82-531f-8b9f-a76b26f607ca",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW614e3543b8aa55a5b4aa87c9cd179703",
                     "exponent": 1
                 },
                 {
+                    "uuid": "b8981862-c072-5c78-952e-8d19c4ac6aab",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 }
             ]
         },
         {
             "type": [
-                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
             "uuid": "35d01b84-f9fd-58ae-b65a-b3bd19002e82",
             "osw_id": "Item:OSWafebb36f7bb65377baeb39c5c782bc93#OSW35d01b84f9fd58aeb65ab3bd19002e82",
-            "conversion_factor_to_main_unit": 1000.0,
             "conversion_factor_from_si": 3600000.0,
             "main_symbol": "kA·h",
             "ucum_codes": [
@@ -69,9 +74,13 @@
             ],
             "factor_units": [
                 {
+                    "uuid": "920261d4-93b4-5659-905e-2c2c7e0046c7",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
                     "exponent": 1
                 },
                 {
+                    "uuid": "6b8f641a-b668-59a8-9e63-332d0ec87e32",
+                    "unit": "Item:OSW0846b0dbcf495d5aab1172e4fb3bddec#OSW49e59ce46e35588193327425fa1d89ab",
                     "exponent": 1
                 }
             ]

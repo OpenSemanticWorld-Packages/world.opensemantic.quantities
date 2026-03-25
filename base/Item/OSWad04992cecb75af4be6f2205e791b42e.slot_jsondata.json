@@ -38,6 +38,7 @@
             "osw_id": "Item:OSWad04992cecb75af4be6f2205e791b42e#OSW883731d442e852778ae00df071dd0719",
             "conversion_factor_to_main_unit": 0.001,
             "conversion_factor_from_si": 0.001,
+            "prefix": "Item:OSW9b4d25a33e2d5567bf65a5b37a9c6d84",
             "prefix_symbol": "m",
             "main_symbol": "m°C",
             "ucum_codes": [
