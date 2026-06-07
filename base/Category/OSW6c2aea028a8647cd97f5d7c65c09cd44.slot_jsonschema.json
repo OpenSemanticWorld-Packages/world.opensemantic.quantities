@@ -1,5 +1,7 @@
 {
     "@context": [
+        "/wiki/Category:Item?action=raw&slot=jsonschema",
+        "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema",
         {
             "qudt": "http://qudt.org/schema/qudt/",
             "composed_units": "Property:HasComposedUnit",
@@ -26,9 +28,7 @@
                 "@id": "Property:IsApplicableIn",
                 "@type": "@id"
             }
-        },
-        "/wiki/Category:Item?action=raw&slot=jsonschema",
-        "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
+        }
     ],
     "allOf": [
         {
