@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/H_Ab"
+    ],
+    "uuid": "fc12b8aa-8614-58e1-9652-8b09ec43a76c",
+    "name": "Abhenry",
+    "label": [
+        {
+            "text": "Abhenry",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Abhenry is the centimeter-gram-second electromagnetic unit of inductance, equal to one billionth of a henry.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "abH",
+    "conversion_factor_from_si": 1e-09,
+    "ucum_codes": [
+        "nH"
+    ],
+    "factor_unit_scalar": 1
+}

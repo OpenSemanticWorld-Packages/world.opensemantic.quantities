@@ -1,0 +1,45 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CAL_IT"
+    ],
+    "uuid": "c14beede-94eb-5e79-81a6-35d0b14fbe1c",
+    "name": "InternationalTableCalorie",
+    "label": [
+        {
+            "text": "International Table Calorie",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "International Table calorie.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cal{IT}",
+    "conversion_factor_from_si": 4.1868,
+    "ucum_codes": [
+        "cal_IT"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "02fb85ab-a449-513c-92a0-30722b540d4b",
+            "osw_id": "Item:OSWc14beede94eb5e7981a635d0b14fbe1c#OSW02fb85aba449513c92a030722b540d4b",
+            "conversion_factor_to_main_unit": 1000.0000000000001,
+            "conversion_factor_from_si": 4186.8,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "prefix_symbol": "k",
+            "main_symbol": "kcal{IT}",
+            "ucum_codes": [
+                "kcal_IT"
+            ]
+        }
+    ]
+}

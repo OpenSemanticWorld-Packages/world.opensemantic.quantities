@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A_Stat"
+    ],
+    "uuid": "5e5f547a-c411-5d07-baa3-f45c9673989f",
+    "name": "Statampere",
+    "label": [
+        {
+            "text": "Statampere",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The unit $\\textit{Statampere}$, symbol $statA$ is a unit in the category of Electric current. \n  It is also known as statamperes. \n  This unit is commonly used in the cgs unit system. \n  $\\textit{Statampere (statA)}$ has a dimension of $I$ where $I$ is electric current. \n  It can be converted to the corresponding standard SI unit $A$ by multiplying its value by a factor of 3.355641E-010.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "statA",
+    "conversion_factor_from_si": 3.335641e-10,
+    "factor_unit_scalar": 1
+}

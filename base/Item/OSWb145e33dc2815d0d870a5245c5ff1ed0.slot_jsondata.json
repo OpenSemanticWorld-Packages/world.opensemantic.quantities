@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/LB_M"
+    ],
+    "uuid": "b145e33d-c281-5d0d-870a-5245c5ff1ed0",
+    "name": "PoundMass",
+    "label": [
+        {
+            "text": "Pound Mass",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A pound of mass, based on the international standard definition of the pound of mass as exactly 0.45359237 kg.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "lbm",
+    "conversion_factor_from_si": 0.45359237,
+    "ucum_codes": [
+        "[lb_av]"
+    ],
+    "factor_unit_scalar": 1
+}

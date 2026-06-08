@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CAL_15DEG_C"
+    ],
+    "uuid": "18eab2bc-d157-5213-839b-e236edbf82d6",
+    "name": "Calorie15DegreesC",
+    "label": [
+        {
+            "text": "Calorie (15 Degrees C)",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit for the quantity of heat which is required to warm up 1 g  of water, which is free of air, at a constant pressure of 101.325 kPa (the pressure of the standard atmosphere on sea level) from 14.5 degrees Celsius to 15.5 degrees Celsius",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cal{15 °C}",
+    "conversion_factor_from_si": 4.1858,
+    "ucum_codes": [
+        "cal_[15]"
+    ],
+    "factor_unit_scalar": 1
+}

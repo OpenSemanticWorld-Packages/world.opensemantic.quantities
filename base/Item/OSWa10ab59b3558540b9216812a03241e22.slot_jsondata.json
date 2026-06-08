@@ -1,0 +1,45 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CAL"
+    ],
+    "uuid": "a10ab59b-3558-540b-9216-812a03241e22",
+    "name": "Calorie",
+    "label": [
+        {
+            "text": "Calorie",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A $\\textit{Calorie}$ is a unit for $\\textit{Energy And Work}$ expressed as $cal$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cal",
+    "conversion_factor_from_si": 4.184,
+    "ucum_codes": [
+        "cal"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3dbfa078-1597-595b-ac21-6bcedd9508d9",
+            "osw_id": "Item:OSWa10ab59b3558540b9216812a03241e22#OSW3dbfa0781597595bac216bcedd9508d9",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 4184.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "prefix_symbol": "k",
+            "main_symbol": "kcal",
+            "ucum_codes": [
+                "kcal"
+            ]
+        }
+    ]
+}

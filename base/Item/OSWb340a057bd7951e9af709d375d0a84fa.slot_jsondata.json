@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/Gs"
+    ],
+    "uuid": "b340a057-bd79-51e9-af70-9d375d0a84fa",
+    "name": "Gs",
+    "label": [
+        {
+            "text": "Gs",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $gauss$, abbreviated as $G$, is the cgs unit of measurement of a magnetic field $B$, \n  which is also known as the \"magnetic flux density\" or the \"magnetic induction\".\n  One gauss is defined as one maxwell per square centimeter; it equals $10^{-4} tesla$ (or $100 micro T$). \n  The Gauss is identical to maxwells per square centimetre; technically defined in a three-dimensional system, \n  it corresponds in the SI, with its extra base unit the ampere. \n  The gauss is quite small by earthly standards, 1 Gs being only about four times Earth's flux density, \n  but it is subdivided, with $1 gauss = 105 gamma$. \n  This unit of magnetic induction is also known as the $\\textit{abtesla}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "G",
+    "conversion_factor_from_si": 0.0001,
+    "ucum_codes": [
+        "G"
+    ],
+    "factor_unit_scalar": 1
+}

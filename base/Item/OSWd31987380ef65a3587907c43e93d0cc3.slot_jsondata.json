@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/A_Ab"
+    ],
+    "uuid": "d3198738-0ef6-5a35-8790-7c43e93d0cc3",
+    "name": "Abampere",
+    "label": [
+        {
+            "text": "Abampere",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The Abampere (aA), also called the biot after Jean-Baptiste Biot, is the basic electromagnetic unit of electric current in the emu-cgs system of units (electromagnetic cgs). One abampere is equal to ten amperes in the SI system of units. An abampere is the constant current that produces, when maintained in two parallel conductors of negligible circular section and of infinite length placed 1 centimetre apart, a force of 2 dynes per centimetre between the two conductors.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "abA",
+    "conversion_factor_from_si": 10.0,
+    "ucum_codes": [
+        "Bi"
+    ],
+    "factor_unit_scalar": 1
+}

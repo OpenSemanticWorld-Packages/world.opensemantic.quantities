@@ -1,0 +1,39 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BAR_A"
+    ],
+    "uuid": "0489626a-4cd1-5b65-b8ae-4541a0a8bbdc",
+    "name": "BarAbsolute",
+    "label": [
+        {
+            "text": "Bar Absolute",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The same as a Bar, however the Absolute is added when there is a mixture of gauge and absolute measurements to ensure there is a clear distinction",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "bar abs",
+    "conversion_factor_from_si": 100000.0,
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "dea4cb3b-c9b5-5d16-9545-c5e0a42f81ec",
+            "osw_id": "Item:OSW0489626a4cd15b65b8ae4541a0a8bbdc#OSWdea4cb3bc9b55d169545c5e0a42f81ec",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "prefix_symbol": "m",
+            "main_symbol": "mbar abs"
+        }
+    ]
+}

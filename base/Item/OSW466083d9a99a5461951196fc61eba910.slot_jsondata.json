@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CLO"
+    ],
+    "uuid": "466083d9-a99a-5461-9511-96fc61eba910",
+    "name": "Clo",
+    "label": [
+        {
+            "text": "Clo",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A C.G.S System unit for $\\textit{Thermal Insulance}$ expressed as \"clo\".",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "clo",
+    "conversion_factor_from_si": 0.155,
+    "factor_unit_scalar": 1
+}

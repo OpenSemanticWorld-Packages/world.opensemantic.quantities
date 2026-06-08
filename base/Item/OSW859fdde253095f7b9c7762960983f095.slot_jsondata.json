@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/OERSTED"
+    ],
+    "uuid": "859fdde2-5309-5f7b-9c77-62960983f095",
+    "name": "Oersted",
+    "label": [
+        {
+            "text": "Oersted",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Oersted (abbreviated as Oe) is the unit of magnetizing field (also known as H-field, magnetic field strength or intensity) in the CGS system of units.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Oe",
+    "conversion_factor_from_si": 79.5774715,
+    "ucum_codes": [
+        "Oe"
+    ],
+    "factor_unit_scalar": 1
+}

@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/PHOT"
+    ],
+    "uuid": "bed11705-3723-5cb9-8d9b-b08e11e482e0",
+    "name": "Phot",
+    "label": [
+        {
+            "text": "Phot",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A phot (ph) is a photometric unit of illuminance, or luminous flux through an area. It is not an SI unit, but rather is associated with the older centimetre gram second system of units.  Metric dimensions: $illuminance = luminous intensity \\times solid angle / length$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ph",
+    "conversion_factor_from_si": 10000.0,
+    "ucum_codes": [
+        "ph"
+    ],
+    "factor_unit_scalar": 1
+}

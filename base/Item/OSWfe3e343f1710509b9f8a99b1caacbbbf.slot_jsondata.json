@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TON_SHORT"
+    ],
+    "uuid": "fe3e343f-1710-509b-9f8a-99b1caacbbbf",
+    "name": "ShortTon",
+    "label": [
+        {
+            "text": "Short Ton",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "<p>The short ton is a unit of mass equal to 2,000 pounds (907.18474 kg). In the United States it is often called simply ton without distinguishing it from the metric ton (tonne, 1,000 kilograms / 2,204.62262 pounds) or the long ton (2,240 pounds / 1,016.0469088 kilograms); rather, the other two are specifically noted. There are, however, some U.S. applications for which unspecified tons normally means long tons.</p>",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ton{short}",
+    "conversion_factor_from_si": 907.18474,
+    "ucum_codes": [
+        "[ston_av]"
+    ],
+    "factor_unit_scalar": 1
+}

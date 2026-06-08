@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/LB_T"
+    ],
+    "uuid": "80d10f0e-1fa1-51c3-a50c-2a931eaaa584",
+    "name": "PoundTroy",
+    "label": [
+        {
+            "text": "Pound Troy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An obsolete unit of mass; the Troy Pound has been defined as exactly 5760 grains, or 0.3732417216 kg. A Troy Ounce is 1/12th of a Troy Pound.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "lbt",
+    "conversion_factor_from_si": 0.3732417216,
+    "ucum_codes": [
+        "[lb_tr]"
+    ],
+    "factor_unit_scalar": 1
+}

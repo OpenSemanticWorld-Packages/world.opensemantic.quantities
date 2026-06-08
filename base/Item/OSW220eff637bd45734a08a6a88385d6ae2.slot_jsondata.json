@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/ATM_T"
+    ],
+    "uuid": "220eff63-7bd4-5734-a08a-6a88385d6ae2",
+    "name": "TechnicalAtmosphere",
+    "label": [
+        {
+            "text": "Technical Atmosphere",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The unit for $\\textit{Technical Atmosphere}$, symbol: $at$, is a non-SI unit of pressure equal to one kilogram-force per square centimeter. \n  The symbol $at$ clashes with that of the katal (symbol: $kat$), the SI unit of catalytic activity; a kilotechnical atmosphere would have the symbol $kat$, indistinguishable from the symbol for katal. \n  It also clashes with that of the non-SI unit, the $attotonne$, but that unit would be more likely be rendered as the equivalent SI unit. \n  Assay ton (abbreviation $AT$) is not a unit of measurement, but a standard quantity used in assaying ores of precious metals; it is $29 1D6 \\,grams$ (short assay ton) or $32 2D3 \\,grams$ (long assay ton),\n   the amount which bears the same ratio to a milligram as a short or long ton bears to a troy ounce. \n  In other words, the number of milligrams of a particular metal found in a sample of this size gives the number of troy ounces contained in a short or long ton of ore.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "at",
+    "conversion_factor_from_si": 98066.5,
+    "ucum_codes": [
+        "att"
+    ],
+    "factor_unit_scalar": 1
+}

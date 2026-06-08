@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DIOPTER"
+    ],
+    "uuid": "1b6a103c-eff7-5552-910c-a26d32e0dd07",
+    "name": "Diopter",
+    "label": [
+        {
+            "text": "Diopter",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The unit $\\textit{Dioptre}$, or $\\textit{Diopter}$, is a unit of measurement for the optical power of a lens or curved mirror,\n   which is equal to the reciprocal of the focal length measured in metres (that is, $1/metre$). \n  For example, a $3 \\; dioptre$ lens brings parallel rays of light to focus at $1/3\\,metre$. \n  The same unit is also sometimes used for other reciprocals of distance, particularly radii of curvature\n   and the vergence of optical beams. \n  Though the diopter is based on the SI-metric system it has not been included in the standard so that there is\n   no international name or abbreviation for this unit of measurement within the international system of units\n    this unit for optical power would need to be specified explicitly as the inverse metre.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "D",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "[diop]"
+    ],
+    "factor_unit_scalar": 1
+}

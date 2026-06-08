@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/V_Ab"
+    ],
+    "uuid": "756f3b22-62dc-5e51-bf1b-99be63d0d22f",
+    "name": "Abvolt",
+    "label": [
+        {
+            "text": "Abvolt",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A unit of electrical potential equal to one hundred millionth of a volt ($10^{-8}\\,volts$), used in the centimeter-gram-second (CGS) system of units. One abV is the potential difference that exists between two points when the work done to transfer one abcoulomb of charge between them equals: $1\\,erg\\cdot\\,1\\,abV\\,=\\,10\\,nV$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "abV",
+    "conversion_factor_from_si": 1e-08,
+    "ucum_codes": [
+        "10.nV"
+    ],
+    "factor_unit_scalar": 1
+}

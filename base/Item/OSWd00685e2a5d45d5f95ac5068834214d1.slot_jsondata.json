@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/T_Ab"
+    ],
+    "uuid": "d00685e2-a5d4-5d5f-95ac-5068834214d1",
+    "name": "Abtesla",
+    "label": [
+        {
+            "text": "Abtesla",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The unit of magnetic induction in the cgs system, $10^{-4}\\,tesla$. Also known as the gauss.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "abT",
+    "conversion_factor_from_si": 0.0001,
+    "factor_unit_scalar": 1
+}

@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/Debye"
+    ],
+    "uuid": "531926b4-6be8-5b5c-83ee-8050686b5458",
+    "name": "Debye",
+    "label": [
+        {
+            "text": "Debye",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Debye\" is a C.G.S System unit for  'Electric Dipole Moment' expressed as $D$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "D",
+    "conversion_factor_from_si": 3.33564e-30,
+    "factor_unit_scalar": 1
+}

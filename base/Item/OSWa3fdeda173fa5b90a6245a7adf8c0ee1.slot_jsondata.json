@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CP"
+    ],
+    "uuid": "a3fdeda1-73fa-5b90-a624-5a7adf8c0ee1",
+    "name": "Candlepower",
+    "label": [
+        {
+            "text": "Candlepower",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Candlepower\" (abbreviated as cp) is a now-obsolete unit which was used to express levels of light intensity in terms of the light emitted by a candle of specific size and constituents. In modern usage Candlepower equates directly to the unit known as the candela.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cp",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1
+}

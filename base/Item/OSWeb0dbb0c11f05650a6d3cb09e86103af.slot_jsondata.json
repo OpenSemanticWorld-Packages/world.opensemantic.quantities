@@ -1,0 +1,42 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/TON"
+    ],
+    "uuid": "eb0dbb0c-11f0-5650-a6d3-cb09e86103af",
+    "name": "Ton",
+    "label": [
+        {
+            "text": "Ton",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "2,000-fold of the Imperial base unit pound",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "tn",
+    "conversion_factor_from_si": 907.18474,
+    "ucum_codes": [
+        "ston_av"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "3fc075ea-4707-563e-ad80-dc5358aadb12",
+            "osw_id": "Item:OSWeb0dbb0c11f05650a6d3cb09e86103af#OSW3fc075ea4707563ead80dc5358aadb12",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 907184740.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "prefix_symbol": "M",
+            "main_symbol": "Mtn"
+        }
+    ]
+}

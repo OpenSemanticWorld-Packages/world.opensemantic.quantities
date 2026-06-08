@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DYN"
+    ],
+    "uuid": "ade55059-c34b-52c1-84e0-58e8e2551b07",
+    "name": "Dyne",
+    "label": [
+        {
+            "text": "Dyne",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "In physics, the $dyne$ is a unit of force specified in the centimetre-gram-second (CGS) system of units. \n  The $dyne$ is a unit of force specified in the centimetre-gram-second (CGS) system of units. \n  One $dyne$ is equal to $\\SI{10}{\\micro\\newton}$. \n  Equivalently, the $dyne$ is defined as 'the force required to accelerate a mass of one gram at a rate of one centimetre per square second'. \n  A $\\textit{dyne per centimetre}$ is the unit traditionally used to measure surface tension.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "dyn",
+    "conversion_factor_from_si": 1e-05,
+    "ucum_codes": [
+        "dyn"
+    ],
+    "factor_unit_scalar": 1
+}

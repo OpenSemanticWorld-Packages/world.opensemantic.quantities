@@ -1,0 +1,75 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/Ci"
+    ],
+    "uuid": "0eba5377-6354-5de9-95a4-cd91079a1e8a",
+    "name": "Curie",
+    "label": [
+        {
+            "text": "Curie",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The curie (symbol Ci) is a non-SI unit of radioactivity, named after Marie and Pierre Curie. It is defined as $1Ci = 3.7 \\times 10^{10} decays\\ per\\ second$. Its continued use is discouraged. One Curie is roughly the activity of 1 gram of the radium isotope Ra, a substance studied by the Curies. The SI derived unit of radioactivity is the becquerel (Bq), which equates to one decay per second. Therefore: $1Ci = 3.7 \\times 10^{10} Bq= 37 GBq$ and $1Bq \\equiv 2.703 \\times 10^{-11}Ci $.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Ci",
+    "conversion_factor_from_si": 37000000000.0,
+    "ucum_codes": [
+        "Ci"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "1c61de8d-e123-5602-9d80-8a2ab55af441",
+            "osw_id": "Item:OSW0eba537763545de995a4cd91079a1e8a#OSW1c61de8de12356029d808a2ab55af441",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 37000000.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "prefix_symbol": "m",
+            "main_symbol": "mCi",
+            "ucum_codes": [
+                "mCi"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "5e51b4c1-bdb5-554f-b9ee-2279fca46741",
+            "osw_id": "Item:OSW0eba537763545de995a4cd91079a1e8a#OSW5e51b4c1bdb5554fb9ee2279fca46741",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 37000000000000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "prefix_symbol": "k",
+            "main_symbol": "kCi",
+            "ucum_codes": [
+                "kCi"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "693904df-2ecd-5887-acf8-6bc76e3e7690",
+            "osw_id": "Item:OSW0eba537763545de995a4cd91079a1e8a#OSW693904df2ecd5887acf86bc76e3e7690",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 37000.0,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "prefix_symbol": "μ",
+            "main_symbol": "μCi",
+            "ucum_codes": [
+                "uCi"
+            ]
+        }
+    ]
+}

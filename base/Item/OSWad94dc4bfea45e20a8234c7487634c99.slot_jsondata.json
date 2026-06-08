@@ -1,0 +1,120 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/BAR"
+    ],
+    "uuid": "ad94dc4b-fea4-5e20-a823-4c7487634c99",
+    "name": "Bar",
+    "label": [
+        {
+            "text": "Bar",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $\\textit{bar}$ is a non-SI unit of pressure, defined by the IUPAC as exactly equal\n   to $100,000\\,Pa$. \n  It is about equal to the atmospheric pressure on Earth at sea level, and since 1982\n   the IUPAC has recommended that the standard for atmospheric pressure should be\n   harmonized to $100,000\\,Pa = 1 \\,bar \\approx 750.0616827\\, Torr$. \n  Units derived from the bar are the megabar (symbol: $Mbar$), kilobar (symbol: $kbar$),\n   decibar (symbol: $dbar$), centibar (symbol: $cbar$), and millibar (symbol: $mbar$ or $mb$). \n  They are not SI or cgs units, but they are accepted for use with the SI.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "bar",
+    "conversion_factor_from_si": 100000.0,
+    "ucum_codes": [
+        "bar"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "276ae35c-97f0-5a82-9443-b38c0120d134",
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSW276ae35c97f05a829443b38c0120d134",
+            "conversion_factor_to_main_unit": 0.01,
+            "conversion_factor_from_si": 1000.0,
+            "prefix": "Item:OSWbca49386a57457c1a1b250da355d94fe",
+            "prefix_symbol": "c",
+            "main_symbol": "cbar",
+            "ucum_codes": [
+                "cbar"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "9ebd04e2-e600-51c6-82fc-e5c4c696194f",
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSW9ebd04e2e60051c682fce5c4c696194f",
+            "conversion_factor_to_main_unit": 0.001,
+            "conversion_factor_from_si": 100.0,
+            "prefix": "Item:OSW6d63c0f4ea7b56b280d1a6d363ec48c6",
+            "prefix_symbol": "m",
+            "main_symbol": "mbar",
+            "ucum_codes": [
+                "mbar"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "9ec301c1-6d34-5bee-b00d-f3edfaa791fb",
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSW9ec301c16d345beeb00df3edfaa791fb",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 0.1,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "prefix_symbol": "μ",
+            "main_symbol": "μbar",
+            "ucum_codes": [
+                "ubar"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "c787e32e-2205-55a4-aded-13f0b4f2b0ee",
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSWc787e32e220555a4aded13f0b4f2b0ee",
+            "conversion_factor_to_main_unit": 1000000.0,
+            "conversion_factor_from_si": 100000000000.0,
+            "prefix": "Item:OSWed7019528a135715a25263d19a2d5bef",
+            "prefix_symbol": "M",
+            "main_symbol": "Mbar",
+            "ucum_codes": [
+                "Mbar"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "d9906a26-879a-560f-9eb4-4b405a09440c",
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSWd9906a26879a560f9eb44b405a09440c",
+            "conversion_factor_to_main_unit": 100.0,
+            "conversion_factor_from_si": 10000000.0,
+            "prefix": "Item:OSWfa81836c0a3951e8ac1f4c6d0fba3e25",
+            "prefix_symbol": "h",
+            "main_symbol": "hbar",
+            "ucum_codes": [
+                "hbar"
+            ]
+        },
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e160f83a-9ebd-5f51-ae17-bc3e1f18da17",
+            "osw_id": "Item:OSWad94dc4bfea45e20a8234c7487634c99#OSWe160f83a9ebd5f51ae17bc3e1f18da17",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 100000000.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "prefix_symbol": "k",
+            "main_symbol": "kbar",
+            "ucum_codes": [
+                "kbar"
+            ]
+        }
+    ]
+}

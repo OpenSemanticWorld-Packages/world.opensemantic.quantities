@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/C_Ab"
+    ],
+    "uuid": "ad5d9c5f-75cc-5c58-b7c4-79d7ae6749e7",
+    "name": "Abcoulomb",
+    "label": [
+        {
+            "text": "Abcoulomb",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"abcoulomb\" (abC or aC) or electromagnetic unit of charge (emu of charge) is the basic physical unit of electric charge in the cgs-emu system of units. One abcoulomb is equal to ten coulombs ($1\\,abC\\,=\\,10\\,C$).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "abC",
+    "conversion_factor_from_si": 10.0,
+    "ucum_codes": [
+        "10.C"
+    ],
+    "factor_unit_scalar": 1
+}

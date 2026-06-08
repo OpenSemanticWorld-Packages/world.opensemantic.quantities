@@ -1,0 +1,46 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CAL_TH"
+    ],
+    "uuid": "1282fb8d-ff95-5644-9d90-f7aada99324c",
+    "name": "ThermochemicalCalorie",
+    "label": [
+        {
+            "text": "Thermochemical Calorie",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The energy needed to increase the temperature of a given mass of water by $1 ^\\circ C$ at atmospheric pressure depends on the starting temperature and is difficult to measure precisely. Accordingly, there have been several definitions of the calorie. The two perhaps most popular definitions used in older literature are the $15 ^\\circ C$ calorie and the thermochemical calorie.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cal",
+    "conversion_factor_from_si": 4.184,
+    "ucum_codes": [
+        "cal_th"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "493880d3-e8b4-5aa0-957c-70fe6e19e667",
+            "osw_id": "Item:OSW1282fb8dff9556449d90f7aada99324c#OSW493880d3e8b45aa0957c70fe6e19e667",
+            "conversion_factor_to_main_unit": 1000.0,
+            "conversion_factor_from_si": 4184.0,
+            "prefix": "Item:OSW4b3805547fd8582083aff8562ba4b4c5",
+            "prefix_symbol": "k",
+            "main_symbol": "kcal",
+            "ucum_codes": [
+                "[Cal]",
+                "kcal_th"
+            ]
+        }
+    ]
+}

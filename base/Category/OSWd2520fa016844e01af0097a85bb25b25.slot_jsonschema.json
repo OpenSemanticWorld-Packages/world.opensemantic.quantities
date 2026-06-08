@@ -118,7 +118,10 @@
             "type": "array",
             "items": {
                 "title": "QuantityUnitFactor",
-                "title*": {"en": "Factor", "de": "Faktor"},
+                "title*": {
+                    "en": "Factor",
+                    "de": "Faktor"
+                },
                 "type": "object",
                 "format": "grid",
                 "required": [
@@ -130,7 +133,9 @@
                         "title": "UUID",
                         "type": "string",
                         "format": "uuid",
-                        "options": {"hidden": true}
+                        "options": {
+                            "hidden": true
+                        }
                     },
                     "unit": {
                         "title": "Unit",
@@ -433,7 +438,10 @@
                         ],
                         "items": {
                             "title": "ComposedUnitFactor",
-                            "title*": {"en": "Factor", "de": "Faktor"},
+                            "title*": {
+                                "en": "Factor",
+                                "de": "Faktor"
+                            },
                             "type": "object",
                             "format": "grid",
                             "required": [
@@ -445,7 +453,9 @@
                                     "title": "UUID",
                                     "type": "string",
                                     "format": "uuid",
-                                    "options": {"hidden": true}
+                                    "options": {
+                                        "hidden": true
+                                    }
                                 },
                                 "unit": {
                                     "type": "string",

@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/Da"
+    ],
+    "uuid": "519effcf-14c6-5f35-897a-413e681d9da6",
+    "name": "Dalton",
+    "label": [
+        {
+            "text": "Dalton",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The unified atomic mass unit (symbol: $\\mu$) or dalton (symbol: Da) is a unit that is used for indicating mass on an atomic or molecular scale. It is defined as one twelfth of the rest mass of an unbound atom of carbon-12 in its nuclear and electronic ground state, and has a value of $1.660538782(83) \\times 10^{-27} kg$. One $Da$ is approximately equal to the mass of one proton or one neutron. The CIPM have categorised it as a \"non-SI unit whose values in SI units must be obtained experimentally\".",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Da",
+    "conversion_factor_from_si": 1.66053878283e-27,
+    "ucum_codes": [
+        "u"
+    ],
+    "factor_unit_scalar": 1
+}

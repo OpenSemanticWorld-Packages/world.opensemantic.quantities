@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/RAYL"
+    ],
+    "uuid": "ee18cfab-e340-58ba-b173-3bfdba7003ab",
+    "name": "Rayl",
+    "label": [
+        {
+            "text": "Rayl",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $Rayl$ is one of two units of specific acoustic impedance. When sound waves pass through any physical substance the pressure of the waves causes the particles of the substance to move. The sound specific impedance is the ratio between the sound pressure and the particle velocity it produces. The specific impedance is one rayl if unit pressure produces unit velocity. It is defined as follows: $1\\; rayl = 1 dyn\\cdot s\\cdot cm^{-3}$ Or in SI as: $1 \\; rayl = 10^{-1}Pa\\cdot s\\cdot m^{-1}$, which equals $10\\,N \\cdot s\\cdot m^{-3}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "rayl",
+    "conversion_factor_from_si": 1.0,
+    "factor_unit_scalar": 1
+}

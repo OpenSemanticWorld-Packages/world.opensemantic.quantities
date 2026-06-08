@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MX"
+    ],
+    "uuid": "e2839178-c126-5620-9340-e3a495334fc2",
+    "name": "Maxwell",
+    "label": [
+        {
+            "text": "Maxwell",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Maxwell\" is a C.G.S System unit for  'Magnetic Flux' expressed as $Mx$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Mx",
+    "conversion_factor_from_si": 1e-08,
+    "ucum_codes": [
+        "Mx"
+    ],
+    "factor_unit_scalar": 1
+}

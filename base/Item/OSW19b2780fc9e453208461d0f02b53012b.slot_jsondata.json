@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/FARAD_Stat"
+    ],
+    "uuid": "19b2780f-c9e4-5320-8461-d0f02b53012b",
+    "name": "Statfarad",
+    "label": [
+        {
+            "text": "Statfarad",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $\\text{Statfarad (statF)}$ is a unit in the category of Electric capacitance. \n  It is also known as $statfarads$. \n  This unit is commonly used in the cgs unit system. \n  $Statfarad$ has a dimension of $M^{-1}L^{-2}T^4I^2$ where $M$ is mass, $L$ is length, $T$ is time, and $I$ is electric current. \n  It can be converted to the corresponding standard SI unit F by multiplying its value by a factor of 1.11265E-012.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "statF",
+    "conversion_factor_from_si": 1.1126500560536185e-18,
+    "factor_unit_scalar": 1
+}

@@ -13,7 +13,7 @@
             "globalID": "world.opensemantic.quantities",
             "label": "OSW Quantities",
             "description": "Contains fundamental (physical) quantities, units and prefixes",
-            "version": "0.3.0",
+            "version": "0.4.0",
             "requiredPackages": [
                 "world.opensemantic.core"
             ],
@@ -510,6 +510,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW04312c9196a4543d9c827a28f37878d9.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW0489626a4cd15b65b8ae4541a0a8bbdc",
+                    "label": "BarAbsolute",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW0489626a4cd15b65b8ae4541a0a8bbdc.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW0489626a4cd15b65b8ae4541a0a8bbdc.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW0489626a4cd15b65b8ae4541a0a8bbdc.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW0489626a4cd15b65b8ae4541a0a8bbdc.slot_jsondata.json"
                         }
                     }
                 },
@@ -1075,6 +1092,23 @@
                     }
                 },
                 {
+                    "name": "OSW0ab30ace4c8758c3b7e94d16d3336892",
+                    "label": "Gamma",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW0ab30ace4c8758c3b7e94d16d3336892.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW0ab30ace4c8758c3b7e94d16d3336892.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW0ab30ace4c8758c3b7e94d16d3336892.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW0ab30ace4c8758c3b7e94d16d3336892.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW0ac392f5beaf59ab807d2e0de0da85c9",
                     "label": "GramPerSquareCentimetre",
                     "namespace": "NS_ITEM",
@@ -1088,6 +1122,40 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW0ac392f5beaf59ab807d2e0de0da85c9.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW0ad7b62faa04540997ae86979ee04745",
+                    "label": "Absiemen",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW0ad7b62faa04540997ae86979ee04745.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW0ad7b62faa04540997ae86979ee04745.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW0ad7b62faa04540997ae86979ee04745.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW0ad7b62faa04540997ae86979ee04745.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW0b04a0ae4aeb5931a51625700dc55f03",
+                    "label": "Curie",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW0b04a0ae4aeb5931a51625700dc55f03.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW0b04a0ae4aeb5931a51625700dc55f03.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW0b04a0ae4aeb5931a51625700dc55f03.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW0b04a0ae4aeb5931a51625700dc55f03.slot_jsondata.json"
                         }
                     }
                 },
@@ -1122,6 +1190,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW0b49cc80f9de52ff907d6ae2579d2700.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW0b5ec1be43b958a1b7a6004dfcb7e676",
+                    "label": "PoundMass",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW0b5ec1be43b958a1b7a6004dfcb7e676.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW0b5ec1be43b958a1b7a6004dfcb7e676.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW0b5ec1be43b958a1b7a6004dfcb7e676.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW0b5ec1be43b958a1b7a6004dfcb7e676.slot_jsondata.json"
                         }
                     }
                 },
@@ -1347,6 +1432,23 @@
                     }
                 },
                 {
+                    "name": "OSW0eba537763545de995a4cd91079a1e8a",
+                    "label": "Curie",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW0eba537763545de995a4cd91079a1e8a.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW0eba537763545de995a4cd91079a1e8a.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW0eba537763545de995a4cd91079a1e8a.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW0eba537763545de995a4cd91079a1e8a.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW0ecff962cc2a5c2f9719fd1b9d85bf4f",
                     "label": "Coercivity",
                     "namespace": "NS_ITEM",
@@ -1377,6 +1479,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW0effc6b933ac5d01927c086bd170f4c7.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW0f9432a8095854e7809a035308be7fbc",
+                    "label": "Stathenry",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW0f9432a8095854e7809a035308be7fbc.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW0f9432a8095854e7809a035308be7fbc.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW0f9432a8095854e7809a035308be7fbc.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW0f9432a8095854e7809a035308be7fbc.slot_jsondata.json"
                         }
                     }
                 },
@@ -1428,6 +1547,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW1045127fad1a54b4bf5c0a15890fdc8b.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW10643d79b5a056a481cec82ae0b32c32",
+                    "label": "Calorie15DegreesC",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW10643d79b5a056a481cec82ae0b32c32.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW10643d79b5a056a481cec82ae0b32c32.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW10643d79b5a056a481cec82ae0b32c32.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW10643d79b5a056a481cec82ae0b32c32.slot_jsondata.json"
                         }
                     }
                 },
@@ -1500,6 +1636,23 @@
                     }
                 },
                 {
+                    "name": "OSW121f18c9513a53debddfc746be8c571e",
+                    "label": "Mho",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW121f18c9513a53debddfc746be8c571e.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW121f18c9513a53debddfc746be8c571e.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW121f18c9513a53debddfc746be8c571e.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW121f18c9513a53debddfc746be8c571e.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW124eebfb89dc54bc9cc223fd49c40480",
                     "label": "ReciprocalKilometre",
                     "namespace": "NS_ITEM",
@@ -1530,6 +1683,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW124f92362f8859be8ab2fcbafb94c9de.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW1282fb8dff9556449d90f7aada99324c",
+                    "label": "ThermochemicalCalorie",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW1282fb8dff9556449d90f7aada99324c.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW1282fb8dff9556449d90f7aada99324c.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW1282fb8dff9556449d90f7aada99324c.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW1282fb8dff9556449d90f7aada99324c.slot_jsondata.json"
                         }
                     }
                 },
@@ -1959,6 +2129,23 @@
                     }
                 },
                 {
+                    "name": "OSW18eab2bcd1575213839be236edbf82d6",
+                    "label": "Calorie15DegreesC",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW18eab2bcd1575213839be236edbf82d6.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW18eab2bcd1575213839be236edbf82d6.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW18eab2bcd1575213839be236edbf82d6.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW18eab2bcd1575213839be236edbf82d6.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW194e412e3b635bc3901a05b9634d3b20",
                     "label": "SpecificHeatCapacityAtSaturation",
                     "namespace": "NS_ITEM",
@@ -1972,6 +2159,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW194e412e3b635bc3901a05b9634d3b20.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW196be62ae9d6519da359fb56a71b0ef0",
+                    "label": "Debye",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW196be62ae9d6519da359fb56a71b0ef0.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW196be62ae9d6519da359fb56a71b0ef0.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW196be62ae9d6519da359fb56a71b0ef0.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW196be62ae9d6519da359fb56a71b0ef0.slot_jsondata.json"
                         }
                     }
                 },
@@ -2027,6 +2231,23 @@
                     }
                 },
                 {
+                    "name": "OSW19b2780fc9e453208461d0f02b53012b",
+                    "label": "Statfarad",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW19b2780fc9e453208461d0f02b53012b.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW19b2780fc9e453208461d0f02b53012b.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW19b2780fc9e453208461d0f02b53012b.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW19b2780fc9e453208461d0f02b53012b.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW19b3c05ca68c583aa0110b75f6e89dc1",
                     "label": "GramsPerLitreHour",
                     "namespace": "NS_ITEM",
@@ -2040,6 +2261,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW19b3c05ca68c583aa0110b75f6e89dc1.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW19d4212c82595558b911c13d64896a57",
+                    "label": "Biot",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW19d4212c82595558b911c13d64896a57.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW19d4212c82595558b911c13d64896a57.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW19d4212c82595558b911c13d64896a57.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW19d4212c82595558b911c13d64896a57.slot_jsondata.json"
                         }
                     }
                 },
@@ -2108,6 +2346,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW1aef0f22af9a55e58e458c5d4e94f161.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW1b6a103ceff75552910ca26d32e0dd07",
+                    "label": "Diopter",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW1b6a103ceff75552910ca26d32e0dd07.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW1b6a103ceff75552910ca26d32e0dd07.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW1b6a103ceff75552910ca26d32e0dd07.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW1b6a103ceff75552910ca26d32e0dd07.slot_jsondata.json"
                         }
                     }
                 },
@@ -2588,6 +2843,23 @@
                     }
                 },
                 {
+                    "name": "OSW206210a121775a3ca01536cafbf3a5ab",
+                    "label": "Gamma",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW206210a121775a3ca01536cafbf3a5ab.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW206210a121775a3ca01536cafbf3a5ab.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW206210a121775a3ca01536cafbf3a5ab.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW206210a121775a3ca01536cafbf3a5ab.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW2075e5df2e0b597f99d5bd8e188cb14c",
                     "label": "MeasurementUnitOfSpectralRadiance",
                     "namespace": "NS_ITEM",
@@ -2720,6 +2992,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW21febbc735d25a9badefe5f3191757d9.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW220eff637bd45734a08a6a88385d6ae2",
+                    "label": "TechnicalAtmosphere",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW220eff637bd45734a08a6a88385d6ae2.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW220eff637bd45734a08a6a88385d6ae2.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW220eff637bd45734a08a6a88385d6ae2.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW220eff637bd45734a08a6a88385d6ae2.slot_jsondata.json"
                         }
                     }
                 },
@@ -3774,6 +4063,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW30b77c812cef538c8f62eaf7c6950a59.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW3120657825b851f7856bfec8259dac99",
+                    "label": "Dalton",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW3120657825b851f7856bfec8259dac99.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW3120657825b851f7856bfec8259dac99.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW3120657825b851f7856bfec8259dac99.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW3120657825b851f7856bfec8259dac99.slot_jsondata.json"
                         }
                     }
                 },
@@ -5189,6 +5495,23 @@
                     }
                 },
                 {
+                    "name": "OSW453a0e790373569d9090299ca4c23254",
+                    "label": "Poise",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW453a0e790373569d9090299ca4c23254.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW453a0e790373569d9090299ca4c23254.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW453a0e790373569d9090299ca4c23254.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW453a0e790373569d9090299ca4c23254.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW45c24d8b68485accbdd684f05231c74c",
                     "label": "ReciprocalMicrometre",
                     "namespace": "NS_ITEM",
@@ -5236,6 +5559,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW462714679d475b158c530d359d42de44.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW466083d9a99a5461951196fc61eba910",
+                    "label": "Clo",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW466083d9a99a5461951196fc61eba910.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW466083d9a99a5461951196fc61eba910.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW466083d9a99a5461951196fc61eba910.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW466083d9a99a5461951196fc61eba910.slot_jsondata.json"
                         }
                     }
                 },
@@ -5444,6 +5784,23 @@
                     }
                 },
                 {
+                    "name": "OSW49277fc9ea4b5a29b1a10023d96d59d5",
+                    "label": "Stilb",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW49277fc9ea4b5a29b1a10023d96d59d5.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW49277fc9ea4b5a29b1a10023d96d59d5.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW49277fc9ea4b5a29b1a10023d96d59d5.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW49277fc9ea4b5a29b1a10023d96d59d5.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW49ded25372bf5076b29624297d4cc47e",
                     "label": "TemperaturePerTime",
                     "namespace": "NS_ITEM",
@@ -5593,6 +5950,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW4b190466bae15739b1112199be8f2f54.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW4b2b623272425e3782acfc8f764b0363",
+                    "label": "Rad",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW4b2b623272425e3782acfc8f764b0363.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW4b2b623272425e3782acfc8f764b0363.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW4b2b623272425e3782acfc8f764b0363.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW4b2b623272425e3782acfc8f764b0363.slot_jsondata.json"
                         }
                     }
                 },
@@ -6260,6 +6634,23 @@
                     }
                 },
                 {
+                    "name": "OSW519effcf14c65f35897a413e681d9da6",
+                    "label": "Dalton",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW519effcf14c65f35897a413e681d9da6.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW519effcf14c65f35897a413e681d9da6.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW519effcf14c65f35897a413e681d9da6.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW519effcf14c65f35897a413e681d9da6.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW5296e8a9268e513a9b92690db31d7f4c",
                     "label": "CoulombPerMole",
                     "namespace": "NS_ITEM",
@@ -6290,6 +6681,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW52ca4a4255ba59c4bfcef9da16135986.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW531926b46be85b5c83ee8050686b5458",
+                    "label": "Debye",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW531926b46be85b5c83ee8050686b5458.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW531926b46be85b5c83ee8050686b5458.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW531926b46be85b5c83ee8050686b5458.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW531926b46be85b5c83ee8050686b5458.slot_jsondata.json"
                         }
                     }
                 },
@@ -6562,6 +6970,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW56c5e9f95d035851bf9166fe99d6ebda.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW56cb00de0b945ec0b33280e0376b2c18",
+                    "label": "RelativePermeability",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW56cb00de0b945ec0b33280e0376b2c18.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW56cb00de0b945ec0b33280e0376b2c18.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW56cb00de0b945ec0b33280e0376b2c18.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW56cb00de0b945ec0b33280e0376b2c18.slot_jsondata.json"
                         }
                     }
                 },
@@ -7225,6 +7650,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW5e51e7e7d12e5210847e42c0d11b2e7a.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW5e5f547ac4115d07baa3f45c9673989f",
+                    "label": "Statampere",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW5e5f547ac4115d07baa3f45c9673989f.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW5e5f547ac4115d07baa3f45c9673989f.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW5e5f547ac4115d07baa3f45c9673989f.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW5e5f547ac4115d07baa3f45c9673989f.slot_jsondata.json"
                         }
                     }
                 },
@@ -7960,6 +8402,23 @@
                     }
                 },
                 {
+                    "name": "OSW68df32f5be96543c8ba7e44ee463d559",
+                    "label": "UnitPole",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW68df32f5be96543c8ba7e44ee463d559.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW68df32f5be96543c8ba7e44ee463d559.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW68df32f5be96543c8ba7e44ee463d559.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW68df32f5be96543c8ba7e44ee463d559.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW68f6c2149802593c9502002b6a13ba6e",
                     "label": "LinearDensity",
                     "namespace": "NS_ITEM",
@@ -8024,6 +8483,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW6a06afffec325f169a34e47ab7c414fe.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW6acc9a75f0a25d63b3ff1734dfc1b057",
+                    "label": "Statohm",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW6acc9a75f0a25d63b3ff1734dfc1b057.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW6acc9a75f0a25d63b3ff1734dfc1b057.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW6acc9a75f0a25d63b3ff1734dfc1b057.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW6acc9a75f0a25d63b3ff1734dfc1b057.slot_jsondata.json"
                         }
                     }
                 },
@@ -8691,6 +9167,23 @@
                     }
                 },
                 {
+                    "name": "OSW756f3b2262dc5e51bf1b99be63d0d22f",
+                    "label": "Abvolt",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW756f3b2262dc5e51bf1b99be63d0d22f.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW756f3b2262dc5e51bf1b99be63d0d22f.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW756f3b2262dc5e51bf1b99be63d0d22f.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW756f3b2262dc5e51bf1b99be63d0d22f.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW75860b6ddcd1500fbd620e040bc2afb2",
                     "label": "KelvinSquareMetresPerKilogramSecond",
                     "namespace": "NS_ITEM",
@@ -8810,6 +9303,23 @@
                     }
                 },
                 {
+                    "name": "OSW77d4b1042f5d5da49ea7a32d7f72560b",
+                    "label": "Statsiemens",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW77d4b1042f5d5da49ea7a32d7f72560b.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW77d4b1042f5d5da49ea7a32d7f72560b.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW77d4b1042f5d5da49ea7a32d7f72560b.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW77d4b1042f5d5da49ea7a32d7f72560b.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW780ec81283de5d9cbd88f4b23ff93735",
                     "label": "ronna",
                     "namespace": "NS_ITEM",
@@ -8840,6 +9350,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW78331234e1a15aeebd8b0caa71201939.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW788f178a9aeb551c9d65ca2301d77f78",
+                    "label": "Rem",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW788f178a9aeb551c9d65ca2301d77f78.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW788f178a9aeb551c9d65ca2301d77f78.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW788f178a9aeb551c9d65ca2301d77f78.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW788f178a9aeb551c9d65ca2301d77f78.slot_jsondata.json"
                         }
                     }
                 },
@@ -9592,6 +10119,23 @@
                     }
                 },
                 {
+                    "name": "OSW80d10f0e1fa151c3a50c2a931eaaa584",
+                    "label": "PoundTroy",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW80d10f0e1fa151c3a50c2a931eaaa584.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW80d10f0e1fa151c3a50c2a931eaaa584.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW80d10f0e1fa151c3a50c2a931eaaa584.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW80d10f0e1fa151c3a50c2a931eaaa584.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW8113ac9c25615c21902a9447ab03cc0a",
                     "label": "Newton",
                     "namespace": "NS_ITEM",
@@ -9656,6 +10200,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW81d243ef653b5b6b890b1102d37d6d78.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW81fa41f795f45c50a2fd671b17a7dcba",
+                    "label": "Quad",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW81fa41f795f45c50a2fd671b17a7dcba.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW81fa41f795f45c50a2fd671b17a7dcba.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW81fa41f795f45c50a2fd671b17a7dcba.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW81fa41f795f45c50a2fd671b17a7dcba.slot_jsondata.json"
                         }
                     }
                 },
@@ -9830,6 +10391,23 @@
                     }
                 },
                 {
+                    "name": "OSW83d430005c3f56ad9842634aa262ff6e",
+                    "label": "OunceTroy",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW83d430005c3f56ad9842634aa262ff6e.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW83d430005c3f56ad9842634aa262ff6e.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW83d430005c3f56ad9842634aa262ff6e.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW83d430005c3f56ad9842634aa262ff6e.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW84acbc06409e5b5582f6e454b672cb49",
                     "label": "VapourPermeance",
                     "namespace": "NS_ITEM",
@@ -9911,6 +10489,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW85786212488f538ba6d3b7a4acd8bcf0.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW859fdde253095f7b9c7762960983f095",
+                    "label": "Oersted",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW859fdde253095f7b9c7762960983f095.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW859fdde253095f7b9c7762960983f095.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW859fdde253095f7b9c7762960983f095.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW859fdde253095f7b9c7762960983f095.slot_jsondata.json"
                         }
                     }
                 },
@@ -10098,6 +10693,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW876f7e15d7585ef98482f38a345ca70e.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW883d9784e2e85c0f89f46005cacfe4a7",
+                    "label": "CalorieMean",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW883d9784e2e85c0f89f46005cacfe4a7.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW883d9784e2e85c0f89f46005cacfe4a7.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW883d9784e2e85c0f89f46005cacfe4a7.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW883d9784e2e85c0f89f46005cacfe4a7.slot_jsondata.json"
                         }
                     }
                 },
@@ -10523,6 +11135,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW8db8e99fc1ce5914bdb7f42fa21afe1f.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW8dc4de2004255bc38980207113b22989",
+                    "label": "RelativePermittivity",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW8dc4de2004255bc38980207113b22989.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW8dc4de2004255bc38980207113b22989.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW8dc4de2004255bc38980207113b22989.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW8dc4de2004255bc38980207113b22989.slot_jsondata.json"
                         }
                     }
                 },
@@ -11462,6 +12091,23 @@
                     }
                 },
                 {
+                    "name": "OSW99c6644607c65f628236e9383b506717",
+                    "label": "Abfarad",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW99c6644607c65f628236e9383b506717.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW99c6644607c65f628236e9383b506717.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW99c6644607c65f628236e9383b506717.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW99c6644607c65f628236e9383b506717.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW9a1710d21a80581d9fdcae699bd1ff54",
                     "label": "ThermalUtilizationFactor",
                     "namespace": "NS_ITEM",
@@ -11887,6 +12533,23 @@
                     }
                 },
                 {
+                    "name": "OSW9fb7b9e67a4753bdb7e0a2eeecb87f61",
+                    "label": "Gilbert",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW9fb7b9e67a4753bdb7e0a2eeecb87f61.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW9fb7b9e67a4753bdb7e0a2eeecb87f61.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW9fb7b9e67a4753bdb7e0a2eeecb87f61.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW9fb7b9e67a4753bdb7e0a2eeecb87f61.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWa002ca4dbb715de4abb4c9e6ff9b7cd7",
                     "label": "Fermi",
                     "namespace": "NS_ITEM",
@@ -12019,6 +12682,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWa0fc0bef94df5e839e06751b84e74ae3.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWa10ab59b3558540b9216812a03241e22",
+                    "label": "Calorie",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWa10ab59b3558540b9216812a03241e22.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWa10ab59b3558540b9216812a03241e22.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWa10ab59b3558540b9216812a03241e22.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWa10ab59b3558540b9216812a03241e22.slot_jsondata.json"
                         }
                     }
                 },
@@ -12240,6 +12920,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWa3dc237668ee56458d3927e269603efc.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWa3fdeda173fa5b90a6245a7adf8c0ee1",
+                    "label": "Candlepower",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWa3fdeda173fa5b90a6245a7adf8c0ee1.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWa3fdeda173fa5b90a6245a7adf8c0ee1.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWa3fdeda173fa5b90a6245a7adf8c0ee1.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWa3fdeda173fa5b90a6245a7adf8c0ee1.slot_jsondata.json"
                         }
                     }
                 },
@@ -12873,6 +13570,23 @@
                     }
                 },
                 {
+                    "name": "OSWad5d9c5f75cc5c58b7c479d7ae6749e7",
+                    "label": "Abcoulomb",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWad5d9c5f75cc5c58b7c479d7ae6749e7.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWad5d9c5f75cc5c58b7c479d7ae6749e7.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWad5d9c5f75cc5c58b7c479d7ae6749e7.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWad5d9c5f75cc5c58b7c479d7ae6749e7.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWad7d5de805ba533aaeb5fc3f2999cfbd",
                     "label": "LuminousFluxPerArea",
                     "namespace": "NS_ITEM",
@@ -12886,6 +13600,40 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWad7d5de805ba533aaeb5fc3f2999cfbd.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWad94dc4bfea45e20a8234c7487634c99",
+                    "label": "Bar",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWad94dc4bfea45e20a8234c7487634c99.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWad94dc4bfea45e20a8234c7487634c99.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWad94dc4bfea45e20a8234c7487634c99.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWad94dc4bfea45e20a8234c7487634c99.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWade55059c34b52c184e058e8e2551b07",
+                    "label": "Dyne",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWade55059c34b52c184e058e8e2551b07.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWade55059c34b52c184e058e8e2551b07.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWade55059c34b52c184e058e8e2551b07.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWade55059c34b52c184e058e8e2551b07.slot_jsondata.json"
                         }
                     }
                 },
@@ -13111,6 +13859,23 @@
                     }
                 },
                 {
+                    "name": "OSWb145e33dc2815d0d870a5245c5ff1ed0",
+                    "label": "PoundMass",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWb145e33dc2815d0d870a5245c5ff1ed0.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWb145e33dc2815d0d870a5245c5ff1ed0.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWb145e33dc2815d0d870a5245c5ff1ed0.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWb145e33dc2815d0d870a5245c5ff1ed0.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWb175d26e736c5603bcaa1060f2afddff",
                     "label": "CandelaPerLumen",
                     "namespace": "NS_ITEM",
@@ -13226,6 +13991,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWb2f2150d25eb5a948de6ae5033a72afa.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWb340a057bd7951e9af709d375d0a84fa",
+                    "label": "Gs",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWb340a057bd7951e9af709d375d0a84fa.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWb340a057bd7951e9af709d375d0a84fa.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWb340a057bd7951e9af709d375d0a84fa.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWb340a057bd7951e9af709d375d0a84fa.slot_jsondata.json"
                         }
                     }
                 },
@@ -14063,6 +14845,23 @@
                     }
                 },
                 {
+                    "name": "OSWbed1170537235cb98d9bb08e11e482e0",
+                    "label": "Phot",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWbed1170537235cb98d9bb08e11e482e0.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWbed1170537235cb98d9bb08e11e482e0.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWbed1170537235cb98d9bb08e11e482e0.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWbed1170537235cb98d9bb08e11e482e0.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWbeec27d45f6458378ff0434634133a08",
                     "label": "SquareTime",
                     "namespace": "NS_ITEM",
@@ -14182,6 +14981,23 @@
                     }
                 },
                 {
+                    "name": "OSWc05278561b6f51a4afe7bf8efe85c473",
+                    "label": "DegreeRankine",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWc05278561b6f51a4afe7bf8efe85c473.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWc05278561b6f51a4afe7bf8efe85c473.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWc05278561b6f51a4afe7bf8efe85c473.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWc05278561b6f51a4afe7bf8efe85c473.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWc06da5be651b56d993bef3fc05d91bd6",
                     "label": "JoulePerKilogramKelvinCubicMetre",
                     "namespace": "NS_ITEM",
@@ -14246,6 +15062,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWc11439599ec0538ab0c1d7d5d88da3e0.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWc14beede94eb5e7981a635d0b14fbe1c",
+                    "label": "InternationalTableCalorie",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWc14beede94eb5e7981a635d0b14fbe1c.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWc14beede94eb5e7981a635d0b14fbe1c.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWc14beede94eb5e7981a635d0b14fbe1c.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWc14beede94eb5e7981a635d0b14fbe1c.slot_jsondata.json"
                         }
                     }
                 },
@@ -14688,6 +15521,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWc7bc4bc39923580885b91cf36c63d11a.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWc7ed820dc85852b6be50637e389a21ae",
+                    "label": "Carat",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWc7ed820dc85852b6be50637e389a21ae.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWc7ed820dc85852b6be50637e389a21ae.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWc7ed820dc85852b6be50637e389a21ae.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWc7ed820dc85852b6be50637e389a21ae.slot_jsondata.json"
                         }
                     }
                 },
@@ -15321,6 +16171,23 @@
                     }
                 },
                 {
+                    "name": "OSWd00685e2a5d45d5f95ac5068834214d1",
+                    "label": "Abtesla",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWd00685e2a5d45d5f95ac5068834214d1.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWd00685e2a5d45d5f95ac5068834214d1.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWd00685e2a5d45d5f95ac5068834214d1.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWd00685e2a5d45d5f95ac5068834214d1.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWd01359716f075c358cd1c8d5b97ed29c",
                     "label": "AreaPerTime",
                     "namespace": "NS_ITEM",
@@ -15474,6 +16341,23 @@
                     }
                 },
                 {
+                    "name": "OSWd2c8accde73353f4b916d478f0f657ff",
+                    "label": "TonEnergy",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWd2c8accde73353f4b916d478f0f657ff.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWd2c8accde73353f4b916d478f0f657ff.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWd2c8accde73353f4b916d478f0f657ff.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWd2c8accde73353f4b916d478f0f657ff.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWd2cd9a19e7255fc081307b69e3384e2e",
                     "label": "MetricTon",
                     "namespace": "NS_ITEM",
@@ -15487,6 +16371,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWd2cd9a19e7255fc081307b69e3384e2e.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWd31987380ef65a3587907c43e93d0cc3",
+                    "label": "Abampere",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWd31987380ef65a3587907c43e93d0cc3.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWd31987380ef65a3587907c43e93d0cc3.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWd31987380ef65a3587907c43e93d0cc3.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWd31987380ef65a3587907c43e93d0cc3.slot_jsondata.json"
                         }
                     }
                 },
@@ -16545,6 +17446,23 @@
                     }
                 },
                 {
+                    "name": "OSWe0ae21dcfcaf5862849e3fa4af3bba9b",
+                    "label": "Abohm",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWe0ae21dcfcaf5862849e3fa4af3bba9b.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWe0ae21dcfcaf5862849e3fa4af3bba9b.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWe0ae21dcfcaf5862849e3fa4af3bba9b.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWe0ae21dcfcaf5862849e3fa4af3bba9b.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWe0b098248f7557aaa6a892a6ecbd32b8",
                     "label": "QuarticCoulombMetrePerCubicEnergy",
                     "namespace": "NS_ITEM",
@@ -16694,6 +17612,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWe279fe2c49705948a6f2fff270d50be1.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWe2839178c12656209340e3a495334fc2",
+                    "label": "Maxwell",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWe2839178c12656209340e3a495334fc2.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWe2839178c12656209340e3a495334fc2.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWe2839178c12656209340e3a495334fc2.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWe2839178c12656209340e3a495334fc2.slot_jsondata.json"
                         }
                     }
                 },
@@ -17412,6 +18347,23 @@
                     }
                 },
                 {
+                    "name": "OSWeb0dbb0c11f05650a6d3cb09e86103af",
+                    "label": "Ton",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWeb0dbb0c11f05650a6d3cb09e86103af.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWeb0dbb0c11f05650a6d3cb09e86103af.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWeb0dbb0c11f05650a6d3cb09e86103af.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWeb0dbb0c11f05650a6d3cb09e86103af.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWeb17891a3f4a57f791ae5364603ffba0",
                     "label": "WeberPerMillimetre",
                     "namespace": "NS_ITEM",
@@ -17531,6 +18483,23 @@
                     }
                 },
                 {
+                    "name": "OSWec648af61d6659749aee3cd100d10fc5",
+                    "label": "Statvolt",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWec648af61d6659749aee3cd100d10fc5.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWec648af61d6659749aee3cd100d10fc5.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWec648af61d6659749aee3cd100d10fc5.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWec648af61d6659749aee3cd100d10fc5.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWeccca21113fe5297bb1190eaee52459d",
                     "label": "CoulombPerGram",
                     "namespace": "NS_ITEM",
@@ -17646,6 +18615,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWedef4c24551a534bb82739d3b465101e.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWee18cfabe34058bab1733bfdba7003ab",
+                    "label": "Rayl",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWee18cfabe34058bab1733bfdba7003ab.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWee18cfabe34058bab1733bfdba7003ab.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWee18cfabe34058bab1733bfdba7003ab.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWee18cfabe34058bab1733bfdba7003ab.slot_jsondata.json"
                         }
                     }
                 },
@@ -17990,6 +18976,23 @@
                     }
                 },
                 {
+                    "name": "OSWf3df7559397e55aa9006e3e1e5bc68b9",
+                    "label": "StandardAtmosphere",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWf3df7559397e55aa9006e3e1e5bc68b9.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWf3df7559397e55aa9006e3e1e5bc68b9.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWf3df7559397e55aa9006e3e1e5bc68b9.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWf3df7559397e55aa9006e3e1e5bc68b9.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWf3f9733d84285a338b5b7306145c9b6d",
                     "label": "NewtonsPerCubicMetre",
                     "namespace": "NS_ITEM",
@@ -18105,6 +19108,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWf619f81d86235c0c8ec35b106174a40b.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWf634b73e674e5cc5a9b866cd4c03a6f0",
+                    "label": "Statcoulomb",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWf634b73e674e5cc5a9b866cd4c03a6f0.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWf634b73e674e5cc5a9b866cd4c03a6f0.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWf634b73e674e5cc5a9b866cd4c03a6f0.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWf634b73e674e5cc5a9b866cd4c03a6f0.slot_jsondata.json"
                         }
                     }
                 },
@@ -18602,6 +19622,23 @@
                     }
                 },
                 {
+                    "name": "OSWfc12b8aa861458e196528b09ec43a76c",
+                    "label": "Abhenry",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWfc12b8aa861458e196528b09ec43a76c.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWfc12b8aa861458e196528b09ec43a76c.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWfc12b8aa861458e196528b09ec43a76c.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWfc12b8aa861458e196528b09ec43a76c.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWfc400148e55850a780a2f049c081c498",
                     "label": "Absorptance",
                     "namespace": "NS_ITEM",
@@ -18717,6 +19754,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWfd92e9c2c69754f78e4145ad3d31c34b.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWfe3e343f1710509b9f8a99b1caacbbbf",
+                    "label": "ShortTon",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWfe3e343f1710509b9f8a99b1caacbbbf.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWfe3e343f1710509b9f8a99b1caacbbbf.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWfe3e343f1710509b9f8a99b1caacbbbf.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWfe3e343f1710509b9f8a99b1caacbbbf.slot_jsondata.json"
                         }
                     }
                 },

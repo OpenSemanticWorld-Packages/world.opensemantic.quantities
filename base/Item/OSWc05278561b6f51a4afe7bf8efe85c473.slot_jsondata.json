@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/DEG_R"
+    ],
+    "uuid": "c0527856-1b6f-51a4-afe7-bf8efe85c473",
+    "name": "DegreeRankine",
+    "label": [
+        {
+            "text": "Degree Rankine",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The unit $\\textit{Degree Rankine}$ is a thermodynamic (absolute) temperature scale. \n  The symbol for degrees Rankine is $^\\circ R$ or $^\\circ Ra$ if necessary to distinguish it from the Rømer and Réaumur scales). \n  Zero on both the Kelvin and Rankine scales is absolute zero, but the Rankine degree is defined as equal\n   to one degree Fahrenheit, rather than the one degree Celsius used by the Kelvin scale. \n  A temperature of $-459.67 ^\\circ F$ is exactly equal to $0 ^\\circ R$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "°R",
+    "conversion_factor_from_si": 0.5555555555555556,
+    "ucum_codes": [
+        "[degR]"
+    ],
+    "factor_unit_scalar": 1
+}

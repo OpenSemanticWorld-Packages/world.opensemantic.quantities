@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/STILB"
+    ],
+    "uuid": "49277fc9-ea4b-5a29-b1a1-0023d96d59d5",
+    "name": "Stilb",
+    "label": [
+        {
+            "text": "Stilb",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The $\\textit{stilb (sb)}$ is the CGS unit of luminance for objects that are not self-luminous. \n  It is equal to one candela per square centimeter or 10 nits (candelas per square meter). \n  The name was coined by the French physicist A. Blondel around 1920. \n  It comes from the Greek word stilbein meaning 'to glitter'. \n  It was in common use in Europe up to World War I. \n  In North America self-explanatory terms such as candle per square inch and candle per square meter were more common. \n  The unit has since largely been replaced by the SI unit: $\\textit{candela per square meter}$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "sb",
+    "conversion_factor_from_si": 10000.0,
+    "ucum_codes": [
+        "sb"
+    ],
+    "factor_unit_scalar": 1
+}

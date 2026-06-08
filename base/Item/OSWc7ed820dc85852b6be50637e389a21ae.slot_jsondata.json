@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CARAT"
+    ],
+    "uuid": "c7ed820d-c858-52b6-be50-637e389a21ae",
+    "name": "Carat",
+    "label": [
+        {
+            "text": "Carat",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The carat is a unit of mass equal to 200 mg and is used for measuring gemstones and pearls. The current definition, sometimes known as the metric carat, was adopted in 1907 at the Fourth General Conference on Weights and Measures, and soon afterward in many countries around the world. The carat is divisible into one hundred points of two milligrams each. Other subdivisions, and slightly different mass values, have been used in the past in different locations. In terms of diamonds, a paragon is a flawless stone of at least 100 carats (20 g). The ANSI X.12 EDI standard abbreviation for the carat is $CD$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "ct",
+    "conversion_factor_from_si": 0.0002,
+    "ucum_codes": [
+        "[car_m]"
+    ],
+    "factor_unit_scalar": 1
+}

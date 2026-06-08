@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/S_Ab"
+    ],
+    "uuid": "0ad7b62f-aa04-5409-97ae-86979ee04745",
+    "name": "Absiemen",
+    "label": [
+        {
+            "text": "Absiemen",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "The CGS electromagnetic unit of conductance; one absiemen is the conductance at which a potential of one abvolt forces a current of one abampere; equal to $10^{9}$ siemens. One siemen is the conductance at which a potential of one volt forces a current of one ampere and named for Karl Wilhem Siemens.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "aS",
+    "conversion_factor_from_si": 1000000000.0,
+    "ucum_codes": [
+        "GS"
+    ],
+    "factor_unit_scalar": 1
+}

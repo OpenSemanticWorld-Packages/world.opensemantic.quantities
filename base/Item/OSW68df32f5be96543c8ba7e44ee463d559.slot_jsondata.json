@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/UnitPole"
+    ],
+    "uuid": "68df32f5-be96-543c-8ba7-e44ee463d559",
+    "name": "UnitPole",
+    "label": [
+        {
+            "text": "Unit Pole",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "A magnetic pole is a unit pole if it exerts a force of one dyne on another pole of equal strength at a distance of 1 cm. The strength of any given pole in cgs units is therefore numerically equal to the force in dynes which it exerts on a unit pole 1 cm away.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "pole",
+    "conversion_factor_from_si": 1.256637e-07,
+    "factor_unit_scalar": 1
+}

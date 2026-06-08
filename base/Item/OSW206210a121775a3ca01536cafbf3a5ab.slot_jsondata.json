@@ -1,0 +1,25 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/Gamma"
+    ],
+    "uuid": "206210a1-2177-5a3c-a015-36cafbf3a5ab",
+    "name": "Gamma",
+    "label": [
+        {
+            "text": "Gamma",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Gamma\" is a C.G.S System unit for  'Magnetic Field'.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "γ",
+    "conversion_factor_from_si": 1e-09,
+    "factor_unit_scalar": 1
+}

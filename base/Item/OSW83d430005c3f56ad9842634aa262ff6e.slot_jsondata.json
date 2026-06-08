@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/OZ_TROY"
+    ],
+    "uuid": "83d43000-5c3f-56ad-9842-634aa262ff6e",
+    "name": "OunceTroy",
+    "label": [
+        {
+            "text": "Ounce Troy",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "An obsolete unit of mass; the Troy Ounce is 1/12th of a Troy Pound. Based on the international definition of a Troy Pound as 5760 grains, the Troy Ounce is exactly 480 grains, or 0.0311034768 kg.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "oz{Troy}",
+    "conversion_factor_from_si": 0.0311034768,
+    "ucum_codes": [
+        "[oz_tr]"
+    ],
+    "factor_unit_scalar": 1
+}

@@ -1,0 +1,45 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/MHO"
+    ],
+    "uuid": "121f18c9-513a-53de-bddf-c746be8c571e",
+    "name": "Mho",
+    "label": [
+        {
+            "text": "Mho",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "\"Mho\" is a C.G.S System unit for  'Electric Conductivity' expressed as $mho$.",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "℧",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "mho"
+    ],
+    "factor_unit_scalar": 1,
+    "prefix_units": [
+        {
+            "type": [
+                "Category:OSWd2520fa016844e01af0097a85bb25b25"
+            ],
+            "uuid": "e1c8741a-6244-5600-936d-5f0c8e651f2e",
+            "osw_id": "Item:OSW121f18c9513a53debddfc746be8c571e#OSWe1c8741a62445600936d5f0c8e651f2e",
+            "conversion_factor_to_main_unit": 1e-06,
+            "conversion_factor_from_si": 1e-06,
+            "prefix": "Item:OSW59f1ae99ce85577d995c76e442b46e74",
+            "prefix_symbol": "μ",
+            "main_symbol": "μ℧",
+            "ucum_codes": [
+                "umho"
+            ]
+        }
+    ]
+}

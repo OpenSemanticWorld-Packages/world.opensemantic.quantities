@@ -1,0 +1,28 @@
+{
+    "type": [
+        "Category:OSWd2520fa016844e01af0097a85bb25b25"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/unit/CAL_MEAN"
+    ],
+    "uuid": "883d9784-e2e8-5c0f-89f4-6005cacfe4a7",
+    "name": "CalorieMean",
+    "label": [
+        {
+            "text": "Calorie (mean)",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "unit used particularly for calorific values of foods",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "cal{mean}",
+    "conversion_factor_from_si": 4.19,
+    "ucum_codes": [
+        "cal_m"
+    ],
+    "factor_unit_scalar": 1
+}
