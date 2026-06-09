@@ -3,28 +3,22 @@
         "Category:OSW00fbd6feecb5408997ca18d4e681a131"
     ],
     "exact_ontology_match": [
-        "http://qudt.org/vocab/quantitykind/Time"
+        "http://qudt.org/vocab/quantitykind/SpecificImpulse"
     ],
     "close_ontology_match": [
-        "http://dbpedia.org/resource/Time",
-        "http://qudt.org/vocab/quantitykind/Time",
-        "https://si-digital-framework.org/quantities/TIME"
+        "http://qudt.org/vocab/quantitykind/SpecificImpulse"
     ],
-    "uuid": "1bd92826-da6f-5c53-982e-d6ea45bc1b9b",
-    "name": "Time",
+    "uuid": "21e14bb4-9b7d-5ae8-bca0-6eae2e8c50c3",
+    "name": "SpecificImpulse",
     "label": [
         {
-            "text": "Time",
+            "text": "Specific Impulse",
             "lang": "en"
-        },
-        {
-            "text": "Zeit",
-            "lang": "de"
         }
     ],
     "description": [
         {
-            "text": "Time is a basic component of the measuring system used to sequence events, to compare the durations of events and the intervals between them, and to quantify the motions of objects.",
+            "text": "The impulse produced by a rocket divided by the mass $mp$ of propellant consumed. Specific impulse ${I_{sp}}$ is a widely used measure of performance for chemical, nuclear, and electric rockets. It is usually given in seconds for both U.S. Customary and International System (SI) units.  The impulse produced by a rocket is the thrust force $F$ times its duration $t$ in seconds. $I_{sp}$ is the thrust per unit mass flowrate, but with $g_o$, is the thrust per weight flowrate. The specific impulse is given by the equation: $I_{sp} = \\frac{F}{\\dot{m}g_o}$.",
             "lang": "en"
         }
     ],
@@ -46,12 +40,6 @@
         "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWbc38445f00d056069fef04f8e25c66f6",
         "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWc6f2918cbdef5bde8d00cf86938c7f8e",
         "Item:OSW85302b21cf045998b80f38c9fdb88f84#OSWd1e24421c83d5defb5c22e9a5fe490fb",
-        "Item:OSW8751fff4e67d5a9b944e323159eb0dad",
-        "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW14b5b614d6eb5e949713232e9d79b744",
-        "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW6df9229649a65017822675d67c415c23",
-        "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSW91f2217a1e5e58bb84644588308ec27b",
-        "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSWdd1328a6f280577c866b63c5e9eb7d53",
-        "Item:OSW8751fff4e67d5a9b944e323159eb0dad#OSWf02ec24730135b3c84a28a362576cd24",
         "Item:OSW88417d9793cb5da3af2d4211fc2e7e80",
         "Item:OSW905936e5b7ad52368fcb1bcc1e3bde8c",
         "Item:OSWa58b950af5d658e7b8bc2e1736817e43",

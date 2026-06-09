@@ -1,0 +1,22 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerPerAreaAngle"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/PowerPerAreaAngle"
+    ],
+    "uuid": "8ee31dfb-85b9-55cd-a7c7-b2451aaa0ae4",
+    "name": "PowerPerAreaAngle",
+    "label": [
+        {
+            "text": "Power per Area Angle",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW8afae973361b5e9ba300c36ac631da76"
+    ]
+}

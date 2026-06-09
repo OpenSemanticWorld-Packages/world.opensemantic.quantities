@@ -2979,6 +2979,23 @@
                     }
                 },
                 {
+                    "name": "OSW21e14bb49b7d5ae8bca06eae2e8c50c3",
+                    "label": "SpecificImpulse",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW21e14bb49b7d5ae8bca06eae2e8c50c3.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW21e14bb49b7d5ae8bca06eae2e8c50c3.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW21e14bb49b7d5ae8bca06eae2e8c50c3.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW21e14bb49b7d5ae8bca06eae2e8c50c3.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW21febbc735d25a9badefe5f3191757d9",
                     "label": "HertzPerKelvin",
                     "namespace": "NS_ITEM",
@@ -11190,6 +11207,23 @@
                     }
                 },
                 {
+                    "name": "OSW8ee31dfb85b955cda7c7b2451aaa0ae4",
+                    "label": "PowerPerAreaAngle",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW8ee31dfb85b955cda7c7b2451aaa0ae4.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW8ee31dfb85b955cda7c7b2451aaa0ae4.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW8ee31dfb85b955cda7c7b2451aaa0ae4.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW8ee31dfb85b955cda7c7b2451aaa0ae4.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW8ef38d2470bf5cca85115be834a65b81",
                     "label": "CoulombPerGramSecond",
                     "namespace": "NS_ITEM",
@@ -17391,6 +17425,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWddd2e8bc10f755b38f1e4334f3d81642.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWde5482961a685c1d9d9d375f9a135179",
+                    "label": "InverseTime",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWde5482961a685c1d9d9d375f9a135179.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWde5482961a685c1d9d9d375f9a135179.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWde5482961a685c1d9d9d375f9a135179.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWde5482961a685c1d9d9d375f9a135179.slot_jsondata.json"
                         }
                     }
                 },

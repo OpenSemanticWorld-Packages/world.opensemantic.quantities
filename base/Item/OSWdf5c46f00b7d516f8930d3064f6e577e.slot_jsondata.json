@@ -17,9 +17,9 @@
         }
     ],
     "meta": {
-        "uuid": "72611112-faf4-4788-b9a4-81c8de58285d",
+        "uuid": "c56930a1-6824-4506-924a-8f63bc1518d7",
         "change_id": [
-            "f72cd60f-97d1-4215-a50c-0f2c1a8fdf77"
+            "aa10b44a-c041-4e6c-98a3-ed41fb6f7542"
         ]
     },
     "global_id": "world.opensemantic.quantities",
@@ -199,6 +199,7 @@
         "Item:OSW216f440f98d55af992c3922232717874",
         "Item:OSW21cf512b048358628e8ce57f4cecb9cc",
         "Item:OSW21e01a5082e35d5cbcf741df0a054cee",
+        "Item:OSW21e14bb49b7d5ae8bca06eae2e8c50c3",
         "Item:OSW21febbc735d25a9badefe5f3191757d9",
         "Item:OSW220eff637bd45734a08a6a88385d6ae2",
         "Item:OSW2232b054df0354eda3181f7d7e65e3ca",
@@ -682,6 +683,7 @@
         "Item:OSW8dc4de2004255bc38980207113b22989",
         "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122",
         "Item:OSW8ec0c1623be15729a7bb8a2f42d203b7",
+        "Item:OSW8ee31dfb85b955cda7c7b2451aaa0ae4",
         "Item:OSW8ef38d2470bf5cca85115be834a65b81",
         "Item:OSW8ef77a27e94b5ccba0f3d69d8491e137",
         "Item:OSW8f2f1c8a1bd5509abb23d740b54c6397",
@@ -1047,6 +1049,7 @@
         "Item:OSWddab3ad9ea7357ebbf27de6e6e20405d",
         "Item:OSWddb99e1fbfeb55cf82ce663a9bf91d8b",
         "Item:OSWddd2e8bc10f755b38f1e4334f3d81642",
+        "Item:OSWde5482961a685c1d9d9d375f9a135179",
         "Item:OSWdeb1214b8f475f71b338cd500825426f",
         "Item:OSWdedbe50d76c75dc2a87b1000faa99b10",
         "Item:OSWdf5c46f00b7d516f8930d3064f6e577e",
