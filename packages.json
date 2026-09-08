@@ -13,7 +13,7 @@
             "globalID": "world.opensemantic.quantities",
             "label": "OSW Quantities",
             "description": "Contains fundamental (physical) quantities, units and prefixes",
-            "version": "0.4.0",
+            "version": "0.6.0",
             "requiredPackages": [
                 "world.opensemantic.core"
             ],
@@ -2771,6 +2771,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSW1efd1bc60d165d23a47da67b5afd8d53.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW1efecafe44b95da780efdf41e5a534ef",
+                    "label": "BarLitrePerSecond",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW1efecafe44b95da780efdf41e5a534ef.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW1efecafe44b95da780efdf41e5a534ef.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW1efecafe44b95da780efdf41e5a534ef.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW1efecafe44b95da780efdf41e5a534ef.slot_jsondata.json"
                         }
                     }
                 },
@@ -11190,6 +11207,23 @@
                     }
                 },
                 {
+                    "name": "OSW8ea9b462eb0d5f5a94dbb7d4147db62b",
+                    "label": "WattPerMetreKelvinPascal",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW8ea9b462eb0d5f5a94dbb7d4147db62b.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW8ea9b462eb0d5f5a94dbb7d4147db62b.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW8ea9b462eb0d5f5a94dbb7d4147db62b.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW8ea9b462eb0d5f5a94dbb7d4147db62b.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW8ec0c1623be15729a7bb8a2f42d203b7",
                     "label": "LossFactor",
                     "namespace": "NS_ITEM",
@@ -14437,6 +14471,23 @@
                     }
                 },
                 {
+                    "name": "OSWb7b787bd3a0d5ae799b406b295dfab11",
+                    "label": "PascalSquareMetrePerSecond",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWb7b787bd3a0d5ae799b406b295dfab11.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWb7b787bd3a0d5ae799b406b295dfab11.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWb7b787bd3a0d5ae799b406b295dfab11.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWb7b787bd3a0d5ae799b406b295dfab11.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSWb85ce16515e45cd0883f2e4cdb50c4f2",
                     "label": "TonnePerHectareYear",
                     "namespace": "NS_ITEM",
@@ -15776,6 +15827,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWc9f1d0da58415bfc8150d928b9fce26e.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWc9f8dd261ad550509c31e34640d4d4d5",
+                    "label": "Thomson",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWc9f8dd261ad550509c31e34640d4d4d5.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWc9f8dd261ad550509c31e34640d4d4d5.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWc9f8dd261ad550509c31e34640d4d4d5.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWc9f8dd261ad550509c31e34640d4d4d5.slot_jsondata.json"
                         }
                     }
                 },
@@ -18343,6 +18411,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWe9c4745c4d3a5c17a288b08a7f870ffc.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWe9f7d88c779452d2a2f7313535f7858a",
+                    "label": "SquareMetrePerSecondPascal",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWe9f7d88c779452d2a2f7313535f7858a.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWe9f7d88c779452d2a2f7313535f7858a.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWe9f7d88c779452d2a2f7313535f7858a.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWe9f7d88c779452d2a2f7313535f7858a.slot_jsondata.json"
                         }
                     }
                 },

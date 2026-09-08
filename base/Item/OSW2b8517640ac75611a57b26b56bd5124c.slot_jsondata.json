@@ -64,6 +64,35 @@
                     "exponent": -1
                 }
             ]
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "69d3550a-7a49-5fdf-86e0-1e3c0496ee4b",
+            "osw_id": "Item:OSW2b8517640ac75611a57b26b56bd5124c#OSW69d3550a7a495fdf86e01e3c0496ee4b",
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "mW/(m·K)",
+            "ucum_codes": [
+                "mW.m-1.K-1"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "cc9d552e-4d27-599b-a81b-06bcd919a18e",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "3bbfb7d1-28be-5487-81ed-942138051a85",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": -1
+                },
+                {
+                    "uuid": "8a6a9348-4547-58aa-a562-cf5aee820f2a",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
+                    "exponent": -1
+                }
+            ]
         }
     ]
 }

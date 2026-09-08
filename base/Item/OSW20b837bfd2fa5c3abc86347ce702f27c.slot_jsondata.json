@@ -71,6 +71,30 @@
             "type": [
                 "Category:OSW6ef70c808fb54abbbacb059c285713d4"
             ],
+            "uuid": "4259dafa-5bd4-563c-994d-7f9cd363227b",
+            "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW4259dafa5bd4563c994d7f9cd363227b",
+            "conversion_factor_from_si": 0.001,
+            "main_symbol": "L/(m·s)",
+            "ucum_codes": [
+                "L.m-1.s-1"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "e53f995c-8af8-50bf-828f-32450c1f36f0",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 2
+                },
+                {
+                    "uuid": "9ff94468-116f-58c9-be04-4179f2e8cf0b",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
+            ]
+        },
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
             "uuid": "5db8f161-eb8c-5912-9cef-62d84dd3309c",
             "osw_id": "Item:OSW20b837bfd2fa5c3abc86347ce702f27c#OSW5db8f161eb8c59129cef62d84dd3309c",
             "conversion_factor_from_si": 1e-06,

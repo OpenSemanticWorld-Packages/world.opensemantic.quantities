@@ -1,0 +1,66 @@
+{
+    "type": [
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
+    ],
+    "uuid": "b7b787bd-3a0d-5ae7-99b4-06b295dfab11",
+    "name": "PascalSquareMetrePerSecond",
+    "label": [
+        {
+            "text": "Pascal Square Metre per Second",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Pa·m²/s",
+    "conversion_factor_from_si": 1.0,
+    "ucum_codes": [
+        "Pa.m2.s-1"
+    ],
+    "factor_units": [
+        {
+            "uuid": "11ef6c7e-0fcd-5acb-806f-cabfe0ed8c68",
+            "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
+            "exponent": 1
+        },
+        {
+            "uuid": "aed96542-497d-59a8-9af8-de05321daa98",
+            "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+            "exponent": 2
+        },
+        {
+            "uuid": "aeba98a8-3e5e-5091-b2cf-4c7fc1d26f44",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "a6d0f427-e67c-52e7-ac88-f946d459c187",
+            "osw_id": "Item:OSWb7b787bd3a0d5ae799b406b295dfab11#OSWa6d0f427e67c52e7ac88f946d459c187",
+            "conversion_factor_from_si": 0.1,
+            "main_symbol": "mbar·L/(s·m)",
+            "ucum_codes": [
+                "mbar.L.s-1.m-1"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "7eb15548-bf6d-5bb2-a8cf-6e877a52fcdf",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "fe3ce386-a3a7-587c-9aec-eba0cbaeb146",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 2
+                },
+                {
+                    "uuid": "9f08e8c6-c11a-50be-bd47-61852171ab75",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

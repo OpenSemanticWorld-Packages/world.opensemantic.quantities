@@ -35,5 +35,36 @@
             "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
             "exponent": 1
         }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "b830573e-0b27-5dfe-b0ba-e0b439ebd6e0",
+            "osw_id": "Item:OSWa79b08201daa51a6aea179fcbd04b811#OSWb830573e0b275dfeb0bae0b439ebd6e0",
+            "conversion_factor_from_si": 0.1,
+            "main_symbol": "mbar·L/(s·m²)",
+            "ucum_codes": [
+                "mbar.L.s-1.m-2"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "787b12c3-a38c-5f4d-a5f1-985a34822705",
+                    "unit": "Item:OSWb663e6bff3595e7b93b28fffce66c50c",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "91345a09-68b0-59e0-acf9-5459617718ba",
+                    "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+                    "exponent": -1
+                },
+                {
+                    "uuid": "2b48c655-2b97-5b65-af38-d6a6b604b750",
+                    "unit": "Item:OSWf101d25e944856e3bd4b4c9863db7de2",
+                    "exponent": 1
+                }
+            ]
+        }
     ]
 }

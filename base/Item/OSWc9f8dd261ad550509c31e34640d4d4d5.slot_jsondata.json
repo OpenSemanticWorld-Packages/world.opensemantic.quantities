@@ -1,0 +1,30 @@
+{
+    "type": [
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
+    ],
+    "uuid": "c9f8dd26-1ad5-5050-9c31-e34640d4d4d5",
+    "name": "Thomson",
+    "label": [
+        {
+            "text": "Thomson",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "Th",
+    "conversion_factor_from_si": 1.036426882090509e-08,
+    "ucum_codes": [
+        "Da/e"
+    ],
+    "factor_units": [
+        {
+            "uuid": "713e0956-5b3f-56b7-b7ba-8bb63efce14a",
+            "unit": "Item:OSW3120657825b851f7856bfec8259dac99",
+            "exponent": 1
+        },
+        {
+            "uuid": "1f7d448f-fc21-536d-9a25-780c45fe89b5",
+            "unit": "Item:OSW0a1d318a6f7d551baea7e80a6a56959a",
+            "exponent": -1
+        }
+    ]
+}

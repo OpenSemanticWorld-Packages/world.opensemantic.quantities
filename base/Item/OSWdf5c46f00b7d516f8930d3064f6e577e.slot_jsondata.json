@@ -17,13 +17,13 @@
         }
     ],
     "meta": {
-        "uuid": "c56930a1-6824-4506-924a-8f63bc1518d7",
+        "uuid": "8df6de7d-29a2-4907-933f-8739117d169f",
         "change_id": [
-            "aa10b44a-c041-4e6c-98a3-ed41fb6f7542"
+            "e87341c0-1f69-470d-88c8-2dcb3bcd2bb9"
         ]
     },
     "global_id": "world.opensemantic.quantities",
-    "version": "0.4.0",
+    "version": "0.6.0",
     "url": [
         "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.quantities"
     ],
@@ -187,6 +187,7 @@
         "Item:OSW1ed748521a3a536e866db456ea880101",
         "Item:OSW1ede00ce7e385d1e9b1c73dad60690cc",
         "Item:OSW1efd1bc60d165d23a47da67b5afd8d53",
+        "Item:OSW1efecafe44b95da780efdf41e5a534ef",
         "Item:OSW1f0b0a68f68a540db14c5b7fdd68d083",
         "Item:OSW1f38c1c62b2850deb24c1c3afccfc239",
         "Item:OSW1fccb5b47b665a37995f550ebf08a74e",
@@ -682,6 +683,7 @@
         "Item:OSW8db8e99fc1ce5914bdb7f42fa21afe1f",
         "Item:OSW8dc4de2004255bc38980207113b22989",
         "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122",
+        "Item:OSW8ea9b462eb0d5f5a94dbb7d4147db62b",
         "Item:OSW8ec0c1623be15729a7bb8a2f42d203b7",
         "Item:OSW8ee31dfb85b955cda7c7b2451aaa0ae4",
         "Item:OSW8ef38d2470bf5cca85115be834a65b81",
@@ -873,6 +875,7 @@
         "Item:OSWb74ce812542f578fb6df2ecf9080fb32",
         "Item:OSWb75542bd3aa153d295c5a791cf31a2ed",
         "Item:OSWb76e67715391578bbb9b2b3dc63b1bd7",
+        "Item:OSWb7b787bd3a0d5ae799b406b295dfab11",
         "Item:OSWb85ce16515e45cd0883f2e4cdb50c4f2",
         "Item:OSWb87aaf787d285ba88225897edbebc154",
         "Item:OSWb89f4a6eb66e5834b0a73b7f7776cfb9",
@@ -952,6 +955,7 @@
         "Item:OSWc967eab5455155d7ae15eb02a2cc9cdf",
         "Item:OSWc9ebf4eb2f8f5c48b96dc774acf03139",
         "Item:OSWc9f1d0da58415bfc8150d928b9fce26e",
+        "Item:OSWc9f8dd261ad550509c31e34640d4d4d5",
         "Item:OSWca0af92d73865e2ca22aa5299c69d73f",
         "Item:OSWca14d08a41b65ac59d79d96be1351305",
         "Item:OSWca47b84354ef5eb1947de297c89694a4",
@@ -1104,6 +1108,7 @@
         "Item:OSWe96cbd9b4c9c5e2ab7b4a76d5ad71449",
         "Item:OSWe9af175183dd5d7cb8ac53a3c723d3d1",
         "Item:OSWe9c4745c4d3a5c17a288b08a7f870ffc",
+        "Item:OSWe9f7d88c779452d2a2f7313535f7858a",
         "Item:OSWea2ca779a63054d29821886528fef796",
         "Item:OSWea9499724b3152d5a6090f9ef5ce7f4a",
         "Item:OSWeaf4fef0eec25f09b6d851cd90f571a3",
