@@ -22,7 +22,7 @@
     ],
     "description": [
         {
-            "text": "vektorielle Feldgröße B, die auf jedes geladene Teilchen, das eine Geschwindigkeit v hat, eine Kraft F ausübt, die gleich dem Produkt aus dem Vektorprodukt v x B und der elektrischen Ladung Q des Teilchens ist oder vektorielle Größe gleich dem Produkt aus der Magnetisierung M und der magnetischen Feldkonstante µ₀",
+            "text": "\"Magnetic Flux Density\" is a vector quantity and is the magnetic flux per unit area of a magnetic field at right angles to the magnetic force. It can be defined in terms of the effects the field has, for example by $B = F/q v \\sin \\theta$, where $F$ is the force a moving charge $q$ would experience if it was travelling at a velocity $v$ in a direction making an angle θ with that of the field. The magnetic field strength is also a vector quantity and is related to $B$ by: $H = B/\\mu$, where $\\mu$ is the permeability of the medium.",
             "lang": "en"
         }
     ],
