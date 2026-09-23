@@ -1,0 +1,76 @@
+{
+    "type": [
+        "Category:OSW6c2aea028a8647cd97f5d7c65c09cd44"
+    ],
+    "uuid": "4f99615d-3a95-48ee-86eb-c03c4bdf48fe",
+    "name": "WattPerKelvinPerSecond",
+    "label": [
+        {
+            "text": "Watt per Kelvin per Second",
+            "lang": "en"
+        },
+        {
+            "text": "Watt pro Kelvin pro Sekunde",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "SI-coherent unit for the rate of change of a thermal conductance over time ($W \\cdot K^{-1} \\cdot s^{-1}$).",
+            "lang": "en"
+        }
+    ],
+    "main_symbol": "W/(K·s)",
+    "conversion_factor_from_si": 1,
+    "ucum_codes": [
+        "W.K-1.s-1"
+    ],
+    "factor_units": [
+        {
+            "uuid": "032a54be-5452-4da8-a610-6f0b9ccbd856",
+            "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
+            "exponent": 1
+        },
+        {
+            "uuid": "6b2eb3c2-36be-4b56-9bc8-9189a938023f",
+            "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
+            "exponent": -1
+        },
+        {
+            "uuid": "1eaeabb3-b84c-483a-bd73-a4d292ff9c39",
+            "unit": "Item:OSW85302b21cf045998b80f38c9fdb88f84",
+            "exponent": -1
+        }
+    ],
+    "composed_units": [
+        {
+            "type": [
+                "Category:OSW6ef70c808fb54abbbacb059c285713d4"
+            ],
+            "uuid": "44c4358c-5766-4a72-8e2d-7ecb60736a09",
+            "osw_id": "Item:OSW4f99615d3a9548ee86ebc03c4bdf48fe#OSW44c4358c57664a728e2d7ecb60736a09",
+            "conversion_factor_from_si": 0.0002777777777777778,
+            "main_symbol": "W/(K·h)",
+            "ucum_codes": [
+                "W.K-1.h-1"
+            ],
+            "factor_units": [
+                {
+                    "uuid": "0766d5fc-7025-4762-bcc5-79fb00faabad",
+                    "unit": "Item:OSW58b03da1b2d35d8ca09043abb7fc8870",
+                    "exponent": 1
+                },
+                {
+                    "uuid": "f666ed9b-b85d-4883-911e-92d9cfa4a4c8",
+                    "unit": "Item:OSWa58b950af5d658e7b8bc2e1736817e43",
+                    "exponent": -1
+                },
+                {
+                    "uuid": "68951feb-90be-44f9-b870-2005be0bba29",
+                    "unit": "Item:OSWe728730c00ea5cf9af66a550e51b9717",
+                    "exponent": -1
+                }
+            ]
+        }
+    ]
+}

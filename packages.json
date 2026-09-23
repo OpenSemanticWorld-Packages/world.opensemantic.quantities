@@ -13,7 +13,7 @@
             "globalID": "world.opensemantic.quantities",
             "label": "OSW Quantities",
             "description": "Contains fundamental (physical) quantities, units and prefixes",
-            "version": "0.7.0",
+            "version": "0.8.0",
             "requiredPackages": [
                 "world.opensemantic.core"
             ],
@@ -153,6 +153,40 @@
                         },
                         "jsondata": {
                             "urlPath": "Property/HasSymbol.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW4f99615d3a9548ee86ebc03c4bdf48fe",
+                    "label": "WattPerKelvinPerSecond",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW4f99615d3a9548ee86ebc03c4bdf48fe.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSW4f99615d3a9548ee86ebc03c4bdf48fe.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSW4f99615d3a9548ee86ebc03c4bdf48fe.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW4f99615d3a9548ee86ebc03c4bdf48fe.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW74ed2b89cb5148b2ac191f54458d4842",
+                    "label": "ThermalConductivitySlope",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW74ed2b89cb5148b2ac191f54458d4842.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSW74ed2b89cb5148b2ac191f54458d4842.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSW74ed2b89cb5148b2ac191f54458d4842.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW74ed2b89cb5148b2ac191f54458d4842.slot_jsondata.json"
                         }
                     }
                 },

@@ -1,0 +1,26 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "74ed2b89-cb51-48b2-ac19-1f54458d4842",
+    "name": "ThermalConductivitySlope",
+    "label": [
+        {
+            "text": "Thermal conductivity slope",
+            "lang": "en"
+        },
+        {
+            "text": "Steigung der Wärmeleitfähigkeit",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "Rate of change of a thermal conductance over time (slope of the thermal conductivity).",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW4f99615d3a9548ee86ebc03c4bdf48fe"
+    ]
+}

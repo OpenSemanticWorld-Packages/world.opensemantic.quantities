@@ -17,13 +17,13 @@
         }
     ],
     "meta": {
-        "uuid": "3bda90ae-733d-4d8f-80fa-c8be15e8f596",
+        "uuid": "0fae9b29-d903-43db-81bd-ac3c7abb470b",
         "change_id": [
-            "5625c435-5e48-4000-a3e2-041eea3b2b30"
+            "132942a6-0d51-4ef0-a125-f809527843f4"
         ]
     },
     "global_id": "world.opensemantic.quantities",
-    "version": "0.7.0",
+    "version": "0.8.0",
     "url": [
         "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.quantities"
     ],
@@ -406,6 +406,7 @@
         "Item:OSW4f047e2da1fc5ea497c9e22eb8e98ce5",
         "Item:OSW4f5013ecf23c5c95aabf1ae4b3d1124b",
         "Item:OSW4f89dc03afdb56b2809d65bb24c3787d",
+        "Item:OSW4f99615d3a9548ee86ebc03c4bdf48fe",
         "Item:OSW4feacced9ef252339a627fc8a2f01aee",
         "Item:OSW5006c43ac65f5114a5ec3c43c4904caa",
         "Item:OSW501738b1f645568c9c4fb6da844439c7",
@@ -563,6 +564,7 @@
         "Item:OSW746caaa329d75ce2ad00a09d0a347796",
         "Item:OSW7496c09c41b154bdba82f6d09195cae5",
         "Item:OSW74b4aedebe05596d827042f14930136b",
+        "Item:OSW74ed2b89cb5148b2ac191f54458d4842",
         "Item:OSW75402fa307d358d3b4ac536489decd4b",
         "Item:OSW7549b83a203e59e3bcc8c6e7854bd87d",
         "Item:OSW754b1a3564725113ac583f91ae2ea959",
