@@ -13,7 +13,7 @@
             "globalID": "world.opensemantic.quantities",
             "label": "OSW Quantities",
             "description": "Contains fundamental (physical) quantities, units and prefixes",
-            "version": "0.6.0",
+            "version": "0.6.1",
             "requiredPackages": [
                 "world.opensemantic.core"
             ],

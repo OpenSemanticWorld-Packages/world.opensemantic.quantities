@@ -170,6 +170,11 @@
                         "$ref": "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
                     }
                 ],
+                "title": "PrefixUnit",
+                "title*": {
+                    "en": "Prefix Unit",
+                    "de": "Präfix-Einheit"
+                },
                 "type": "object",
                 "_format": "grid-strict",
                 "id": "prefix_unit",
@@ -332,6 +337,11 @@
                         "$ref": "/wiki/Category:OSW6ef70c808fb54abbbacb059c285713d4?action=raw&slot=jsonschema"
                     }
                 ],
+                "title": "QuantityUnitComposedUnit",
+                "title*": {
+                    "en": "Composed Unit",
+                    "de": "Zusammengesetzte Einheit"
+                },
                 "type": "object",
                 "_format": "grid-strict",
                 "id": "composed_unit",

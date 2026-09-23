@@ -23,7 +23,7 @@
         ]
     },
     "global_id": "world.opensemantic.quantities",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "url": [
         "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.quantities"
     ],
