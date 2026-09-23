@@ -13,7 +13,7 @@
             "globalID": "world.opensemantic.quantities",
             "label": "OSW Quantities",
             "description": "Contains fundamental (physical) quantities, units and prefixes",
-            "version": "0.6.1",
+            "version": "0.7.0",
             "requiredPackages": [
                 "world.opensemantic.core"
             ],
@@ -5937,6 +5937,23 @@
                     }
                 },
                 {
+                    "name": "OSW4aa1afd1345f5dcebd5cb605258cbfe5",
+                    "label": "GasPressureDependenceOfThermalConductivity",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW4aa1afd1345f5dcebd5cb605258cbfe5.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW4aa1afd1345f5dcebd5cb605258cbfe5.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW4aa1afd1345f5dcebd5cb605258cbfe5.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW4aa1afd1345f5dcebd5cb605258cbfe5.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW4afb74be52255c0ab1b49ca32dc29252",
                     "label": "Conductance",
                     "namespace": "NS_ITEM",
@@ -9201,6 +9218,23 @@
                     }
                 },
                 {
+                    "name": "OSW755d3210e7635218ba6d8c1edf855ab3",
+                    "label": "GasLeakRate",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW755d3210e7635218ba6d8c1edf855ab3.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW755d3210e7635218ba6d8c1edf855ab3.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW755d3210e7635218ba6d8c1edf855ab3.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW755d3210e7635218ba6d8c1edf855ab3.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW756f3b2262dc5e51bf1b99be63d0d22f",
                     "label": "Abvolt",
                     "namespace": "NS_ITEM",
@@ -12414,6 +12448,23 @@
                     }
                 },
                 {
+                    "name": "OSW9e12fb80b34a5117a6c62596d01ed587",
+                    "label": "FlowCoefficient",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW9e12fb80b34a5117a6c62596d01ed587.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSW9e12fb80b34a5117a6c62596d01ed587.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSW9e12fb80b34a5117a6c62596d01ed587.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW9e12fb80b34a5117a6c62596d01ed587.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
                     "name": "OSW9e2974a529375b7ca4133b4f2806739c",
                     "label": "ReciprocalMetrePerNanometre",
                     "namespace": "NS_ITEM",
@@ -13413,6 +13464,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWaa47fc9c367257a5b18103ca8557845f.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWaa746d1de3735a9d9ce3772e1248f6f1",
+                    "label": "GasPressureDependentFlowCoefficient",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWaa746d1de3735a9d9ce3772e1248f6f1.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWaa746d1de3735a9d9ce3772e1248f6f1.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWaa746d1de3735a9d9ce3772e1248f6f1.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWaa746d1de3735a9d9ce3772e1248f6f1.slot_jsondata.json"
                         }
                     }
                 },
@@ -14977,6 +15045,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWbefab75c6042567c84545b5fab456055.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWbf48bb0bd44c5d719e4d5b763d2a6058",
+                    "label": "AreaSpecificLeakRate",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWbf48bb0bd44c5d719e4d5b763d2a6058.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWbf48bb0bd44c5d719e4d5b763d2a6058.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWbf48bb0bd44c5d719e4d5b763d2a6058.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWbf48bb0bd44c5d719e4d5b763d2a6058.slot_jsondata.json"
                         }
                     }
                 },
@@ -17884,6 +17969,23 @@
                         },
                         "jsondata": {
                             "urlPath": "Item/OSWe36bbb89b83057b2acab5e940cc681a4.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWe37eb522c52052f4a1aa108745750a65",
+                    "label": "LengthSpecificLeakRate",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWe37eb522c52052f4a1aa108745750a65.slot_main.wikitext",
+                    "slots": {
+                        "header": {
+                            "urlPath": "Item/OSWe37eb522c52052f4a1aa108745750a65.slot_header.wikitext"
+                        },
+                        "footer": {
+                            "urlPath": "Item/OSWe37eb522c52052f4a1aa108745750a65.slot_footer.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWe37eb522c52052f4a1aa108745750a65.slot_jsondata.json"
                         }
                     }
                 },

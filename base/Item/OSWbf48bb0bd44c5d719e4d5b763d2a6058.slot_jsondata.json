@@ -1,0 +1,23 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "uuid": "bf48bb0b-d44c-5d71-9e4d-5b763d2a6058",
+    "name": "AreaSpecificLeakRate",
+    "label": [
+        {
+            "text": "Area Specific Leak Rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "Gas leak rate referred to the leaking surface area.",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSWa79b08201daa51a6aea179fcbd04b811",
+        "Item:OSWa79b08201daa51a6aea179fcbd04b811#OSWb830573e0b275dfeb0bae0b439ebd6e0"
+    ]
+}

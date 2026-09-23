@@ -1,0 +1,32 @@
+{
+    "type": [
+        "Category:OSW00fbd6feecb5408997ca18d4e681a131"
+    ],
+    "exact_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GasLeakRate"
+    ],
+    "close_ontology_match": [
+        "http://qudt.org/vocab/quantitykind/GasLeakRate"
+    ],
+    "uuid": "755d3210-e763-5218-ba6d-8c1edf855ab3",
+    "name": "GasLeakRate",
+    "label": [
+        {
+            "text": "Gas leak rate",
+            "lang": "en"
+        }
+    ],
+    "description": [
+        {
+            "text": "ratio of the pV value of a gas (product of pressure and volume of a given quantity of gas at the respective temperature) flowing through a pipe cross-section during a time interval and the related interval",
+            "lang": "en"
+        }
+    ],
+    "units": [
+        "Item:OSW1efecafe44b95da780efdf41e5a534ef",
+        "Item:OSW1efecafe44b95da780efdf41e5a534ef#OSWf5a99a04709f5d2e9185b178ab3dddb0",
+        "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122",
+        "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122#OSW51ef27a468d759f0961297af55bf0f05",
+        "Item:OSW8e0cd0440b365870ba04bc7d2bcb6122#OSWd9dd4ab1f7db5beb978e2ed4cae595da"
+    ]
+}
